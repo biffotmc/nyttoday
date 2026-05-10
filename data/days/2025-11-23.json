@@ -1,0 +1,188 @@
+{
+  "date": "2025-11-23",
+  "fetchedAt": "2026-05-10T20:19:38.239Z",
+  "connections": {
+    "puzzleId": 946,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LENIENT",
+        "words": [
+          "EASY",
+          "LAX",
+          "LOOSE",
+          "SLACK"
+        ]
+      },
+      {
+        "title": "ANIMAL HOMES",
+        "words": [
+          "BURROW",
+          "DEN",
+          "LODGE",
+          "WARREN"
+        ]
+      },
+      {
+        "title": "OLIVER STONE MOVIES",
+        "words": [
+          "JFK",
+          "NIXON",
+          "PLATOON",
+          "WALL STREET"
+        ]
+      },
+      {
+        "title": "SECOND WORDS IN TITLES OF ABBA HITS",
+        "words": [
+          "GIMME",
+          "MIA",
+          "QUEEN",
+          "TROUPER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When life gives you a challenge, sometimes a gentle touch is all that's needed.",
+      "Every creature needs a cozy spot to call home; some prefer the underground.",
+      "A master storyteller weaves tales of power and conflict, capturing the essence of eras.",
+      "In the world of catchy tunes, the second part can often steal the spotlight."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1187,
+    "editor": "Tracy Bennett",
+    "solution": "bunny",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a fluffy companion often found hopping around."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This creature is known for its long ears and love for carrots."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a small mammal that can be a pet or a wild inhabitant of fields."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 797,
+    "editor": "Tracy Bennett",
+    "clue": "Sweet tooth",
+    "spangram": "CANDYAISLE",
+    "themeWords": [
+      "DOTS",
+      "NERDS",
+      "RUNTS",
+      "STARBURST",
+      "WHATCHAMACALLIT"
+    ],
+    "startingBoard": [
+      "RDSEWH",
+      "ENALTA",
+      "STRSCH",
+      "UBYIAM",
+      "RSDACA",
+      "RTNTOA",
+      "USASDL",
+      "NTCTIL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2546,
+    "sides": [
+      "SLJ",
+      "TEO",
+      "KAN",
+      "FRI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FAJITAS",
+      "SNORKEL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19247,
+    "centerLetter": "l",
+    "outerLetters": "bemnot",
+    "pangrams": [
+      "ennoblement"
+    ],
+    "answers": [
+      "beetle",
+      "bell",
+      "belle",
+      "bellmen",
+      "belt",
+      "betel",
+      "blob",
+      "bloom",
+      "blot",
+      "blotto",
+      "bobble",
+      "boll",
+      "bolo",
+      "bolt",
+      "boomlet",
+      "bottle",
+      "element",
+      "emblem",
+      "ennoble",
+      "lemon",
+      "lent",
+      "lento",
+      "lobe",
+      "lobo",
+      "loll",
+      "lone",
+      "loom",
+      "loon",
+      "loot",
+      "lotto",
+      "melee",
+      "melon",
+      "melt",
+      "mettle",
+      "mole",
+      "moll",
+      "molt",
+      "molten",
+      "motel",
+      "mottle",
+      "nettle",
+      "noble",
+      "noblemen",
+      "noel",
+      "oleo",
+      "omelet",
+      "omelette",
+      "tell",
+      "toll",
+      "tool",
+      "tootle"
+    ],
+    "pangramHints": [
+      {
+        "word": "ennoblement",
+        "hint": "A transformation that elevates status; think of royal titles."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

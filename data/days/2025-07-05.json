@@ -1,0 +1,213 @@
+{
+  "date": "2025-07-05",
+  "fetchedAt": "2026-05-10T20:10:36.816Z",
+  "connections": {
+    "puzzleId": 796,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CON GAME",
+        "words": [
+          "HUSTLE",
+          "RACKET",
+          "SCHEME",
+          "STING"
+        ]
+      },
+      {
+        "title": "COMBINE, AS BAKING INGREDIENTS",
+        "words": [
+          "BEAT",
+          "BLEND",
+          "FOLD",
+          "STIR"
+        ]
+      },
+      {
+        "title": "YEARN",
+        "words": [
+          "BURN",
+          "ITCH",
+          "LONG",
+          "PINE"
+        ]
+      },
+      {
+        "title": "KINDS OF LISTS",
+        "words": [
+          "BUCKET",
+          "LAUNDRY",
+          "SHORT",
+          "TO-DO"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the game is afoot, watch your back and keep your wits about you; not everything is as it seems.",
+      "In the kitchen, the right mix can create magic; don’t forget to add a dash of creativity.",
+      "Desires can burn bright, but some feelings linger like a gentle ache.",
+      "Every list has its purpose; whether for chores or dreams, make sure to check it twice."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1851,
+    "editor": "Tracy Bennett",
+    "solution": "baler",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a device used for hay."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to agriculture and involves collecting."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a tool that helps in gathering, especially in farming."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 654,
+    "editor": "Tracy Bennett",
+    "clue": "Every second counts",
+    "spangram": "TIMEKEEPERS",
+    "themeWords": [
+      "CHRONOMETER",
+      "CLOCK",
+      "HOURGLASS",
+      "SUNDIAL",
+      "WATCH"
+    ],
+    "startingBoard": [
+      "AIURGS",
+      "LDSOLS",
+      "NUMEHA",
+      "TIATKE",
+      "ONWCHE",
+      "ROSREP",
+      "HMROLC",
+      "CETECK"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2405,
+    "sides": [
+      "YLE",
+      "AUD",
+      "OIR",
+      "MGW"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "WILD",
+      "DEMAGOGUERY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9965,
+    "centerLetter": "r",
+    "outerLetters": "agilny",
+    "pangrams": [
+      "angrily",
+      "glaringly",
+      "rallying"
+    ],
+    "answers": [
+      "agar",
+      "agrarian",
+      "airily",
+      "airing",
+      "airy",
+      "angry",
+      "aria",
+      "aril",
+      "arraign",
+      "arraigning",
+      "arranging",
+      "array",
+      "arraying",
+      "garaging",
+      "gargling",
+      "girl",
+      "girly",
+      "glaring",
+      "gnarl",
+      "gnarling",
+      "gnarly",
+      "grail",
+      "grain",
+      "graining",
+      "grainy",
+      "gran",
+      "granary",
+      "granny",
+      "gray",
+      "graying",
+      "grill",
+      "grilling",
+      "grin",
+      "grinning",
+      "grinningly",
+      "ingrain",
+      "ingraining",
+      "lair",
+      "liar",
+      "lira",
+      "nary",
+      "nigiri",
+      "raga",
+      "ragging",
+      "raging",
+      "raglan",
+      "rail",
+      "railing",
+      "rain",
+      "raining",
+      "rainy",
+      "rally",
+      "rang",
+      "ranging",
+      "rangy",
+      "rani",
+      "raring",
+      "raying",
+      "rial",
+      "rigging",
+      "riling",
+      "rill",
+      "ring",
+      "ringing",
+      "riyal",
+      "yarn"
+    ],
+    "pangramHints": [
+      {
+        "word": "angrily",
+        "hint": "A mood that might flare up when things don’t go your way."
+      },
+      {
+        "word": "glaringly",
+        "hint": "Something that stands out, often to the point of discomfort."
+      },
+      {
+        "word": "rallying",
+        "hint": "Gathering together, especially in support or motivation."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

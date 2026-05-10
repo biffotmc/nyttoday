@@ -1,0 +1,191 @@
+{
+  "date": "2025-08-29",
+  "fetchedAt": "2026-05-10T20:14:03.877Z",
+  "connections": {
+    "puzzleId": 848,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FAMOUS PERSON",
+        "words": [
+          "FIGURE",
+          "NAME",
+          "PERSONALITY",
+          "STAR"
+        ]
+      },
+      {
+        "title": "INCREASE",
+        "words": [
+          "BALLOON",
+          "MOUNT",
+          "MUSHROOM",
+          "WAX"
+        ]
+      },
+      {
+        "title": "PLACES THAT SELL GAS",
+        "words": [
+          "7-ELEVEN",
+          "CHEVRON",
+          "GULF",
+          "SHELL"
+        ]
+      },
+      {
+        "title": "___ SPLIT",
+        "words": [
+          "7-10",
+          "BANANA",
+          "LICKETY",
+          "STOCK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "This group shines bright in the limelight, each name a beacon of fame.",
+      "Think of things that rise and expand, sometimes with a pop!",
+      "Where you fuel up for your journeys, these spots are essential for the road.",
+      "A playful phrase often associated with a fruit and a sudden change."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2035,
+    "editor": "Tracy Bennett",
+    "solution": "graft",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's about joining things together."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a method used in gardening or surgery."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a type of scheme or plan."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 706,
+    "editor": "Tracy Bennett",
+    "clue": "A long time in the making",
+    "spangram": "ROCKFORMATION",
+    "themeWords": [
+      "ARCH",
+      "BUTTE",
+      "GORGE",
+      "MESA",
+      "NEEDLE",
+      "PILLAR",
+      "SPIRE"
+    ],
+    "startingBoard": [
+      "IREGEG",
+      "PSRCOR",
+      "NEAHPR",
+      "ELORIA",
+      "EDFMLL",
+      "RCKATN",
+      "OTTAIO",
+      "BUESEM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2460,
+    "sides": [
+      "UDT",
+      "ZOR",
+      "EJC",
+      "BIA"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "BUREAUCRATIZED",
+      "DOJO"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10517,
+    "centerLetter": "k",
+    "outerLetters": "cdenou",
+    "pangrams": [
+      "uncocked",
+      "uncooked",
+      "undocked"
+    ],
+    "answers": [
+      "cock",
+      "cocked",
+      "coke",
+      "conk",
+      "conked",
+      "cook",
+      "cooked",
+      "cuckoo",
+      "cuckooed",
+      "cuke",
+      "deck",
+      "decked",
+      "deke",
+      "deked",
+      "dock",
+      "docked",
+      "duck",
+      "ducked",
+      "duke",
+      "duked",
+      "dunk",
+      "dunked",
+      "eked",
+      "keen",
+      "keened",
+      "kendo",
+      "keno",
+      "knee",
+      "kneed",
+      "knock",
+      "knocked",
+      "kook",
+      "kudu",
+      "neck",
+      "necked",
+      "nock",
+      "nocked",
+      "nook",
+      "nuke",
+      "nuked",
+      "uncock",
+      "undock"
+    ],
+    "pangramHints": [
+      {
+        "word": "uncocked",
+        "hint": "A state of readiness, but not quite there yet."
+      },
+      {
+        "word": "uncooked",
+        "hint": "This word describes something that needs more time before it's ready to eat."
+      },
+      {
+        "word": "undocked",
+        "hint": "A term often used in the context of ships or spacecraft leaving their moorings."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "date": "2026-02-04",
+  "fetchedAt": "2026-05-10T20:24:18.177Z",
+  "connections": {
+    "puzzleId": 1031,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CONTENTION",
+        "words": [
+          "CONFLICT",
+          "DISCORD",
+          "FRICTION",
+          "RIVALRY"
+        ]
+      },
+      {
+        "title": "GAMES OF CHANCE",
+        "words": [
+          "BINGO",
+          "CRAPS",
+          "LOTTERY",
+          "WAR"
+        ]
+      },
+      {
+        "title": "MORE OR LESS, COLLOQUIALLY",
+        "words": [
+          "APPROX",
+          "BOUT",
+          "LIKE",
+          "ROUND"
+        ]
+      },
+      {
+        "title": "STARTING WITH NBA TEAMS",
+        "words": [
+          "BULLSEYE",
+          "HEATED",
+          "MAGICAL",
+          "NETSCAPE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When tempers flare and words clash, expect sparks to fly in this heated arena.",
+      "Luck's fickle dance can turn fortunes in a heartbeat; are you feeling lucky today?",
+      "In the realm of approximations, precision takes a backseat to casual conversation.",
+      "From the hardwood to the digital realm, these names echo with competitive spirit."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1739,
+    "editor": "Tracy Bennett",
+    "solution": "chide",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a gentle reprimand."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word often involves a sense of disappointment."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a word that suggests a mild scolding or admonishment."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 873,
+    "editor": "Tracy Bennett",
+    "clue": "For the enthusiast",
+    "spangram": "HOBBYSHOP",
+    "themeWords": [
+      "COLLECTIBLE",
+      "DICE",
+      "GAME",
+      "MINIATURE",
+      "MODEL",
+      "PUZZLE"
+    ],
+    "startingBoard": [
+      "AIHDEL",
+      "TUNOIB",
+      "RIBECI",
+      "ZEMBTM",
+      "ZUYCAE",
+      "ELPSEG",
+      "OMHLLO",
+      "DELOPC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2619,
+    "sides": [
+      "DAV",
+      "RYM",
+      "IWC",
+      "OUT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "OVIDUCT",
+      "TRAMWAY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16613,
+    "centerLetter": "v",
+    "outerLetters": "deilny",
+    "pangrams": [
+      "divinely"
+    ],
+    "answers": [
+      "delve",
+      "delved",
+      "devein",
+      "deveined",
+      "devil",
+      "deviled",
+      "dive",
+      "dived",
+      "divide",
+      "divided",
+      "dividend",
+      "divine",
+      "divined",
+      "divvied",
+      "divvy",
+      "eleven",
+      "endive",
+      "enliven",
+      "enlivened",
+      "envied",
+      "envy",
+      "even",
+      "evened",
+      "evenly",
+      "evil",
+      "evilly",
+      "ivied",
+      "levee",
+      "level",
+      "leveled",
+      "levelly",
+      "levied",
+      "levy",
+      "live",
+      "lived",
+      "lively",
+      "liven",
+      "livened",
+      "livid",
+      "lividly",
+      "veil",
+      "veiled",
+      "vein",
+      "veined",
+      "veiny",
+      "veld",
+      "vend",
+      "vended",
+      "vied",
+      "vile",
+      "vilely",
+      "vine",
+      "viny",
+      "vinyl",
+      "vivid",
+      "vividly"
+    ],
+    "pangramHints": [
+      {
+        "word": "divinely",
+        "hint": "A celestial touch, but don't mention the name."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

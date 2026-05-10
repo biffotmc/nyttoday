@@ -1,0 +1,165 @@
+{
+  "date": "2025-12-03",
+  "fetchedAt": "2026-05-10T20:20:15.433Z",
+  "connections": {
+    "puzzleId": 953,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KINDS OF JEWELRY",
+        "words": [
+          "BANGLE",
+          "CHAIN",
+          "CHARM",
+          "RING"
+        ]
+      },
+      {
+        "title": "SOCIAL GATHERING",
+        "words": [
+          "EVENT",
+          "FUNCTION",
+          "PARTY",
+          "RECEPTION"
+        ]
+      },
+      {
+        "title": "PETITION (FOR)",
+        "words": [
+          "APPEAL",
+          "CAMPAIGN",
+          "LOBBY",
+          "PRESS"
+        ]
+      },
+      {
+        "title": "\"___ MAN\" SONGS FROM THE '70S",
+        "words": [
+          "IRON",
+          "MACHO",
+          "PIANO",
+          "ROCKET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Adorn yourself with the essence of elegance; these pieces can shine in the light.",
+      "Gather your friends and let the good times roll; this occasion calls for celebration.",
+      "When you seek change, rally the voices; unite for a cause that matters.",
+      "Melodies from a bygone era; these tunes may just make you want to dance."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1597,
+    "editor": "Tracy Bennett",
+    "solution": "haste",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about quick movements."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to urgency."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with a sense of speed or promptness."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 807,
+    "editor": "Tracy Bennett",
+    "clue": "It all adds up",
+    "spangram": "MATHCLASS",
+    "themeWords": [
+      "CALCULATION",
+      "EQUATION",
+      "FUNCTION",
+      "GRAPH",
+      "THEOREM"
+    ],
+    "startingBoard": [
+      "UCANSS",
+      "LLCIOA",
+      "AHTUEL",
+      "TPAQCN",
+      "IAGHMO",
+      "ORTREI",
+      "NAOTTU",
+      "MEHCNF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2558,
+    "sides": [
+      "ORT",
+      "JKU",
+      "CAI",
+      "LNY"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JOCULARITY",
+      "YANK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27643,
+    "centerLetter": "h",
+    "outerLetters": "mptuac",
+    "pangrams": [
+      "matchup"
+    ],
+    "answers": [
+      "attach",
+      "captcha",
+      "catch",
+      "catchup",
+      "champ",
+      "chap",
+      "chat",
+      "chum",
+      "chump",
+      "chuppah",
+      "hatch",
+      "hath",
+      "hatha",
+      "hump",
+      "humph",
+      "hutch",
+      "mahatma",
+      "match",
+      "matcha",
+      "math",
+      "much",
+      "patch",
+      "path",
+      "phat",
+      "tach",
+      "that",
+      "thatch",
+      "thump"
+    ],
+    "pangramHints": [
+      {
+        "word": "matchup",
+        "hint": "A duel of sorts; think of two sides coming together."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

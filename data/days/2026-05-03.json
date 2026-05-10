@@ -1,0 +1,206 @@
+{
+  "date": "2026-05-03",
+  "fetchedAt": "2026-05-10T20:30:19.692Z",
+  "connections": {
+    "puzzleId": 1134,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "HOME STRUCTURES",
+        "words": [
+          "GARAGE",
+          "HOUSE",
+          "PORCH",
+          "SHED"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH 1960S COUNTERCULTURE",
+        "words": [
+          "ACID",
+          "COMMUNE",
+          "FREE LOVE",
+          "HIPPIE"
+        ]
+      },
+      {
+        "title": "FAMOUS REVOLUTIONS IN HISTORY",
+        "words": [
+          "FRENCH",
+          "GREEN",
+          "INDUSTRIAL",
+          "SEXUAL"
+        ]
+      },
+      {
+        "title": "GESTURES MADE WITH THE INDEX AND MIDDLE FINGERS",
+        "words": [
+          "AIR QUOTES",
+          "BUNNY EARS",
+          "FINGERS CROSSED",
+          "PEACE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A place to park your dreams, or maybe just your car. Think of shelter and storage.",
+      "A time of vibrant expression and rebellion, where love flowed freely and minds expanded.",
+      "Moments that shifted the course of nations, each with its own story of change and upheaval.",
+      "Two fingers can convey so much, from playful to profound. What messages do they send?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1551,
+    "editor": "Tracy Bennett",
+    "solution": "puffy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a fluffy cloud."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s soft and often associated with something light."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe something that is both soft and inflated."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 964,
+    "editor": "Tracy Bennett",
+    "clue": "Something's fishy",
+    "spangram": "THATSODD",
+    "themeWords": [
+      "BIZARRE",
+      "PECULIAR",
+      "QUIRKY",
+      "STRANGE",
+      "UNUSUAL",
+      "WEIRD"
+    ],
+    "startingBoard": [
+      "ETSDUN",
+      "GRDLSU",
+      "DNAOAU",
+      "RISEIB",
+      "REWTRZ",
+      "AIAQRA",
+      "LCPHUK",
+      "UETIRY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2707,
+    "sides": [
+      "PGA",
+      "RZL",
+      "MHC",
+      "OYI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ZIP",
+      "PHARMACOLOGY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21294,
+    "centerLetter": "c",
+    "outerLetters": "anortu",
+    "pangrams": [
+      "turncoat"
+    ],
+    "answers": [
+      "account",
+      "accountant",
+      "acorn",
+      "actor",
+      "actuator",
+      "arcana",
+      "arco",
+      "attract",
+      "attractant",
+      "attractor",
+      "autocrat",
+      "cacao",
+      "cancan",
+      "canna",
+      "cannon",
+      "cannot",
+      "canon",
+      "cant",
+      "cantata",
+      "canton",
+      "cantor",
+      "carat",
+      "carrot",
+      "cart",
+      "carton",
+      "cartoon",
+      "cataract",
+      "coat",
+      "coca",
+      "cocoa",
+      "coconut",
+      "cocoon",
+      "concoct",
+      "concur",
+      "contact",
+      "contort",
+      "contour",
+      "contract",
+      "contractor",
+      "coot",
+      "corn",
+      "corona",
+      "cotton",
+      "count",
+      "court",
+      "croc",
+      "croon",
+      "crouton",
+      "curacao",
+      "curator",
+      "currant",
+      "curt",
+      "cutout",
+      "narc",
+      "narco",
+      "occur",
+      "octant",
+      "orca",
+      "raccoon",
+      "rancor",
+      "rococo",
+      "taco",
+      "tact",
+      "toccata",
+      "toucan",
+      "tract",
+      "tractor",
+      "uncut"
+    ],
+    "pangramHints": [
+      {
+        "word": "turncoat",
+        "hint": "A traitor in disguise, switching sides with ease."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

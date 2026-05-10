@@ -1,0 +1,195 @@
+{
+  "date": "2025-06-22",
+  "fetchedAt": "2026-05-10T20:10:30.823Z",
+  "connections": {
+    "puzzleId": 781,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "NEWS ANNOUNCEMENT",
+        "words": [
+          "BULLETIN",
+          "FLASH",
+          "REPORT",
+          "WIRE"
+        ]
+      },
+      {
+        "title": "NOUNS FROM A FAMOUS LINE IN THE DECLARATION OF INDEPENDENCE",
+        "words": [
+          "HAPPINESS",
+          "LIBERTY",
+          "LIFE",
+          "PURSUIT"
+        ]
+      },
+      {
+        "title": "HBO SHOWS",
+        "words": [
+          "ENTOURAGE",
+          "EUPHORIA",
+          "INSECURE",
+          "SUCCESSION"
+        ]
+      },
+      {
+        "title": "WHAT “LEFT” MIGHT MEAN",
+        "words": [
+          "DEPARTED",
+          "PORT",
+          "PROGRESSIVE",
+          "REMAINING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When news breaks, these words are often the first to fly. Keep your ears open for the latest buzz!",
+      "A famous phrase speaks of a certain state of being. These four words capture its essence, each a vital piece of the puzzle.",
+      "From the glitz of Hollywood to the depths of human emotion, these shows have carved their own unique paths. What do they have in common?",
+      "Consider the various interpretations of 'left.' Each of these words offers a different perspective on what it might imply."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2199,
+    "editor": "Tracy Bennett",
+    "solution": "thrum",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a rhythmic sound, often associated with music."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a gentle vibration or pulse."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a five-letter word that resonates with a sense of continuity and flow."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 648,
+    "editor": "Tracy Bennett",
+    "clue": "Fragrant abuse",
+    "spangram": "THATSTINKS",
+    "themeWords": [
+      "FOUL",
+      "MALODOROUS",
+      "PUNGENT",
+      "RANK",
+      "REEKING",
+      "SMELLY"
+    ],
+    "startingBoard": [
+      "SREEKI",
+      "LKIUGN",
+      "UNTNPT",
+      "OFSGEN",
+      "NARTSM",
+      "KMAALE",
+      "OUSLHL",
+      "RODOTY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2392,
+    "sides": [
+      "LMI",
+      "ECP",
+      "UTB",
+      "KFA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FLAMBEAU",
+      "UPTICK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18801,
+    "centerLetter": "t",
+    "outerLetters": "eijmno",
+    "pangrams": [
+      "enjoinment"
+    ],
+    "answers": [
+      "eminent",
+      "emit",
+      "emote",
+      "emotion",
+      "entente",
+      "imminent",
+      "intent",
+      "intention",
+      "into",
+      "intone",
+      "item",
+      "jete",
+      "joint",
+      "meet",
+      "memento",
+      "mentee",
+      "mention",
+      "mete",
+      "mint",
+      "mite",
+      "mitt",
+      "mitten",
+      "moment",
+      "monotone",
+      "monte",
+      "moot",
+      "mote",
+      "motet",
+      "motion",
+      "motto",
+      "nineteen",
+      "nite",
+      "nonet",
+      "note",
+      "notion",
+      "ointment",
+      "omit",
+      "onetime",
+      "onto",
+      "teem",
+      "teen",
+      "tenement",
+      "tenet",
+      "tenon",
+      "tent",
+      "time",
+      "tine",
+      "tint",
+      "tome",
+      "tomtit",
+      "tone",
+      "tonne",
+      "toon",
+      "toonie",
+      "toot",
+      "tote",
+      "totem"
+    ],
+    "pangramHints": [
+      {
+        "word": "enjoinment",
+        "hint": "A term that suggests a binding agreement or command; think of it as a formal request."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2025-10-18",
+  "fetchedAt": "2026-05-10T20:17:11.179Z",
+  "connections": {
+    "puzzleId": 901,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GLIDE",
+        "words": [
+          "BREEZE",
+          "COAST",
+          "FLOAT",
+          "SKATE"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"BALL\" IN SPORTS",
+        "words": [
+          "DODGE",
+          "HAND",
+          "PICKLE",
+          "RACQUET"
+        ]
+      },
+      {
+        "title": "PROLIFIC ACTORS",
+        "words": [
+          "BACON",
+          "CAGE",
+          "CRUISE",
+          "FORD"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF SYNONYMS FOR \"VEND\"",
+        "words": [
+          "CELL",
+          "HOCK",
+          "PEDAL",
+          "TRAYED"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Soar through the air with a gentle touch, where the wind carries you along.",
+      "In the game of life, these actions precede a spherical object in play.",
+      "Famous faces that light up the screen, leaving a lasting impression in every scene.",
+      "Words that sound alike but mean different things, serving up goods in their own unique flings."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 939,
+    "editor": "Tracy Bennett",
+    "solution": "haven",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a place of safety or refuge."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a specific type of shelter."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s often associated with a sense of comfort and security."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 723,
+    "editor": "Tracy Bennett",
+    "clue": "Get to work ...",
+    "spangram": "RUNNINGLATE",
+    "themeWords": [
+      "ALARM",
+      "CLOSURE",
+      "CONSTRUCTION",
+      "DETOUR",
+      "WEATHER"
+    ],
+    "startingBoard": [
+      "OUCERU",
+      "TDRLOS",
+      "ENNGLE",
+      "RUINAT",
+      "NAEWMC",
+      "OTHRLO",
+      "IERAAN",
+      "TCURTS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2510,
+    "sides": [
+      "VTU",
+      "BXI",
+      "NAO",
+      "EHS"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BOVINE",
+      "EXHAUST"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27698,
+    "centerLetter": "o",
+    "outerLetters": "ucehln",
+    "pangrams": [
+      "luncheon"
+    ],
+    "answers": [
+      "cello",
+      "cloche",
+      "clone",
+      "cocoon",
+      "coho",
+      "colleen",
+      "colon",
+      "colonel",
+      "conch",
+      "cone",
+      "cool",
+      "couch",
+      "coulee",
+      "echelon",
+      "echo",
+      "hellhole",
+      "hello",
+      "hole",
+      "honcho",
+      "hone",
+      "hooch",
+      "loch",
+      "loco",
+      "loll",
+      "lone",
+      "loon",
+      "louche",
+      "neocon",
+      "neon",
+      "noel",
+      "nonce",
+      "none",
+      "noon",
+      "noun",
+      "nucleon",
+      "oleo",
+      "once",
+      "ouch",
+      "ounce",
+      "uncool"
+    ],
+    "pangramHints": [
+      {
+        "word": "luncheon",
+        "hint": "A mid-day meal that brings people together, often filled with chatter and laughter."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

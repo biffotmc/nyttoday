@@ -1,0 +1,189 @@
+{
+  "date": "2026-02-26",
+  "fetchedAt": "2026-05-10T20:25:47.278Z",
+  "connections": {
+    "puzzleId": 1073,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PIVOTAL POINT",
+        "words": [
+          "CROSSROADS",
+          "LANDMARK",
+          "MILESTONE",
+          "WATERSHED"
+        ]
+      },
+      {
+        "title": "GREEN THINGS",
+        "words": [
+          "GRASSHOPPER",
+          "SHAMROCK",
+          "STATUE OF LIBERTY",
+          "WASABI"
+        ]
+      },
+      {
+        "title": "ELEMENTS OF JOKE-TELLING",
+        "words": [
+          "CALLBACK",
+          "PUNCHLINE",
+          "SETUP",
+          "TIMING"
+        ]
+      },
+      {
+        "title": "\"___ PLEASE\"",
+        "words": [
+          "ATTENTION",
+          "CHECK",
+          "DRUMROLL",
+          "PRETTY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "At the crossroads of life, some moments define our journey. Seek the markers that guide us.",
+      "In the world of green, some things leap and others stand tall, each with a story to tell.",
+      "Timing is everything in humor; the punchline hits best when the setup is just right.",
+      "When asking for something, the right phrase can make all the difference, especially with flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 644,
+    "editor": "Tracy Bennett",
+    "solution": "lance",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a tool often used in sports."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a knight's weapon."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a long, pointed object."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 896,
+    "editor": "Tracy Bennett",
+    "clue": "Watch the attitude!",
+    "spangram": "TALKINGBACK",
+    "themeWords": [
+      "CHEEKY",
+      "CUTE",
+      "FRESH",
+      "IMPUDENT",
+      "PERT",
+      "SASSY",
+      "SAUCY"
+    ],
+    "startingBoard": [
+      "TPTYKE",
+      "REACHE",
+      "UCLSSY",
+      "TEKIAT",
+      "HSENSN",
+      "UCRGDE",
+      "AYFBPU",
+      "SKCAIM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2641,
+    "sides": [
+      "CFP",
+      "AIE",
+      "VOY",
+      "MTL"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FACEPLATE",
+      "EMOTIVITY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23474,
+    "centerLetter": "i",
+    "outerLetters": "acmnty",
+    "pangrams": [
+      "intimacy"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "amity",
+      "anima",
+      "anti",
+      "antic",
+      "attain",
+      "attic",
+      "cacti",
+      "caiman",
+      "cami",
+      "cantina",
+      "catmint",
+      "city",
+      "cynic",
+      "imam",
+      "inanity",
+      "incant",
+      "intact",
+      "itty",
+      "maim",
+      "main",
+      "maintain",
+      "mania",
+      "maniac",
+      "manic",
+      "mica",
+      "mimic",
+      "mini",
+      "minicam",
+      "minim",
+      "minima",
+      "mint",
+      "minty",
+      "mitt",
+      "niacin",
+      "ninny",
+      "tacit",
+      "tactic",
+      "tactician",
+      "taint",
+      "tannic",
+      "tannin",
+      "tatami",
+      "tinct",
+      "tinny",
+      "tint",
+      "tiny",
+      "titan",
+      "titanic"
+    ],
+    "pangramHints": [
+      {
+        "word": "intimacy",
+        "hint": "A deep connection, often explored in relationships; think closeness."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

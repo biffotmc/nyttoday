@@ -1,0 +1,183 @@
+{
+  "date": "2026-01-12",
+  "fetchedAt": "2026-05-10T20:22:54.310Z",
+  "connections": {
+    "puzzleId": 1000,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LIVING ROOM FURNITURE",
+        "words": [
+          "ARMCHAIR",
+          "BOOKCASE",
+          "CONSOLE",
+          "FOOTSTOOL"
+        ]
+      },
+      {
+        "title": "EXPERIENCE LEVELS",
+        "words": [
+          "EXPERT",
+          "INTERMEDIATE",
+          "NOVICE",
+          "PROFICIENT"
+        ]
+      },
+      {
+        "title": "PROMISE",
+        "words": [
+          "AGREEMENT",
+          "COMPACT",
+          "HANDSHAKE",
+          "UNDERSTANDING"
+        ]
+      },
+      {
+        "title": "ENDING IN U.S. COINS",
+        "words": [
+          "CEFTAZIDIME",
+          "HEADQUARTER",
+          "MONEYPENNY",
+          "PUMPERNICKEL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A cozy nook awaits, where comfort meets literature and relaxation reigns.",
+      "From rookies to seasoned pros, there's a journey for every skill set.",
+      "A bond sealed with a gesture, where promises are made and trust is built.",
+      "These words may sound foreign, but they all have something shiny in common."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1411,
+    "editor": "Tracy Bennett",
+    "solution": "trial",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a common process of testing."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of it as an experiment or a test run."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word often relates to attempts or assessments in various fields."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 847,
+    "editor": "Tracy Bennett",
+    "clue": "Appeal to a hire power",
+    "spangram": "RESUME",
+    "themeWords": [
+      "AWARDS",
+      "CONTACT",
+      "EDUCATION",
+      "EXPERIENCE",
+      "NAME",
+      "SKILLS"
+    ],
+    "startingBoard": [
+      "EDTIME",
+      "UAOUAS",
+      "CNSWRD",
+      "REEACT",
+      "LSAMAE",
+      "ILNTCE",
+      "SKNNRP",
+      "COEIXE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2602,
+    "sides": [
+      "ECB",
+      "HRI",
+      "TLO",
+      "YMU"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CHERUBIM",
+      "MOBILITY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 11334,
+    "centerLetter": "i",
+    "outerLetters": "aceltz",
+    "pangrams": [
+      "italicize"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "acetic",
+      "alit",
+      "atilt",
+      "attic",
+      "cacti",
+      "calcite",
+      "cattail",
+      "celiac",
+      "celli",
+      "cilia",
+      "cite",
+      "eclectic",
+      "elicit",
+      "elite",
+      "icicle",
+      "iliac",
+      "illicit",
+      "italic",
+      "lactic",
+      "laic",
+      "laical",
+      "laicize",
+      "lattice",
+      "lice",
+      "licit",
+      "lilac",
+      "lilt",
+      "lite",
+      "little",
+      "tacit",
+      "tactic",
+      "tactical",
+      "tactile",
+      "tail",
+      "tali",
+      "tallit",
+      "tile",
+      "till",
+      "tilt",
+      "titillate",
+      "title",
+      "tittle",
+      "ziti"
+    ],
+    "pangramHints": [
+      {
+        "word": "italicize",
+        "hint": "A style choice that adds flair to your text."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

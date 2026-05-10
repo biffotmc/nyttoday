@@ -1,0 +1,194 @@
+{
+  "date": "2026-02-17",
+  "fetchedAt": "2026-05-10T20:25:07.014Z",
+  "connections": {
+    "puzzleId": 1065,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ZOOM",
+        "words": [
+          "DART",
+          "FLASH",
+          "SPEED",
+          "ZIP"
+        ]
+      },
+      {
+        "title": "SAUCES IN CHINESE CUISINE",
+        "words": [
+          "HOISIN",
+          "OYSTER",
+          "PLUM",
+          "SOY"
+        ]
+      },
+      {
+        "title": "RIFFLE (THROUGH)",
+        "words": [
+          "FLIP",
+          "LEAF",
+          "SKIM",
+          "THUMB"
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"DUD\"",
+        "words": [
+          "BOMBAY",
+          "BUSTLE",
+          "FLOPPY",
+          "MISSUS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words might take you on a speedy adventure, but don't forget to aim carefully!",
+      "When dining on these, remember that a little goes a long way in flavor.",
+      "To navigate through pages or leaves, a gentle touch is all you need.",
+      "These terms allude to something that didn't quite hit the mark; perhaps they need a little more practice!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 4216,
+    "editor": "Tracy Bennett",
+    "solution": "squad",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a team or a group."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with a close-knit unit."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with 's' and ends with 'd'; it's a term for a group of friends or allies."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 886,
+    "editor": "Tracy Bennett",
+    "clue": "The year of the ...",
+    "spangram": "ZODIACSIGNS",
+    "themeWords": [
+      "DRAGON",
+      "GOAT",
+      "HORSE",
+      "MONKEY",
+      "RABBIT",
+      "SNAKE",
+      "TIGER"
+    ],
+    "startingBoard": [
+      "RSESNA",
+      "OTAOGK",
+      "HDIACE",
+      "ORNOGS",
+      "ZADRAI",
+      "BBSNGR",
+      "IMKETE",
+      "TONYIG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2632,
+    "sides": [
+      "AUH",
+      "PNG",
+      "TWS",
+      "IOC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "NIGHTCAPS",
+      "SOUTHPAW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21225,
+    "centerLetter": "p",
+    "outerLetters": "gilnow",
+    "pangrams": [
+      "pillowing",
+      "plowing"
+    ],
+    "answers": [
+      "gloop",
+      "glop",
+      "glopping",
+      "goop",
+      "lipo",
+      "lipping",
+      "lollipop",
+      "lollop",
+      "lolloping",
+      "loop",
+      "looping",
+      "loping",
+      "lopping",
+      "nipping",
+      "opining",
+      "opinion",
+      "pigging",
+      "piling",
+      "pill",
+      "pilling",
+      "pillion",
+      "pillow",
+      "ping",
+      "pinging",
+      "pining",
+      "pinion",
+      "pinioning",
+      "pinning",
+      "piping",
+      "pippin",
+      "plop",
+      "plopping",
+      "plow",
+      "pogo",
+      "pogoing",
+      "poling",
+      "polio",
+      "poll",
+      "polling",
+      "polliwog",
+      "polo",
+      "pong",
+      "pool",
+      "pooling",
+      "poop",
+      "pooping",
+      "poplin",
+      "popping",
+      "powwow",
+      "wiping"
+    ],
+    "pangramHints": [
+      {
+        "word": "pillowing",
+        "hint": "Soft and comforting, this word evokes a sense of coziness."
+      },
+      {
+        "word": "plowing",
+        "hint": "Think of a farmer's task, turning over the earth with purpose."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

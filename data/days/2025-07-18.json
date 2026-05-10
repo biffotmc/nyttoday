@@ -1,0 +1,173 @@
+{
+  "date": "2025-07-18",
+  "fetchedAt": "2026-05-10T20:10:50.895Z",
+  "connections": {
+    "puzzleId": 813,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SEQUENCE",
+        "words": [
+          "RUN",
+          "SERIES",
+          "STREAK",
+          "STRING"
+        ]
+      },
+      {
+        "title": "PICK UP ON",
+        "words": [
+          "CATCH",
+          "NOTE",
+          "SEE",
+          "SPOT"
+        ]
+      },
+      {
+        "title": "YOGA BACKBENDS",
+        "words": [
+          "BRIDGE",
+          "COBRA",
+          "COW",
+          "WHEEL"
+        ]
+      },
+      {
+        "title": "ELECTRIC ___",
+        "words": [
+          "BLANKET",
+          "EEL",
+          "GUITAR",
+          "SLIDE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A sequence of events can lead to a thrilling climax, just like a well-placed series of actions.",
+      "To catch a glimpse or to note something special, keep your eyes peeled for the unexpected.",
+      "Bend and stretch, but don’t forget to find your balance in the flow of movement.",
+      "An electric surprise can spark joy, whether it’s a cozy cover or a jamming session."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2365,
+    "editor": "Tracy Bennett",
+    "solution": "loris",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This creature is known for its slow pace."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It has large eyes and is often found in trees."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a nocturnal animal that loves to hang around."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 668,
+    "editor": "Tracy Bennett",
+    "clue": "Abracadabra!",
+    "spangram": "ITSMAGIC",
+    "themeWords": [
+      "DISAPPEAR",
+      "ESCAPE",
+      "LEVITATE",
+      "MULTIPLY",
+      "TRANSFORM"
+    ],
+    "startingBoard": [
+      "ECAMAC",
+      "SPSPGI",
+      "ETLITR",
+      "IEYMLA",
+      "ORTAUE",
+      "FSMVTP",
+      "ANELIP",
+      "RTDISA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2418,
+    "sides": [
+      "EMC",
+      "OTJ",
+      "NXI",
+      "VAU"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "CONJUNCTIVE",
+      "EXAM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25687,
+    "centerLetter": "i",
+    "outerLetters": "adenpx",
+    "pangrams": [
+      "appendix"
+    ],
+    "answers": [
+      "adenine",
+      "aide",
+      "aided",
+      "apian",
+      "denied",
+      "died",
+      "dine",
+      "dined",
+      "dipped",
+      "eddied",
+      "idea",
+      "inane",
+      "indeed",
+      "index",
+      "indexed",
+      "indie",
+      "innie",
+      "naiad",
+      "nannied",
+      "nine",
+      "ninepin",
+      "nipped",
+      "nixed",
+      "paid",
+      "pain",
+      "pained",
+      "panini",
+      "pied",
+      "pine",
+      "pined",
+      "pinned",
+      "pinniped",
+      "pipe",
+      "piped",
+      "pippin",
+      "pixie"
+    ],
+    "pangramHints": [
+      {
+        "word": "appendix",
+        "hint": "This word is often found at the end of a book, providing extra information."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

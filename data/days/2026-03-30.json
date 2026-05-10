@@ -1,0 +1,184 @@
+{
+  "date": "2026-03-30",
+  "fetchedAt": "2026-05-10T20:28:06.738Z",
+  "connections": {
+    "puzzleId": 1110,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "IMITATION",
+        "words": [
+          "DUMMY",
+          "ERSATZ",
+          "FAUX",
+          "MOCK"
+        ]
+      },
+      {
+        "title": "PLAY AROUND (WITH)",
+        "words": [
+          "FUTZ",
+          "MESS",
+          "TINKER",
+          "TOY"
+        ]
+      },
+      {
+        "title": "CAR RENTAL COMPANIES",
+        "words": [
+          "AVIS",
+          "BUDGET",
+          "DOLLAR",
+          "HERTZ"
+        ]
+      },
+      {
+        "title": "SNACK BRANDS PLUS STARTING LETTER",
+        "words": [
+          "FRITZ",
+          "PLAYS",
+          "TRUFFLES",
+          "YUTZ"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words might not be the real deal, but they sure try hard to fit in.",
+      "Messing around can lead to unexpected discoveries; embrace the chaos!",
+      "Need a ride? These names are synonymous with getting you on the road.",
+      "A mix of flavors and a dash of letters make for a delightful snack time."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2824,
+    "editor": "Tracy Bennett",
+    "solution": "comet",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Look to the skies for inspiration."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This celestial object has a tail."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's not a star, but it shines brightly in the night."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 931,
+    "editor": "Tracy Bennett",
+    "clue": "For a rainy day",
+    "spangram": "UMBRELLATERM",
+    "themeWords": [
+      "BUTTON",
+      "CANOPY",
+      "HANDLE",
+      "PANEL",
+      "RIBS",
+      "SHAFT",
+      "VENT"
+    ],
+    "startingBoard": [
+      "HSONNE",
+      "APATVN",
+      "FYCPAE",
+      "TLLATL",
+      "ERHMRE",
+      "ONBABS",
+      "UTMNIR",
+      "BTUDLE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2673,
+    "sides": [
+      "CBN",
+      "KMR",
+      "AGI",
+      "FUO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FRACKING",
+      "GUMBO"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10491,
+    "centerLetter": "t",
+    "outerLetters": "belnov",
+    "pangrams": [
+      "benevolent"
+    ],
+    "answers": [
+      "beet",
+      "beetle",
+      "belt",
+      "bent",
+      "bento",
+      "betel",
+      "blot",
+      "blotto",
+      "bolt",
+      "bonnet",
+      "boot",
+      "bootee",
+      "botnet",
+      "bottle",
+      "entente",
+      "event",
+      "lent",
+      "lento",
+      "loot",
+      "lotto",
+      "nettle",
+      "nonet",
+      "nonevent",
+      "note",
+      "novelette",
+      "onto",
+      "teen",
+      "tell",
+      "tenet",
+      "tenon",
+      "tent",
+      "toll",
+      "tone",
+      "tonne",
+      "tool",
+      "toon",
+      "toot",
+      "tootle",
+      "tote",
+      "velvet",
+      "velveteen",
+      "vent",
+      "veto",
+      "volt",
+      "vote"
+    ],
+    "pangramHints": [
+      {
+        "word": "benevolent",
+        "hint": "A kind heart can change the world; think of a word that embodies generosity."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

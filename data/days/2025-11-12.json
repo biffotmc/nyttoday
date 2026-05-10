@@ -1,0 +1,169 @@
+{
+  "date": "2025-11-12",
+  "fetchedAt": "2026-05-10T20:18:55.962Z",
+  "connections": {
+    "puzzleId": 928,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SPORTS",
+        "words": [
+          "GOLF",
+          "JUDO",
+          "POLO",
+          "SUMO"
+        ]
+      },
+      {
+        "title": "DOOFUS",
+        "words": [
+          "BOZO",
+          "DODO",
+          "DOPE",
+          "YO-YO"
+        ]
+      },
+      {
+        "title": "ACRONYMS",
+        "words": [
+          "BOGO",
+          "FOMO",
+          "GOAT",
+          "YOLO"
+        ]
+      },
+      {
+        "title": "SPANISH WORDS",
+        "words": [
+          "COMO",
+          "LOCO",
+          "POCO",
+          "ROJO"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Swing into action with a game that requires precision and patience, where the only thing better than a hole-in-one is a perfect score.",
+      "In a world of clowns and jesters, some stand out for their silly antics, while others just can't seem to get it right.",
+      "These abbreviations pack a punch, representing the best of the best, the fear of missing out, and living life to the fullest.",
+      "Spanish whispers of colors and how to express oneself can be both playful and profound, revealing the essence of culture."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2030,
+    "editor": "Tracy Bennett",
+    "solution": "deuce",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a term often associated with a tie in games."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a score that leaves both players equal."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word also refers to a specific type of tennis score."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 786,
+    "editor": "Tracy Bennett",
+    "clue": "How puzzling",
+    "spangram": "CROSSWORD",
+    "themeWords": [
+      "ACROSS",
+      "ANSWERS",
+      "BYLINE",
+      "CLUES",
+      "DOWN",
+      "GRID",
+      "NUMBERS"
+    ],
+    "startingBoard": [
+      "EGRWER",
+      "RBUISS",
+      "SMNDNA",
+      "CROSSW",
+      "DEUDRO",
+      "OSLBYL",
+      "WNCENI",
+      "ACROSS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2534,
+    "sides": [
+      "WGN",
+      "LUD",
+      "OAQ",
+      "KSE"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "SQUEAK",
+      "KNOWLEDGE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27654,
+    "centerLetter": "i",
+    "outerLetters": "nrtvab",
+    "pangrams": [
+      "vibrant"
+    ],
+    "answers": [
+      "anti",
+      "aria",
+      "atria",
+      "attain",
+      "avian",
+      "bait",
+      "barbarian",
+      "birria",
+      "brain",
+      "briar",
+      "invariant",
+      "irritant",
+      "nirvana",
+      "rabbi",
+      "rabbit",
+      "rain",
+      "raita",
+      "rani",
+      "ribbit",
+      "taint",
+      "tannin",
+      "tiara",
+      "tibia",
+      "tint",
+      "titan",
+      "train",
+      "trait",
+      "trivia",
+      "vain",
+      "variant"
+    ],
+    "pangramHints": [
+      {
+        "word": "vibrant",
+        "hint": "A lively term that captures the essence of energy and color, but don't mention it directly!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

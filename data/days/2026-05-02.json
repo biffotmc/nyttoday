@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-02",
+  "fetchedAt": "2026-05-10T20:30:15.188Z",
+  "connections": {
+    "puzzleId": 1124,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CLAIRVOYANT",
+        "words": [
+          "EXTRASENSORY",
+          "MENTAL",
+          "PSYCHIC",
+          "TELEPATHIC"
+        ]
+      },
+      {
+        "title": "STAGED PERFORMANCES",
+        "words": [
+          "BALLET",
+          "MUSICAL",
+          "OPERA",
+          "PLAY"
+        ]
+      },
+      {
+        "title": "U.S. CABINET DEPARTMENTS",
+        "words": [
+          "EDUCATION",
+          "INTERIOR",
+          "STATE",
+          "TREASURY"
+        ]
+      },
+      {
+        "title": "STARTING WITH NEWSPAPER NAMES",
+        "words": [
+          "GLOBETROTTER",
+          "HERALDRY",
+          "POST-IT",
+          "TIMES TABLES"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Can you sense the unseen? These words tap into the mind's hidden powers.",
+      "A spectacle awaits! Each word here brings a unique form of artistic expression.",
+      "These departments hold the keys to governance. Each word shapes the nation's framework.",
+      "Look closely at the headlines! These words start with titles that inform and entertain."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2672,
+    "editor": "Tracy Bennett",
+    "solution": "bring",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something you do with your hands."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This action often involves giving or providing."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a common verb that suggests a transfer or delivery."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 963,
+    "editor": "Tracy Bennett",
+    "clue": "All the right moves",
+    "spangram": "LINEDANCE",
+    "themeWords": [
+      "COASTER",
+      "KICK",
+      "PONY",
+      "SAILOR",
+      "SCUFF",
+      "SHUFFLE",
+      "WIZARD"
+    ],
+    "startingBoard": [
+      "NYLWIZ",
+      "POIDRA",
+      "CSNSAR",
+      "UFEDIO",
+      "FICAOL",
+      "SKKNCA",
+      "HUFCST",
+      "ELFERE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2706,
+    "sides": [
+      "TKH",
+      "FWU",
+      "YSE",
+      "API"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "UPSHIFT",
+      "TAKEAWAY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21155,
+    "centerLetter": "g",
+    "outerLetters": "bdelno",
+    "pangrams": [
+      "belonged",
+      "boondoggle",
+      "boondoggled"
+    ],
+    "answers": [
+      "begged",
+      "begone",
+      "belong",
+      "blog",
+      "blogged",
+      "bogged",
+      "boggle",
+      "boggled",
+      "bong",
+      "bongo",
+      "dodge",
+      "dodged",
+      "doge",
+      "dogged",
+      "doggo",
+      "doggone",
+      "dogleg",
+      "doglegged",
+      "dong",
+      "dongle",
+      "edge",
+      "edged",
+      "egged",
+      "eggnog",
+      "geld",
+      "gelded",
+      "gelee",
+      "gelled",
+      "gene",
+      "geode",
+      "glee",
+      "glen",
+      "glob",
+      "globe",
+      "gobble",
+      "gobbled",
+      "goggle",
+      "goggled",
+      "gold",
+      "golden",
+      "gone",
+      "gong",
+      "gonged",
+      "good",
+      "google",
+      "googled",
+      "googol",
+      "goon",
+      "ledge",
+      "legend",
+      "legged",
+      "lodge",
+      "lodged",
+      "loge",
+      "logged",
+      "logo",
+      "long",
+      "longed",
+      "oblong",
+      "ogee",
+      "ogle",
+      "ogled",
+      "oolong"
+    ],
+    "pangramHints": [
+      {
+        "word": "belonged",
+        "hint": "A sense of ownership or connection; think about belonging."
+      },
+      {
+        "word": "boondoggle",
+        "hint": "A term for a wasteful project; often linked to politics."
+      },
+      {
+        "word": "boondoggled",
+        "hint": "Past tense of a word describing a deceptive or wasteful venture."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

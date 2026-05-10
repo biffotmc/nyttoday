@@ -1,0 +1,195 @@
+{
+  "date": "2026-01-17",
+  "fetchedAt": "2026-05-10T20:23:12.632Z",
+  "connections": {
+    "puzzleId": 1009,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SPREAD OVER",
+        "words": [
+          "BLANKET",
+          "COAT",
+          "COVER",
+          "PLASTER"
+        ]
+      },
+      {
+        "title": "THROW",
+        "words": [
+          "CAST",
+          "HURL",
+          "PELT",
+          "SLING"
+        ]
+      },
+      {
+        "title": "ANAGRAMS",
+        "words": [
+          "INKS",
+          "KINS",
+          "SINK",
+          "SKIN"
+        ]
+      },
+      {
+        "title": "FIRST WORDS OF KIDS' GAMES",
+        "words": [
+          "CAPTURE",
+          "HIDE",
+          "RED",
+          "SIMON"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the chill sets in, these items come to the rescue, wrapping you in warmth and comfort.",
+      "A flurry of motion, these actions can send objects flying through the air with great force.",
+      "Rearranging letters can lead to unexpected discoveries; these words are just a shuffle away from each other.",
+      "The beginnings of playful antics, where children engage in games that spark imagination and fun."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1334,
+    "editor": "Tracy Bennett",
+    "solution": "fiery",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that burns bright."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word evokes heat and intensity."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term often associated with passion or a blazing temperament."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 852,
+    "editor": "Tracy Bennett",
+    "clue": "That's putting it mildly!",
+    "spangram": "FOILEDAGAIN",
+    "themeWords": [
+      "CURSES",
+      "DRAT",
+      "FIDDLESTICKS",
+      "PHOOEY",
+      "TARNATION"
+    ],
+    "startingBoard": [
+      "RATNIF",
+      "NOEIDD",
+      "AOYAEL",
+      "TNHGST",
+      "IOPACI",
+      "RUCDKS",
+      "SESETD",
+      "FOILAR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2601,
+    "sides": [
+      "DEN",
+      "KRJ",
+      "AUO",
+      "YLW"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JUNKYARD",
+      "DOWEL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12598,
+    "centerLetter": "y",
+    "outerLetters": "aloprt",
+    "pangrams": [
+      "portrayal"
+    ],
+    "answers": [
+      "allay",
+      "alloy",
+      "ally",
+      "apply",
+      "aptly",
+      "array",
+      "arroyo",
+      "arty",
+      "loopy",
+      "lorry",
+      "loyal",
+      "loyally",
+      "loyalty",
+      "oaty",
+      "orally",
+      "oratory",
+      "paltry",
+      "papally",
+      "papaya",
+      "pappy",
+      "parlay",
+      "parry",
+      "partly",
+      "party",
+      "patly",
+      "patty",
+      "payola",
+      "payroll",
+      "play",
+      "ploy",
+      "polyp",
+      "poorly",
+      "poppy",
+      "portly",
+      "portray",
+      "potty",
+      "pray",
+      "pyro",
+      "rally",
+      "raptly",
+      "rattly",
+      "ratty",
+      "ropy",
+      "rotary",
+      "rotatory",
+      "royal",
+      "royally",
+      "royalty",
+      "tally",
+      "tarry",
+      "tartly",
+      "tatty",
+      "totally",
+      "tray",
+      "troy",
+      "typo",
+      "tyro",
+      "yappy"
+    ],
+    "pangramHints": [
+      {
+        "word": "portrayal",
+        "hint": "A vivid depiction, capturing the essence without revealing the whole picture."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

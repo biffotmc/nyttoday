@@ -1,0 +1,187 @@
+{
+  "date": "2025-08-04",
+  "fetchedAt": "2026-05-10T20:11:55.430Z",
+  "connections": {
+    "puzzleId": 823,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ARTHROPODS",
+        "words": [
+          "APHID",
+          "BEETLE",
+          "MITE",
+          "TICK"
+        ]
+      },
+      {
+        "title": "TREES",
+        "words": [
+          "BEECH",
+          "CEDAR",
+          "PINE",
+          "YEW"
+        ]
+      },
+      {
+        "title": "[LETTER] (IS) FOR ___",
+        "words": [
+          "APPLE",
+          "COOKIE",
+          "EFFORT",
+          "VENDETTA"
+        ]
+      },
+      {
+        "title": "WORDS THAT SOUNDS LIKE TWO LETTERS",
+        "words": [
+          "DECAY",
+          "EASY",
+          "GEO",
+          "ZITI"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These tiny creatures can be pests or pollinators, depending on their mood.",
+      "Tall and majestic, these giants provide shade and shelter, standing proud against the elements.",
+      "A letter can be the start of something sweet, baked, or even a dramatic showdown.",
+      "Listen closely; these words play a game of sounds, echoing like whispers in the air."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1319,
+    "editor": "Tracy Bennett",
+    "solution": "rigid",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that holds its shape firmly."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes something that is not flexible."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term often used in science to describe certain materials or structures."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 686,
+    "editor": "Tracy Bennett",
+    "clue": "Cutting it close",
+    "spangram": "BARBERSHOP",
+    "themeWords": [
+      "AFTERSHAVE",
+      "CAPE",
+      "CLIPPERS",
+      "COMB",
+      "RAZOR",
+      "TRIMMER"
+    ],
+    "startingBoard": [
+      "EPPARO",
+      "RIBBCM",
+      "SLCECB",
+      "ARAREA",
+      "ZRFSTP",
+      "OTEHRM",
+      "EVROIM",
+      "AHSPRE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2435,
+    "sides": [
+      "ERL",
+      "OMN",
+      "KDC",
+      "FBA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "CORNFLAKE",
+      "EMBED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27241,
+    "centerLetter": "u",
+    "outerLetters": "degilt",
+    "pangrams": [
+      "guilted"
+    ],
+    "answers": [
+      "delude",
+      "deluded",
+      "deluge",
+      "deluged",
+      "dilute",
+      "diluted",
+      "dude",
+      "duel",
+      "dueled",
+      "duet",
+      "duetted",
+      "dull",
+      "dulled",
+      "elude",
+      "eluded",
+      "etude",
+      "gigue",
+      "glue",
+      "glued",
+      "glug",
+      "glugged",
+      "glut",
+      "glute",
+      "glutei",
+      "glutted",
+      "guide",
+      "guided",
+      "guild",
+      "guile",
+      "guilt",
+      "gull",
+      "gulled",
+      "gullet",
+      "gutted",
+      "lieu",
+      "luge",
+      "luged",
+      "lugged",
+      "lull",
+      "lulled",
+      "lulu",
+      "lute",
+      "tugged",
+      "tulle",
+      "tutee",
+      "tutted",
+      "tutti",
+      "tutu",
+      "utile"
+    ],
+    "pangramHints": [
+      {
+        "word": "guilted",
+        "hint": "A feeling that might weigh heavily on one's conscience."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "date": "2026-03-23",
+  "fetchedAt": "2026-05-10T20:27:38.310Z",
+  "connections": {
+    "puzzleId": 1096,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PRINCIPLED",
+        "words": [
+          "DECENT",
+          "HONEST",
+          "MORAL",
+          "STAND-UP"
+        ]
+      },
+      {
+        "title": "GAME-CHANGING INVENTIONS",
+        "words": [
+          "LIGHT BULB",
+          "PRINTING PRESS",
+          "SLICED BREAD",
+          "WHEEL"
+        ]
+      },
+      {
+        "title": "\"VIRGIN\" THINGS",
+        "words": [
+          "MARY",
+          "MOCKTAIL",
+          "OLIVE OIL",
+          "VIRGO"
+        ]
+      },
+      {
+        "title": "ENDING IN NICKNAME HOMOPHONES",
+        "words": [
+          "BRAIN STEW",
+          "BROCCOLI RABE",
+          "JUNGLE GYM",
+          "OPEN MIC"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words embody a strong moral compass, guiding the way through life's murky waters.",
+      "Revolutionary ideas that illuminated the path to modernity, sparking creativity and convenience.",
+      "A collection of names and items that evoke purity and restraint, each with its own unique charm.",
+      "Words that sound alike but lead to very different meanings, each ending with a playful twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2068,
+    "editor": "Tracy Bennett",
+    "solution": "serif",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a font style that adds flair to text."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This term is often associated with typography."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with 's' and ends with 'f'; it's not a common word but is essential in design."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 924,
+    "editor": "Tracy Bennett",
+    "clue": "In pieces",
+    "spangram": "BREAKDOWN",
+    "themeWords": [
+      "CRACK",
+      "FRACTURE",
+      "RUPTURE",
+      "SHATTER",
+      "SNAP",
+      "SPLINTER"
+    ],
+    "startingBoard": [
+      "URSRFR",
+      "PTPEBA",
+      "RULACT",
+      "ECIKUR",
+      "RNDSES",
+      "ATOHAN",
+      "CEWTTA",
+      "KRNERP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2666,
+    "sides": [
+      "EHN",
+      "CIT",
+      "FWR",
+      "AOY"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CAFETERIA",
+      "ANYHOW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23792,
+    "centerLetter": "u",
+    "outerLetters": "cdehln",
+    "pangrams": [
+      "lunched",
+      "unclenched"
+    ],
+    "answers": [
+      "cellule",
+      "clue",
+      "clued",
+      "cuddle",
+      "cuddled",
+      "cued",
+      "cull",
+      "culled",
+      "deduce",
+      "deduced",
+      "delude",
+      "deluded",
+      "denude",
+      "denuded",
+      "deuce",
+      "dude",
+      "duel",
+      "dueled",
+      "dull",
+      "dulled",
+      "dunce",
+      "dune",
+      "dunned",
+      "educe",
+      "educed",
+      "elude",
+      "eluded",
+      "endue",
+      "endued",
+      "eunuch",
+      "huddle",
+      "huddled",
+      "hued",
+      "hull",
+      "hulled",
+      "hunch",
+      "hunched",
+      "lull",
+      "lulled",
+      "lulu",
+      "lunch",
+      "lune",
+      "nude",
+      "null",
+      "unceded",
+      "uncle",
+      "unclench",
+      "undue",
+      "unheeded",
+      "unneeded"
+    ],
+    "pangramHints": [
+      {
+        "word": "lunched",
+        "hint": "A meal that signifies a break in the day; think of a mid-day feast."
+      },
+      {
+        "word": "unclenched",
+        "hint": "To release a grip; imagine letting go of tension."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

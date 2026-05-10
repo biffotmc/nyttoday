@@ -1,0 +1,201 @@
+{
+  "date": "2026-02-08",
+  "fetchedAt": "2026-05-10T20:24:32.861Z",
+  "connections": {
+    "puzzleId": 1030,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SUPPRESS",
+        "words": [
+          "GAG",
+          "INHIBIT",
+          "MUZZLE",
+          "SILENCE"
+        ]
+      },
+      {
+        "title": "SAME OLD STUFF",
+        "words": [
+          "DRILL",
+          "GRIND",
+          "HABIT",
+          "ROUTINE"
+        ]
+      },
+      {
+        "title": "FEATURES OF A STRONG PASSWORD",
+        "words": [
+          "LENGTH",
+          "NUMBER",
+          "SYMBOL",
+          "UPPERCASE"
+        ]
+      },
+      {
+        "title": "WORDS AFTER \"TWO\"",
+        "words": [
+          "BIT",
+          "CENTS",
+          "FACED",
+          "TIMER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the noise is too much, sometimes a gentle touch is all it takes to hush things up.",
+      "Repetition can be comforting, but too much can feel like a never-ending loop.",
+      "A fortress of security is built on a foundation of variety and strength.",
+      "After the first one, the next can feel like just another tick on the clock."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 3035,
+    "editor": "Tracy Bennett",
+    "solution": "embed",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a way to integrate something into a larger whole."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to placing something within another context."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often used in tech and design, referring to placing elements together."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 877,
+    "editor": "Tracy Bennett",
+    "clue": "Make it fancy",
+    "spangram": "COCKTAILGARNISH",
+    "themeWords": [
+      "CELERY",
+      "CHERRY",
+      "OLIVE",
+      "SHRIMP",
+      "SPRIG",
+      "TWIST"
+    ],
+    "startingBoard": [
+      "TCKTAI",
+      "SIOCLP",
+      "WVEGRM",
+      "TIOAHI",
+      "IGLRSH",
+      "RPSNCE",
+      "EEYIRR",
+      "CLRSHY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2623,
+    "sides": [
+      "PAG",
+      "THL",
+      "IFU",
+      "RON"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PHARAOH",
+      "HIGHFALUTIN"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21397,
+    "centerLetter": "i",
+    "outerLetters": "belntu",
+    "pangrams": [
+      "bulletin",
+      "ebullient"
+    ],
+    "answers": [
+      "beeline",
+      "belie",
+      "belittle",
+      "beltline",
+      "bible",
+      "bile",
+      "bill",
+      "billet",
+      "bite",
+      "bitten",
+      "blin",
+      "blini",
+      "built",
+      "elite",
+      "ennui",
+      "entitle",
+      "inbuilt",
+      "inlet",
+      "innie",
+      "intel",
+      "intent",
+      "intuit",
+      "inutile",
+      "lenient",
+      "lentil",
+      "libel",
+      "libelee",
+      "lien",
+      "lieu",
+      "lilt",
+      "line",
+      "linen",
+      "linnet",
+      "lint",
+      "lintel",
+      "lite",
+      "little",
+      "nibble",
+      "nine",
+      "nineteen",
+      "nite",
+      "nubbin",
+      "nubile",
+      "tile",
+      "till",
+      "tilt",
+      "tine",
+      "tint",
+      "title",
+      "tittle",
+      "tutti",
+      "unbuilt",
+      "unit",
+      "unite",
+      "unlit",
+      "untie",
+      "until",
+      "utile"
+    ],
+    "pangramHints": [
+      {
+        "word": "bulletin",
+        "hint": "A report that keeps everyone in the loop; no need to shout it out."
+      },
+      {
+        "word": "ebullient",
+        "hint": "Overflowing with enthusiasm; a word that bubbles over with joy."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

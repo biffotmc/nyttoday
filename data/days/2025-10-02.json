@@ -1,0 +1,201 @@
+{
+  "date": "2025-10-02",
+  "fetchedAt": "2026-05-10T20:16:11.283Z",
+  "connections": {
+    "puzzleId": 885,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DOG COMMANDS",
+        "words": [
+          "COME",
+          "DOWN",
+          "HEEL",
+          "STAY"
+        ]
+      },
+      {
+        "title": "DESERVED",
+        "words": [
+          "DUE",
+          "FAIR",
+          "JUST",
+          "RIGHT"
+        ]
+      },
+      {
+        "title": "SITUATED",
+        "words": [
+          "LEFT",
+          "PLACED",
+          "PUT",
+          "SET"
+        ]
+      },
+      {
+        "title": "BEST ANIMATED FEATURE OSCAR WINNERS",
+        "words": [
+          "BRAVE",
+          "FLOW",
+          "FROZEN",
+          "UP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you want your furry friend to obey, these words will help you play.",
+      "What you earn when things are just right, these words shine with fairness and light.",
+      "Positioning is key, whether it's left or right, these words will help you set things just right.",
+      "Animated tales that won the golden prize, these words are a feast for the eyes."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1840,
+    "editor": "Tracy Bennett",
+    "solution": "width",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about how wide something can be."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to measurement, often used in geometry."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's about the extent of something across its surface."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 745,
+    "editor": "Tracy Bennett",
+    "clue": "The slightest touch …",
+    "spangram": "HANDLEWITHCARE",
+    "themeWords": [
+      "DAINTY",
+      "DELICATE",
+      "FRAGILE",
+      "GOSSAMER",
+      "WISPY"
+    ],
+    "startingBoard": [
+      "ELNDGO",
+      "IHALES",
+      "GARFWS",
+      "TELEIA",
+      "ACIDTM",
+      "TYACHE",
+      "INRYWR",
+      "ADEPSI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2494,
+    "sides": [
+      "PRC",
+      "YAN",
+      "LKH",
+      "SIO"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CYCLOPS",
+      "SHARKSKIN"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23683,
+    "centerLetter": "t",
+    "outerLetters": "agilnz",
+    "pangrams": [
+      "initializing",
+      "tantalizing"
+    ],
+    "answers": [
+      "agita",
+      "agitating",
+      "alit",
+      "anti",
+      "atilt",
+      "attain",
+      "attaining",
+      "gait",
+      "gallant",
+      "gating",
+      "giant",
+      "gilt",
+      "glint",
+      "glinting",
+      "glitz",
+      "gnat",
+      "igniting",
+      "initial",
+      "initialing",
+      "initiating",
+      "lantana",
+      "ligating",
+      "lilt",
+      "lilting",
+      "lint",
+      "litigant",
+      "litigating",
+      "natal",
+      "natant",
+      "tagging",
+      "taiga",
+      "tail",
+      "tailgating",
+      "tailing",
+      "taint",
+      "tainting",
+      "tali",
+      "tall",
+      "tallit",
+      "tang",
+      "tangling",
+      "tannin",
+      "tanning",
+      "tatting",
+      "tattling",
+      "tiling",
+      "till",
+      "tilling",
+      "tilt",
+      "tilting",
+      "tinging",
+      "tingling",
+      "tinning",
+      "tint",
+      "tinting",
+      "titan",
+      "titillating",
+      "titling",
+      "ziti"
+    ],
+    "pangramHints": [
+      {
+        "word": "initializing",
+        "hint": "A word that suggests starting something up, full of letters."
+      },
+      {
+        "word": "tantalizing",
+        "hint": "This word teases the senses, promising something delightful."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

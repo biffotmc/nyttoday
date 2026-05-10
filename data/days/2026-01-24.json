@@ -1,0 +1,180 @@
+{
+  "date": "2026-01-24",
+  "fetchedAt": "2026-05-10T20:23:40.072Z",
+  "connections": {
+    "puzzleId": 1018,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GEAR FOR A BOXER",
+        "words": [
+          "GLOVES",
+          "MOUTHGUARD",
+          "ROBE",
+          "SHORTS"
+        ]
+      },
+      {
+        "title": "CHAMPIONSHIP",
+        "words": [
+          "AWARD",
+          "CROWN",
+          "CUP",
+          "TITLE"
+        ]
+      },
+      {
+        "title": "KINDS OF NECKLINES",
+        "words": [
+          "BOAT",
+          "CREW",
+          "HALTER",
+          "SCOOP"
+        ]
+      },
+      {
+        "title": "SNOW ___",
+        "words": [
+          "CONE",
+          "GLOBE",
+          "LEOPARD",
+          "PEA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you step into the ring, don’t forget your essentials; they’ll keep you safe and stylish.",
+      "In the arena of victory, the shiny symbols of success await those who dare to compete.",
+      "Fashion meets function in these styles that frame the face, each with its own charm.",
+      "A frosty twist on a classic treat, these names evoke both sweetness and winter wonder."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 775,
+    "editor": "Tracy Bennett",
+    "solution": "cliff",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a steep drop."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a rugged edge."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that might also refer to a challenging situation."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 861,
+    "editor": "Tracy Bennett",
+    "clue": "A work of art",
+    "spangram": "FAMOUSPAINTING",
+    "themeWords": [
+      "BOATING",
+      "LILIES",
+      "NIGHT",
+      "PARTY",
+      "STARRY",
+      "WATER"
+    ],
+    "startingBoard": [
+      "OUSPAI",
+      "MRRATN",
+      "AYLIST",
+      "FNILRI",
+      "ISEEGN",
+      "GYTTAW",
+      "HARBOA",
+      "TPGNIT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2608,
+    "sides": [
+      "MKP",
+      "ZET",
+      "INU",
+      "HCA"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "AZIMUTH",
+      "HENPECK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 13299,
+    "centerLetter": "e",
+    "outerLetters": "cfintu",
+    "pangrams": [
+      "fettuccine"
+    ],
+    "answers": [
+      "cent",
+      "cite",
+      "cute",
+      "cutie",
+      "effect",
+      "effete",
+      "efficient",
+      "ennui",
+      "entente",
+      "entice",
+      "feet",
+      "feint",
+      "fence",
+      "fete",
+      "fief",
+      "fife",
+      "fifteen",
+      "fine",
+      "finite",
+      "incite",
+      "inefficient",
+      "infect",
+      "infinite",
+      "innie",
+      "intent",
+      "nene",
+      "nice",
+      "niece",
+      "nine",
+      "nineteen",
+      "nite",
+      "teen",
+      "teff",
+      "tenet",
+      "tent",
+      "tine",
+      "tuffet",
+      "tune",
+      "tutee",
+      "unite",
+      "untie",
+      "untune"
+    ],
+    "pangramHints": [
+      {
+        "word": "fettuccine",
+        "hint": "A pasta with a twist, long and flat; think of a creamy dish."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

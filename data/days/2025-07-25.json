@@ -1,0 +1,180 @@
+{
+  "date": "2025-07-25",
+  "fetchedAt": "2026-05-10T20:11:16.985Z",
+  "connections": {
+    "puzzleId": 820,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "HUSH-HUSH",
+        "words": [
+          "MUM",
+          "PRIVATE",
+          "QUIET",
+          "SECRET"
+        ]
+      },
+      {
+        "title": "STATE ABBREVIATIONS",
+        "words": [
+          "IN",
+          "MA",
+          "OH",
+          "OK"
+        ]
+      },
+      {
+        "title": "BASEBALL CALLS",
+        "words": [
+          "BALL",
+          "FAIR",
+          "FOUL",
+          "OUT"
+        ]
+      },
+      {
+        "title": "QUEEN ___",
+        "words": [
+          "BED",
+          "BEE",
+          "MARY",
+          "MOTHER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Whispers in the dark, where secrets thrive and silence reigns.",
+      "Two letters can tell a tale of where you might be in the land of the free.",
+      "In the game of inches, listen closely to the calls that define the play.",
+      "A royal connection that hints at a regal presence, but what comes next?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2387,
+    "editor": "Tracy Bennett",
+    "solution": "gofer",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a helper in the workplace."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to someone who assists."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often associated with tasks, but not quite a full employee."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 676,
+    "editor": "Tracy Bennett",
+    "clue": "Step to it!",
+    "spangram": "DANCECLASS",
+    "themeWords": [
+      "CHOREOGRAPHY",
+      "COSTUME",
+      "MUSIC",
+      "RECITAL",
+      "TEACHER"
+    ],
+    "startingBoard": [
+      "ERCREM",
+      "CHIEUS",
+      "ATNTTO",
+      "EAPCAC",
+      "DCAHEL",
+      "HGRMYC",
+      "OOSUSL",
+      "REICSA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2425,
+    "sides": [
+      "MCE",
+      "RUL",
+      "PAI",
+      "TWD"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PRACTICUM",
+      "MILDEW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22532,
+    "centerLetter": "m",
+    "outerLetters": "ainotv",
+    "pangrams": [
+      "motivation"
+    ],
+    "answers": [
+      "amino",
+      "ammo",
+      "ammonia",
+      "amnio",
+      "anima",
+      "animation",
+      "atom",
+      "imam",
+      "imitation",
+      "intimation",
+      "maim",
+      "main",
+      "maintain",
+      "mama",
+      "mamma",
+      "mammon",
+      "mania",
+      "manna",
+      "manta",
+      "mini",
+      "minim",
+      "minima",
+      "minion",
+      "minivan",
+      "mint",
+      "mitt",
+      "moan",
+      "moat",
+      "momma",
+      "mono",
+      "monomania",
+      "moon",
+      "moot",
+      "motion",
+      "motto",
+      "nomination",
+      "omit",
+      "ottoman",
+      "tatami",
+      "tomato",
+      "tomtit",
+      "vitamin",
+      "vomit"
+    ],
+    "pangramHints": [
+      {
+        "word": "motivation",
+        "hint": "A driving force that gets you moving; think of what fuels your passion."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

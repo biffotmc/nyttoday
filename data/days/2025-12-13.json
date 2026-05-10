@@ -1,0 +1,176 @@
+{
+  "date": "2025-12-13",
+  "fetchedAt": "2026-05-10T20:20:52.691Z",
+  "connections": {
+    "puzzleId": 941,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "WIDE-LEGGED PANT STYLES",
+        "words": [
+          "CULOTTE",
+          "GAUCHO",
+          "HAREM",
+          "PALAZZO"
+        ]
+      },
+      {
+        "title": "SILENT \"T\"",
+        "words": [
+          "APOSTLE",
+          "DEPOT",
+          "MORTGAGE",
+          "POIROT"
+        ]
+      },
+      {
+        "title": "NEW YORK METS LEGENDS",
+        "words": [
+          "GOODEN",
+          "PIAZZA",
+          "SEAVER",
+          "STRAWBERRY"
+        ]
+      },
+      {
+        "title": "GREEK MYTHOLOGICAL FIGURES MINUS A LETTER",
+        "words": [
+          "AJA",
+          "ARE",
+          "HER",
+          "HERCULE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Think of styles that flow and dance around your legs, perfect for a warm day out.",
+      "Silent but deadly, these words hide a letter that often goes unnoticed.",
+      "Legends of the diamond, these names echo through the history of a beloved team.",
+      "Fabled figures from stories of old, just a letter away from their full glory."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2050,
+    "editor": "Tracy Bennett",
+    "solution": "miser",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word relates to someone who is not happy."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It starts with an 'm' and ends with 'er'."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a term for someone who is stingy or unhappy."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 817,
+    "editor": "Tracy Bennett",
+    "clue": "All over the place",
+    "spangram": "THATSWILD",
+    "themeWords": [
+      "CHAOTIC",
+      "DISORDERLY",
+      "STORMY",
+      "TUMULTUOUS",
+      "UNRULY"
+    ],
+    "startingBoard": [
+      "ULYCIT",
+      "RUTSAO",
+      "TNAIWH",
+      "EHDSIC",
+      "RDROYL",
+      "LYTMDO",
+      "OULURT",
+      "SUUMTS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2566,
+    "sides": [
+      "YEN",
+      "DWC",
+      "OIA",
+      "KTL"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "TAKEDOWN",
+      "NICELY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10690,
+    "centerLetter": "u",
+    "outerLetters": "dgnort",
+    "pangrams": [
+      "groundout"
+    ],
+    "answers": [
+      "donut",
+      "dour",
+      "drug",
+      "dugong",
+      "dugout",
+      "dung",
+      "dunno",
+      "gourd",
+      "gout",
+      "ground",
+      "grout",
+      "grunt",
+      "guru",
+      "noun",
+      "orotund",
+      "outdo",
+      "outdoor",
+      "outgo",
+      "outgun",
+      "outro",
+      "outrun",
+      "rotgut",
+      "rotund",
+      "round",
+      "rout",
+      "rung",
+      "runout",
+      "runt",
+      "tour",
+      "tout",
+      "trout",
+      "turn",
+      "turnout",
+      "tutor",
+      "tutu",
+      "udon",
+      "undo",
+      "unground",
+      "unto"
+    ],
+    "pangramHints": [
+      {
+        "word": "groundout",
+        "hint": "A term from baseball that captures a specific type of play."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

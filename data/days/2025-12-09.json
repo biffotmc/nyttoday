@@ -1,0 +1,187 @@
+{
+  "date": "2025-12-09",
+  "fetchedAt": "2026-05-10T20:20:37.103Z",
+  "connections": {
+    "puzzleId": 942,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BEAR IN MIND",
+        "words": [
+          "CONSIDER",
+          "COUNT",
+          "FACTOR",
+          "INCLUDE"
+        ]
+      },
+      {
+        "title": "STRIPED ANIMALS",
+        "words": [
+          "CLOWNFISH",
+          "HONEYBEE",
+          "TIGER",
+          "ZEBRA"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH RAINBOWS",
+        "words": [
+          "DOROTHY GALE",
+          "LEPRECHAUN",
+          "PRIDE",
+          "UNICORN"
+        ]
+      },
+      {
+        "title": "BEGINNING WITH NUMBER HOMOPHONES",
+        "words": [
+          "FIEVEL",
+          "FOREHEAD",
+          "TOUCAN",
+          "WONDER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Keep your thoughts organized; every piece counts in the grand scheme.",
+      "These creatures sport stripes, but their talents are anything but ordinary.",
+      "A journey through colors and myths; find the magic hidden within.",
+      "Words that sound alike but lead you on different paths; listen closely."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1036,
+    "editor": "Tracy Bennett",
+    "solution": "snide",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word has a sharp edge to it."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It describes a certain attitude that can be quite biting."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that conveys a sneering or contemptuous tone."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 814,
+    "editor": "Tracy Bennett",
+    "clue": "On the court",
+    "spangram": "BASKETBALL",
+    "themeWords": [
+      "BLOCK",
+      "DRIBBLE",
+      "DUNK",
+      "GUARD",
+      "JUMP",
+      "REBOUND",
+      "SCREEN"
+    ],
+    "startingBoard": [
+      "DBEROC",
+      "NOSKLK",
+      "UAKPEB",
+      "BNUDMT",
+      "SLJUBN",
+      "ACLAEB",
+      "RUREIB",
+      "DGDREL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2564,
+    "sides": [
+      "FIM",
+      "OLB",
+      "UKA",
+      "ENW"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WOEFUL",
+      "LAMBKIN"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23007,
+    "centerLetter": "l",
+    "outerLetters": "abcnor",
+    "pangrams": [
+      "cornball"
+    ],
+    "answers": [
+      "anal",
+      "annal",
+      "ball",
+      "balloon",
+      "banal",
+      "blab",
+      "blob",
+      "bloc",
+      "bola",
+      "boll",
+      "bolo",
+      "cabal",
+      "cabala",
+      "call",
+      "calla",
+      "callaloo",
+      "canal",
+      "cannonball",
+      "canola",
+      "carnal",
+      "carol",
+      "clan",
+      "cloaca",
+      "coal",
+      "cola",
+      "colcannon",
+      "collab",
+      "collar",
+      "colon",
+      "color",
+      "cool",
+      "coral",
+      "corolla",
+      "coronal",
+      "corral",
+      "labor",
+      "llano",
+      "loan",
+      "lobo",
+      "local",
+      "loco",
+      "loll",
+      "loon",
+      "nonlocal",
+      "oral",
+      "robocall",
+      "roll",
+      "rollbar"
+    ],
+    "pangramHints": [
+      {
+        "word": "cornball",
+        "hint": "A playful term that might remind you of a silly character."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

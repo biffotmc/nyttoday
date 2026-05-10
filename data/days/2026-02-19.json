@@ -1,0 +1,196 @@
+{
+  "date": "2026-02-19",
+  "fetchedAt": "2026-05-10T20:25:15.298Z",
+  "connections": {
+    "puzzleId": 1029,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EASTER SUPPLIES",
+        "words": [
+          "BASKET",
+          "DYE",
+          "EGGS",
+          "PEEPS"
+        ]
+      },
+      {
+        "title": "FIREPLACE ACCESSORIES",
+        "words": [
+          "BELLOWS",
+          "POKER",
+          "SHOVEL",
+          "TONGS"
+        ]
+      },
+      {
+        "title": "ELEMENTS OF \"SATURDAY NIGHT FEVER\"",
+        "words": [
+          "DISCO",
+          "JOHN TRAVOLTA",
+          "PLATFORM SHOES",
+          "POLYESTER SUIT"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF WAYS TO COOK SOMETHING",
+        "words": [
+          "BOYLE",
+          "BRAYS",
+          "SEER",
+          "STU"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A festive container awaits to hold colorful treasures, while a splash of color brings life to the season's symbols.",
+      "Tools of warmth and comfort, they work together to keep the flames alive and the hearth inviting.",
+      "Dance the night away in style, where fabric and rhythm collide, creating a vibe that’s hard to resist.",
+      "Sounds alike but serve different purposes; one simmers, another sizzles, and the last two are simply clever."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 981,
+    "editor": "Tracy Bennett",
+    "solution": "hoist",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of lifting something up."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This action might help you reach new heights."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a verb that describes raising or elevating, often used in a mechanical context."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 888,
+    "editor": "Tracy Bennett",
+    "clue": "Here's a thought",
+    "spangram": "EUREKA",
+    "themeWords": [
+      "CONCEPT",
+      "HYPOTHESIS",
+      "IDEA",
+      "NOTION",
+      "POSTULATE",
+      "THEORY"
+    ],
+    "startingBoard": [
+      "AEHECN",
+      "IDTSOC",
+      "HPOIPE",
+      "EYRSKT",
+      "PUTEOA",
+      "OHYNIT",
+      "SEORON",
+      "TULATE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2634,
+    "sides": [
+      "RLU",
+      "CNA",
+      "EHI",
+      "SZQ"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "CZAR",
+      "RELINQUISH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25278,
+    "centerLetter": "m",
+    "outerLetters": "acehit",
+    "pangrams": [
+      "mathematic",
+      "thematic"
+    ],
+    "answers": [
+      "acme",
+      "ahem",
+      "came",
+      "cami",
+      "chime",
+      "emaciate",
+      "emcee",
+      "emetic",
+      "emit",
+      "hamachi",
+      "hamate",
+      "hematite",
+      "heme",
+      "imam",
+      "imitate",
+      "item",
+      "mace",
+      "machete",
+      "mahatma",
+      "mahimahi",
+      "maim",
+      "mama",
+      "mamma",
+      "match",
+      "matcha",
+      "mate",
+      "math",
+      "matte",
+      "meat",
+      "mecca",
+      "meet",
+      "meme",
+      "memetic",
+      "meta",
+      "mete",
+      "meth",
+      "mica",
+      "mice",
+      "mime",
+      "mimetic",
+      "mimic",
+      "mite",
+      "mitt",
+      "tame",
+      "tatami",
+      "team",
+      "teammate",
+      "teatime",
+      "teem",
+      "them",
+      "theme",
+      "time",
+      "titmice"
+    ],
+    "pangramHints": [
+      {
+        "word": "mathematic",
+        "hint": "A systematic approach to numbers and logic, but don't spell it out!"
+      },
+      {
+        "word": "thematic",
+        "hint": "Relating to a central idea or motif, but keep it under wraps!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

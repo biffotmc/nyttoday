@@ -1,0 +1,179 @@
+{
+  "date": "2025-10-17",
+  "fetchedAt": "2026-05-10T20:17:07.379Z",
+  "connections": {
+    "puzzleId": 897,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "USED DURING A PRESENTATION",
+        "words": [
+          "CLICKER",
+          "LASER POINTER",
+          "PROJECTOR",
+          "SLIDES"
+        ]
+      },
+      {
+        "title": "ITEMS IN A SOUVENIR SHOP",
+        "words": [
+          "FIGURINE",
+          "KEY RING",
+          "MAGNET",
+          "POSTCARD"
+        ]
+      },
+      {
+        "title": "FOLKTALE CHARACTERS",
+        "words": [
+          "CHICKEN LITTLE",
+          "JACK",
+          "THUMBELINA",
+          "TOM THUMB"
+        ]
+      },
+      {
+        "title": "WEATHER TERMS",
+        "words": [
+          "BEAUFORT SCALE",
+          "DEWPOINT",
+          "HEAT INDEX",
+          "WIND CHILL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the lights dim and the audience stares, these gadgets help you share your flair.",
+      "Trinkets and treasures, small and bright, these tokens of travel capture delight.",
+      "In tales of wonder, they play their part, from tiny heroes to those with a brave heart.",
+      "Forecasts and metrics, they help us prepare, for the whims of the sky, with numbers to share."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1944,
+    "editor": "Tracy Bennett",
+    "solution": "gross",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might find in a messy kitchen."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe something unpleasant or unrefined."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a term that can refer to something that is not clean or is of poor quality."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 762,
+    "editor": "Tracy Bennett",
+    "clue": "Gait keeping",
+    "spangram": "SILLYWALKS",
+    "themeWords": [
+      "CAPER",
+      "CAVORT",
+      "GALUMPH",
+      "PRANCE",
+      "SCUTTLE",
+      "TRAIPSE"
+    ],
+    "startingBoard": [
+      "EPSIRP",
+      "RHALNA",
+      "PCLECT",
+      "MUYWRO",
+      "LAGACV",
+      "SCLRTA",
+      "TUKAES",
+      "TLESIP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2509,
+    "sides": [
+      "ZUO",
+      "AET",
+      "YQN",
+      "WIR"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "YOWZA",
+      "ANTIQUER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23395,
+    "centerLetter": "l",
+    "outerLetters": "beimoz",
+    "pangrams": [
+      "immobilize",
+      "mobilize"
+    ],
+    "answers": [
+      "belie",
+      "bell",
+      "belle",
+      "bezel",
+      "bible",
+      "bile",
+      "bill",
+      "blob",
+      "bloom",
+      "bobble",
+      "boil",
+      "boll",
+      "bolo",
+      "embezzle",
+      "emblem",
+      "immobile",
+      "libel",
+      "libelee",
+      "limb",
+      "limbo",
+      "lime",
+      "limo",
+      "lobe",
+      "lobo",
+      "loll",
+      "loom",
+      "melee",
+      "mile",
+      "mill",
+      "mobile",
+      "moil",
+      "mole",
+      "moll",
+      "oleo",
+      "olio",
+      "ollie"
+    ],
+    "pangramHints": [
+      {
+        "word": "immobilize",
+        "hint": "A word that means to make something unable to move; think of a car stuck in the mud."
+      },
+      {
+        "word": "mobilize",
+        "hint": "This term often relates to preparing for action; consider a rallying call."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

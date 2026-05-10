@@ -1,0 +1,180 @@
+{
+  "date": "2025-07-11",
+  "fetchedAt": "2026-05-10T20:10:39.510Z",
+  "connections": {
+    "puzzleId": 801,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TRADEMARKS THAT HAVE BECOME VERBS",
+        "words": [
+          "GOOGLE",
+          "PHOTOSHOP",
+          "UBER",
+          "ZOOM"
+        ]
+      },
+      {
+        "title": "SILLY PERSON",
+        "words": [
+          "DODO",
+          "GOOF",
+          "GOOSE",
+          "YAHOO"
+        ]
+      },
+      {
+        "title": "KINDS OF SONGS",
+        "words": [
+          "FOLK",
+          "LOVE",
+          "SIREN",
+          "SWAN"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF SYNONYMS FOR “DESPICABLE”",
+        "words": [
+          "FOWL",
+          "MIEN",
+          "OFFAL",
+          "VIAL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When a name becomes a verb, it’s often a sign of its power in the digital age. What actions do you take online?",
+      "These characters might not be the sharpest tools in the shed, but they sure know how to have a laugh!",
+      "From heartwarming melodies to tales of nature, these tunes resonate with the soul. What do you listen to?",
+      "When words sound alike but mean something quite different, the humor is in the mix. Can you hear the puns?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1796,
+    "editor": "Tracy Bennett",
+    "solution": "brand",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that represents a product or service."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with identity and recognition in business."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term that signifies a name used for marketing, often legally protected."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 661,
+    "editor": "Tracy Bennett",
+    "clue": "It could be verse",
+    "spangram": "POETRY",
+    "themeWords": [
+      "ACROSTIC",
+      "BALLAD",
+      "ELEGY",
+      "EPIC",
+      "HAIKU",
+      "LIMERICK",
+      "SONNET"
+    ],
+    "startingBoard": [
+      "UKIAHC",
+      "EGADAI",
+      "LYLLBP",
+      "EOETRE",
+      "PILACY",
+      "MSTECR",
+      "EONNIO",
+      "RICKTS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2411,
+    "sides": [
+      "AIE",
+      "RTK",
+      "MUL",
+      "BOH"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "KILOMETER",
+      "RHUBARB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21389,
+    "centerLetter": "o",
+    "outerLetters": "aeflpw",
+    "pangrams": [
+      "peafowl"
+    ],
+    "answers": [
+      "allow",
+      "aloe",
+      "aloof",
+      "elope",
+      "falloff",
+      "fallow",
+      "fellow",
+      "floe",
+      "flop",
+      "flow",
+      "foal",
+      "follow",
+      "fool",
+      "fowl",
+      "loaf",
+      "loll",
+      "lollop",
+      "loofa",
+      "loop",
+      "lope",
+      "offal",
+      "oleo",
+      "opal",
+      "paleo",
+      "people",
+      "plop",
+      "plow",
+      "pole",
+      "poll",
+      "polo",
+      "poof",
+      "pool",
+      "poop",
+      "pope",
+      "poppa",
+      "powwow",
+      "wallop",
+      "wallow",
+      "wolf",
+      "woof",
+      "wool"
+    ],
+    "pangramHints": [
+      {
+        "word": "peafowl",
+        "hint": "A colorful bird that struts its stuff with a stunning display; think of royalty in nature."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

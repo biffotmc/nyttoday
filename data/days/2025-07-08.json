@@ -1,0 +1,184 @@
+{
+  "date": "2025-07-08",
+  "fetchedAt": "2026-05-10T20:10:38.187Z",
+  "connections": {
+    "puzzleId": 795,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LIAISON",
+        "words": [
+          "AFFAIR",
+          "FLING",
+          "RELATIONS",
+          "THING"
+        ]
+      },
+      {
+        "title": "SEEN IN A LOCKER ROOM",
+        "words": [
+          "BENCH",
+          "LOCKER",
+          "MIRROR",
+          "SCALE"
+        ]
+      },
+      {
+        "title": "SOMETHING ENTERED FOR ACCESS",
+        "words": [
+          "CODE",
+          "KEY",
+          "PASSWORD",
+          "PIN"
+        ]
+      },
+      {
+        "title": "JOHNS",
+        "words": [
+          "CANDY",
+          "CARPENTER",
+          "LEGEND",
+          "MAJOR"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A clandestine encounter can lead to unexpected connections; think of fleeting moments.",
+      "In the realm of sports, reflections and measurements can reveal more than just scores.",
+      "Unlocking secrets often requires a special touch; think of the keys that grant access.",
+      "Famous figures share a common surname, but their legacies are anything but ordinary."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1359,
+    "editor": "Tracy Bennett",
+    "solution": "dread",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A feeling that lingers, often unwelcome."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests a sense of fear or apprehension."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a five-letter word that captures a heavy emotion."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 658,
+    "editor": "Tracy Bennett",
+    "clue": "So extra",
+    "spangram": "SPARES",
+    "themeWords": [
+      "BEDROOM",
+      "CHANGE",
+      "HANDS",
+      "KEYS",
+      "MOMENT",
+      "PARTS",
+      "TIME",
+      "TIRES"
+    ],
+    "startingBoard": [
+      "SYEKES",
+      "MOCHAR",
+      "ETOGNI",
+      "MIRBET",
+      "SPDEES",
+      "NAARME",
+      "DHPMON",
+      "SARTST"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2408,
+    "sides": [
+      "CTO",
+      "IAD",
+      "HLM",
+      "FUS"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FISCAL",
+      "LOUDMOUTH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18031,
+    "centerLetter": "o",
+    "outerLetters": "adintx",
+    "pangrams": [
+      "antioxidant",
+      "oxidant",
+      "oxidation"
+    ],
+    "answers": [
+      "addition",
+      "anion",
+      "annatto",
+      "annotation",
+      "anoint",
+      "anon",
+      "anoxia",
+      "antitoxin",
+      "axon",
+      "dino",
+      "dioxin",
+      "ditto",
+      "dodo",
+      "donation",
+      "doodad",
+      "doxx",
+      "idiot",
+      "initiation",
+      "into",
+      "intonation",
+      "iota",
+      "nation",
+      "noon",
+      "notation",
+      "notion",
+      "onion",
+      "onto",
+      "tattoo",
+      "taxation",
+      "taxon",
+      "toad",
+      "toon",
+      "toot",
+      "toxin"
+    ],
+    "pangramHints": [
+      {
+        "word": "antioxidant",
+        "hint": "A substance that fights against the harmful effects of oxidation."
+      },
+      {
+        "word": "oxidant",
+        "hint": "Think of what causes rust; it’s a key player in chemical reactions."
+      },
+      {
+        "word": "oxidation",
+        "hint": "This process often involves the loss of electrons; essential in chemistry."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

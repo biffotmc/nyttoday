@@ -1,0 +1,191 @@
+{
+  "date": "2025-08-03",
+  "fetchedAt": "2026-05-10T20:11:52.088Z",
+  "connections": {
+    "puzzleId": 822,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EMULATE",
+        "words": [
+          "COPY",
+          "ECHO",
+          "MIRROR",
+          "PARROT"
+        ]
+      },
+      {
+        "title": "SPORTS",
+        "words": [
+          "CRICKET",
+          "GOLF",
+          "POLO",
+          "SQUASH"
+        ]
+      },
+      {
+        "title": "MANIA",
+        "words": [
+          "BUG",
+          "CRAZE",
+          "FAD",
+          "FEVER"
+        ]
+      },
+      {
+        "title": "SINGLE ANIMAL IN A CREATIVELY SPELLED BAND NAME",
+        "words": [
+          "BEETLE",
+          "BIRD",
+          "GORILLA",
+          "MONKEY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Imitate, don't create; these words reflect back in their own unique ways.",
+      "A game of precision and skill, where the ball dances on green fields and courts.",
+      "Fleeting trends that capture hearts and minds, often in a whirlwind of excitement.",
+      "A creature's name that swings through melodies, with a twist in its title."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1627,
+    "editor": "Tracy Bennett",
+    "solution": "lumpy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that isn't flat."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a texture that can be bumpy."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often used to describe a lumpy surface or form."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 684,
+    "editor": "Tracy Bennett",
+    "clue": "\"Sorry, didn't catch that\"",
+    "spangram": "SPORTSGOOF",
+    "themeWords": [
+      "BLOOPER",
+      "BOBBLE",
+      "ERROR",
+      "FAULT",
+      "FUMBLE",
+      "MUFF",
+      "WHIFF"
+    ],
+    "startingBoard": [
+      "ALEMFE",
+      "UFBURR",
+      "LORTSO",
+      "TPBLGR",
+      "SROELO",
+      "EOFBFO",
+      "PFWBOB",
+      "UMHIFF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2434,
+    "sides": [
+      "CBT",
+      "RYL",
+      "AHG",
+      "SZM"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "GRABS",
+      "SCHMALTZY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23197,
+    "centerLetter": "e",
+    "outerLetters": "aglnoy",
+    "pangrams": [
+      "genealogy"
+    ],
+    "answers": [
+      "aeon",
+      "agelong",
+      "algae",
+      "allege",
+      "allele",
+      "alley",
+      "aloe",
+      "alone",
+      "angel",
+      "angle",
+      "anneal",
+      "anyone",
+      "eagle",
+      "eely",
+      "eggnog",
+      "eggy",
+      "elan",
+      "elegy",
+      "engage",
+      "gage",
+      "gaggle",
+      "gale",
+      "galleon",
+      "galley",
+      "gelee",
+      "gene",
+      "geology",
+      "glean",
+      "glee",
+      "glen",
+      "goggle",
+      "gone",
+      "gooey",
+      "google",
+      "lane",
+      "lean",
+      "leanly",
+      "legal",
+      "legally",
+      "leggy",
+      "loge",
+      "lone",
+      "lonely",
+      "nene",
+      "neon",
+      "noel",
+      "none",
+      "oenology",
+      "ogee",
+      "ogle",
+      "oleo",
+      "yell"
+    ],
+    "pangramHints": [
+      {
+        "word": "genealogy",
+        "hint": "A study of family trees; it's all about the roots."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

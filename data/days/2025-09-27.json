@@ -1,0 +1,167 @@
+{
+  "date": "2025-09-27",
+  "fetchedAt": "2026-05-10T20:15:53.084Z",
+  "connections": {
+    "puzzleId": 877,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LOVING",
+        "words": [
+          "KIND",
+          "SWEET",
+          "TENDER",
+          "WARM"
+        ]
+      },
+      {
+        "title": "APPENDAGES",
+        "words": [
+          "ARM",
+          "FIN",
+          "FLIPPER",
+          "WING"
+        ]
+      },
+      {
+        "title": "POPCORN-MAKING METHODS",
+        "words": [
+          "KETTLE",
+          "MICROWAVE",
+          "POPPER",
+          "STOVETOP"
+        ]
+      },
+      {
+        "title": "SQUANDER, WITH “AWAY”",
+        "words": [
+          "FIDDLE",
+          "FRITTER",
+          "THROW",
+          "TRIFLE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A gentle embrace of affection, where warmth wraps around like a cozy blanket.",
+      "Nature's tools for movement, each uniquely designed for their aquatic or aerial adventures.",
+      "The art of popping, with methods that bring kernels to life in various ways.",
+      "To waste time with a playful spirit, tossing away moments like confetti."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 779,
+    "editor": "Tracy Bennett",
+    "solution": "fritz",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a name often associated with a clever trickster."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a type of cheese."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with an 'f' and ends with a 'z', often used in playful contexts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 740,
+    "editor": "Tracy Bennett",
+    "clue": "Mum's the word",
+    "spangram": "PIPEDOWN",
+    "themeWords": [
+      "HUSHED",
+      "INAUDIBLE",
+      "MUTED",
+      "NOISELESS",
+      "QUIET",
+      "SILENT"
+    ],
+    "startingBoard": [
+      "IUPDEN",
+      "EQIUTO",
+      "TUPMSI",
+      "DAESSE",
+      "IBNDEL",
+      "ELIOTN",
+      "SUHWES",
+      "HEDNLI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2489,
+    "sides": [
+      "RSH",
+      "MDN",
+      "OIY",
+      "ABC"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CHARISMA",
+      "ANYBODY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26561,
+    "centerLetter": "l",
+    "outerLetters": "ceimny",
+    "pangrams": [
+      "inclemency"
+    ],
+    "answers": [
+      "cell",
+      "celli",
+      "cicely",
+      "clemency",
+      "clime",
+      "clinic",
+      "cycle",
+      "cyclic",
+      "eely",
+      "icicle",
+      "icily",
+      "illy",
+      "incline",
+      "lenience",
+      "leniency",
+      "lice",
+      "lien",
+      "lily",
+      "lime",
+      "limn",
+      "line",
+      "linemen",
+      "linen",
+      "melee",
+      "mile",
+      "mill",
+      "myelin",
+      "nicely",
+      "yell"
+    ],
+    "pangramHints": [
+      {
+        "word": "inclemency",
+        "hint": "A state of harsh weather, often associated with storms."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "date": "2025-12-12",
+  "fetchedAt": "2026-05-10T20:20:48.470Z",
+  "connections": {
+    "puzzleId": 962,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CONTAIN",
+        "words": [
+          "HOLD",
+          "HOUSE",
+          "KEEP",
+          "STORE"
+        ]
+      },
+      {
+        "title": "MOVE IN THE WIND",
+        "words": [
+          "BLOW",
+          "FLAP",
+          "SWAY",
+          "WAVE"
+        ]
+      },
+      {
+        "title": "VEGETABLE UNITS",
+        "words": [
+          "BULB",
+          "EAR",
+          "HEAD",
+          "SPEAR"
+        ]
+      },
+      {
+        "title": "THINGS THAT ARE DIVIDED INTO TWELVE SEGMENTS",
+        "words": [
+          "CLOCK",
+          "FOOT",
+          "YEAR",
+          "ZODIAC"
+        ]
+      }
+    ],
+    "groupHints": [
+      "What you do when you want to keep something safe or allow it to rest.",
+      "These actions can make a flag dance or a kite soar.",
+      "Think of the parts of a plant that can be eaten, often found in a garden.",
+      "Consider the segments of time, distance, or even the stars."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2074,
+    "editor": "Tracy Bennett",
+    "solution": "truck",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a vehicle often associated with heavy loads."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word rhymes with 'luck' and is essential for transport."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a common mode of transport, often seen on highways."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 816,
+    "editor": "Tracy Bennett",
+    "clue": "Shakespearean titles",
+    "spangram": "THEBARD",
+    "themeWords": [
+      "MERCHANT",
+      "MERRY",
+      "MIDSUMMER",
+      "SHREW",
+      "TEMPEST",
+      "TWELFTH"
+    ],
+    "startingBoard": [
+      "RMUTSE",
+      "EMSMPW",
+      "MIDETE",
+      "THESHR",
+      "EMBARD",
+      "RCHMHT",
+      "NAEYWF",
+      "TRRTEL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2561,
+    "sides": [
+      "OBD",
+      "IUE",
+      "GTP",
+      "VRL"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "UPVOTED",
+      "DIRIGIBLE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18867,
+    "centerLetter": "a",
+    "outerLetters": "gilnoz",
+    "pangrams": [
+      "analogizing",
+      "gazillion"
+    ],
+    "answers": [
+      "again",
+      "aging",
+      "agog",
+      "agonizing",
+      "ailing",
+      "aioli",
+      "alga",
+      "algal",
+      "align",
+      "aligning",
+      "along",
+      "anal",
+      "analog",
+      "angina",
+      "angling",
+      "anion",
+      "annal",
+      "anon",
+      "gaga",
+      "gagging",
+      "gain",
+      "gaining",
+      "gala",
+      "galangal",
+      "gall",
+      "galling",
+      "gallon",
+      "gang",
+      "ganging",
+      "ganglia",
+      "gangling",
+      "ganglion",
+      "gazing",
+      "glazing",
+      "glia",
+      "goal",
+      "gonna",
+      "lagging",
+      "lagoon",
+      "lain",
+      "lanai",
+      "lanolin",
+      "lazing",
+      "llano",
+      "loan",
+      "loaning",
+      "loggia",
+      "longan",
+      "naan",
+      "nagging",
+      "nail",
+      "nailing",
+      "nana",
+      "nonagon",
+      "nonagonal",
+      "zagging",
+      "zigzag",
+      "zigzagging",
+      "zinnia",
+      "zonal"
+    ],
+    "pangramHints": [
+      {
+        "word": "analogizing",
+        "hint": "A lengthy process of comparison; think of making connections."
+      },
+      {
+        "word": "gazillion",
+        "hint": "An immense quantity; imagine counting stars."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

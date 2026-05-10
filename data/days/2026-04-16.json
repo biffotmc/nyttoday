@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-16",
+  "fetchedAt": "2026-05-10T20:29:12.689Z",
+  "connections": {
+    "puzzleId": 1120,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TEASE",
+        "words": [
+          "NEEDLE",
+          "RIB",
+          "RIDE",
+          "ROAST"
+        ]
+      },
+      {
+        "title": "THERMOSTAT SETTINGS",
+        "words": [
+          "AUTO",
+          "COOL",
+          "FAN",
+          "HEAT"
+        ]
+      },
+      {
+        "title": "FEATURES OF A CATWOMAN COSTUME",
+        "words": [
+          "BODYSUIT",
+          "CLAWS",
+          "MASK",
+          "WHIP"
+        ]
+      },
+      {
+        "title": "TRAINING ___",
+        "words": [
+          "BRA",
+          "CAMP",
+          "DAY",
+          "WHEELS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A pointy companion for your sewing kit, a ride that can be quite a thrill, and something that can get too hot to handle.",
+      "A device that keeps things comfortable, whether you're chilling out or warming up, with a setting for every mood.",
+      "A sleek outfit that transforms you into a feline femme fatale, complete with sharp accessories and a mysterious visage.",
+      "A place where you might learn to support your upper half, or perhaps a gathering for those who want to get fit and agile."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2363,
+    "editor": "Tracy Bennett",
+    "solution": "cubit",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a geometric shape that’s often used in construction."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This term is related to dimensions and can be found in math."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that starts with 'c' and ends with 't', often associated with measuring."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 948,
+    "editor": "Tracy Bennett",
+    "clue": "This is not working",
+    "spangram": "JUSTFORFUN",
+    "themeWords": [
+      "HOBBY",
+      "INTEREST",
+      "PASTIME",
+      "RECREATION",
+      "SIDELINE"
+    ],
+    "startingBoard": [
+      "JRHONO",
+      "NUEYBI",
+      "IESCBT",
+      "TLNTRA",
+      "ISEUFE",
+      "MAPDFO",
+      "ETSEIR",
+      "INTERS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2690,
+    "sides": [
+      "AMN",
+      "ILB",
+      "JSH",
+      "UYP"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "NINJAS",
+      "SUBPHYLUM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24646,
+    "centerLetter": "f",
+    "outerLetters": "agilnt",
+    "pangrams": [
+      "affiliating",
+      "flatlining",
+      "inflating"
+    ],
+    "answers": [
+      "affiant",
+      "alfalfa",
+      "antifa",
+      "fail",
+      "failing",
+      "faint",
+      "fainting",
+      "fall",
+      "falling",
+      "fang",
+      "fanning",
+      "fantail",
+      "fatal",
+      "fating",
+      "fiat",
+      "fifing",
+      "filial",
+      "filing",
+      "fill",
+      "filling",
+      "finagling",
+      "final",
+      "finial",
+      "fining",
+      "fitting",
+      "flag",
+      "flagging",
+      "flail",
+      "flailing",
+      "flan",
+      "flanging",
+      "flat",
+      "fling",
+      "flinging",
+      "flint",
+      "flit",
+      "flitting",
+      "gaff",
+      "gift",
+      "gifting",
+      "infant",
+      "infill",
+      "infilling",
+      "lift",
+      "lifting",
+      "naif",
+      "tiff"
+    ],
+    "pangramHints": [
+      {
+        "word": "affiliating",
+        "hint": "A word that captures the essence of connection and partnership."
+      },
+      {
+        "word": "flatlining",
+        "hint": "A term often used in medical contexts, but can also describe a lack of change."
+      },
+      {
+        "word": "inflating",
+        "hint": "Think of what happens to a balloon when you blow it up."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

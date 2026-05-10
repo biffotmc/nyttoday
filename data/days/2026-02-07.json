@@ -1,0 +1,179 @@
+{
+  "date": "2026-02-07",
+  "fetchedAt": "2026-05-10T20:24:28.477Z",
+  "connections": {
+    "puzzleId": 1040,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PIPS ON A DIE",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "SYMBOLS USED IN ARITHMETIC",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "PUNCTUATION MARKS",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "LOWERCASE LETTERS",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a game of chance, these little dots can make or break your luck. Count them carefully!",
+      "Mathematical symbols that help you calculate your way through life. They’re more than just lines and curves.",
+      "These marks add clarity to our written thoughts, guiding readers through pauses and excitement.",
+      "The building blocks of our alphabet, small yet mighty, each with its own unique flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1443,
+    "editor": "Tracy Bennett",
+    "solution": "bleat",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a sound made by a farm animal."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a type of vocalization."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with a 'b' and ends with a 't', often associated with sheep."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 876,
+    "editor": "Tracy Bennett",
+    "clue": "Boo-o-o-o-ring",
+    "spangram": "WATCHINGPAINTDRY",
+    "themeWords": [
+      "DREARY",
+      "DULL",
+      "HUMDRUM",
+      "MUNDANE",
+      "TIRESOME"
+    ],
+    "startingBoard": [
+      "INGPAI",
+      "HDRRYN",
+      "CEAMOT",
+      "TULESD",
+      "ADLEHR",
+      "WDARUY",
+      "UNNIUM",
+      "METMRD"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2622,
+    "sides": [
+      "YEI",
+      "KOQ",
+      "VUR",
+      "SAC"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "VICEROYS",
+      "SQUEAK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 13993,
+    "centerLetter": "y",
+    "outerLetters": "aioprt",
+    "pangrams": [
+      "propitiatory",
+      "topiary"
+    ],
+    "answers": [
+      "airy",
+      "apiary",
+      "array",
+      "arroyo",
+      "arty",
+      "itty",
+      "oaty",
+      "oratory",
+      "papaya",
+      "pappy",
+      "papyri",
+      "parity",
+      "parry",
+      "party",
+      "patty",
+      "pity",
+      "poppy",
+      "portray",
+      "potty",
+      "pray",
+      "priority",
+      "priory",
+      "pyro",
+      "rarity",
+      "ratty",
+      "ropy",
+      "rotary",
+      "rotatory",
+      "tarry",
+      "tatty",
+      "tippy",
+      "tray",
+      "trippy",
+      "troy",
+      "typo",
+      "tyro",
+      "yappy"
+    ],
+    "pangramHints": [
+      {
+        "word": "propitiatory",
+        "hint": "A word that suggests appeasement; think of making amends."
+      },
+      {
+        "word": "topiary",
+        "hint": "This word refers to a garden art form; think of trimming greens into shapes."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

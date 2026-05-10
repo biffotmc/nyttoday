@@ -1,0 +1,187 @@
+{
+  "date": "2025-05-30",
+  "fetchedAt": "2026-05-10T20:10:20.340Z",
+  "connections": {
+    "puzzleId": 760,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "RODS",
+        "words": [
+          "BAT",
+          "CLUB",
+          "STAFF",
+          "STICK"
+        ]
+      },
+      {
+        "title": "THEY'RE ON A ROLL!",
+        "words": [
+          "FOIL",
+          "RIBBON",
+          "TAPE",
+          "TOILET PAPER"
+        ]
+      },
+      {
+        "title": "COMMON SWAG ITEMS",
+        "words": [
+          "HAT",
+          "TEE",
+          "TOTE",
+          "WATER BOTTLE"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE “SHACK”",
+        "words": [
+          "CADDY",
+          "LOVE",
+          "RADIO",
+          "SHAKE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These items might help you hit a home run, but don't swing too hard!",
+      "Wrap it up, but be careful not to get tangled in the fun.",
+      "Fashion meets function in these everyday essentials that keep you cool.",
+      "Before you settle in, consider what might precede a cozy retreat."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1492,
+    "editor": "Tracy Bennett",
+    "solution": "idiom",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a phrase that captures a common expression."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word often reflects a figurative meaning."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term used frequently in language to convey ideas indirectly."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 620,
+    "editor": "Tracy Bennett",
+    "clue": "And here's the kicker ...",
+    "spangram": "SOCCER",
+    "themeWords": [
+      "DEFENDER",
+      "FORWARD",
+      "GOALKEEPER",
+      "MIDFIELDER",
+      "STRIKER"
+    ],
+    "startingBoard": [
+      "ELDESR",
+      "RIFRTI",
+      "EDIRKG",
+      "PMEELO",
+      "SECKEA",
+      "FOFCWR",
+      "EEDORA",
+      "NDERDR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2370,
+    "sides": [
+      "HZU",
+      "IQT",
+      "LPN",
+      "CAE"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUETZAL",
+      "LINCHPIN"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24466,
+    "centerLetter": "i",
+    "outerLetters": "bcdeno",
+    "pangrams": [
+      "obedience"
+    ],
+    "answers": [
+      "bide",
+      "bided",
+      "bind",
+      "bindi",
+      "binned",
+      "biocide",
+      "bionic",
+      "bobbin",
+      "bocci",
+      "bodice",
+      "bodied",
+      "cocci",
+      "codeine",
+      "coin",
+      "coincide",
+      "coincided",
+      "coincidence",
+      "coined",
+      "conic",
+      "decide",
+      "decided",
+      "deice",
+      "deiced",
+      "deicide",
+      "denied",
+      "dice",
+      "diced",
+      "died",
+      "dine",
+      "dined",
+      "dino",
+      "diode",
+      "doobie",
+      "ecocide",
+      "eddied",
+      "iced",
+      "icon",
+      "iconic",
+      "incidence",
+      "indeed",
+      "indie",
+      "innie",
+      "innocence",
+      "iodide",
+      "iodine",
+      "ionic",
+      "nice",
+      "niece",
+      "nine",
+      "onion"
+    ],
+    "pangramHints": [
+      {
+        "word": "obedience",
+        "hint": "A quality that often brings harmony, but never say it outright!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

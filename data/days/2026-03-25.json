@@ -1,0 +1,192 @@
+{
+  "date": "2026-03-25",
+  "fetchedAt": "2026-05-10T20:27:47.592Z",
+  "connections": {
+    "puzzleId": 1101,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "OBFUSCATE",
+        "words": [
+          "BLUR",
+          "CLOUD",
+          "MUDDY",
+          "OBSCURE"
+        ]
+      },
+      {
+        "title": "MAGAZINES",
+        "words": [
+          "FORTUNE",
+          "PEOPLE",
+          "SPIN",
+          "TIME"
+        ]
+      },
+      {
+        "title": "PAYMENT METHODS",
+        "words": [
+          "CASH",
+          "CHARGE",
+          "CHECK",
+          "WIRE"
+        ]
+      },
+      {
+        "title": "UNITS OF VOLUME WITH LAST LETTER CHANGED",
+        "words": [
+          "CUR",
+          "GALLOP",
+          "PING",
+          "QUARK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Things can get a bit hazy when you mix them up, but clarity is just around the corner.",
+      "These pages turn with stories that capture the essence of life and fame.",
+      "When it's time to settle a score, these methods will get you there, one way or another.",
+      "Change a letter and you'll find yourself in a world of measurement, where every drop counts."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2203,
+    "editor": "Tracy Bennett",
+    "solution": "wiser",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of someone who has learned from experience."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests a level of understanding or insight."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with being more knowledgeable or judicious."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 926,
+    "editor": "Tracy Bennett",
+    "clue": "Intermission mission",
+    "spangram": "CONCESSIONS",
+    "themeWords": [
+      "BEER",
+      "CANDY",
+      "FRIES",
+      "POPCORN",
+      "PRETZEL",
+      "SODA",
+      "WATER"
+    ],
+    "startingBoard": [
+      "SICOER",
+      "EORSNT",
+      "PPFOCA",
+      "NCADEW",
+      "ROSSCE",
+      "RINAZL",
+      "EODYPT",
+      "EBNSRE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2668,
+    "sides": [
+      "LCR",
+      "EOB",
+      "KGM",
+      "ZHA"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "HOGBACK",
+      "KLEZMER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17121,
+    "centerLetter": "l",
+    "outerLetters": "einpty",
+    "pangrams": [
+      "ineptly",
+      "penitently"
+    ],
+    "answers": [
+      "eely",
+      "elite",
+      "entitle",
+      "eyelet",
+      "illy",
+      "inlet",
+      "intel",
+      "intently",
+      "lenient",
+      "leniently",
+      "lenity",
+      "lent",
+      "lentil",
+      "lien",
+      "lilt",
+      "lily",
+      "line",
+      "linen",
+      "linnet",
+      "lint",
+      "lintel",
+      "linty",
+      "lippy",
+      "lite",
+      "little",
+      "nettle",
+      "nipple",
+      "peel",
+      "pellet",
+      "pelt",
+      "penile",
+      "pettily",
+      "pile",
+      "pill",
+      "pipeline",
+      "plenty",
+      "plie",
+      "teletype",
+      "tell",
+      "tile",
+      "till",
+      "tilt",
+      "tinily",
+      "tipple",
+      "title",
+      "tittle",
+      "yell",
+      "yelp"
+    ],
+    "pangramHints": [
+      {
+        "word": "ineptly",
+        "hint": "A clumsy way to do something, but all letters are here."
+      },
+      {
+        "word": "penitently",
+        "hint": "A word that conveys remorse, packed with every letter you need."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2026-02-12",
+  "fetchedAt": "2026-05-10T20:24:48.755Z",
+  "connections": {
+    "puzzleId": 1034,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CONSTRUCT",
+        "words": [
+          "FORM",
+          "MAKE",
+          "MOLD",
+          "PRODUCE"
+        ]
+      },
+      {
+        "title": "FIXED IN PLACE",
+        "words": [
+          "FAST",
+          "FIRM",
+          "FROZEN",
+          "TIGHT"
+        ]
+      },
+      {
+        "title": "MLB PLAYER, FOR SHORT",
+        "words": [
+          "A",
+          "CARD",
+          "JAY",
+          "YANK"
+        ]
+      },
+      {
+        "title": "___ QUEEN",
+        "words": [
+          "DAIRY",
+          "DANCING",
+          "DRAG",
+          "MAY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Crafting can take many forms, but one thing is certain: creation is at the heart of it all.",
+      "When something is secured, it’s not going anywhere; think of the strength that binds.",
+      "In the world of baseball, initials can tell you a lot about the players, especially the greats.",
+      "A regal title often precedes a performance; think of the spotlight and the stage."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1984,
+    "editor": "Tracy Bennett",
+    "solution": "surge",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It’s a sudden increase or a wave."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a rush of energy or movement."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe both a physical and emotional rise."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 881,
+    "editor": "Tracy Bennett",
+    "clue": "Sink or swim",
+    "spangram": "HIGHSTAKES",
+    "themeWords": [
+      "CRITICAL",
+      "DECISIVE",
+      "IMPERATIVE",
+      "PIVOTAL",
+      "RISKY"
+    ],
+    "startingBoard": [
+      "MPHECE",
+      "IEIVID",
+      "ARGISL",
+      "TEHSAI",
+      "IVRTCT",
+      "KSIAKI",
+      "YPOAER",
+      "IVTLSC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2627,
+    "sides": [
+      "RMW",
+      "LEV",
+      "PCT",
+      "OSI"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "WIMP",
+      "PROCLIVITIES"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23802,
+    "centerLetter": "n",
+    "outerLetters": "afmort",
+    "pangrams": [
+      "frontman"
+    ],
+    "answers": [
+      "affront",
+      "annatto",
+      "annotator",
+      "anon",
+      "arrant",
+      "font",
+      "footman",
+      "front",
+      "mammon",
+      "manna",
+      "manor",
+      "manta",
+      "mantra",
+      "maroon",
+      "matron",
+      "moan",
+      "mono",
+      "moon",
+      "moonroof",
+      "morn",
+      "moron",
+      "naan",
+      "nana",
+      "narrator",
+      "natant",
+      "nonart",
+      "nonfat",
+      "noon",
+      "norm",
+      "notator",
+      "onto",
+      "ottoman",
+      "rant",
+      "rattan",
+      "roan",
+      "tantara",
+      "tantra",
+      "tartan",
+      "toon",
+      "torn"
+    ],
+    "pangramHints": [
+      {
+        "word": "frontman",
+        "hint": "A leading figure often takes center stage, but remember, it's not just about the voice."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

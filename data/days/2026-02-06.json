@@ -1,0 +1,199 @@
+{
+  "date": "2026-02-06",
+  "fetchedAt": "2026-05-10T20:24:24.504Z",
+  "connections": {
+    "puzzleId": 1017,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ITEMS AT A COFFEE STATION",
+        "words": [
+          "CUP",
+          "LID",
+          "STIRRER",
+          "STRAW"
+        ]
+      },
+      {
+        "title": "THINGS WITH STRIPES",
+        "words": [
+          "CANDY CANE",
+          "CROSSWALK",
+          "REFEREE",
+          "TIGER"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"FLY\" IN INSECT NAMES",
+        "words": [
+          "BUTTER",
+          "DRAGON",
+          "FIRE",
+          "HORSE"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF GREETINGS",
+        "words": [
+          "CHOW",
+          "HAY",
+          "HIGH",
+          "YEOH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you brew your favorite blend, these companions are essential for sipping and savoring.",
+      "These items share a common theme of bold patterns, often seen in nature and design.",
+      "These words precede a common flying creature, hinting at the beauty of transformation.",
+      "These playful sounds mimic friendly encounters, each with its own unique flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 944,
+    "editor": "Tracy Bennett",
+    "solution": "gavel",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a tool used in legal settings."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to strike or hit."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with 'travel' and is often found in courtrooms."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 875,
+    "editor": "Tracy Bennett",
+    "clue": "Let's face it",
+    "spangram": "FEATURES",
+    "themeWords": [
+      "BROWS",
+      "CHEEKS",
+      "EYES",
+      "FOREHEAD",
+      "HAIRLINE",
+      "MOUTH",
+      "NOSE"
+    ],
+    "startingBoard": [
+      "SRBSRL",
+      "WOEIIN",
+      "KEERAE",
+      "SHUHER",
+      "YCSTHO",
+      "EEADEF",
+      "HUMEAE",
+      "TOFNOS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2621,
+    "sides": [
+      "KCO",
+      "WNR",
+      "ISJ",
+      "EAU"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "KINKAJOU",
+      "UNSCREW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 14874,
+    "centerLetter": "e",
+    "outerLetters": "acgimn",
+    "pangrams": [
+      "menacing"
+    ],
+    "answers": [
+      "acme",
+      "acne",
+      "ageing",
+      "amen",
+      "anemia",
+      "anemic",
+      "anime",
+      "cage",
+      "came",
+      "cane",
+      "canine",
+      "cinema",
+      "egging",
+      "emcee",
+      "emceeing",
+      "eminence",
+      "encage",
+      "encaging",
+      "enema",
+      "engage",
+      "engaging",
+      "engine",
+      "enigma",
+      "gage",
+      "game",
+      "gamine",
+      "gene",
+      "genie",
+      "genii",
+      "gimme",
+      "iceman",
+      "icemen",
+      "image",
+      "imagine",
+      "imminence",
+      "inane",
+      "innie",
+      "mace",
+      "mage",
+      "manage",
+      "mane",
+      "mange",
+      "mean",
+      "meanie",
+      "meaning",
+      "mecca",
+      "mega",
+      "meme",
+      "meming",
+      "menace",
+      "mice",
+      "mien",
+      "mime",
+      "mince",
+      "mine",
+      "name",
+      "nene",
+      "nice",
+      "niece",
+      "nine"
+    ],
+    "pangramHints": [
+      {
+        "word": "menacing",
+        "hint": "A word that evokes a sense of danger, but don't say it outright!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

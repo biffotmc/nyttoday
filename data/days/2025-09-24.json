@@ -1,0 +1,195 @@
+{
+  "date": "2025-09-24",
+  "fetchedAt": "2026-05-10T20:15:42.776Z",
+  "connections": {
+    "puzzleId": 874,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MOVIE",
+        "words": [
+          "FEATURE",
+          "FILM",
+          "FLICK",
+          "PICTURE"
+        ]
+      },
+      {
+        "title": "STREW",
+        "words": [
+          "LITTER",
+          "PEPPER",
+          "SCATTER",
+          "SPRINKLE"
+        ]
+      },
+      {
+        "title": "WRINKLY THINGS",
+        "words": [
+          "BRAIN",
+          "CREPE PAPER",
+          "PRUNE",
+          "SHAR PEI"
+        ]
+      },
+      {
+        "title": "SWEET ___",
+        "words": [
+          "POTATO",
+          "SIXTEEN",
+          "TALK",
+          "TOOTH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A cinematic journey awaits, where the silver screen comes alive with stories.",
+      "A sprinkle of chaos can create a delightful mess; let the winds of randomness guide you.",
+      "Nature's own wrinkles tell tales of age and experience, each fold a story waiting to be unraveled.",
+      "A sugary treat that can be both savory and sweet, often paired with a dash of nostalgia."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1183,
+    "editor": "Tracy Bennett",
+    "solution": "blunt",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that can be sharp or dull."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a straightforward approach."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s often used to describe a lack of finesse."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 737,
+    "editor": "Tracy Bennett",
+    "clue": "Lip service",
+    "spangram": "EXPRESSIONS",
+    "themeWords": [
+      "FROWN",
+      "GAPE",
+      "GRIN",
+      "POUT",
+      "SCOWL",
+      "SMILE",
+      "SMIRK",
+      "SNEER"
+    ],
+    "startingBoard": [
+      "ELXERG",
+      "IMPNIL",
+      "NESRWC",
+      "SEREOS",
+      "WOSSAE",
+      "NRIOGP",
+      "MFKNPT",
+      "SIRSOU"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2486,
+    "sides": [
+      "ILA",
+      "OCG",
+      "FDR",
+      "NTP"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PRIDING",
+      "GLORIFICATION"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19363,
+    "centerLetter": "m",
+    "outerLetters": "aceltu",
+    "pangrams": [
+      "accumulate"
+    ],
+    "answers": [
+      "acme",
+      "alum",
+      "amulet",
+      "calm",
+      "came",
+      "camel",
+      "cecum",
+      "cellmate",
+      "clam",
+      "emcee",
+      "emulate",
+      "lama",
+      "lame",
+      "lemma",
+      "llama",
+      "mace",
+      "macula",
+      "malamute",
+      "male",
+      "mall",
+      "mallet",
+      "malt",
+      "mama",
+      "mamma",
+      "mammal",
+      "mate",
+      "matte",
+      "maul",
+      "meal",
+      "meat",
+      "mecca",
+      "meet",
+      "melee",
+      "melt",
+      "meme",
+      "meta",
+      "metal",
+      "mete",
+      "mettle",
+      "mule",
+      "mull",
+      "mullet",
+      "mutate",
+      "mute",
+      "mutt",
+      "mutual",
+      "muumuu",
+      "talcum",
+      "tamale",
+      "tame",
+      "team",
+      "teammate",
+      "teem",
+      "tumult",
+      "umlaut"
+    ],
+    "pangramHints": [
+      {
+        "word": "accumulate",
+        "hint": "Gathering bits and pieces to form a whole, but don’t reveal the treasure."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

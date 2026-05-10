@@ -1,0 +1,179 @@
+{
+  "date": "2025-09-10",
+  "fetchedAt": "2026-05-10T20:14:49.161Z",
+  "connections": {
+    "puzzleId": 860,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "\"YOU SHOULD KNOW BETTER!\"",
+        "words": [
+          "BAD",
+          "SHAME",
+          "TSK",
+          "TUT TUT"
+        ]
+      },
+      {
+        "title": "MOVE QUICKLY",
+        "words": [
+          "BARREL",
+          "FLY",
+          "RACE",
+          "ZIP"
+        ]
+      },
+      {
+        "title": "EDDIE MURPHY ROLES",
+        "words": [
+          "AKEEM",
+          "DOLITTLE",
+          "DONKEY",
+          "FOLEY"
+        ]
+      },
+      {
+        "title": "KING ___",
+        "words": [
+          "CAKE",
+          "COBRA",
+          "KONG",
+          "TUT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When things go awry, these words echo in disapproval. Can you hear the clucking?",
+      "Speed is of the essence! These words will have you racing against time.",
+      "A comedic genius brought these characters to life. Can you recall their antics?",
+      "A royal title often followed by a grand adventure. What comes to mind?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1821,
+    "editor": "Tracy Bennett",
+    "solution": "pouty",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a facial expression that shows displeasure."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe someone who is sulking."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with 'shouty' and reflects a certain mood."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 722,
+    "editor": "Tracy Bennett",
+    "clue": "Keep it classy",
+    "spangram": "SCHOOLSCHEDULE",
+    "themeWords": [
+      "ENGLISH",
+      "LUNCH",
+      "MATH",
+      "MUSIC",
+      "RECESS",
+      "SCIENCE"
+    ],
+    "startingBoard": [
+      "SGLEIC",
+      "CNISNS",
+      "HEHCEA",
+      "OOLSMT",
+      "DEHCHC",
+      "UMUREE",
+      "LISUSS",
+      "ECLNCH"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2472,
+    "sides": [
+      "PRL",
+      "GNB",
+      "ODE",
+      "TUH"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PHOTOBLOG",
+      "GERUND"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16071,
+    "centerLetter": "r",
+    "outerLetters": "aiptuy",
+    "pangrams": [
+      "pituitary"
+    ],
+    "answers": [
+      "airy",
+      "apart",
+      "apiary",
+      "apparat",
+      "aria",
+      "array",
+      "arty",
+      "atria",
+      "attar",
+      "aura",
+      "irrupt",
+      "pair",
+      "papyri",
+      "parity",
+      "parry",
+      "part",
+      "partita",
+      "party",
+      "prat",
+      "pray",
+      "purity",
+      "purr",
+      "raita",
+      "rapt",
+      "rarity",
+      "ratatat",
+      "rattrap",
+      "ratty",
+      "rutty",
+      "tapir",
+      "tarp",
+      "tarry",
+      "tart",
+      "tartar",
+      "tiara",
+      "trait",
+      "trap",
+      "tray",
+      "trip",
+      "trippy",
+      "yurt"
+    ],
+    "pangramHints": [
+      {
+        "word": "pituitary",
+        "hint": "This gland is crucial for hormone regulation; think of the body's control center."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

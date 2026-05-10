@@ -1,0 +1,171 @@
+{
+  "date": "2026-04-03",
+  "fetchedAt": "2026-05-10T20:28:21.418Z",
+  "connections": {
+    "puzzleId": 1104,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CATTY",
+        "words": [
+          "MEAN",
+          "PETTY",
+          "SMALL",
+          "SNIDE"
+        ]
+      },
+      {
+        "title": "HANKER (FOR)",
+        "words": [
+          "JONES",
+          "LONG",
+          "LUST",
+          "THIRST"
+        ]
+      },
+      {
+        "title": "COCKTAIL GLASSES",
+        "words": [
+          "COLLINS",
+          "HURRICANE",
+          "ROCKS",
+          "ZOMBIE"
+        ]
+      },
+      {
+        "title": "___ CONTROL",
+        "words": [
+          "CRUISE",
+          "DAMAGE",
+          "GROUND",
+          "MISSION"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words might leave a sharp impression, but they can also be a bit too sharp for comfort.",
+      "A longing that runs deep, whether for something or someone, these words capture that desire.",
+      "Raise a glass to these delightful drinks, each one a unique concoction that tells a story.",
+      "In the realm of oversight, these terms hint at various forms of governance and control."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 603,
+    "editor": "Tracy Bennett",
+    "solution": "singe",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a way to lightly scorch."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a small burn."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term often associated with fire, but not in a destructive way."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 934,
+    "editor": "Tracy Bennett",
+    "clue": "Smooth(ie) operator",
+    "spangram": "TROPICALFRUIT",
+    "themeWords": [
+      "ACAI",
+      "GUAVA",
+      "LYCHEE",
+      "MANGO",
+      "PAPAYA",
+      "PINEAPPLE"
+    ],
+    "startingBoard": [
+      "AEEHGA",
+      "CLYCUV",
+      "APINEA",
+      "IELPAT",
+      "TROPAI",
+      "AYPMNU",
+      "APIOGR",
+      "APCALF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2677,
+    "sides": [
+      "RAI",
+      "HEL",
+      "ONK",
+      "CTW"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "WORKAHOLIC",
+      "CENT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17025,
+    "centerLetter": "k",
+    "outerLetters": "adefln",
+    "pangrams": [
+      "flanked"
+    ],
+    "answers": [
+      "ankle",
+      "dank",
+      "deke",
+      "deked",
+      "eked",
+      "fake",
+      "faked",
+      "flak",
+      "flake",
+      "flaked",
+      "flank",
+      "kale",
+      "keel",
+      "keeled",
+      "keen",
+      "keened",
+      "kennel",
+      "kenneled",
+      "knead",
+      "kneaded",
+      "knee",
+      "kneed",
+      "kneel",
+      "kneeled",
+      "knell",
+      "knelled",
+      "lake",
+      "lank",
+      "leak",
+      "leaked",
+      "leek",
+      "naked",
+      "nankeen"
+    ],
+    "pangramHints": [
+      {
+        "word": "flanked",
+        "hint": "A word that suggests being surrounded, but don't get too close!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

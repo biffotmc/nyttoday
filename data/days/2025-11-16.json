@@ -1,0 +1,185 @@
+{
+  "date": "2025-11-16",
+  "fetchedAt": "2026-05-10T20:19:12.302Z",
+  "connections": {
+    "puzzleId": 933,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TECHNIQUE",
+        "words": [
+          "APPROACH",
+          "METHOD",
+          "PHILOSOPHY",
+          "SCHOOL"
+        ]
+      },
+      {
+        "title": "RUN-OF-THE-MILL",
+        "words": [
+          "BANAL",
+          "EVERYDAY",
+          "HUMDRUM",
+          "PEDESTRIAN"
+        ]
+      },
+      {
+        "title": "STRIPY THINGS",
+        "words": [
+          "BARCODE",
+          "IBM LOGO",
+          "RUGBY SHIRT",
+          "ZEBRA"
+        ]
+      },
+      {
+        "title": "WORDS ON MONOPOLY SQUARES",
+        "words": [
+          "AVENUE",
+          "PARKING",
+          "RAILROAD",
+          "TAX"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A method to the madness, where every path is a lesson in itself.",
+      "Commonplace yet often overlooked, these are the everyday shades of life.",
+      "Stripes that tell a story, from fashion to codes, they stand out in their own way.",
+      "Where properties hold value, and every corner has a tale to tell."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1514,
+    "editor": "Tracy Bennett",
+    "solution": "wield",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something you might do with a tool."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This action involves control and skill."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with mastery over an object or situation."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 790,
+    "editor": "Tracy Bennett",
+    "clue": "Around it goes",
+    "spangram": "THATSAWRAP",
+    "themeWords": [
+      "CELLOPHANE",
+      "FLATBREAD",
+      "FOIL",
+      "SCARF",
+      "SHAWL",
+      "STOLE"
+    ],
+    "startingBoard": [
+      "CRFHAL",
+      "SAECSW",
+      "SEOLFA",
+      "TLPLLT",
+      "OAHERB",
+      "TNOIAP",
+      "HEFLDA",
+      "ATSAWR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2535,
+    "sides": [
+      "MLI",
+      "RNO",
+      "THF",
+      "CDA"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FARMHAND",
+      "DOCTRINAL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19214,
+    "centerLetter": "r",
+    "outerLetters": "aghilt",
+    "pangrams": [
+      "alright",
+      "arthralgia"
+    ],
+    "answers": [
+      "aargh",
+      "agar",
+      "airtight",
+      "altar",
+      "arhat",
+      "aria",
+      "aril",
+      "atria",
+      "atrial",
+      "attagirl",
+      "attar",
+      "girl",
+      "girt",
+      "girth",
+      "grail",
+      "grill",
+      "grit",
+      "hair",
+      "hart",
+      "lair",
+      "lariat",
+      "liar",
+      "lira",
+      "raga",
+      "ragtag",
+      "rail",
+      "raita",
+      "ratatat",
+      "rattail",
+      "rial",
+      "right",
+      "rill",
+      "tart",
+      "tartar",
+      "thrall",
+      "thrill",
+      "tiara",
+      "trail",
+      "trait",
+      "trial",
+      "trig",
+      "trill"
+    ],
+    "pangramHints": [
+      {
+        "word": "alright",
+        "hint": "A casual affirmation, often used to ease tension."
+      },
+      {
+        "word": "arthralgia",
+        "hint": "A term that sounds complex but relates to joint discomfort."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

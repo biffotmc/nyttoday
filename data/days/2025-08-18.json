@@ -1,0 +1,169 @@
+{
+  "date": "2025-08-18",
+  "fetchedAt": "2026-05-10T20:12:50.809Z",
+  "connections": {
+    "puzzleId": 840,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INDICATION",
+        "words": [
+          "CUE",
+          "NOD",
+          "PROMPT",
+          "SIGNAL"
+        ]
+      },
+      {
+        "title": "OPPORTUNITY",
+        "words": [
+          "BREAK",
+          "CHANCE",
+          "OPENING",
+          "SHOT"
+        ]
+      },
+      {
+        "title": "HOTEL AMENITIES",
+        "words": [
+          "BREAKFAST",
+          "PARKING",
+          "POOL",
+          "WI-FI"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"WATCH\"",
+        "words": [
+          "DIGITAL",
+          "POCKET",
+          "STOP",
+          "WRIST"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A gentle nudge in the right direction can lead to clarity. Keep your eyes peeled for subtle cues.",
+      "When the door of chance swings open, will you step through? Opportunities often wear a disguise.",
+      "A delightful start to your day, with comforts that make your stay memorable. What do you savor in the morning?",
+      "These terms all lead to a common sight on your wrist. What do you keep track of with style?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1406,
+    "editor": "Tracy Bennett",
+    "solution": "issue",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It’s something that can arise or be brought up."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a concern or a topic that needs addressing."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can often be a source of debate or discussion."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 701,
+    "editor": "Tracy Bennett",
+    "clue": "If the shoe fits ...",
+    "spangram": "FOOTWEAR",
+    "themeWords": [
+      "CLOG",
+      "ESPADRILLE",
+      "LOAFER",
+      "SANDAL",
+      "SLIPPER",
+      "SNEAKER"
+    ],
+    "startingBoard": [
+      "ENFEPS",
+      "ASORPL",
+      "RKOLEI",
+      "ESTLRE",
+      "NAWIDS",
+      "DAECAP",
+      "AFOALO",
+      "LRELRG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2449,
+    "sides": [
+      "GRB",
+      "OAS",
+      "HWL",
+      "INE"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BANGERS",
+      "SHOWGIRL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 4811,
+    "centerLetter": "i",
+    "outerLetters": "beflnx",
+    "pangrams": [
+      "inflexible"
+    ],
+    "answers": [
+      "beeline",
+      "belie",
+      "belief",
+      "bible",
+      "biff",
+      "bile",
+      "bill",
+      "blin",
+      "blini",
+      "elfin",
+      "exile",
+      "feline",
+      "fief",
+      "fife",
+      "file",
+      "fill",
+      "fine",
+      "flexible",
+      "ibex",
+      "infill",
+      "infix",
+      "innie",
+      "libel",
+      "libelee",
+      "lien",
+      "life",
+      "lifeline",
+      "line",
+      "linen",
+      "nibble",
+      "nine"
+    ],
+    "pangramHints": [
+      {
+        "word": "inflexible",
+        "hint": "A rigid state that refuses to bend; think of a stubborn branch."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

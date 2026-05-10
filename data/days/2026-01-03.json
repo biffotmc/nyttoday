@@ -1,0 +1,183 @@
+{
+  "date": "2026-01-03",
+  "fetchedAt": "2026-05-10T20:22:19.200Z",
+  "connections": {
+    "puzzleId": 993,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ARMY RANKS",
+        "words": [
+          "CAPTAIN",
+          "GENERAL",
+          "MAJOR",
+          "PRIVATE"
+        ]
+      },
+      {
+        "title": "LEGWEAR IN THE SINGULAR",
+        "words": [
+          "JEAN",
+          "JOGGER",
+          "OVERALL",
+          "SLACK"
+        ]
+      },
+      {
+        "title": "RIHANNA #1 HITS",
+        "words": [
+          "DIAMONDS",
+          "SOS",
+          "UMBRELLA",
+          "WORK"
+        ]
+      },
+      {
+        "title": "WET ___",
+        "words": [
+          "BAR",
+          "BLANKET",
+          "NURSE",
+          "WILLY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the hierarchy of command, some are in charge while others follow orders. Who's leading the charge?",
+      "Fashion statements come in many forms, but when it comes to legs, some styles stand out in a singular way.",
+      "From the stage to the charts, this artist knows how to make a hit that shines brighter than others.",
+      "When things get wet, some items are essential for comfort and protection. What do you need to stay dry?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2388,
+    "editor": "Tracy Bennett",
+    "solution": "sitar",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a string instrument often associated with Indian music."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This instrument has a long neck and is played with a plectrum."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Its name starts with 's' and ends with 'ar', and it produces a melodic sound."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 838,
+    "editor": "Tracy Bennett",
+    "clue": "I've never seen that before!",
+    "spangram": "BREAKNEWGROUND",
+    "themeWords": [
+      "FRESH",
+      "INVENTIVE",
+      "NOVEL",
+      "ORIGINAL",
+      "SEMINAL"
+    ],
+    "startingBoard": [
+      "BREANI",
+      "VNALGR",
+      "EIKLIO",
+      "NTNEVO",
+      "VIEFRN",
+      "ESWGEH",
+      "AIERSD",
+      "LNMOUN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2595,
+    "sides": [
+      "ZMC",
+      "HGI",
+      "ETL",
+      "OUN"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "CLUTCH",
+      "HOMOGENIZE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9164,
+    "centerLetter": "c",
+    "outerLetters": "ilnoru",
+    "pangrams": [
+      "councilor",
+      "unicolor"
+    ],
+    "answers": [
+      "cirri",
+      "clinic",
+      "cocci",
+      "cocoon",
+      "coil",
+      "coin",
+      "coir",
+      "colic",
+      "colon",
+      "colonic",
+      "color",
+      "concur",
+      "conic",
+      "cool",
+      "corn",
+      "council",
+      "croc",
+      "croci",
+      "croon",
+      "cull",
+      "curio",
+      "curl",
+      "icon",
+      "iconic",
+      "incur",
+      "ionic",
+      "ironic",
+      "loci",
+      "loco",
+      "nuncio",
+      "occur",
+      "oculi",
+      "ricin",
+      "rococo",
+      "runic",
+      "uncoil",
+      "uncool",
+      "uncurl",
+      "unicorn",
+      "unironic",
+      "uric"
+    ],
+    "pangramHints": [
+      {
+        "word": "councilor",
+        "hint": "A person who serves on a governing body, often involved in local decisions."
+      },
+      {
+        "word": "unicolor",
+        "hint": "A term that describes something made of a single hue, devoid of patterns."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

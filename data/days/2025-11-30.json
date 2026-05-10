@@ -1,0 +1,187 @@
+{
+  "date": "2025-11-30",
+  "fetchedAt": "2026-05-10T20:20:03.351Z",
+  "connections": {
+    "puzzleId": 938,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TOLERATE",
+        "words": [
+          "BEAR",
+          "STAND",
+          "STOMACH",
+          "SWALLOW"
+        ]
+      },
+      {
+        "title": "FLOP",
+        "words": [
+          "BUST",
+          "LEMON",
+          "MISS",
+          "TURKEY"
+        ]
+      },
+      {
+        "title": "FICTIONAL PIRATES",
+        "words": [
+          "HOOK",
+          "LUFFY",
+          "SILVER",
+          "SPARROW"
+        ]
+      },
+      {
+        "title": "ENDING IN COLOR HOMOPHONES",
+        "words": [
+          "CAMEROON",
+          "COCKATIEL",
+          "UNREAD",
+          "WHISTLEBLEW"
+        ]
+      }
+    ],
+    "groupHints": [
+      "To endure is to embrace the weight of life; some creatures do it better than others.",
+      "When things go south, some may find themselves in a sticky situation, while others just take a hit.",
+      "These swashbucklers sail the seas of imagination, each with a tale as tall as the mast.",
+      "When sounds play tricks on the eyes, colors can dance in unexpected ways."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2323,
+    "editor": "Tracy Bennett",
+    "solution": "muggy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a mug that’s not just for coffee."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a humid and warm atmosphere."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term often used in weather forecasts, hinting at a sticky situation."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 804,
+    "editor": "Tracy Bennett",
+    "clue": "Group membership",
+    "spangram": "INITTOGETHER",
+    "themeWords": [
+      "ANTS",
+      "ARMY",
+      "COWS",
+      "FLOCK",
+      "GEESE",
+      "HERD",
+      "LIONS",
+      "PRIDE"
+    ],
+    "startingBoard": [
+      "DERSNO",
+      "RIEHLI",
+      "PFETSE",
+      "OLGOEG",
+      "CKTTEW",
+      "DREIOS",
+      "MHNASC",
+      "YRAINT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2553,
+    "sides": [
+      "EZY",
+      "XBF",
+      "IAU",
+      "LKT"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "FLEXIBILITY",
+      "YAKUZA"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19590,
+    "centerLetter": "o",
+    "outerLetters": "cghinu",
+    "pangrams": [
+      "couching",
+      "coughing",
+      "hiccoughing"
+    ],
+    "answers": [
+      "chignon",
+      "chino",
+      "cocci",
+      "cocoon",
+      "cocooning",
+      "coho",
+      "coin",
+      "coining",
+      "conch",
+      "conic",
+      "conning",
+      "cooing",
+      "couch",
+      "cough",
+      "gnocchi",
+      "going",
+      "gong",
+      "gonging",
+      "goon",
+      "gouging",
+      "hiccough",
+      "hogging",
+      "honcho",
+      "honing",
+      "hooch",
+      "icon",
+      "iconic",
+      "ionic",
+      "noggin",
+      "nonunion",
+      "noon",
+      "noun",
+      "nuncio",
+      "ongoing",
+      "onion",
+      "ouch",
+      "union"
+    ],
+    "pangramHints": [
+      {
+        "word": "couching",
+        "hint": "A position of rest, but don't let it fool you; it's also about hiding."
+      },
+      {
+        "word": "coughing",
+        "hint": "A sound that can clear a room or bring attention; it's not just a nuisance."
+      },
+      {
+        "word": "hiccoughing",
+        "hint": "A peculiar sound that interrupts speech; it's more than just a hiccup."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

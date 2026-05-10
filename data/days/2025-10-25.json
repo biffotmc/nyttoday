@@ -1,0 +1,186 @@
+{
+  "date": "2025-10-25",
+  "fetchedAt": "2026-05-10T20:17:38.965Z",
+  "connections": {
+    "puzzleId": 906,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SWINDLE",
+        "words": [
+          "FLEECE",
+          "HOSE",
+          "HUSTLE",
+          "SHAFT"
+        ]
+      },
+      {
+        "title": "DIGITAL WATCH FEATURES",
+        "words": [
+          "ALARM",
+          "DATE",
+          "LIGHT",
+          "STOPWATCH"
+        ]
+      },
+      {
+        "title": "CONFER",
+        "words": [
+          "ACCORD",
+          "AWARD",
+          "GRANT",
+          "VEST"
+        ]
+      },
+      {
+        "title": "BEST ACTOR-WINNING BIOPICS",
+        "words": [
+          "CAPOTE",
+          "LINCOLN",
+          "MILK",
+          "RAY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you play with trust, sometimes you end up with a lighter pocket.",
+      "Timekeepers have their quirks; some chime while others simply glow.",
+      "To come together often involves a formal agreement or a gesture of goodwill.",
+      "Dramatic portrayals of real lives can lead to golden accolades."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2138,
+    "editor": "Tracy Bennett",
+    "solution": "gauge",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about measuring something."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to precision."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s often used in contexts of measurement, but don’t confuse it with a tool."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 769,
+    "editor": "Tracy Bennett",
+    "clue": "Quite a transformation!",
+    "spangram": "SHAPESHIFTERS",
+    "themeWords": [
+      "CHANGELING",
+      "SKINWALKER",
+      "VAMPIRE",
+      "WEREWOLF"
+    ],
+    "startingBoard": [
+      "IKSIRE",
+      "NREPHS",
+      "WLKMPA",
+      "EAVASE",
+      "RTFIHE",
+      "SCWERW",
+      "AHELOL",
+      "NGGNIF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2515,
+    "sides": [
+      "KAD",
+      "ROB",
+      "INP",
+      "CGL"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BLACKBIRD",
+      "DOGNAP"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27439,
+    "centerLetter": "f",
+    "outerLetters": "aeklot",
+    "pangrams": [
+      "folktale"
+    ],
+    "answers": [
+      "afloat",
+      "afoot",
+      "alfalfa",
+      "aloft",
+      "aloof",
+      "effete",
+      "fake",
+      "falafel",
+      "fall",
+      "falloff",
+      "fatal",
+      "fate",
+      "feat",
+      "feel",
+      "feet",
+      "fell",
+      "fella",
+      "fellate",
+      "felt",
+      "feta",
+      "fetal",
+      "fete",
+      "fettle",
+      "flak",
+      "flake",
+      "flat",
+      "flatfeet",
+      "flatfoot",
+      "flea",
+      "flee",
+      "fleet",
+      "float",
+      "floe",
+      "foal",
+      "folate",
+      "folk",
+      "fool",
+      "foot",
+      "footfall",
+      "leaf",
+      "leaflet",
+      "left",
+      "loaf",
+      "loft",
+      "loofa",
+      "offal",
+      "taffeta",
+      "takeoff",
+      "teff",
+      "toffee"
+    ],
+    "pangramHints": [
+      {
+        "word": "folktale",
+        "hint": "A narrative that weaves together the fabric of culture, rich in characters and lessons."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

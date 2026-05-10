@@ -1,0 +1,177 @@
+{
+  "date": "2025-06-01",
+  "fetchedAt": "2026-05-10T20:10:21.978Z",
+  "connections": {
+    "puzzleId": 759,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LOCAL WATERING HOLE",
+        "words": [
+          "DIVE",
+          "ESTABLISHMENT",
+          "HAUNT",
+          "JOINT"
+        ]
+      },
+      {
+        "title": "COMPETE IN A MODERN PENTATHLON",
+        "words": [
+          "FENCE",
+          "RIDE",
+          "SHOOT",
+          "SWIM"
+        ]
+      },
+      {
+        "title": "ENSURE, AS A VICTORY",
+        "words": [
+          "CINCH",
+          "GUARANTEE",
+          "ICE",
+          "LOCK"
+        ]
+      },
+      {
+        "title": "___ FUND",
+        "words": [
+          "HEDGE",
+          "MUTUAL",
+          "SLUSH",
+          "TRUST"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Where the locals gather to sip and chat, this spot is often the heart of the community.",
+      "A test of skill across five disciplines, where agility and precision are key to triumph.",
+      "To ensure success, one must take the necessary steps to secure a favorable outcome.",
+      "A financial term that suggests pooling resources for investment, often associated with growth."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1762,
+    "editor": "Tracy Bennett",
+    "solution": "rough",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about something that isn't smooth."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a texture or a state of being."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often used to describe something that is not polished or refined."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 583,
+    "editor": "Tracy Bennett",
+    "clue": "All rise",
+    "spangram": "YOURHONOR",
+    "themeWords": [
+      "ALIBI",
+      "BAIL",
+      "COURTROOM",
+      "LAWYER",
+      "MOTION",
+      "OBJECTION"
+    ],
+    "startingBoard": [
+      "IBMLIA",
+      "LIONRB",
+      "ATIOYE",
+      "YRHLAW",
+      "OUONOR",
+      "TCECMO",
+      "IOJOUO",
+      "NBORTR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2371,
+    "sides": [
+      "AOG",
+      "VIT",
+      "SWB",
+      "NER"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BESTOWING",
+      "GRAVE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15308,
+    "centerLetter": "m",
+    "outerLetters": "aortwy",
+    "pangrams": [
+      "motorway"
+    ],
+    "answers": [
+      "amatory",
+      "ammo",
+      "armor",
+      "armory",
+      "army",
+      "aroma",
+      "atom",
+      "mama",
+      "mamma",
+      "mammary",
+      "marm",
+      "marmot",
+      "marrow",
+      "marry",
+      "mart",
+      "martyr",
+      "mayo",
+      "mayor",
+      "moat",
+      "momma",
+      "mommy",
+      "moor",
+      "moot",
+      "moray",
+      "morrow",
+      "mortar",
+      "motor",
+      "motto",
+      "roam",
+      "room",
+      "roomy",
+      "tomato",
+      "tommyrot",
+      "tomorrow",
+      "tram",
+      "tramway",
+      "warm",
+      "worm",
+      "wormy"
+    ],
+    "pangramHints": [
+      {
+        "word": "motorway",
+        "hint": "A thoroughfare that connects places, often bustling with vehicles."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

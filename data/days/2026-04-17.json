@@ -1,0 +1,188 @@
+{
+  "date": "2026-04-17",
+  "fetchedAt": "2026-05-10T20:29:16.713Z",
+  "connections": {
+    "puzzleId": 1132,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "VEGETABLE PARTS",
+        "words": [
+          "BULB",
+          "LEAF",
+          "ROOT",
+          "STEM"
+        ]
+      },
+      {
+        "title": "PREVAILING",
+        "words": [
+          "COMMON",
+          "DOMINANT",
+          "GENERAL",
+          "POPULAR"
+        ]
+      },
+      {
+        "title": "PARTS OF A PIANO",
+        "words": [
+          "HAMMER",
+          "KEY",
+          "PEDAL",
+          "STRING"
+        ]
+      },
+      {
+        "title": "SECOND HALVES OF DRINK NAMES",
+        "words": [
+          "SODA",
+          "STORMY",
+          "TAN",
+          "TONIC"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These edible treasures grow beneath the soil, above it, or even in between. What a colorful bunch!",
+      "When something stands out in a crowd, it tends to take the lead. Can you spot the common thread?",
+      "In the world of music, certain components play vital roles in creating harmony. Can you name them?",
+      "Sometimes, the best part of a drink is what comes after the first sip. What follows the fizz?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1986,
+    "editor": "Tracy Bennett",
+    "solution": "belle",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a term often used for beauty."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is associated with charm and elegance."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with a 'b' and ends with an 'e', often used to describe a lovely lady."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 949,
+    "editor": "Tracy Bennett",
+    "clue": "Shell company",
+    "spangram": "MOLLUSK",
+    "themeWords": [
+      "ABALONE",
+      "CLAM",
+      "CONCH",
+      "LIMPET",
+      "MUSSEL",
+      "OYSTER",
+      "SCALLOP"
+    ],
+    "startingBoard": [
+      "MPEMHC",
+      "ITALNC",
+      "LYOCKO",
+      "MSTERS",
+      "SOLLUB",
+      "CPSSAA",
+      "AOUEOL",
+      "LLMLEN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2691,
+    "sides": [
+      "AEK",
+      "BCU",
+      "OGI",
+      "NPL"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "UNBLOCKING",
+      "GAPE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19975,
+    "centerLetter": "r",
+    "outerLetters": "abdimn",
+    "pangrams": [
+      "midbrain"
+    ],
+    "answers": [
+      "airman",
+      "aria",
+      "arid",
+      "armada",
+      "armband",
+      "barb",
+      "barbarian",
+      "bard",
+      "barmaid",
+      "barman",
+      "barn",
+      "bird",
+      "birdbrain",
+      "birria",
+      "brad",
+      "braid",
+      "brain",
+      "bran",
+      "brand",
+      "briar",
+      "brim",
+      "darn",
+      "dinar",
+      "drab",
+      "drain",
+      "dram",
+      "drama",
+      "drib",
+      "mandarin",
+      "marimba",
+      "marina",
+      "marinara",
+      "marm",
+      "midair",
+      "midrib",
+      "minibar",
+      "mirin",
+      "nadir",
+      "rabbi",
+      "rabid",
+      "radar",
+      "radian",
+      "radii",
+      "raid",
+      "rain",
+      "ramada",
+      "rand",
+      "rani",
+      "rind"
+    ],
+    "pangramHints": [
+      {
+        "word": "midbrain",
+        "hint": "A crucial part of the central nervous system; think of it as a bridge."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

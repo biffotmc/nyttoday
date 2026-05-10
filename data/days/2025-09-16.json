@@ -1,0 +1,171 @@
+{
+  "date": "2025-09-16",
+  "fetchedAt": "2026-05-10T20:15:12.107Z",
+  "connections": {
+    "puzzleId": 871,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KEEP TABS ON",
+        "words": [
+          "FOLLOW",
+          "MONITOR",
+          "TRACK",
+          "WATCH"
+        ]
+      },
+      {
+        "title": "ONE IN A DOZEN",
+        "words": [
+          "DONUT",
+          "JUROR",
+          "MONTH",
+          "ROSE"
+        ]
+      },
+      {
+        "title": "THINGS WITH INK",
+        "words": [
+          "PEN",
+          "PRINTER",
+          "SQUID",
+          "TATTOO MACHINE"
+        ]
+      },
+      {
+        "title": "___ RABBIT",
+        "words": [
+          "ROGER",
+          "TRIX",
+          "VELVETEEN",
+          "WHITE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Keep your eyes peeled; these verbs all suggest a watchful eye on something important.",
+      "Think of a dozen delights; one of these is often glazed and enjoyed with coffee.",
+      "Ink flows from these objects, whether for art or practical purposes, leaving a mark.",
+      "A famous character hops into the spotlight; his name is known to many, but he’s not alone."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 577,
+    "editor": "Tracy Bennett",
+    "solution": "lefty",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's related to direction, but not quite a compass."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a person who leans towards a particular side."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of someone who might be seen as unconventional or quirky."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 728,
+    "editor": "Tracy Bennett",
+    "clue": "Riding high",
+    "spangram": "ZIPLINING",
+    "themeWords": [
+      "CABLE",
+      "CARABINER",
+      "GLOVES",
+      "HARNESS",
+      "HELMET",
+      "PULLEY"
+    ],
+    "startingBoard": [
+      "RACNGP",
+      "AHILLU",
+      "BELNEY",
+      "IMISSE",
+      "NTELRN",
+      "ECPHAO",
+      "RBAILV",
+      "ELZGSE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2478,
+    "sides": [
+      "ITY",
+      "OUS",
+      "RCL",
+      "BFA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BOASTFUL",
+      "LYRIC"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24600,
+    "centerLetter": "c",
+    "outerLetters": "eflnou",
+    "pangrams": [
+      "confluence",
+      "flounce"
+    ],
+    "answers": [
+      "cell",
+      "cello",
+      "cellule",
+      "clef",
+      "clone",
+      "clue",
+      "cocoon",
+      "coffee",
+      "colleen",
+      "colon",
+      "colonel",
+      "cone",
+      "cool",
+      "coulee",
+      "cuff",
+      "cull",
+      "effluence",
+      "fence",
+      "fleece",
+      "loco",
+      "neocon",
+      "nonce",
+      "nucleon",
+      "once",
+      "ounce",
+      "uncle",
+      "uncool",
+      "uncuff"
+    ],
+    "pangramHints": [
+      {
+        "word": "confluence",
+        "hint": "Where streams meet, this word flows with unity."
+      },
+      {
+        "word": "flounce",
+        "hint": "A lively movement; think of a dress swaying in the breeze."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

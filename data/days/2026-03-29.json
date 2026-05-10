@@ -1,0 +1,188 @@
+{
+  "date": "2026-03-29",
+  "fetchedAt": "2026-05-10T20:28:02.820Z",
+  "connections": {
+    "puzzleId": 1105,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "IMAGES SEEN ON THE STREET",
+        "words": [
+          "GRAFFITI",
+          "MURAL",
+          "POSTER",
+          "STENCIL"
+        ]
+      },
+      {
+        "title": "RETRO DANCE CRAZES",
+        "words": [
+          "HUSTLE",
+          "MASHED POTATO",
+          "ROBOT",
+          "TWIST"
+        ]
+      },
+      {
+        "title": "SILENT \"P\"",
+        "words": [
+          "CORPS",
+          "COUP",
+          "PSYCHO",
+          "RECEIPT"
+        ]
+      },
+      {
+        "title": "___ MARK",
+        "words": [
+          "BEAUTY",
+          "CHECK",
+          "QUESTION",
+          "STRETCH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Urban art comes alive in vibrant forms, telling stories on the walls.",
+      "Get your groove on with moves that defined the dance floors of yesteryear.",
+      "Whispers of the letter 'P' linger in words that often go unnoticed.",
+      "A blank canvas awaits your creative touch, but what will you leave behind?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 709,
+    "editor": "Tracy Bennett",
+    "solution": "chump",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a term for someone not quite the best."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe someone who's a bit of a fool."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often used in a playful context, it rhymes with 'bump'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 930,
+    "editor": "Tracy Bennett",
+    "clue": "A bit peckish?",
+    "spangram": "FORTHEBIRDS",
+    "themeWords": [
+      "BERRIES",
+      "BUGS",
+      "FRUIT",
+      "MILLET",
+      "NECTAR",
+      "SEEDS",
+      "SUET"
+    ],
+    "startingBoard": [
+      "FORSSD",
+      "IUTEEN",
+      "TRHRTE",
+      "LFEBAC",
+      "LIMIUS",
+      "SETRET",
+      "EEBDBG",
+      "IRRSUS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2672,
+    "sides": [
+      "CAQ",
+      "RTU",
+      "NIO",
+      "SHE"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ANCHOR",
+      "REQUISITE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20362,
+    "centerLetter": "b",
+    "outerLetters": "acilno",
+    "pangrams": [
+      "anabolic"
+    ],
+    "answers": [
+      "abaci",
+      "aboil",
+      "albino",
+      "alibi",
+      "baba",
+      "baboon",
+      "bacilli",
+      "bacon",
+      "bail",
+      "ball",
+      "balloon",
+      "banal",
+      "banana",
+      "banc",
+      "baobab",
+      "biblical",
+      "bilabial",
+      "bill",
+      "billion",
+      "bionic",
+      "blab",
+      "blin",
+      "blini",
+      "blob",
+      "bloc",
+      "boba",
+      "bobbin",
+      "bocci",
+      "boil",
+      "bola",
+      "boll",
+      "bolo",
+      "bonbon",
+      "bonobo",
+      "boob",
+      "booboo",
+      "boon",
+      "cabal",
+      "cabala",
+      "cabana",
+      "cabin",
+      "cannibal",
+      "cannonball",
+      "collab",
+      "labia",
+      "labial",
+      "lobo",
+      "nabob",
+      "noob"
+    ],
+    "pangramHints": [
+      {
+        "word": "anabolic",
+        "hint": "A term often associated with growth and enhancement, but not just in the gym."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

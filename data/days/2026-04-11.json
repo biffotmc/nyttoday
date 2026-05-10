@@ -1,0 +1,216 @@
+{
+  "date": "2026-04-11",
+  "fetchedAt": "2026-05-10T20:28:53.141Z",
+  "connections": {
+    "puzzleId": 1118,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FOUND IN THE TRUNK OF A CAR",
+        "words": [
+          "ICE SCRAPER",
+          "JACK",
+          "JUMPER CABLES",
+          "SPARE TIRE"
+        ]
+      },
+      {
+        "title": "BENEFACTOR",
+        "words": [
+          "ANGEL",
+          "CHAMPION",
+          "PATRON",
+          "SPONSOR"
+        ]
+      },
+      {
+        "title": "STRUCTURAL SUPPORTS",
+        "words": [
+          "BEAM",
+          "BRACE",
+          "COLUMN",
+          "STRUT"
+        ]
+      },
+      {
+        "title": "ENDING IN BODIES OF WATER",
+        "words": [
+          "BOMBAY",
+          "CHELSEA",
+          "SCREWDRIVER",
+          "SNOWFLAKE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the road gets rough, these items can save the day. Don't leave home without them!",
+      "These generous souls often go unnoticed, but their support can make all the difference.",
+      "Think of the backbone of buildings; without these, structures would crumble.",
+      "These words drift towards the edges of land, where water meets the earth."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1512,
+    "editor": "Tracy Bennett",
+    "solution": "prude",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word describes someone who is quite reserved."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It starts with a 'p' and suggests a sense of modesty."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a term often used to describe someone who is not inclined to indulge."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 943,
+    "editor": "Tracy Bennett",
+    "clue": "You're putting me on",
+    "spangram": "TOPGEAR",
+    "themeWords": [
+      "BEANIE",
+      "BERET",
+      "BOWLER",
+      "DERBY",
+      "FEDORA",
+      "SOMBRERO",
+      "TOQUE"
+    ],
+    "startingBoard": [
+      "ERODTE",
+      "IEAEBR",
+      "NABFER",
+      "OPGEAY",
+      "TBEOTB",
+      "OWLUQR",
+      "REBRDE",
+      "SOMERO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2685,
+    "sides": [
+      "RUD",
+      "ETJ",
+      "YCV",
+      "OMI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "OVERJOYED",
+      "DICTUM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 11995,
+    "centerLetter": "l",
+    "outerLetters": "deghit",
+    "pangrams": [
+      "delight",
+      "delighted",
+      "highlighted",
+      "lighted"
+    ],
+    "answers": [
+      "delete",
+      "deleted",
+      "deli",
+      "dell",
+      "delt",
+      "diddle",
+      "diddled",
+      "dill",
+      "elide",
+      "elided",
+      "elite",
+      "geld",
+      "gelded",
+      "gelee",
+      "gelid",
+      "gelled",
+      "gelt",
+      "giggle",
+      "giggled",
+      "gild",
+      "gilded",
+      "gill",
+      "gilled",
+      "gilt",
+      "glee",
+      "glide",
+      "glided",
+      "heel",
+      "heeled",
+      "held",
+      "hell",
+      "highlight",
+      "hill",
+      "hilled",
+      "hilt",
+      "idle",
+      "idled",
+      "lede",
+      "ledge",
+      "legged",
+      "legit",
+      "lidded",
+      "lied",
+      "liege",
+      "light",
+      "lilt",
+      "lilted",
+      "lite",
+      "lithe",
+      "little",
+      "tell",
+      "tilde",
+      "tile",
+      "tiled",
+      "till",
+      "tilled",
+      "tilt",
+      "tilted",
+      "tilth",
+      "title",
+      "titled",
+      "tittle"
+    ],
+    "pangramHints": [
+      {
+        "word": "delight",
+        "hint": "A feeling of great pleasure, but don't spell it out!"
+      },
+      {
+        "word": "delighted",
+        "hint": "An extended version of joy, but keep the letters to yourself!"
+      },
+      {
+        "word": "highlighted",
+        "hint": "To emphasize something bright, but no revealing here!"
+      },
+      {
+        "word": "lighted",
+        "hint": "A past tense of illuminating, but keep it under wraps!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

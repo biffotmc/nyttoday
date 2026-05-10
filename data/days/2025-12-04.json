@@ -1,0 +1,187 @@
+{
+  "date": "2025-12-04",
+  "fetchedAt": "2026-05-10T20:20:18.910Z",
+  "connections": {
+    "puzzleId": 958,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CUDDLE",
+        "words": [
+          "DRAW CLOSE",
+          "HOLD TIGHT",
+          "NUZZLE",
+          "SPOON"
+        ]
+      },
+      {
+        "title": "IMBIBE",
+        "words": [
+          "GUZZLE",
+          "KNOCK BACK",
+          "POUND DOWN",
+          "SWILL"
+        ]
+      },
+      {
+        "title": "THINGS YOU ASSEMBLE",
+        "words": [
+          "IKEA FURNITURE",
+          "LEGO SET",
+          "MODEL",
+          "PUZZLE"
+        ]
+      },
+      {
+        "title": "SNOUTS",
+        "words": [
+          "BEAK",
+          "MUZZLE",
+          "PROBOSCIS",
+          "ROSTRUM"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Embrace the warmth of togetherness, where affection blooms in cozy corners.",
+      "Quench your thirst with a splash of indulgence; the more, the merrier!",
+      "Craft your dreams piece by piece, where imagination meets construction.",
+      "Nature's curious appendages, each with a purpose, lead the way in discovery."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 916,
+    "editor": "Tracy Bennett",
+    "solution": "tulip",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a flower that symbolizes love."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This bloom often graces gardens in spring."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Its name rhymes with 'soup' and is often given as a gift."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 811,
+    "editor": "Tracy Bennett",
+    "clue": "In the driver's seat",
+    "spangram": "LIKEABOSS",
+    "themeWords": [
+      "ASSERTIVE",
+      "ASSURED",
+      "BOLD",
+      "CONFIDENT",
+      "COOL",
+      "SECURE"
+    ],
+    "startingBoard": [
+      "LITNDI",
+      "UKEEFO",
+      "RCABNC",
+      "EESOSS",
+      "AUREVI",
+      "SSECTR",
+      "OBDOSE",
+      "LDLOAS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2557,
+    "sides": [
+      "BWT",
+      "IEN",
+      "UDK",
+      "LOR"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BILKED",
+      "DOWNTURN"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24595,
+    "centerLetter": "d",
+    "outerLetters": "aeltxy",
+    "pangrams": [
+      "exaltedly"
+    ],
+    "answers": [
+      "added",
+      "addle",
+      "addled",
+      "allayed",
+      "axed",
+      "axled",
+      "daddy",
+      "dale",
+      "dally",
+      "data",
+      "date",
+      "dated",
+      "dead",
+      "deadeye",
+      "deadly",
+      "deal",
+      "dealt",
+      "deed",
+      "deeded",
+      "delay",
+      "delayed",
+      "delete",
+      "deleted",
+      "dell",
+      "delt",
+      "delta",
+      "dyad",
+      "dyed",
+      "eddy",
+      "elated",
+      "elatedly",
+      "exalted",
+      "eyed",
+      "lade",
+      "laded",
+      "ladle",
+      "ladled",
+      "lady",
+      "lead",
+      "leaded",
+      "lede",
+      "tatted",
+      "tattled",
+      "taxed",
+      "teddy",
+      "teed",
+      "telexed",
+      "texted",
+      "yelled"
+    ],
+    "pangramHints": [
+      {
+        "word": "exaltedly",
+        "hint": "Elevate your spirits with this word that dances with joy."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

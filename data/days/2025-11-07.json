@@ -1,0 +1,157 @@
+{
+  "date": "2025-11-07",
+  "fetchedAt": "2026-05-10T20:18:35.795Z",
+  "connections": {
+    "puzzleId": 918,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TEXTILE PATTERNS",
+        "words": [
+          "ANIMAL PRINT",
+          "HERRINGBONE",
+          "HOUNDSTOOTH",
+          "POLKA DOT"
+        ]
+      },
+      {
+        "title": "GREEN CONDIMENTS",
+        "words": [
+          "CHIMICHURRI",
+          "PESTO",
+          "RELISH",
+          "SALSA VERDE"
+        ]
+      },
+      {
+        "title": "THINGS WITH HOLES IN THE MIDDLE",
+        "words": [
+          "BAGEL",
+          "HULA HOOP",
+          "INNER TUBE",
+          "WASHER"
+        ]
+      },
+      {
+        "title": "THINGS THAT ARE PURPLE",
+        "words": [
+          "BARNEY THE DINOSAUR",
+          "EGGPLANT",
+          "PEOPLE EATER",
+          "SWING STATE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Patterns that might make you think of a wild safari or a cozy sweater. Can you spot the common thread?",
+      "These green delights are often found on your favorite dishes, adding a zesty twist to your meals.",
+      "Round and circular, these items are essential in many ways, from breakfast to playtime.",
+      "A vibrant hue that often brings to mind whimsical characters and tasty vegetables. What else could fit the bill?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2237,
+    "editor": "Tracy Bennett",
+    "solution": "peril",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a word that suggests danger or risk."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a situation that could lead to trouble."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with threats or hazards."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 781,
+    "editor": "Tracy Bennett",
+    "clue": "Encuentra el ritmo",
+    "spangram": "LATINMUSIC",
+    "themeWords": [
+      "MARIACHI",
+      "REGGAETON",
+      "SALSA",
+      "SAMBA",
+      "TANGO",
+      "TEJANO"
+    ],
+    "startingBoard": [
+      "SAATIA",
+      "BMNGRC",
+      "ATEOAH",
+      "ONAJMI",
+      "LTNMUS",
+      "AIASLI",
+      "RAETAC",
+      "EGGNOS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2529,
+    "sides": [
+      "VIO",
+      "RTY",
+      "WEN",
+      "DLA"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "WORDIER",
+      "RELEVANTLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24725,
+    "centerLetter": "t",
+    "outerLetters": "ceimvz",
+    "pangrams": [
+      "victimize"
+    ],
+    "answers": [
+      "cite",
+      "civet",
+      "emetic",
+      "emit",
+      "evict",
+      "evictee",
+      "item",
+      "itemize",
+      "meet",
+      "memetic",
+      "mete",
+      "mimetic",
+      "mite",
+      "mitt",
+      "teem",
+      "time",
+      "titmice",
+      "victim",
+      "ziti"
+    ],
+    "pangramHints": [
+      {
+        "word": "victimize",
+        "hint": "A word that suggests causing harm or making someone a victim; think of the consequences."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

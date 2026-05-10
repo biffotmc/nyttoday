@@ -1,0 +1,162 @@
+{
+  "date": "2026-04-01",
+  "fetchedAt": "2026-05-10T20:28:13.555Z",
+  "connections": {
+    "puzzleId": 1111,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BEER BRANDS",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "ROCK BANDS",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "MOVIES",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "U.S. CITY NICKNAMES",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "groupHints": [
+      "A refreshing choice for a sunny day, but don't forget the froth!",
+      "These legends rock harder than a thunderstorm, leaving fans breathless.",
+      "Cinematic gems that take you on unforgettable journeys, some even to the stars.",
+      "These cities wear their pride like a badge, each with a story to tell."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1981,
+    "editor": "Tracy Bennett",
+    "solution": "fizzy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something bubbly and refreshing."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a drink that tickles your senses."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with celebrations and can be found in a glass."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 922,
+    "editor": "Tracy Bennett",
+    "clue": "Don't make a peep",
+    "spangram": "SHHHHHHHHHHHH",
+    "themeWords": [
+      "HUSHED",
+      "INAUDIBLE",
+      "NOISELESS",
+      "QUIET",
+      "SILENT"
+    ],
+    "startingBoard": [
+      "SHHTUS",
+      "NIHNHH",
+      "AUHESE",
+      "IDHLID",
+      "BLHHHH",
+      "UEIONH",
+      "IQSELH",
+      "TESSEH"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2675,
+    "sides": [
+      "AHD",
+      "RGU",
+      "WIO",
+      "PSF"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "UPWARD",
+      "DOGFISH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23779,
+    "centerLetter": "m",
+    "outerLetters": "bginpu",
+    "pangrams": [
+      "bumping"
+    ],
+    "answers": [
+      "bumming",
+      "bump",
+      "gimp",
+      "gumming",
+      "imbibing",
+      "imbuing",
+      "impinging",
+      "impugn",
+      "impugning",
+      "miming",
+      "mini",
+      "minim",
+      "minimum",
+      "mining",
+      "mugging",
+      "mung",
+      "muumuu",
+      "nimbi",
+      "numb",
+      "numbing",
+      "pimp",
+      "pimping",
+      "pump",
+      "pumping",
+      "umping"
+    ],
+    "pangramHints": [
+      {
+        "word": "bumping",
+        "hint": "A lively action that can be both playful and disruptive."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

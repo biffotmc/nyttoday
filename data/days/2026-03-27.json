@@ -1,0 +1,165 @@
+{
+  "date": "2026-03-27",
+  "fetchedAt": "2026-05-10T20:27:55.037Z",
+  "connections": {
+    "puzzleId": 1087,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "WHAT IT ALL BOILS DOWN TO",
+        "words": [
+          "BASIC FACTS",
+          "BOTTOM LINE",
+          "BRASS TACKS",
+          "NITTY-GRITTY"
+        ]
+      },
+      {
+        "title": "FEATURES OF AN AIRPORT TERMINAL",
+        "words": [
+          "BAGGAGE CLAIM",
+          "DUTY-FREE",
+          "FOOD COURT",
+          "TICKET COUNTER"
+        ]
+      },
+      {
+        "title": "THINGS THAT ARE ORANGE",
+        "words": [
+          "GOLDFISH CRACKER",
+          "MONARCH BUTTERFLY",
+          "THE LORAX",
+          "TRAFFIC CONE"
+        ]
+      },
+      {
+        "title": "ENDING IN WORDS FOR CELLULAR CONNECTIVITY",
+        "words": [
+          "LIP SERVICE",
+          "MONKEY BARS",
+          "TURN SIGNAL",
+          "WEDDING RECEPTION"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you strip away the fluff, what's left is the essence of the matter.",
+      "Where the journey begins and ends, but don't forget your shopping!",
+      "Bright and bold, these things can be found in nature and snacks alike.",
+      "These phrases might not be the final call, but they sure signal something important."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 3406,
+    "editor": "Tracy Bennett",
+    "solution": "ivory",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a color often associated with luxury."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a type of material."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that starts with 'i' and ends with 'y'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 928,
+    "editor": "Tracy Bennett",
+    "clue": "Just right",
+    "spangram": "TAILORMADE",
+    "themeWords": [
+      "EXACT",
+      "FITTING",
+      "IDEAL",
+      "PERFECT",
+      "SEEMLY",
+      "SUITABLE"
+    ],
+    "startingBoard": [
+      "YLTAER",
+      "DMEIPF",
+      "EIELEC",
+      "ALSOTI",
+      "SEMRNT",
+      "ULAGXT",
+      "IBDAEI",
+      "TAECTF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2670,
+    "sides": [
+      "DEF",
+      "ONX",
+      "CAK",
+      "RPW"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "WORKFORCE",
+      "EXPAND"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 11744,
+    "centerLetter": "a",
+    "outerLetters": "dfginu",
+    "pangrams": [
+      "unfading"
+    ],
+    "answers": [
+      "adding",
+      "again",
+      "aging",
+      "aiding",
+      "angina",
+      "dang",
+      "fading",
+      "fang",
+      "fanning",
+      "faun",
+      "fauna",
+      "gadding",
+      "gaff",
+      "gaga",
+      "gagging",
+      "gain",
+      "gaining",
+      "gang",
+      "ganging",
+      "gauging",
+      "iguana",
+      "naan",
+      "nada",
+      "nagging",
+      "naiad",
+      "naif",
+      "nana"
+    ],
+    "pangramHints": [
+      {
+        "word": "unfading",
+        "hint": "A word that suggests permanence, but not in a flashy way."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

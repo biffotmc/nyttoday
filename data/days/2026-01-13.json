@@ -1,0 +1,182 @@
+{
+  "date": "2026-01-13",
+  "fetchedAt": "2026-05-10T20:22:57.268Z",
+  "connections": {
+    "puzzleId": 990,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PRESENT GO-WITHS",
+        "words": [
+          "BOW",
+          "CARD",
+          "GIFT WRAP",
+          "RIBBON"
+        ]
+      },
+      {
+        "title": "JOSTLE",
+        "words": [
+          "ELBOW",
+          "PRESS",
+          "SHOULDER",
+          "SHOVE"
+        ]
+      },
+      {
+        "title": "ACCESSORIES FOR MR. MONOPOLY",
+        "words": [
+          "BOWTIE",
+          "CANE",
+          "MONEYBAG",
+          "TOP HAT"
+        ]
+      },
+      {
+        "title": "PARTS OF THE FOOT PLUS STARTING LETTER",
+        "words": [
+          "OTOE",
+          "PARCH",
+          "RANKLE",
+          "WHEEL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A festive assortment that wraps up joy and celebration, perfect for any occasion.",
+      "A little push can go a long way, especially when navigating tight spaces.",
+      "Dapper and distinguished, these items are essential for a classic game of chance.",
+      "Think of the foundation and support, along with an initial spark to get started."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1696,
+    "editor": "Tracy Bennett",
+    "solution": "gumbo",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A dish that blends flavors from the bayou."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often served in a bowl, this meal is a hearty mix."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's not just a stew; it's a cultural experience from Louisiana."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 848,
+    "editor": "Tracy Bennett",
+    "clue": "You need to chill",
+    "spangram": "FROZENFOOD",
+    "themeWords": [
+      "PIZZA",
+      "POPSICLES",
+      "SHERBET",
+      "VEGETABLES",
+      "WAFFLES"
+    ],
+    "startingBoard": [
+      "ABLEFL",
+      "TVSWFE",
+      "EENEAS",
+      "GOFZOR",
+      "DOPEHF",
+      "ZIAPRS",
+      "EZCOTB",
+      "SLISPE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2599,
+    "sides": [
+      "SUE",
+      "TQL",
+      "OXI",
+      "RVN"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "VENTRILOQUIST",
+      "TUX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12392,
+    "centerLetter": "m",
+    "outerLetters": "eilnty",
+    "pangrams": [
+      "eminently",
+      "imminently"
+    ],
+    "answers": [
+      "element",
+      "eminent",
+      "emit",
+      "enemy",
+      "enmity",
+      "entitlement",
+      "imminent",
+      "item",
+      "lime",
+      "limit",
+      "limn",
+      "linemen",
+      "liniment",
+      "meet",
+      "melee",
+      "melt",
+      "melty",
+      "meme",
+      "mentee",
+      "mete",
+      "mettle",
+      "mien",
+      "mile",
+      "mill",
+      "millet",
+      "mime",
+      "mine",
+      "mini",
+      "minim",
+      "mint",
+      "minty",
+      "mite",
+      "mitt",
+      "mitten",
+      "myelin",
+      "teem",
+      "tenement",
+      "time",
+      "timeline",
+      "timely"
+    ],
+    "pangramHints": [
+      {
+        "word": "eminently",
+        "hint": "A word that signifies being prominent or noteworthy."
+      },
+      {
+        "word": "imminently",
+        "hint": "This term suggests something is about to happen very soon."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

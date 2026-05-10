@@ -1,0 +1,200 @@
+{
+  "date": "2026-04-12",
+  "fetchedAt": "2026-05-10T20:28:58.012Z",
+  "connections": {
+    "puzzleId": 1125,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PANTS FEATURES",
+        "words": [
+          "BELT LOOP",
+          "CUFF",
+          "FLY",
+          "POCKET"
+        ]
+      },
+      {
+        "title": "PERSPECTIVE",
+        "words": [
+          "ANGLE",
+          "POSITION",
+          "STANCE",
+          "TAKE"
+        ]
+      },
+      {
+        "title": "EMIT",
+        "words": [
+          "CAST",
+          "PROJECT",
+          "RADIATE",
+          "SHED"
+        ]
+      },
+      {
+        "title": "___ DOLL",
+        "words": [
+          "PAPER",
+          "RAG",
+          "RUSSIAN",
+          "TROLL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These items can be found on your lower half, some might even hold your treasures.",
+      "Look through different lenses; the way you see things can change everything.",
+      "These actions involve sending something out into the world, illuminating the way.",
+      "These playful companions come in various forms, some might even dance on a stage."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 884,
+    "editor": "Tracy Bennett",
+    "solution": "alley",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a narrow passage."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a place where you might find a lot of activity."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a type of street, often associated with commerce."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 944,
+    "editor": "Tracy Bennett",
+    "clue": "Get ready!",
+    "spangram": "INTHEMIRROR",
+    "themeWords": [
+      "BEAUTIFY",
+      "BRUSH",
+      "COMB",
+      "GROOM",
+      "PREEN",
+      "PRIMP",
+      "STYLE"
+    ],
+    "startingBoard": [
+      "BMIUSH",
+      "CONRBN",
+      "PPTPEM",
+      "MRHREO",
+      "BIEMGO",
+      "EAUITR",
+      "ITRRYS",
+      "FYOREL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2686,
+    "sides": [
+      "CLM",
+      "KBA",
+      "RGY",
+      "OWI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "MICROBLOG",
+      "GAWKY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20547,
+    "centerLetter": "n",
+    "outerLetters": "acehlo",
+    "pangrams": [
+      "nonchalance"
+    ],
+    "answers": [
+      "acne",
+      "aeon",
+      "alone",
+      "anal",
+      "ancho",
+      "annal",
+      "anneal",
+      "anon",
+      "canal",
+      "cancan",
+      "cancel",
+      "cane",
+      "canna",
+      "cannon",
+      "canoe",
+      "canola",
+      "canon",
+      "chance",
+      "chancel",
+      "channel",
+      "clan",
+      "clean",
+      "clench",
+      "clone",
+      "cocoon",
+      "colcannon",
+      "colleen",
+      "colon",
+      "colonel",
+      "conceal",
+      "conch",
+      "cone",
+      "echelon",
+      "elan",
+      "enhance",
+      "enlace",
+      "hence",
+      "henna",
+      "honcho",
+      "hone",
+      "lance",
+      "lane",
+      "lean",
+      "llano",
+      "loan",
+      "lone",
+      "loon",
+      "naan",
+      "nacelle",
+      "nacho",
+      "nana",
+      "nene",
+      "neocon",
+      "neon",
+      "noel",
+      "nonce",
+      "none",
+      "nonlocal",
+      "noon",
+      "ocean",
+      "once"
+    ],
+    "pangramHints": [
+      {
+        "word": "nonchalance",
+        "hint": "A state of cool indifference, but don't say it outright!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

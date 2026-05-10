@@ -1,0 +1,183 @@
+{
+  "date": "2025-05-19",
+  "fetchedAt": "2026-05-10T20:06:49.256Z",
+  "connections": {
+    "puzzleId": 741,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FUNDRAISING EVENT",
+        "words": [
+          "BALL",
+          "BENEFIT",
+          "FUNCTION",
+          "GALA"
+        ]
+      },
+      {
+        "title": "SPACES ON A MONOPOLY BOARD",
+        "words": [
+          "AVENUE",
+          "CHANCE",
+          "RAILROAD",
+          "UTILITY"
+        ]
+      },
+      {
+        "title": "FEATURES OF A TOOTHED WHALE",
+        "words": [
+          "BLUBBER",
+          "FLIPPER",
+          "FLUKE",
+          "MELON"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF PARTS OF THE FOOT",
+        "words": [
+          "BAWL",
+          "HEAL",
+          "SOUL",
+          "TOW"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Gather 'round for a night of generosity and glamour, where the cause is the star.",
+      "In this game of property, some paths are more valuable than others, leading to fortune.",
+      "In the deep blue, these creatures have unique adaptations that help them navigate their world.",
+      "Listen closely, as these words sound alike but tread different paths."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 949,
+    "editor": "Tracy Bennett",
+    "solution": "pitch",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a term used in sports."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's something that can be thrown or delivered."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also mean to present an idea or proposal."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 606,
+    "editor": "Tracy Bennett",
+    "clue": "Taking the bait",
+    "spangram": "SOMETHINGSFISHY",
+    "themeWords": [
+      "HALIBUT",
+      "MACKEREL",
+      "SALMON",
+      "SNAPPER",
+      "TROUT"
+    ],
+    "startingBoard": [
+      "TNIHTN",
+      "URGESA",
+      "TOSMPP",
+      "HAFOER",
+      "LIAMSN",
+      "ISCKOM",
+      "BHRESL",
+      "TUYELA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2358,
+    "sides": [
+      "BUP",
+      "RMI",
+      "NEO",
+      "ADW"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DUMB",
+      "BRAINPOWER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16287,
+    "centerLetter": "t",
+    "outerLetters": "cenopy",
+    "pangrams": [
+      "potency"
+    ],
+    "answers": [
+      "cent",
+      "concept",
+      "concoct",
+      "connect",
+      "connote",
+      "content",
+      "coopt",
+      "coot",
+      "cote",
+      "cotton",
+      "cottony",
+      "coyote",
+      "ecotone",
+      "entente",
+      "netty",
+      "nonet",
+      "note",
+      "octet",
+      "onto",
+      "opponent",
+      "pent",
+      "petty",
+      "peyote",
+      "poet",
+      "pontoon",
+      "poppet",
+      "potent",
+      "potty",
+      "teen",
+      "teeny",
+      "teepee",
+      "tenet",
+      "tenon",
+      "tent",
+      "tepee",
+      "tone",
+      "tonne",
+      "tony",
+      "toon",
+      "toot",
+      "tope",
+      "tote",
+      "tycoon",
+      "type",
+      "typo",
+      "yente"
+    ],
+    "pangramHints": [
+      {
+        "word": "potency",
+        "hint": "A measure of strength or effectiveness; think of what gives power."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

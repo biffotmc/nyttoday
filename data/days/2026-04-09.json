@@ -1,0 +1,169 @@
+{
+  "date": "2026-04-09",
+  "fetchedAt": "2026-05-10T20:28:45.165Z",
+  "connections": {
+    "puzzleId": 1112,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GLOOMY",
+        "words": [
+          "BLUE",
+          "DARK",
+          "DOWN",
+          "LOW"
+        ]
+      },
+      {
+        "title": "OINTMENT",
+        "words": [
+          "BALM",
+          "CREAM",
+          "PASTE",
+          "RUB"
+        ]
+      },
+      {
+        "title": "ZODIAC SYMBOLS",
+        "words": [
+          "ARCHER",
+          "FISH",
+          "GOAT",
+          "RAM"
+        ]
+      },
+      {
+        "title": "MUSCULAR, MINUS \"ED\" SOUND",
+        "words": [
+          "JACK",
+          "RIP",
+          "SHRED",
+          "YOKE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the skies are dreary, these colors and states may come to mind.",
+      "Soothing and smooth, these are often found in your medicine cabinet.",
+      "Celestial beings that guide the stars, each with their own story.",
+      "Strong and powerful, these words evoke strength without the past tense."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 656,
+    "editor": "Tracy Bennett",
+    "solution": "laden",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something heavy or burdened."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests being weighed down."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with an 'l' and relates to being filled or loaded."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 941,
+    "editor": "Tracy Bennett",
+    "clue": "In the paint",
+    "spangram": "MEDIUM",
+    "themeWords": [
+      "ACRYLIC",
+      "ENAMEL",
+      "FRESCO",
+      "PASTEL",
+      "TEMPERA",
+      "WATERCOLOR"
+    ],
+    "startingBoard": [
+      "ERFMPA",
+      "SLEATS",
+      "COENLE",
+      "MEDIUM",
+      "CILYRA",
+      "WROCTR",
+      "ARLAEE",
+      "TECOMP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2683,
+    "sides": [
+      "UNF",
+      "IDG",
+      "JRT",
+      "SOY"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "JUSTIFYING",
+      "GOURD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20346,
+    "centerLetter": "c",
+    "outerLetters": "aefmnt",
+    "pangrams": [
+      "effacement"
+    ],
+    "answers": [
+      "accent",
+      "acetate",
+      "acme",
+      "acne",
+      "affect",
+      "cafe",
+      "caftan",
+      "came",
+      "cancan",
+      "cane",
+      "canna",
+      "cant",
+      "cantata",
+      "canteen",
+      "cement",
+      "cent",
+      "cetacean",
+      "efface",
+      "effect",
+      "emcee",
+      "enact",
+      "enactment",
+      "face",
+      "facet",
+      "fact",
+      "fence",
+      "mace",
+      "mecca",
+      "menace",
+      "tacet",
+      "tact"
+    ],
+    "pangramHints": [
+      {
+        "word": "effacement",
+        "hint": "A subtle act of removing or wiping away, without naming it."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

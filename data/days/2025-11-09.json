@@ -1,0 +1,180 @@
+{
+  "date": "2025-11-09",
+  "fetchedAt": "2026-05-10T20:18:45.423Z",
+  "connections": {
+    "puzzleId": 915,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PERSONAL GROOMING ITEMS",
+        "words": [
+          "BRUSH",
+          "MIRROR",
+          "NAIL FILE",
+          "TWEEZERS"
+        ]
+      },
+      {
+        "title": "PACKED",
+        "words": [
+          "COMPACT",
+          "DENSE",
+          "THICK",
+          "TIGHT"
+        ]
+      },
+      {
+        "title": "PONDER",
+        "words": [
+          "DELIBERATE",
+          "MUSE",
+          "NOODLE",
+          "REFLECT"
+        ]
+      },
+      {
+        "title": "STARTING WITH BIRD HOMOPHONES",
+        "words": [
+          "CRANIUM",
+          "CRONUT",
+          "LUNAR",
+          "PUFNSTUF"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A shiny companion for your daily routine, but don't forget the little details.",
+      "Think of how tightly you can pack your essentials; sometimes less is more.",
+      "When you take a moment to think deeply, what thoughts come to the surface?",
+      "These feathered friends have names that sound like something else entirely."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1457,
+    "editor": "Tracy Bennett",
+    "solution": "fugue",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a musical term that might echo."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a composition that repeats themes."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with a type of music that explores themes in a free form."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 783,
+    "editor": "Tracy Bennett",
+    "clue": "How enchanting!",
+    "spangram": "CHARMEDIMSURE",
+    "themeWords": [
+      "CAPTIVATE",
+      "ENTRANCE",
+      "HYPNOTIZE",
+      "SPELLBIND"
+    ],
+    "startingBoard": [
+      "ENSURE",
+      "ETMYPN",
+      "CRIHOT",
+      "NADEZI",
+      "ESEAPT",
+      "LPMCVI",
+      "DLRETA",
+      "NIBAHC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2532,
+    "sides": [
+      "RLI",
+      "HTV",
+      "CGP",
+      "EAD"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "VERDICT",
+      "TELEGRAPH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24045,
+    "centerLetter": "n",
+    "outerLetters": "acilry",
+    "pangrams": [
+      "ancillary"
+    ],
+    "answers": [
+      "anal",
+      "anally",
+      "annal",
+      "arancini",
+      "arcana",
+      "arnica",
+      "cairn",
+      "canal",
+      "canary",
+      "cancan",
+      "canna",
+      "cannily",
+      "canny",
+      "carnal",
+      "carnally",
+      "carny",
+      "clan",
+      "clinic",
+      "clinical",
+      "clinically",
+      "clinician",
+      "crania",
+      "cranial",
+      "cranny",
+      "cyan",
+      "cynic",
+      "cynical",
+      "cynically",
+      "inlay",
+      "lain",
+      "lanai",
+      "naan",
+      "nail",
+      "nana",
+      "nanny",
+      "narc",
+      "nary",
+      "niacin",
+      "ninny",
+      "rain",
+      "rainy",
+      "rani",
+      "ricin",
+      "yarn"
+    ],
+    "pangramHints": [
+      {
+        "word": "ancillary",
+        "hint": "A supportive role that enhances the main event."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

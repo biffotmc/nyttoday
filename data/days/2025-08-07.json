@@ -1,0 +1,197 @@
+{
+  "date": "2025-08-07",
+  "fetchedAt": "2026-05-10T20:12:06.823Z",
+  "connections": {
+    "puzzleId": 827,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MOUSE ACTIONS",
+        "words": [
+          "CLICK",
+          "DRAG",
+          "HOVER",
+          "SCROLL"
+        ]
+      },
+      {
+        "title": "PERFORATE",
+        "words": [
+          "BORE",
+          "PIERCE",
+          "POKE",
+          "PUNCH"
+        ]
+      },
+      {
+        "title": "ONES WITH POINTY EARS",
+        "words": [
+          "BATMAN",
+          "DEVIL",
+          "ELF",
+          "VULCAN"
+        ]
+      },
+      {
+        "title": "WIMBLEDON WINNERS",
+        "words": [
+          "BORG",
+          "GRAF",
+          "KING",
+          "SINNER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When navigating the digital realm, some actions are more tactile than others.",
+      "To make a mark, sometimes you need to go deep, while other times, a gentle touch will do.",
+      "In a world of fantasy, sharp features lead to unexpected heroes and mischief.",
+      "On the grass courts, champions rise and fall, each with their own legendary tale."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1145,
+    "editor": "Tracy Bennett",
+    "solution": "coral",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a vibrant underwater habitat."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with a specific color."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a five-letter word that starts with 'c' and is related to marine life."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 689,
+    "editor": "Tracy Bennett",
+    "clue": "Rock solid",
+    "spangram": "HOLDFAST",
+    "themeWords": [
+      "CONSTANT",
+      "DEVOTED",
+      "FIRM",
+      "SOUND",
+      "STEADY",
+      "UNWAVERING"
+    ],
+    "startingBoard": [
+      "ADDETD",
+      "TEYVOE",
+      "SMRISO",
+      "HOLDFU",
+      "UNWFDN",
+      "TVAAST",
+      "NERING",
+      "ATSNOC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2438,
+    "sides": [
+      "NSR",
+      "WYK",
+      "IAD",
+      "TCL"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WRINKLY",
+      "YARDSTICK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12333,
+    "centerLetter": "o",
+    "outerLetters": "cghikn",
+    "pangrams": [
+      "chocking",
+      "choking",
+      "hocking"
+    ],
+    "answers": [
+      "chignon",
+      "chino",
+      "chock",
+      "cocci",
+      "cock",
+      "cocking",
+      "cocoon",
+      "cocooning",
+      "coho",
+      "coin",
+      "coining",
+      "conch",
+      "conic",
+      "conk",
+      "conking",
+      "conning",
+      "cooing",
+      "cook",
+      "cooking",
+      "ginkgo",
+      "gnocchi",
+      "going",
+      "gong",
+      "gonging",
+      "goon",
+      "hock",
+      "hogging",
+      "honcho",
+      "honing",
+      "honk",
+      "honking",
+      "hooch",
+      "hook",
+      "hooking",
+      "icon",
+      "iconic",
+      "ionic",
+      "knock",
+      "knocking",
+      "kook",
+      "nock",
+      "nocking",
+      "noggin",
+      "nook",
+      "noon",
+      "oink",
+      "oinking",
+      "ongoing",
+      "onion"
+    ],
+    "pangramHints": [
+      {
+        "word": "chocking",
+        "hint": "A word that suggests a tight grip, but not quite right."
+      },
+      {
+        "word": "choking",
+        "hint": "A term often used when something is too tight or overwhelming."
+      },
+      {
+        "word": "hocking",
+        "hint": "Think of a pawn, but in a more casual context."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

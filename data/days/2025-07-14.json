@@ -1,0 +1,185 @@
+{
+  "date": "2025-07-14",
+  "fetchedAt": "2026-05-10T20:10:40.895Z",
+  "connections": {
+    "puzzleId": 803,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SHADES OF BLUE",
+        "words": [
+          "BABY",
+          "ICE",
+          "POWDER",
+          "SKY"
+        ]
+      },
+      {
+        "title": "ADJECTIVES FOR A SPORTS CAR",
+        "words": [
+          "COMPACT",
+          "FAST",
+          "SLEEK",
+          "SPORTY"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE “ROGER/S”",
+        "words": [
+          "GINGER",
+          "JOLLY",
+          "MISTER",
+          "ROY"
+        ]
+      },
+      {
+        "title": "DISNEY ANIMATED CHARACTERS PLUS A LETTER",
+        "words": [
+          "ABUT",
+          "BELLED",
+          "FLOUNDERS",
+          "SCARY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A calming color palette, where tranquility reigns supreme. Dive into the essence of the sky and the sea.",
+      "These words embody speed and style, perfect for a ride that turns heads on the highway.",
+      "Think of playful companions that add a touch of cheer before a familiar call.",
+      "Animated tales with a twist; these characters might just surprise you with an extra flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2242,
+    "editor": "Tracy Bennett",
+    "solution": "undid",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a reversal of something that was done."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Consider what happens when you take something back."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with fixing a mistake or undoing an action."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 664,
+    "editor": "Tracy Bennett",
+    "clue": "Won't you be my neighbor?",
+    "spangram": "COMMUNITY",
+    "themeWords": [
+      "FIREFIGHTER",
+      "JANITOR",
+      "LIBRARIAN",
+      "MAYOR",
+      "TEACHER"
+    ],
+    "startingBoard": [
+      "HCETOY",
+      "EAMMRA",
+      "ROILUM",
+      "CARIBN",
+      "FNARIJ",
+      "RIYTAR",
+      "EFRENO",
+      "IGHTIT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2414,
+    "sides": [
+      "ORA",
+      "LTU",
+      "IBN",
+      "HCD"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ABDUCT",
+      "TRIATHLON"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12164,
+    "centerLetter": "t",
+    "outerLetters": "bghoru",
+    "pangrams": [
+      "brought"
+    ],
+    "answers": [
+      "boot",
+      "booth",
+      "both",
+      "bought",
+      "bout",
+      "broth",
+      "brut",
+      "burbot",
+      "butt",
+      "goth",
+      "gout",
+      "grotto",
+      "grout",
+      "hoot",
+      "hurt",
+      "ought",
+      "outgo",
+      "outro",
+      "outthought",
+      "robot",
+      "root",
+      "rotgut",
+      "rotor",
+      "rout",
+      "thorough",
+      "thou",
+      "though",
+      "thought",
+      "throb",
+      "through",
+      "throughout",
+      "thug",
+      "toot",
+      "tooth",
+      "toro",
+      "tort",
+      "tough",
+      "tour",
+      "tout",
+      "trot",
+      "troth",
+      "trough",
+      "trout",
+      "truth",
+      "turbo",
+      "turbot",
+      "tutor",
+      "tutu"
+    ],
+    "pangramHints": [
+      {
+        "word": "brought",
+        "hint": "A word that signifies delivery or bringing something to someone."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

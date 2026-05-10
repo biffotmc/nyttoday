@@ -1,0 +1,178 @@
+{
+  "date": "2025-09-23",
+  "fetchedAt": "2026-05-10T20:15:39.648Z",
+  "connections": {
+    "puzzleId": 879,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CHEERFUL",
+        "words": [
+          "BOUNCY",
+          "BRIGHT",
+          "MERRY",
+          "SUNNY"
+        ]
+      },
+      {
+        "title": "\"RUBBER BABY BUGGY BUMPER\"",
+        "words": [
+          "BABY",
+          "BUGGY",
+          "BUMPER",
+          "RUBBER"
+        ]
+      },
+      {
+        "title": "KINDS OF LUGGAGE",
+        "words": [
+          "CARRY-ON",
+          "DUFFEL",
+          "HARD-SHELL",
+          "ROLLER"
+        ]
+      },
+      {
+        "title": "TITLE CHARACTERS IN '80S MOVIES",
+        "words": [
+          "FERRIS",
+          "HEATHER",
+          "INDIANA",
+          "PEE-WEE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words radiate positivity; they can brighten even the gloomiest of days.",
+      "Think of a playful phrase that rolls off the tongue, often associated with a certain toy.",
+      "Travel light or heavy; these are the essentials for your next adventure.",
+      "Iconic figures from the silver screen, each with a unique flair that defined a decade."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2232,
+    "editor": "Tracy Bennett",
+    "solution": "mouth",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you use to express yourself."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with communication and taste."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a part of the face that plays a key role in speaking."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 736,
+    "editor": "Tracy Bennett",
+    "clue": "On the syllabus",
+    "spangram": "COLLEGECOURSE",
+    "themeWords": [
+      "EXAM",
+      "HOMEWORK",
+      "LECTURE",
+      "PAPER",
+      "QUIZ",
+      "READING"
+    ],
+    "startingBoard": [
+      "CEXGRE",
+      "OMANIU",
+      "LLEDET",
+      "RQGARC",
+      "EUECOE",
+      "PMIZUL",
+      "AOEWRS",
+      "PHKROE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2485,
+    "sides": [
+      "FOU",
+      "ZBX",
+      "EIR",
+      "NHT"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "UNFROZE",
+      "EXHIBIT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23212,
+    "centerLetter": "t",
+    "outerLetters": "abceik",
+    "pangrams": [
+      "backbite",
+      "tieback"
+    ],
+    "answers": [
+      "abate",
+      "abet",
+      "acetate",
+      "acetic",
+      "attack",
+      "attic",
+      "backbit",
+      "bait",
+      "bate",
+      "batik",
+      "beat",
+      "beet",
+      "beta",
+      "betake",
+      "bite",
+      "cacti",
+      "ciabatta",
+      "cite",
+      "kite",
+      "tacet",
+      "tacit",
+      "tack",
+      "tact",
+      "tactic",
+      "take",
+      "takeback",
+      "teacake",
+      "teak",
+      "teat",
+      "tibia",
+      "tibiae",
+      "tick",
+      "ticket",
+      "tiki",
+      "tikka"
+    ],
+    "pangramHints": [
+      {
+        "word": "backbite",
+        "hint": "A sneaky action that can hurt feelings; watch your words!"
+      },
+      {
+        "word": "tieback",
+        "hint": "A term often used in fashion, keeping things neat and tidy."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

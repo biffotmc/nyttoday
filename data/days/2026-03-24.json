@@ -1,0 +1,158 @@
+{
+  "date": "2026-03-24",
+  "fetchedAt": "2026-05-10T20:27:41.701Z",
+  "connections": {
+    "puzzleId": 1102,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DESPICABLE",
+        "words": [
+          "BASE",
+          "LOW",
+          "MEAN",
+          "VILE"
+        ]
+      },
+      {
+        "title": "FEATURES OF A WEDDING",
+        "words": [
+          "CAKE",
+          "KISS",
+          "RING",
+          "VOW"
+        ]
+      },
+      {
+        "title": "KINDS OF TRUCKS",
+        "words": [
+          "DUMP",
+          "FIRE",
+          "FOOD",
+          "TOW"
+        ]
+      },
+      {
+        "title": "HETERONYMS",
+        "words": [
+          "BOW",
+          "ROW",
+          "SOW",
+          "WIND"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words might make you think twice about someone's character; they all share a certain unpleasantness.",
+      "A celebration of love often includes these delightful elements, each playing a special role in the ceremony.",
+      "These vehicles are built for specific tasks, each serving a unique purpose on the road.",
+      "Words that can take on different meanings depending on how you use them; they’re quite the linguistic chameleons."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1008,
+    "editor": "Tracy Bennett",
+    "solution": "brood",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a group of young birds."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to think deeply about something."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a five-letter word that starts with 'b' and relates to nurturing thoughts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 925,
+    "editor": "Tracy Bennett",
+    "clue": "Get over it ... or get through it",
+    "spangram": "OBSTACLECOURSE",
+    "themeWords": [
+      "BARRICADE",
+      "FENCE",
+      "HOOP",
+      "HURDLE",
+      "TUNNEL",
+      "WALL"
+    ],
+    "startingBoard": [
+      "SBOECN",
+      "LTEDRE",
+      "LALHUF",
+      "ACLTEL",
+      "WOECUN",
+      "POEOUN",
+      "HADARS",
+      "BRRICE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2667,
+    "sides": [
+      "UVS",
+      "OTL",
+      "DAY",
+      "GIR"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DUGOUTS",
+      "SALIVARY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17126,
+    "centerLetter": "i",
+    "outerLetters": "abrtuy",
+    "pangrams": [
+      "tributary"
+    ],
+    "answers": [
+      "airy",
+      "arbitrary",
+      "aria",
+      "atria",
+      "bait",
+      "barbarity",
+      "birria",
+      "briar",
+      "briary",
+      "itty",
+      "rabbi",
+      "rabbit",
+      "raita",
+      "rarity",
+      "ribbit",
+      "ribby",
+      "tiara",
+      "tibia",
+      "trait",
+      "tutti"
+    ],
+    "pangramHints": [
+      {
+        "word": "tributary",
+        "hint": "A waterway that flows into a larger body; think of rivers and their connections."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

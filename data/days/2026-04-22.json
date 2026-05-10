@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-22",
+  "fetchedAt": "2026-05-10T20:29:36.599Z",
+  "connections": {
+    "puzzleId": 1128,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "POTTERY EQUIPMENT",
+        "words": [
+          "CLAY",
+          "GLAZE",
+          "KILN",
+          "WHEEL"
+        ]
+      },
+      {
+        "title": "WALLOP",
+        "words": [
+          "DECK",
+          "PUNCH",
+          "SLUG",
+          "SOCK"
+        ]
+      },
+      {
+        "title": "WORDS PRONOUNCED DIFFERENT WAYS AS PROPER NOUNS",
+        "words": [
+          "HERB",
+          "NICE",
+          "POLISH",
+          "READING"
+        ]
+      },
+      {
+        "title": "PICK-UP ___",
+        "words": [
+          "ARTIST",
+          "GAME",
+          "STICKS",
+          "TRUCK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Crafting magic from earth, fire, and a spin; these tools shape the future from the past.",
+      "When you want to make an impact, sometimes a swift move is all it takes.",
+      "These words may sound the same, but their meanings dance to different tunes.",
+      "Whether it’s a game or a vehicle, these pickups are sure to bring joy."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2226,
+    "editor": "Tracy Bennett",
+    "solution": "snore",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word is related to a common nighttime sound."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often associated with a deep, restful sleep."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a sound that might come from someone who is not awake."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 954,
+    "editor": "Tracy Bennett",
+    "clue": "Earth Day",
+    "spangram": "CONSERVATION",
+    "themeWords": [
+      "DONATE",
+      "RECYCLE",
+      "REDUCE",
+      "REFILL",
+      "REPAIR",
+      "REUSE"
+    ],
+    "startingBoard": [
+      "CERNLC",
+      "UENOEY",
+      "DOSIRC",
+      "CRERTE",
+      "UEEOVA",
+      "ISNDAP",
+      "FLATIE",
+      "RELERR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2696,
+    "sides": [
+      "IBA",
+      "ENU",
+      "PCM",
+      "TLQ"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUINTUPLE",
+      "EMBLEMATIC"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 14476,
+    "centerLetter": "n",
+    "outerLetters": "bceilv",
+    "pangrams": [
+      "invincible",
+      "vincible"
+    ],
+    "answers": [
+      "beeline",
+      "been",
+      "blin",
+      "blini",
+      "clinic",
+      "eleven",
+      "enliven",
+      "even",
+      "evince",
+      "incline",
+      "innie",
+      "lenience",
+      "lien",
+      "line",
+      "linen",
+      "liven",
+      "nene",
+      "nibble",
+      "nice",
+      "niece",
+      "nine",
+      "vein",
+      "vine"
+    ],
+    "pangramHints": [
+      {
+        "word": "invincible",
+        "hint": "A word that suggests unbeatable strength, but don't say it out loud!"
+      },
+      {
+        "word": "vincible",
+        "hint": "A term that implies the opposite of invulnerable; keep it hush-hush!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

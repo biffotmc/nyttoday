@@ -1,0 +1,170 @@
+{
+  "date": "2025-05-27",
+  "fetchedAt": "2026-05-10T20:07:22.298Z",
+  "connections": {
+    "puzzleId": 748,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ROUND FLAT THINGS",
+        "words": [
+          "COASTER",
+          "FRISBEE",
+          "PANCAKE",
+          "RECORD"
+        ]
+      },
+      {
+        "title": "AIRPORT FEATURES",
+        "words": [
+          "CAROUSEL",
+          "FOOD COURT",
+          "GATE",
+          "LOUNGE"
+        ]
+      },
+      {
+        "title": "GUITAR PLAYING TECHNIQUES",
+        "words": [
+          "BEND",
+          "PICK",
+          "SLIDE",
+          "STRUM"
+        ]
+      },
+      {
+        "title": "WHAT CHARACTERS WERE TRANSFORMED INTO IN “BEAUTY AND THE BEAST”",
+        "words": [
+          "BEAST",
+          "CANDELABRA",
+          "CLOCK",
+          "TEACUP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These items are often found on tables, sometimes they spin or serve a purpose.",
+      "Look for these in a bustling terminal, where travelers gather and wait.",
+      "Mastering these techniques can elevate your musical skills to new heights.",
+      "In a tale of enchantment, these objects took on new forms, adding magic to the story."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 778,
+    "editor": "Tracy Bennett",
+    "solution": "sport",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something active and competitive."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often associated with games and physical activities."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a category of activities, not just one."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 616,
+    "editor": "Tracy Bennett",
+    "clue": "A strange new world",
+    "spangram": "DYSTOPIANNOVEL",
+    "themeWords": [
+      "ANIMAL",
+      "FARM",
+      "GAMES",
+      "HANDMAIDS",
+      "HUNGER",
+      "TALE"
+    ],
+    "startingBoard": [
+      "DALEHA",
+      "YMGNRN",
+      "SIUHAD",
+      "TNAIOM",
+      "OSDNVL",
+      "PIANEM",
+      "GATERF",
+      "SEMALA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2366,
+    "sides": [
+      "LES",
+      "UMI",
+      "BJR",
+      "COT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "SUBCULTURE",
+      "EMOJI"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22013,
+    "centerLetter": "h",
+    "outerLetters": "gilnty",
+    "pangrams": [
+      "nightly"
+    ],
+    "answers": [
+      "high",
+      "highlight",
+      "highlighting",
+      "highly",
+      "hill",
+      "hilling",
+      "hilly",
+      "hilt",
+      "hinging",
+      "hinny",
+      "hint",
+      "hinting",
+      "hitting",
+      "light",
+      "lighting",
+      "lightly",
+      "lightning",
+      "nigh",
+      "night",
+      "nightlight",
+      "ninth",
+      "ninthly",
+      "thigh",
+      "thin",
+      "thing",
+      "thingy",
+      "thinly",
+      "thinning",
+      "tight",
+      "tightly",
+      "tilth",
+      "tithing"
+    ],
+    "pangramHints": [
+      {
+        "word": "nightly",
+        "hint": "A word that captures the essence of evening events."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

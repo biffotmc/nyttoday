@@ -1,0 +1,169 @@
+{
+  "date": "2026-05-13",
+  "fetchedAt": "2026-05-10T20:13:58.490Z",
+  "connections": {
+    "puzzleId": 1150,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LONG SANDWICH",
+        "words": [
+          "GRINDER",
+          "HERO",
+          "HOAGIE",
+          "SUB"
+        ]
+      },
+      {
+        "title": "PRETEXT",
+        "words": [
+          "ARGUMENT",
+          "BASIS",
+          "CAUSE",
+          "GROUNDS"
+        ]
+      },
+      {
+        "title": "SMARTPHONE PHOTO EDITING OPTIONS",
+        "words": [
+          "ADJUST",
+          "CROP",
+          "FILTERS",
+          "MARKUP"
+        ]
+      },
+      {
+        "title": "JELLY ___",
+        "words": [
+          "BEAN",
+          "BELLY",
+          "DONUT",
+          "ROLL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These handheld delights come in various shapes and sizes, often filled with layers of flavor.",
+      "Every story has its foundation; without it, the plot might unravel.",
+      "When capturing moments, these tools can enhance your visual narrative.",
+      "A sweet treat that can take on many forms, often enjoyed in playful ways."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 754,
+    "editor": "Tracy Bennett",
+    "solution": "dowdy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a style that's a bit outdated."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes something that lacks freshness."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It often refers to fashion or appearance that feels old-fashioned."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 975,
+    "editor": "Tracy Bennett",
+    "clue": "You've got ...",
+    "spangram": "WHATITTAKES",
+    "themeWords": [
+      "FIBER",
+      "GRIT",
+      "GUMPTION",
+      "HEART",
+      "NERVE",
+      "PLUCK",
+      "SPUNK"
+    ],
+    "startingBoard": [
+      "EEWHKC",
+      "VRNAPU",
+      "SPUTLG",
+      "KNTITR",
+      "NGTERI",
+      "OUABHE",
+      "IMKIFA",
+      "TPESTR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2717,
+    "sides": [
+      "ILT",
+      "XFY",
+      "EGC",
+      "ORB"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "BEREFT",
+      "TOXICOLOGY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25317,
+    "centerLetter": "l",
+    "outerLetters": "abdirz",
+    "pangrams": [
+      "blizzard"
+    ],
+    "answers": [
+      "airball",
+      "alibi",
+      "aril",
+      "bail",
+      "bald",
+      "ball",
+      "ballad",
+      "bilabial",
+      "bill",
+      "billiard",
+      "biradial",
+      "blab",
+      "bridal",
+      "dial",
+      "dill",
+      "drill",
+      "labia",
+      "labial",
+      "laid",
+      "lair",
+      "lard",
+      "liar",
+      "lira",
+      "lizard",
+      "radial",
+      "rail",
+      "railbird",
+      "rial",
+      "ribald",
+      "rill"
+    ],
+    "pangramHints": [
+      {
+        "word": "blizzard",
+        "hint": "A fierce winter storm, but don't mention the name!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

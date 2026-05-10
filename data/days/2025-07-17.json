@@ -1,0 +1,192 @@
+{
+  "date": "2025-07-17",
+  "fetchedAt": "2026-05-10T20:10:46.552Z",
+  "connections": {
+    "puzzleId": 806,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MEDDLE",
+        "words": [
+          "NOSE AROUND",
+          "POKE",
+          "PRY",
+          "SNOOP"
+        ]
+      },
+      {
+        "title": "WORDS AFTER “NO” TO MEAN “IT’S ALL GOOD”",
+        "words": [
+          "BIGGIE",
+          "HARD FEELINGS",
+          "SWEAT",
+          "WORRIES"
+        ]
+      },
+      {
+        "title": "SUPER ___",
+        "words": [
+          "GLUE",
+          "MARIO WORLD",
+          "PAC",
+          "POWER"
+        ]
+      },
+      {
+        "title": "ENDING WITH FISH",
+        "words": [
+          "CAMISOLE",
+          "CAPE COD",
+          "DRUM AND BASS",
+          "WU-TANG"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A curious creature sneaks around, always on the lookout for something juicy. What could it be?",
+      "These phrases might ease your mind, even when things seem a bit heavy. Look for the silver lining!",
+      "Think of something that can stick things together or a famous plumber's adventure. What connects them?",
+      "These terms might not swim, but they sure make a splash in their own right. Dive in to discover!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1080,
+    "editor": "Tracy Bennett",
+    "solution": "modal",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It’s a term often related to a type of music or a way of being."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes something that is capable or able."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that starts with 'm' and relates to functionality."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 667,
+    "editor": "Tracy Bennett",
+    "clue": "Find your seat",
+    "spangram": "THEATERS",
+    "themeWords": [
+      "BALCONY",
+      "BOXES",
+      "LOBBY",
+      "MEZZANINE",
+      "ORCHESTRA",
+      "WINGS"
+    ],
+    "startingBoard": [
+      "HEATER",
+      "TSCROS",
+      "NGHTAS",
+      "IWESRE",
+      "BYIBOX",
+      "BNNZZE",
+      "OYEAMB",
+      "LNOCLA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2417,
+    "sides": [
+      "OLT",
+      "MUN",
+      "AFX",
+      "REP"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FLAP",
+      "PORTMANTEAUX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9970,
+    "centerLetter": "t",
+    "outerLetters": "acdily",
+    "pangrams": [
+      "dactylic",
+      "didactically"
+    ],
+    "answers": [
+      "acidity",
+      "addict",
+      "alit",
+      "atilt",
+      "attic",
+      "cacti",
+      "catalytic",
+      "catalytically",
+      "catcall",
+      "cattail",
+      "cattily",
+      "catty",
+      "city",
+      "dactyl",
+      "data",
+      "daylit",
+      "dicta",
+      "didact",
+      "didactic",
+      "ditty",
+      "illicit",
+      "illicitly",
+      "italic",
+      "itty",
+      "lactic",
+      "laity",
+      "licit",
+      "licitly",
+      "lilt",
+      "tacit",
+      "tacitly",
+      "tact",
+      "tactic",
+      "tactical",
+      "tactically",
+      "tactility",
+      "tail",
+      "talc",
+      "tali",
+      "tall",
+      "tallit",
+      "tally",
+      "tatty",
+      "tidal",
+      "tidally",
+      "tidily",
+      "tidy",
+      "till",
+      "tilt"
+    ],
+    "pangramHints": [
+      {
+        "word": "dactylic",
+        "hint": "A rhythmic pattern often found in poetry; keep your feet tapping!"
+      },
+      {
+        "word": "didactically",
+        "hint": "A word that embodies teaching or instructing; think of a classroom!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "date": "2025-11-21",
+  "fetchedAt": "2026-05-10T20:19:30.323Z",
+  "connections": {
+    "puzzleId": 921,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "THINGS WORN ON LAPELS",
+        "words": [
+          "AWARENESS RIBBON",
+          "BOUTONNIÈRE",
+          "LAPEL PIN",
+          "LAVALIER"
+        ]
+      },
+      {
+        "title": "COCKTAILS",
+        "words": [
+          "COSMOPOLITAN",
+          "GREYHOUND",
+          "SCREWDRIVER",
+          "SEA BREEZE"
+        ]
+      },
+      {
+        "title": "PIXAR PROTAGONISTS",
+        "words": [
+          "CLOWNFISH",
+          "GRUMPY OLD MAN",
+          "RACECAR",
+          "TALKING DOLL"
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"EAT\"",
+        "words": [
+          "BOLT CUTTER",
+          "CHOW MEIN",
+          "SCARF RING",
+          "WOLF EEL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These items may not be the main attraction, but they certainly add flair to your outfit.",
+      "Sip on these delightful mixtures, each with its own unique twist to brighten your evening.",
+      "From underwater adventures to whimsical journeys, these characters steal the show in their tales.",
+      "When you’re hungry, these words might just get your appetite going with a playful twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 739,
+    "editor": "Tracy Bennett",
+    "solution": "vowel",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a common feature in many words."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of the sounds that make your voice sing."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is essential for forming many sounds in language."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 795,
+    "editor": "Tracy Bennett",
+    "clue": "Heard at the board meeting",
+    "spangram": "CORPORATESPEAK",
+    "themeWords": [
+      "ALIGN",
+      "DISRUPT",
+      "IDEATE",
+      "LIAISE",
+      "PIVOT",
+      "SCALE"
+    ],
+    "startingBoard": [
+      "LIAISE",
+      "UPTALI",
+      "RIAEPG",
+      "SDKSEN",
+      "CORPTA",
+      "IELORP",
+      "DSCAIV",
+      "EATEOT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2544,
+    "sides": [
+      "GRT",
+      "OMN",
+      "DEU",
+      "HIB"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "DOUGHNUT",
+      "TIMBRE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23528,
+    "centerLetter": "p",
+    "outerLetters": "adgnor",
+    "pangrams": [
+      "grandpop",
+      "propaganda"
+    ],
+    "answers": [
+      "apron",
+      "dognap",
+      "droop",
+      "drop",
+      "goop",
+      "gorp",
+      "grandpa",
+      "grandpapa",
+      "grappa",
+      "pagan",
+      "pagoda",
+      "panda",
+      "pang",
+      "papa",
+      "paradrop",
+      "paragon",
+      "pardon",
+      "pogo",
+      "pond",
+      "pong",
+      "poop",
+      "poor",
+      "poppa",
+      "porn",
+      "porno",
+      "prod",
+      "prong",
+      "prop"
+    ],
+    "pangramHints": [
+      {
+        "word": "grandpop",
+        "hint": "A familial title that brings a sense of nostalgia."
+      },
+      {
+        "word": "propaganda",
+        "hint": "Information, often biased, that aims to influence public opinion."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "date": "2025-07-29",
+  "fetchedAt": "2026-05-10T20:11:31.979Z",
+  "connections": {
+    "puzzleId": 819,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DISCOUNT",
+        "words": [
+          "DEAL",
+          "PROMOTION",
+          "SALE",
+          "SPECIAL"
+        ]
+      },
+      {
+        "title": "IRRITATE",
+        "words": [
+          "BUG",
+          "NETTLE",
+          "RUFFLE",
+          "STEAM"
+        ]
+      },
+      {
+        "title": "POKER ACTIONS",
+        "words": [
+          "CALL",
+          "CHECK",
+          "FOLD",
+          "RAISE"
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN PUMP",
+        "words": [
+          "BRAKES",
+          "FIST",
+          "GAS",
+          "IRON"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the price drops, everyone loves to grab a bargain. Keep your eyes peeled for the best offers!",
+      "Sometimes, a little annoyance can lead to a bigger reaction. Watch out for what gets under your skin!",
+      "In the game of chance, every move counts. Decide wisely on your next step to stay in the game!",
+      "Some things need a little extra push to work properly. Think about what helps things move along smoothly!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1629,
+    "editor": "Tracy Bennett",
+    "solution": "omega",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's the last letter of the Greek alphabet."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can represent the end or a great limit."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often associated with the concept of finality or the ultimate."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 680,
+    "editor": "Tracy Bennett",
+    "clue": "You got that right",
+    "spangram": "TAKINGPAINS",
+    "themeWords": [
+      "ACCURATE",
+      "EXACT",
+      "PERSNICKETY",
+      "PRECISE",
+      "STRICT"
+    ],
+    "startingBoard": [
+      "PTAKTI",
+      "RSEICR",
+      "ECINST",
+      "AACGPE",
+      "TRCPSR",
+      "TEUACN",
+      "ACNIKI",
+      "XESETY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2429,
+    "sides": [
+      "CHI",
+      "URP",
+      "OGN",
+      "JAE"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JOUNCE",
+      "EPIGRAPH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22296,
+    "centerLetter": "u",
+    "outerLetters": "achlnt",
+    "pangrams": [
+      "unlatch"
+    ],
+    "answers": [
+      "actual",
+      "annual",
+      "annul",
+      "aunt",
+      "cannula",
+      "caul",
+      "clutch",
+      "cull",
+      "cult",
+      "haul",
+      "haunch",
+      "haunt",
+      "hula",
+      "hull",
+      "hunch",
+      "hunt",
+      "hutch",
+      "lacuna",
+      "launch",
+      "luau",
+      "lull",
+      "lulu",
+      "luna",
+      "lunch",
+      "lunula",
+      "null",
+      "nuthatch",
+      "tactual",
+      "taunt",
+      "taut",
+      "tuna",
+      "tutu",
+      "ulna",
+      "unclutch",
+      "uncut"
+    ],
+    "pangramHints": [
+      {
+        "word": "unlatch",
+        "hint": "A simple action that opens up possibilities; think of doors and locks."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

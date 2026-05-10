@@ -1,0 +1,170 @@
+{
+  "date": "2025-12-01",
+  "fetchedAt": "2026-05-10T20:20:08.261Z",
+  "connections": {
+    "puzzleId": 926,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "COMPLETE TURN",
+        "words": [
+          "CIRCUIT",
+          "LAP",
+          "ORBIT",
+          "REVOLUTION"
+        ]
+      },
+      {
+        "title": "CIRCULAR THINGS",
+        "words": [
+          "FULL MOON",
+          "LP",
+          "PIZZA PIE",
+          "PUPIL"
+        ]
+      },
+      {
+        "title": "KAFKA WORKS, WITH \"THE\"",
+        "words": [
+          "CASTLE",
+          "JUDGMENT",
+          "METAMORPHOSIS",
+          "TRIAL"
+        ]
+      },
+      {
+        "title": "STARTING WITH LETTER HOMOPHONES",
+        "words": [
+          "EYE CONTACT",
+          "PEA SOUP",
+          "SEA CHANGE",
+          "TEA LEAVES"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A journey around the track can be thrilling, but watch out for the twists and turns!",
+      "Round and round we go, from celestial bodies to tasty treats, what connects them all?",
+      "In a world of transformation and trials, the journey is just as important as the destination.",
+      "Sounds like something you might hear in a spelling bee, but with a twist of homophonic fun!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2231,
+    "editor": "Tracy Bennett",
+    "solution": "leach",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a process that removes impurities."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often associated with water or minerals."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word starts with a letter that can also mean to 'remove'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 805,
+    "editor": "Tracy Bennett",
+    "clue": "On the ice",
+    "spangram": "HOCKEYRINK",
+    "themeWords": [
+      "GOALS",
+      "PUCK",
+      "SCOREBOARD",
+      "SKATES",
+      "STICKS",
+      "ZAMBONI"
+    ],
+    "startingBoard": [
+      "HLAOKN",
+      "OSEGRI",
+      "CKZYEB",
+      "PKARDO",
+      "UCMORA",
+      "SEBCIS",
+      "STOSCT",
+      "KANISK"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2554,
+    "sides": [
+      "PFN",
+      "AIT",
+      "RDL",
+      "OHC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "HANDICAP",
+      "PORTFOLIO"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20769,
+    "centerLetter": "i",
+    "outerLetters": "dklnow",
+    "pangrams": [
+      "downlink"
+    ],
+    "answers": [
+      "dildo",
+      "dill",
+      "dink",
+      "dino",
+      "downwind",
+      "idol",
+      "kiddo",
+      "kill",
+      "kiln",
+      "kilo",
+      "kind",
+      "kink",
+      "kiwi",
+      "link",
+      "lion",
+      "loin",
+      "nonillion",
+      "oink",
+      "olio",
+      "onion",
+      "widow",
+      "wiki",
+      "wild",
+      "wildwood",
+      "will",
+      "willow",
+      "wind",
+      "window",
+      "wink",
+      "winnow",
+      "wino",
+      "woodwind"
+    ],
+    "pangramHints": [
+      {
+        "word": "downlink",
+        "hint": "A connection from above, bringing data down to earth."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

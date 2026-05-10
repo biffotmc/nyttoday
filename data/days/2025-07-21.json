@@ -1,0 +1,193 @@
+{
+  "date": "2025-07-21",
+  "fetchedAt": "2026-05-10T20:11:02.413Z",
+  "connections": {
+    "puzzleId": 810,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ADDITIONAL PERK",
+        "words": [
+          "BONUS",
+          "EXTRA",
+          "GRAVY",
+          "ICING"
+        ]
+      },
+      {
+        "title": "PHASE TRANSITIONS FOR LIQUIDS",
+        "words": [
+          "CONDENSATION",
+          "FREEZING",
+          "MELTING",
+          "VAPORIZATION"
+        ]
+      },
+      {
+        "title": "CONCEPTS FROM “SEINFELD”",
+        "words": [
+          "FESTIVUS",
+          "REGIFTING",
+          "SHRINKAGE",
+          "YADA YADA"
+        ]
+      },
+      {
+        "title": "WHAT ' CAN INDICATE",
+        "words": [
+          "CONTRACTION",
+          "FOOT",
+          "POSSESSIVE",
+          "QUOTE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Think of something that adds flavor to life, often considered a sweet bonus.",
+      "Imagine the changes that happen when water transforms from one state to another.",
+      "Recall the quirks and catchphrases from a beloved sitcom that captured everyday absurdities.",
+      "Consider symbols that can change meaning based on context, often found in grammar."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2331,
+    "editor": "Tracy Bennett",
+    "solution": "tizzy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It’s a state of confusion or excitement."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a chaotic feeling."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that rhymes with dizzy and conveys a sense of turmoil."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 672,
+    "editor": "Tracy Bennett",
+    "clue": "I fold!",
+    "spangram": "ORIGAMI",
+    "themeWords": [
+      "BOAT",
+      "BUTTERFLY",
+      "CRANE",
+      "FISH",
+      "FLOWER",
+      "FROG",
+      "HEART",
+      "KITE"
+    ],
+    "startingBoard": [
+      "HIFOAR",
+      "SRBTFO",
+      "CANITG",
+      "OEIKAE",
+      "BRYGRM",
+      "UFLEIO",
+      "TRTHWL",
+      "TERAEF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2421,
+    "sides": [
+      "NVE",
+      "IAW",
+      "ORM",
+      "PGH"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "AVOW",
+      "WHIMPERING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 13983,
+    "centerLetter": "r",
+    "outerLetters": "ailmno",
+    "pangrams": [
+      "manorial",
+      "monorail"
+    ],
+    "answers": [
+      "airmail",
+      "airman",
+      "alarm",
+      "amoral",
+      "aria",
+      "aril",
+      "armor",
+      "armorial",
+      "aroma",
+      "immoral",
+      "iron",
+      "ironman",
+      "lair",
+      "liar",
+      "lira",
+      "mailroom",
+      "malaria",
+      "malarial",
+      "manor",
+      "marina",
+      "marinara",
+      "marlin",
+      "marm",
+      "maroon",
+      "minor",
+      "mirin",
+      "mirror",
+      "molar",
+      "moor",
+      "moral",
+      "morn",
+      "moron",
+      "noir",
+      "nori",
+      "norm",
+      "normal",
+      "oral",
+      "rail",
+      "rain",
+      "rani",
+      "rial",
+      "rill",
+      "roam",
+      "roan",
+      "roar",
+      "roil",
+      "roll",
+      "room"
+    ],
+    "pangramHints": [
+      {
+        "word": "manorial",
+        "hint": "A term that evokes grand estates and noble lineage."
+      },
+      {
+        "word": "monorail",
+        "hint": "A futuristic transport system that runs on a single track."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

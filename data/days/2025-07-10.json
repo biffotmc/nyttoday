@@ -1,0 +1,190 @@
+{
+  "date": "2025-07-10",
+  "fetchedAt": "2026-05-10T20:10:39.211Z",
+  "connections": {
+    "puzzleId": 791,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PARTS OF A WHEEL",
+        "words": [
+          "HUB",
+          "RIM",
+          "SPOKE",
+          "TIRE"
+        ]
+      },
+      {
+        "title": "MILITARY CLOTHING DESCRIPTORS",
+        "words": [
+          "CAMO",
+          "DRAB",
+          "FATIGUE",
+          "KHAKI"
+        ]
+      },
+      {
+        "title": "USED IN VENTILATION",
+        "words": [
+          "DUCT",
+          "EXHAUST",
+          "HOSE",
+          "PIPE"
+        ]
+      },
+      {
+        "title": "FAIL TO TAKE ADVANTAGE OF, AS AN OPPORTUNITY",
+        "words": [
+          "BLOW",
+          "LOSE",
+          "MISS",
+          "WASTE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A circle's best friends come together in perfect harmony.",
+      "When in the field, style meets function in a unique blend.",
+      "Airflow is key, and these elements work to keep it smooth.",
+      "Opportunities may slip away if not grasped tightly."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1939,
+    "editor": "Tracy Bennett",
+    "solution": "jumpy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a lively motion."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests a playful bounce."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with agility and energy."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 660,
+    "editor": "Tracy Bennett",
+    "clue": "Nap time!",
+    "spangram": "SLEEPYHEAD",
+    "themeWords": [
+      "DROWSY",
+      "FATIGUED",
+      "KNACKERED",
+      "SPENT",
+      "TIRED",
+      "WEARY"
+    ],
+    "startingBoard": [
+      "DEREIR",
+      "ACKTED",
+      "NKOWSY",
+      "SERDEA",
+      "LEPYHD",
+      "WTNEFA",
+      "ERPDIT",
+      "AYSEUG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2410,
+    "sides": [
+      "EFI",
+      "LHR",
+      "XUN",
+      "GOC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FLEXING",
+      "GROUCH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12757,
+    "centerLetter": "l",
+    "outerLetters": "eimnpt",
+    "pangrams": [
+      "implement"
+    ],
+    "answers": [
+      "element",
+      "elite",
+      "entitle",
+      "entitlement",
+      "impel",
+      "inlet",
+      "intel",
+      "lenient",
+      "lent",
+      "lentil",
+      "lien",
+      "lilt",
+      "lime",
+      "limit",
+      "limn",
+      "limp",
+      "limpet",
+      "line",
+      "linemen",
+      "linen",
+      "liniment",
+      "linnet",
+      "lint",
+      "lintel",
+      "lite",
+      "little",
+      "melee",
+      "melt",
+      "mettle",
+      "mile",
+      "mill",
+      "millet",
+      "nettle",
+      "nipple",
+      "peel",
+      "pellet",
+      "pelt",
+      "penile",
+      "pile",
+      "pill",
+      "pimple",
+      "pipeline",
+      "plie",
+      "tell",
+      "temple",
+      "tile",
+      "till",
+      "tilt",
+      "timeline",
+      "tipple",
+      "title",
+      "tittle"
+    ],
+    "pangramHints": [
+      {
+        "word": "implement",
+        "hint": "A tool for making ideas a reality, but don't say it outright."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

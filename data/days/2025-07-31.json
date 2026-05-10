@@ -1,0 +1,208 @@
+{
+  "date": "2025-07-31",
+  "fetchedAt": "2026-05-10T20:11:41.078Z",
+  "connections": {
+    "puzzleId": 814,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FIRST ___",
+        "words": [
+          "AID",
+          "LADY",
+          "NATIONS",
+          "RESPONDER"
+        ]
+      },
+      {
+        "title": "SECOND ___",
+        "words": [
+          "COMING",
+          "FIDDLE",
+          "GUESS",
+          "NATURE"
+        ]
+      },
+      {
+        "title": "THIRD ___",
+        "words": [
+          "EYE",
+          "PARTY",
+          "RAIL",
+          "ROCK"
+        ]
+      },
+      {
+        "title": "LAST ___",
+        "words": [
+          "LAUGH",
+          "RESORT",
+          "STRAW",
+          "SUPPER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A helping hand can often lead to a lady's charm, but what comes first in a rescue?",
+      "The second act is often the most revealing; what comes next in the dance of nature?",
+      "When you see through the lens of celebration, what do you notice on the tracks of life?",
+      "A hearty meal can bring joy, but what’s the final touch that makes it memorable?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1856,
+    "editor": "Tracy Bennett",
+    "solution": "frill",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that adds flair."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s often seen on clothing, enhancing its appeal."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also describe something that is not serious or plain."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 685,
+    "editor": "Tracy Bennett",
+    "clue": "Half-baked",
+    "spangram": "PIECEOFCAKE",
+    "themeWords": [
+      "BUNDT",
+      "CHEESE",
+      "FRUIT",
+      "FUNNEL",
+      "LAVA",
+      "POUND",
+      "SPONGE"
+    ],
+    "startingBoard": [
+      "ITTDEO",
+      "UFNCLF",
+      "RUESEC",
+      "BILPNA",
+      "PAOCNK",
+      "VGNHUE",
+      "AEUEEF",
+      "PONDSE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2431,
+    "sides": [
+      "GJH",
+      "NVY",
+      "EID",
+      "ORP"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DOJO",
+      "OVERHYPING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23234,
+    "centerLetter": "b",
+    "outerLetters": "agilnr",
+    "pangrams": [
+      "blaring",
+      "garbling"
+    ],
+    "answers": [
+      "airbag",
+      "airball",
+      "alibi",
+      "baaing",
+      "baba",
+      "babbling",
+      "bagging",
+      "bail",
+      "bailing",
+      "baling",
+      "ball",
+      "balling",
+      "banal",
+      "banana",
+      "bang",
+      "banging",
+      "banning",
+      "barb",
+      "barbarian",
+      "bargain",
+      "bargaining",
+      "barging",
+      "baring",
+      "barn",
+      "barraging",
+      "barring",
+      "bilabial",
+      "bill",
+      "billing",
+      "binging",
+      "binning",
+      "birria",
+      "blab",
+      "blabbing",
+      "blin",
+      "bling",
+      "blini",
+      "brag",
+      "bragging",
+      "brain",
+      "braining",
+      "bran",
+      "briar",
+      "bribing",
+      "brig",
+      "bring",
+      "bringing",
+      "brining",
+      "gabbing",
+      "gabbling",
+      "garb",
+      "garbing",
+      "gibing",
+      "glib",
+      "grab",
+      "grabbing",
+      "labia",
+      "labial",
+      "librarian",
+      "nabbing",
+      "nibbling",
+      "rabbi",
+      "ragbag",
+      "ribbing"
+    ],
+    "pangramHints": [
+      {
+        "word": "blaring",
+        "hint": "A loud sound that can pierce through silence."
+      },
+      {
+        "word": "garbling",
+        "hint": "When words get twisted and lose their clarity."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

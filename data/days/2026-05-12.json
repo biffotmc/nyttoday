@@ -1,0 +1,179 @@
+{
+  "date": "2026-05-12",
+  "fetchedAt": "2026-05-10T20:13:56.871Z",
+  "connections": {
+    "puzzleId": 1154,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SUBSTANTIAL BOOK",
+        "words": [
+          "OPUS",
+          "TOME",
+          "VOLUME",
+          "WORK"
+        ]
+      },
+      {
+        "title": "\"SAINT\" CITIES",
+        "words": [
+          "MONICA",
+          "PAULO",
+          "PETERSBURG",
+          "SALVADOR"
+        ]
+      },
+      {
+        "title": "\"LONG\" THINGS",
+        "words": [
+          "DISTANCE",
+          "DIVISION",
+          "JOHNS",
+          "WEEKEND"
+        ]
+      },
+      {
+        "title": "CURRENCIES PLUS A LETTER",
+        "words": [
+          "FRANCI",
+          "RANDO",
+          "REALM",
+          "WONK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A hefty read awaits, filled with wisdom and tales that may change your view.",
+      "These places carry a divine touch, each with stories that resonate through time.",
+      "Stretch your imagination with these lengthy concepts; they can take you far.",
+      "Currency with a twist, these terms add a letter to their value in the world."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2805,
+    "editor": "Tracy Bennett",
+    "solution": "clock",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Time's keeper, often found on a wall."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It ticks and tocks, marking each moment."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Essential for punctuality, but don’t let it run your life!"
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 974,
+    "editor": "Tracy Bennett",
+    "clue": "Quite the pair",
+    "spangram": "FANCYPANTS",
+    "themeWords": [
+      "GAUCHO",
+      "HAREM",
+      "PALAZZO",
+      "SAILOR",
+      "TOREADOR",
+      "TUXEDO"
+    ],
+    "startingBoard": [
+      "CUAMZA",
+      "HGREZL",
+      "OHAOPA",
+      "FANNTS",
+      "TOCAOR",
+      "IRYPDT",
+      "LAEAUO",
+      "ORSXED"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2716,
+    "sides": [
+      "OCB",
+      "RTG",
+      "HML",
+      "DAI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DOGMATIC",
+      "CHARBROIL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19383,
+    "centerLetter": "c",
+    "outerLetters": "abmnot",
+    "pangrams": [
+      "combatant",
+      "noncombatant"
+    ],
+    "answers": [
+      "bacon",
+      "banc",
+      "bobcat",
+      "cabana",
+      "cacao",
+      "camo",
+      "cancan",
+      "canna",
+      "cannon",
+      "cannot",
+      "canon",
+      "cant",
+      "cantata",
+      "canton",
+      "catacomb",
+      "coat",
+      "coca",
+      "cocoa",
+      "cocoon",
+      "coma",
+      "comb",
+      "combat",
+      "combo",
+      "comma",
+      "common",
+      "concoct",
+      "contact",
+      "coot",
+      "cotton",
+      "noncom",
+      "octant",
+      "taco",
+      "tact",
+      "tobacco",
+      "toccata",
+      "tomcat"
+    ],
+    "pangramHints": [
+      {
+        "word": "combatant",
+        "hint": "A fighter in a struggle, but don't let the battle distract you."
+      },
+      {
+        "word": "noncombatant",
+        "hint": "One who stays clear of conflict, peace is their game."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "date": "2026-02-05",
+  "fetchedAt": "2026-05-10T20:24:21.373Z",
+  "connections": {
+    "puzzleId": 1016,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CULTURAL SYMBOLS OF THE U.S.",
+        "words": [
+          "AMERICAN FLAG",
+          "APPLE PIE",
+          "BALD EAGLE",
+          "BASEBALL"
+        ]
+      },
+      {
+        "title": "COLLIDE WITH",
+        "words": [
+          "BUMP",
+          "BUTT",
+          "KNOCK",
+          "RAM"
+        ]
+      },
+      {
+        "title": "BLUE THINGS",
+        "words": [
+          "JEANS",
+          "LAPIS LAZULI",
+          "OCEAN",
+          "SKY"
+        ]
+      },
+      {
+        "title": "LEES OF HOLLYWOOD",
+        "words": [
+          "ANG",
+          "BRUCE",
+          "CHRISTOPHER",
+          "SPIKE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A flag flies high, a pie is baked, an eagle soars, and a game is played; can you see the common thread?",
+      "When two forces meet, a gentle push or a fierce clash can occur; what words capture this encounter?",
+      "The color of the sea and sky, a fabric worn by many, and a gem of deep hue; what unites these shades?",
+      "In the realm of cinema, these names shine bright; can you uncover the common link among these legends?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1779,
+    "editor": "Tracy Bennett",
+    "solution": "swoop",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a sudden movement, often with grace."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This action can happen in the air or on the ground."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a word that can describe a bird's descent or a dramatic entrance."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 874,
+    "editor": "Tracy Bennett",
+    "clue": "Quint-essential",
+    "spangram": "GIVEMEFIVE",
+    "themeWords": [
+      "BOROUGHS",
+      "OCEANS",
+      "SENSES",
+      "TOES",
+      "VOWELS",
+      "WEEKDAYS"
+    ],
+    "startingBoard": [
+      "SWGESS",
+      "YEISNE",
+      "AEVUGH",
+      "DKEEOS",
+      "WOVMFR",
+      "OELSIO",
+      "ETOAVB",
+      "SCENSE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2620,
+    "sides": [
+      "BIA",
+      "WGR",
+      "MCE",
+      "YDO"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "MICROBREWERY",
+      "YARDAGE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22231,
+    "centerLetter": "o",
+    "outerLetters": "dhimnt",
+    "pangrams": [
+      "midmonth"
+    ],
+    "answers": [
+      "dhoti",
+      "dino",
+      "ditto",
+      "dodo",
+      "dominion",
+      "domino",
+      "doom",
+      "doth",
+      "hominid",
+      "hominoid",
+      "hood",
+      "hoodoo",
+      "hoot",
+      "idiom",
+      "idiot",
+      "into",
+      "minion",
+      "mondo",
+      "mono",
+      "month",
+      "mood",
+      "moon",
+      "moot",
+      "moth",
+      "motion",
+      "motto",
+      "noon",
+      "notion",
+      "omit",
+      "onion",
+      "onto",
+      "tomtit",
+      "toon",
+      "toot",
+      "tooth"
+    ],
+    "pangramHints": [
+      {
+        "word": "midmonth",
+        "hint": "A time in the middle of the month, often overlooked but essential."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

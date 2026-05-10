@@ -1,0 +1,188 @@
+{
+  "date": "2025-05-15",
+  "fetchedAt": "2026-05-10T20:06:32.178Z",
+  "connections": {
+    "puzzleId": 745,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "RATIONALE",
+        "words": [
+          "BASIS",
+          "FOUNDATION",
+          "GROUNDS",
+          "REASON"
+        ]
+      },
+      {
+        "title": "TYPES OF SNOW",
+        "words": [
+          "CRUST",
+          "ICE",
+          "POWDER",
+          "SLUSH"
+        ]
+      },
+      {
+        "title": "LAST WORDS OF FAMOUS OPERA TITLES",
+        "words": [
+          "BESS",
+          "BUTTERFLY",
+          "FLUTE",
+          "SEVILLE"
+        ]
+      },
+      {
+        "title": "REAL ___",
+        "words": [
+          "DEAL",
+          "ESTATE",
+          "MADRID",
+          "WORLD"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Every argument has its backbone; what supports your point of view?",
+      "When winter's chill arrives, what forms beneath your feet in various textures?",
+      "In the grand finale, what echoes linger in the air as curtains fall?",
+      "What can be both a transaction and a physical space, often associated with a bustling market?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1753,
+    "editor": "Tracy Bennett",
+    "solution": "eager",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about a strong desire or enthusiasm."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a keen interest or readiness."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with 'e' and conveys excitement or anticipation."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 603,
+    "editor": "Tracy Bennett",
+    "clue": "Animal drives",
+    "spangram": "AUTOMOBILES",
+    "themeWords": [
+      "BEETLE",
+      "BRONCO",
+      "IMPALA",
+      "JAGUAR",
+      "MUSTANG",
+      "RABBIT"
+    ],
+    "startingBoard": [
+      "NCOATI",
+      "OBRUBA",
+      "RAAGBR",
+      "UOMJLE",
+      "ITOBIS",
+      "LMPEMU",
+      "AAELGS",
+      "BETNAT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2352,
+    "sides": [
+      "CIB",
+      "YPA",
+      "RTN",
+      "GDH"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "PITCHING",
+      "GRANDBABY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26380,
+    "centerLetter": "h",
+    "outerLetters": "acekmt",
+    "pangrams": [
+      "checkmate",
+      "matchmake"
+    ],
+    "answers": [
+      "ache",
+      "ahem",
+      "attach",
+      "attache",
+      "cache",
+      "cachet",
+      "catch",
+      "chat",
+      "cheat",
+      "check",
+      "cheek",
+      "cheetah",
+      "each",
+      "etch",
+      "hack",
+      "haka",
+      "hake",
+      "hamate",
+      "hatch",
+      "hatchet",
+      "hate",
+      "hath",
+      "hatha",
+      "heat",
+      "heath",
+      "heck",
+      "heme",
+      "ketch",
+      "machete",
+      "mahatma",
+      "match",
+      "matcha",
+      "math",
+      "meth",
+      "tach",
+      "teach",
+      "tech",
+      "teeth",
+      "teethe",
+      "that",
+      "thatch",
+      "thee",
+      "them",
+      "theme",
+      "theta"
+    ],
+    "pangramHints": [
+      {
+        "word": "checkmate",
+        "hint": "A decisive end to a strategic game; think chess."
+      },
+      {
+        "word": "matchmake",
+        "hint": "Bringing pairs together; often seen in romantic contexts."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

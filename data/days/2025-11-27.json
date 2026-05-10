@@ -1,0 +1,204 @@
+{
+  "date": "2025-11-27",
+  "fetchedAt": "2026-05-10T20:19:52.657Z",
+  "connections": {
+    "puzzleId": 925,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INUNDATION",
+        "words": [
+          "AVALANCHE",
+          "OUTPOURING",
+          "TIDAL WAVE",
+          "TORRENT"
+        ]
+      },
+      {
+        "title": "MAIN FOLDERS IN A COMPUTER",
+        "words": [
+          "DESKTOP",
+          "DOCUMENTS",
+          "DOWNLOADS",
+          "MUSIC"
+        ]
+      },
+      {
+        "title": "WOODWORKING TOOLS",
+        "words": [
+          "DRILLS",
+          "FILES",
+          "ROUTERS",
+          "SAWS"
+        ]
+      },
+      {
+        "title": "RHYMES FOR NEW YORK TIMES GAMES",
+        "words": [
+          "CONFECTIONS",
+          "GRANDS",
+          "HURDLE",
+          "SWELLING SEA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When nature unleashes its fury, chaos reigns supreme. What flows in torrents and overwhelms the land?",
+      "In the digital realm, these are the sanctuaries where your files reside. Can you find where everything is stored?",
+      "Craftsmanship requires the right tools. What sharp instruments help shape and refine wood into art?",
+      "In the world of puzzles and games, these playful words dance together. What rhymes with fun and challenge?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1257,
+    "editor": "Tracy Bennett",
+    "solution": "remit",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a word related to sending or transferring."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often associated with money or obligations."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also mean to delegate or pass on responsibilities."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 415,
+    "editor": "Tracy Bennett",
+    "clue": "With gratitude",
+    "spangram": "THANKFUL",
+    "themeWords": [
+      "COMMUNITY",
+      "FAMILY",
+      "FOOD",
+      "FRIENDS",
+      "HEALTH",
+      "LIFE",
+      "WORK"
+    ],
+    "startingBoard": [
+      "FESNRF",
+      "ILIDEI",
+      "AMALYO",
+      "FHONFO",
+      "TCMKDL",
+      "UMTFUH",
+      "NIWYET",
+      "KROALH"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2550,
+    "sides": [
+      "IAH",
+      "WYB",
+      "FUT",
+      "NOG"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BOWFIN",
+      "NAUGHTY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17440,
+    "centerLetter": "p",
+    "outerLetters": "cdeint",
+    "pangrams": [
+      "centipede"
+    ],
+    "answers": [
+      "deep",
+      "deepen",
+      "deepened",
+      "depend",
+      "depended",
+      "dependence",
+      "dependent",
+      "depict",
+      "depicted",
+      "dipped",
+      "epee",
+      "epic",
+      "epicene",
+      "incipience",
+      "incipient",
+      "independence",
+      "independent",
+      "inept",
+      "ninepin",
+      "nipped",
+      "pectin",
+      "peed",
+      "peen",
+      "peep",
+      "peeped",
+      "pence",
+      "pend",
+      "pended",
+      "pendent",
+      "penitence",
+      "penitent",
+      "penne",
+      "penned",
+      "pent",
+      "pepped",
+      "peptic",
+      "peptide",
+      "petit",
+      "petite",
+      "petted",
+      "picnic",
+      "piece",
+      "pieced",
+      "pied",
+      "pine",
+      "pined",
+      "pinned",
+      "pinniped",
+      "pint",
+      "pipe",
+      "piped",
+      "pipet",
+      "pipette",
+      "pipit",
+      "pippin",
+      "pitied",
+      "pitted",
+      "teepee",
+      "tenpin",
+      "tepee",
+      "tepid",
+      "tiepin",
+      "tipi",
+      "tipped",
+      "tippet"
+    ],
+    "pangramHints": [
+      {
+        "word": "centipede",
+        "hint": "A creature with many legs, often found in the shadows, scuttling about."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

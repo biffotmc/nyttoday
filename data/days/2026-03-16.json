@@ -1,0 +1,174 @@
+{
+  "date": "2026-03-16",
+  "fetchedAt": "2026-05-10T20:27:10.270Z",
+  "connections": {
+    "puzzleId": 1095,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ANIMAL GROUP NAMES",
+        "words": [
+          "GAGGLE",
+          "PACK",
+          "POD",
+          "PRIDE"
+        ]
+      },
+      {
+        "title": "THINGS ASSOCIATED WITH BEING SLOW",
+        "words": [
+          "GLACIER",
+          "MOLASSES",
+          "SLOTH",
+          "TRAFFIC"
+        ]
+      },
+      {
+        "title": "SILENT \"W\"",
+        "words": [
+          "CARTWRIGHT",
+          "TWO",
+          "WRATH",
+          "WRESTLE"
+        ]
+      },
+      {
+        "title": "WORDS THAT SOUND LIKE STATE ABBREVIATIONS",
+        "words": [
+          "ANY",
+          "EMMY",
+          "ENVY",
+          "OKAY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A gathering of birds might quack, but this crew prefers to honk.",
+      "Think of something that moves at a glacier's pace, but isn't ice.",
+      "Whispers of a letter that often goes unnoticed, yet holds weight.",
+      "Sounds like a state, but these words are more about expression."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1806,
+    "editor": "Tracy Bennett",
+    "solution": "drama",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a term often associated with performance."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a narrative filled with emotion."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a scene or a conflict in storytelling."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 916,
+    "editor": "Tracy Bennett",
+    "clue": "The Big Dance",
+    "spangram": "MARCHMADNESS",
+    "themeWords": [
+      "BRACKET",
+      "BUBBLE",
+      "CHALK",
+      "CINDERELLA",
+      "OVERTIME"
+    ],
+    "startingBoard": [
+      "CHTEKC",
+      "ALBRAS",
+      "KRCADS",
+      "MAHMNE",
+      "TREVOE",
+      "IBBNDR",
+      "MULIAE",
+      "EBECLL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2659,
+    "sides": [
+      "HAM",
+      "IYN",
+      "OBC",
+      "LRF"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "HONORIFIC",
+      "CYMBAL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10707,
+    "centerLetter": "n",
+    "outerLetters": "cegilx",
+    "pangrams": [
+      "excelling"
+    ],
+    "answers": [
+      "ceiling",
+      "cling",
+      "clinging",
+      "clinic",
+      "egging",
+      "engine",
+      "excellence",
+      "exiling",
+      "gelling",
+      "gene",
+      "genie",
+      "genii",
+      "gigging",
+      "giggling",
+      "gilling",
+      "ginning",
+      "glen",
+      "icing",
+      "incline",
+      "inclining",
+      "innie",
+      "inning",
+      "legging",
+      "lenience",
+      "lien",
+      "line",
+      "linen",
+      "lining",
+      "negligee",
+      "negligence",
+      "nene",
+      "nice",
+      "niece",
+      "niggle",
+      "niggling",
+      "nine",
+      "nixing"
+    ],
+    "pangramHints": [
+      {
+        "word": "excelling",
+        "hint": "A word that signifies doing exceptionally well, but don't say it outright!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

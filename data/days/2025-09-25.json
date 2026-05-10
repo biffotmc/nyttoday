@@ -1,0 +1,177 @@
+{
+  "date": "2025-09-25",
+  "fetchedAt": "2026-05-10T20:15:45.981Z",
+  "connections": {
+    "puzzleId": 875,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LEFT-LEANING, POLITICALLY",
+        "words": [
+          "BLUE",
+          "LEFT",
+          "LIBERAL",
+          "PROGRESSIVE"
+        ]
+      },
+      {
+        "title": "ICE CREAM PARLOR ORDERS",
+        "words": [
+          "CONE",
+          "CUP",
+          "SHAKE",
+          "SPLIT"
+        ]
+      },
+      {
+        "title": "MATT DAMON MOVIES, WITH \"THE\"",
+        "words": [
+          "DEPARTED",
+          "GOOD SHEPHERD",
+          "MARTIAN",
+          "RAINMAKER"
+        ]
+      },
+      {
+        "title": "NAMED \"APOLLO\"",
+        "words": [
+          "FICTIONAL BOXER",
+          "GREEK/ROMAN GOD",
+          "SPACECRAFT",
+          "THEATER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a world of colors and ideals, these four stand united in their beliefs, painting the town in shades of thought.",
+      "When the heat is on, these delightful choices bring joy in various forms, each a scoop of happiness.",
+      "With a star at the helm, these cinematic tales unfold, revealing journeys that captivate and inspire.",
+      "From the ring to the stars, these names echo through time, each representing a different facet of ambition."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2069,
+    "editor": "Tracy Bennett",
+    "solution": "drape",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that covers or hangs."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a type of fabric."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often associated with style and elegance, it can be found in various contexts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 738,
+    "editor": "Tracy Bennett",
+    "clue": "Simply divine",
+    "spangram": "HEAVENSENT",
+    "themeWords": [
+      "ARCHANGEL",
+      "GUARDIAN",
+      "HERALD",
+      "MESSENGER",
+      "SERAPH"
+    ],
+    "startingBoard": [
+      "AVENSE",
+      "EDLARN",
+      "HAMEHT",
+      "HREENR",
+      "ACSSGE",
+      "NGDAGH",
+      "ENIRUP",
+      "LASERA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2487,
+    "sides": [
+      "IAM",
+      "VPO",
+      "EKB",
+      "DRT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "VIDEOTAPE",
+      "EMBARK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22184,
+    "centerLetter": "u",
+    "outerLetters": "ginopr",
+    "pangrams": [
+      "grouping",
+      "pouring"
+    ],
+    "answers": [
+      "gouging",
+      "group",
+      "gunning",
+      "guru",
+      "inuring",
+      "inurn",
+      "inurning",
+      "nonunion",
+      "noun",
+      "oppugn",
+      "oppugning",
+      "pinup",
+      "popgun",
+      "pour",
+      "pronoun",
+      "pruning",
+      "punning",
+      "purging",
+      "purr",
+      "purring",
+      "rouging",
+      "ruin",
+      "ruing",
+      "ruining",
+      "rung",
+      "running",
+      "ungroup",
+      "union",
+      "unpin",
+      "unpinning",
+      "unrig",
+      "unrigging",
+      "upon",
+      "upping",
+      "urging"
+    ],
+    "pangramHints": [
+      {
+        "word": "grouping",
+        "hint": "A collective act of arranging, often seen in social contexts."
+      },
+      {
+        "word": "pouring",
+        "hint": "A fluid motion that can transform a container's contents."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

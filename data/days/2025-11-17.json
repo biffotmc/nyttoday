@@ -1,0 +1,172 @@
+{
+  "date": "2025-11-17",
+  "fetchedAt": "2026-05-10T20:19:16.004Z",
+  "connections": {
+    "puzzleId": 916,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "\"YOU BET\"",
+        "words": [
+          "ABSOLUTELY",
+          "OF COURSE",
+          "OKEY-DOKE",
+          "SURE THING"
+        ]
+      },
+      {
+        "title": "FORBIDDEN",
+        "words": [
+          "OFF-LIMITS",
+          "PROSCRIBED",
+          "TABOO",
+          "VERBOTEN"
+        ]
+      },
+      {
+        "title": "BASKETBALL SHOTS",
+        "words": [
+          "ALLEY-OOP",
+          "FADEAWAY",
+          "FINGER ROLL",
+          "SLAM DUNK"
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"SCRAM!\"",
+        "words": [
+          "GO-GETTER",
+          "LEAVENING",
+          "SCATTERGORIES",
+          "SHOO-IN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you agree, you might say this with enthusiasm, but don't forget the playful twist!",
+      "These words are like invisible barriers; step carefully around them.",
+      "These moves on the court can leave spectators in awe; they’re all about finesse and flair.",
+      "To leave in a hurry, you might find yourself using these expressions, each with its own flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1792,
+    "editor": "Tracy Bennett",
+    "solution": "clamp",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that holds things together."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to fasten or secure."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s often used in a mechanical context, but can also relate to a firm grip."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 791,
+    "editor": "Tracy Bennett",
+    "clue": "Paw patrol",
+    "spangram": "WORKINGDOGS",
+    "themeWords": [
+      "GUARD",
+      "GUIDE",
+      "HERDING",
+      "RESCUE",
+      "SERVICE",
+      "THERAPY"
+    ],
+    "startingBoard": [
+      "EDCEHG",
+      "IGVIEN",
+      "URESRI",
+      "ROWDOD",
+      "KINGGS",
+      "CSERRE",
+      "UAUATH",
+      "ERDGPY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2540,
+    "sides": [
+      "AFH",
+      "TIO",
+      "RLD",
+      "WEC"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "AIRFLOW",
+      "WATCHED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22877,
+    "centerLetter": "n",
+    "outerLetters": "cgiruv",
+    "pangrams": [
+      "curving"
+    ],
+    "answers": [
+      "cringing",
+      "cuing",
+      "cunning",
+      "curing",
+      "gigging",
+      "ginning",
+      "giving",
+      "grin",
+      "grinning",
+      "gunning",
+      "icing",
+      "incur",
+      "incurring",
+      "inning",
+      "inuring",
+      "inurn",
+      "inurning",
+      "nigiri",
+      "ricin",
+      "ricing",
+      "rigging",
+      "ring",
+      "ringing",
+      "ruin",
+      "ruing",
+      "ruining",
+      "rung",
+      "runic",
+      "running",
+      "ungiving",
+      "unrig",
+      "unrigging",
+      "urging",
+      "virgin"
+    ],
+    "pangramHints": [
+      {
+        "word": "curving",
+        "hint": "A movement that bends; think of paths that aren't straight."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

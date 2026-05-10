@@ -1,0 +1,178 @@
+{
+  "date": "2025-09-05",
+  "fetchedAt": "2026-05-10T20:14:30.750Z",
+  "connections": {
+    "puzzleId": 862,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PIQUANCY",
+        "words": [
+          "KICK",
+          "PUNCH",
+          "ZEST",
+          "ZING"
+        ]
+      },
+      {
+        "title": "AVAILABLE",
+        "words": [
+          "FREE",
+          "SINGLE",
+          "SOLO",
+          "STAG"
+        ]
+      },
+      {
+        "title": "MALE ANIMALS",
+        "words": [
+          "BILLY",
+          "BUCK",
+          "JACK",
+          "RAM"
+        ]
+      },
+      {
+        "title": "CHINESE DYNASTIES",
+        "words": [
+          "HAN",
+          "MING",
+          "SONG",
+          "TANG"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A lively kick to your taste buds, with a punch of flavor that leaves you craving more.",
+      "Unshackled and ready for adventure, these options are all about independence.",
+      "These fellows are all about the male side of the animal kingdom, each with their own charm.",
+      "A journey through time, these eras each have their own unique stories to tell."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1861,
+    "editor": "Tracy Bennett",
+    "solution": "drift",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of movement, often associated with water."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a gentle change in position."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term that can also mean to be carried along by a current."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 717,
+    "editor": "Tracy Bennett",
+    "clue": "Getting into gear",
+    "spangram": "SPORTINGGOODS",
+    "themeWords": [
+      "CLEATS",
+      "GLOVE",
+      "HELMET",
+      "PADDLE",
+      "RACKET",
+      "SKATES"
+    ],
+    "startingBoard": [
+      "AEPSLE",
+      "TLODDA",
+      "SCRSPS",
+      "RITKAE",
+      "ANHELT",
+      "CGGOOM",
+      "VKETDE",
+      "EOLGST"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2467,
+    "sides": [
+      "SRE",
+      "GHM",
+      "ZLT",
+      "AIO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "HASHTAG",
+      "GLAMORIZE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17871,
+    "centerLetter": "a",
+    "outerLetters": "bejlny",
+    "pangrams": [
+      "jellybean"
+    ],
+    "answers": [
+      "abbey",
+      "able",
+      "ably",
+      "allay",
+      "allele",
+      "alley",
+      "ally",
+      "anal",
+      "anally",
+      "annal",
+      "anneal",
+      "baba",
+      "babble",
+      "babe",
+      "babel",
+      "baby",
+      "bale",
+      "baleen",
+      "ball",
+      "banal",
+      "banally",
+      "banana",
+      "bane",
+      "banyan",
+      "bean",
+      "beanball",
+      "belay",
+      "blab",
+      "blabby",
+      "elan",
+      "enable",
+      "eyeball",
+      "jean",
+      "label",
+      "lane",
+      "lean",
+      "leanly",
+      "naan",
+      "nana",
+      "nanny"
+    ],
+    "pangramHints": [
+      {
+        "word": "jellybean",
+        "hint": "A sweet treat that can bounce with joy, but don't say its name!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

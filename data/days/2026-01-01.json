@@ -1,0 +1,211 @@
+{
+  "date": "2026-01-01",
+  "fetchedAt": "2026-05-10T20:22:10.247Z",
+  "connections": {
+    "puzzleId": 989,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BIT OF MAGIC",
+        "words": [
+          "CHARM",
+          "CURSE",
+          "HEX",
+          "SPELL"
+        ]
+      },
+      {
+        "title": "REMOVE THE COVERING FROM",
+        "words": [
+          "PEEL",
+          "SHELL",
+          "SHUCK",
+          "SKIN"
+        ]
+      },
+      {
+        "title": "\"ENTHUSIAST\" EQUIVALENT",
+        "words": [
+          "BUFF",
+          "HEAD",
+          "HOUND",
+          "RAT"
+        ]
+      },
+      {
+        "title": "BUTTER___",
+        "words": [
+          "FINGERS",
+          "FLY",
+          "NUT",
+          "SCOTCH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a world of enchantment, these words can twist fate or grant wishes, but beware of the consequences.",
+      "When you uncover what's beneath, you might find something unexpected; layers can hide much.",
+      "These words describe someone who is deeply passionate, but each carries its own unique flair.",
+      "A phrase that evokes a rich, creamy texture; think of indulgence and perhaps a touch of mischief."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1566,
+    "editor": "Tracy Bennett",
+    "solution": "fable",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A tale often passed down through generations."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It can be a story with a moral or lesson."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of narratives that blend reality with imagination."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 837,
+    "editor": "Tracy Bennett",
+    "clue": "Not your average joe",
+    "spangram": "COFFEE",
+    "themeWords": [
+      "AROMATIC",
+      "BITTER",
+      "BOLD",
+      "NUTTY",
+      "SMOOTH",
+      "STRONG",
+      "VELVETY"
+    ],
+    "startingBoard": [
+      "DTTUNR",
+      "LBYIET",
+      "OTBOTG",
+      "SORFNE",
+      "CRFMET",
+      "ASOLAI",
+      "OMYVEC",
+      "OTHTEV"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2592,
+    "sides": [
+      "EHI",
+      "GDO",
+      "RNM",
+      "UTX"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "EXORDIUM",
+      "MIDNIGHT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9765,
+    "centerLetter": "n",
+    "outerLetters": "acilty",
+    "pangrams": [
+      "analytic",
+      "analytical",
+      "analytically",
+      "titanically"
+    ],
+    "answers": [
+      "anal",
+      "anally",
+      "annal",
+      "anti",
+      "antic",
+      "attain",
+      "canal",
+      "cancan",
+      "canna",
+      "cannily",
+      "canny",
+      "cant",
+      "cantata",
+      "cantina",
+      "clan",
+      "clinic",
+      "clinical",
+      "clinically",
+      "clinician",
+      "cyan",
+      "cynic",
+      "cynical",
+      "cynically",
+      "inanity",
+      "incant",
+      "initial",
+      "initially",
+      "inlay",
+      "intact",
+      "lain",
+      "lanai",
+      "lantana",
+      "lint",
+      "linty",
+      "litany",
+      "naan",
+      "nail",
+      "nana",
+      "nanny",
+      "natal",
+      "natality",
+      "natant",
+      "nattily",
+      "natty",
+      "niacin",
+      "ninny",
+      "tactician",
+      "taint",
+      "tannic",
+      "tannin",
+      "tinct",
+      "tinily",
+      "tinny",
+      "tint",
+      "tiny",
+      "titan",
+      "titanic"
+    ],
+    "pangramHints": [
+      {
+        "word": "analytic",
+        "hint": "A keen approach to understanding complexities, but don't spell it out."
+      },
+      {
+        "word": "analytical",
+        "hint": "This word dives deeper into the realm of examination; think critically."
+      },
+      {
+        "word": "analytically",
+        "hint": "An adverb form that suggests a methodical perspective; keep it subtle."
+      },
+      {
+        "word": "titanically",
+        "hint": "Evoking great size or strength; think of something monumental."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

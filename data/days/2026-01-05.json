@@ -1,0 +1,172 @@
+{
+  "date": "2026-01-05",
+  "fetchedAt": "2026-05-10T20:22:28.246Z",
+  "connections": {
+    "puzzleId": 997,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "THINGS YOU CAN DO ON SOCIAL MEDIA",
+        "words": [
+          "COMMENT",
+          "LIKE",
+          "LURK",
+          "POST"
+        ]
+      },
+      {
+        "title": "FURTHEST POINT",
+        "words": [
+          "END",
+          "EXTREME",
+          "OPPOSITE",
+          "POLE"
+        ]
+      },
+      {
+        "title": "ART MOVEMENTS, WITH \"-ISM\"",
+        "words": [
+          "BRUTAL",
+          "IMPRESSION",
+          "MANNER",
+          "REAL"
+        ]
+      },
+      {
+        "title": "WHAT \"V\" MIGHT MEAN",
+        "words": [
+          "FIVE",
+          "VERSUS",
+          "VERY",
+          "VOLT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of virtual interactions, some prefer to observe quietly, while others boldly share their thoughts.",
+      "When you reach the edge of the map, what lies beyond is often a matter of perspective.",
+      "Art can be a mirror reflecting society's complexities, each movement a unique lens through which to view the world.",
+      "The letter V can signify many things, from a numeric representation to a clash of ideas."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1552,
+    "editor": "Tracy Bennett",
+    "solution": "filly",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a young horse."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with a specific gender."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term used in equestrian contexts, often referring to a female."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 840,
+    "editor": "Tracy Bennett",
+    "clue": "Slapped together",
+    "spangram": "QUICKANDDIRTY",
+    "themeWords": [
+      "BRISK",
+      "FILTHY",
+      "GRUBBY",
+      "SPEEDY",
+      "STAINED",
+      "SWIFT"
+    ],
+    "startingBoard": [
+      "SKYDEE",
+      "ITFIPS",
+      "RBSWUQ",
+      "AKCIYE",
+      "NRGBDN",
+      "DUBLHI",
+      "DFITYA",
+      "IRTYTS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2584,
+    "sides": [
+      "TLO",
+      "CBR",
+      "MUA",
+      "FKY"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "COMFORTABLY",
+      "YUK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17717,
+    "centerLetter": "a",
+    "outerLetters": "giknoy",
+    "pangrams": [
+      "okaying"
+    ],
+    "answers": [
+      "again",
+      "aging",
+      "agog",
+      "agony",
+      "akin",
+      "angina",
+      "anion",
+      "annoy",
+      "annoying",
+      "anon",
+      "gaga",
+      "gagging",
+      "gain",
+      "gaining",
+      "gang",
+      "ganging",
+      "gonna",
+      "kayak",
+      "kayaking",
+      "koan",
+      "naan",
+      "nagging",
+      "naggy",
+      "nana",
+      "nanny",
+      "nannying",
+      "nonagon",
+      "oaky",
+      "okay",
+      "yakking",
+      "yang",
+      "yank",
+      "yanking",
+      "yoga"
+    ],
+    "pangramHints": [
+      {
+        "word": "okaying",
+        "hint": "A nod of approval, but don’t spell it out."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

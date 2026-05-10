@@ -1,0 +1,160 @@
+{
+  "date": "2026-01-02",
+  "fetchedAt": "2026-05-10T20:22:15.329Z",
+  "connections": {
+    "puzzleId": 970,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "WRITE",
+        "words": [
+          "JOT",
+          "LOG",
+          "NOTE",
+          "RECORD"
+        ]
+      },
+      {
+        "title": "SHTICK",
+        "words": [
+          "BIT",
+          "GAG",
+          "NUMBER",
+          "ROUTINE"
+        ]
+      },
+      {
+        "title": "BENCHMARK",
+        "words": [
+          "BAR",
+          "EXAMPLE",
+          "METRIC",
+          "STANDARD"
+        ]
+      },
+      {
+        "title": "VEGETABLES MINUS STARTING LETTER",
+        "words": [
+          "ALE",
+          "EEK",
+          "HIVE",
+          "QUASH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When thoughts flow, these tools catch the stream. What do you call the art of capturing fleeting ideas?",
+      "A playful twist on performance, where humor meets structure. What’s the secret ingredient in a good show?",
+      "Setting the stage for success, these measures define excellence. What do you call the gold standard?",
+      "Take away the first bite and what remains can still be quite a treat. What’s left when you peel back the layers?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1817,
+    "editor": "Tracy Bennett",
+    "solution": "proof",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a term often used in discussions of evidence."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that validates or confirms."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with documents or arguments, but it’s not just about writing."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 829,
+    "editor": "Tracy Bennett",
+    "clue": "Home is where the hearth is",
+    "spangram": "STAYWARM",
+    "themeWords": [
+      "BLANKET",
+      "COCOA",
+      "CUDDLES",
+      "FIREPLACE",
+      "ROBE",
+      "SLIPPERS"
+    ],
+    "startingBoard": [
+      "NBSROB",
+      "KALTEF",
+      "ETAPEI",
+      "PPIYLR",
+      "ELWECA",
+      "RSSADC",
+      "OORLDU",
+      "ACCMES"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2587,
+    "sides": [
+      "LRE",
+      "VTS",
+      "YOP",
+      "HIZ"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "SLIVOVITZ",
+      "ZEPHYR"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25580,
+    "centerLetter": "n",
+    "outerLetters": "behouy",
+    "pangrams": [
+      "honeybun"
+    ],
+    "answers": [
+      "been",
+      "bonbon",
+      "bone",
+      "bonny",
+      "bonobo",
+      "bony",
+      "boon",
+      "bunny",
+      "ebon",
+      "ebony",
+      "enby",
+      "hobnob",
+      "hone",
+      "honey",
+      "honeybee",
+      "nene",
+      "neon",
+      "none",
+      "noob",
+      "noon",
+      "noun",
+      "nubby"
+    ],
+    "pangramHints": [
+      {
+        "word": "honeybun",
+        "hint": "A sweet treat that combines flavors and textures; think of a cozy dessert."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

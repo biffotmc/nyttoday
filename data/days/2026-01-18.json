@@ -1,0 +1,195 @@
+{
+  "date": "2026-01-18",
+  "fetchedAt": "2026-05-10T20:23:16.131Z",
+  "connections": {
+    "puzzleId": 1012,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FEATURES OF A DUCK",
+        "words": [
+          "BILL",
+          "FEATHERS",
+          "WEBBING",
+          "WINGS"
+        ]
+      },
+      {
+        "title": "DESTROY",
+        "words": [
+          "BREAK",
+          "DAMAGE",
+          "TOTAL",
+          "WRECK"
+        ]
+      },
+      {
+        "title": "FOUND ON A BOOK JACKET",
+        "words": [
+          "AUTHOR",
+          "QUOTE",
+          "SYNOPSIS",
+          "TITLE"
+        ]
+      },
+      {
+        "title": "CLASSIC HOLLYWOOD ACTORS",
+        "words": [
+          "COOPER",
+          "GRANT",
+          "PECK",
+          "PRICE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A quacking quartet, each with a unique role in the pond's symphony.",
+      "When things go wrong, these verbs take charge to bring chaos.",
+      "The cover holds secrets, revealing the essence of the tale within.",
+      "Timeless talents from the silver screen, each leaving a lasting legacy."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 987,
+    "editor": "Tracy Bennett",
+    "solution": "sumac",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a plant often used in seasoning."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is associated with a tangy flavor and is often found in salads."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that starts with 's' and is often seen in culinary contexts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 853,
+    "editor": "Tracy Bennett",
+    "clue": "Soft skills",
+    "spangram": "TEXTILEART",
+    "themeWords": [
+      "APPLIQUE",
+      "CROCHET",
+      "EMBROIDER",
+      "KNIT",
+      "QUILT",
+      "WEAVE"
+    ],
+    "startingBoard": [
+      "TLIHET",
+      "QUCOPL",
+      "TEXRPI",
+      "EATCAQ",
+      "VEITEU",
+      "RWLINK",
+      "EIEART",
+      "DORBME"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2597,
+    "sides": [
+      "RIE",
+      "TXB",
+      "KDO",
+      "FSA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FIXES",
+      "SKATEBOARD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27367,
+    "centerLetter": "c",
+    "outerLetters": "adgint",
+    "pangrams": [
+      "addicting",
+      "dictating",
+      "indicating"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "acid",
+      "acidic",
+      "acing",
+      "acting",
+      "addict",
+      "antacid",
+      "antic",
+      "attic",
+      "cacti",
+      "cadging",
+      "caging",
+      "cancan",
+      "candid",
+      "canid",
+      "caning",
+      "canna",
+      "canning",
+      "cant",
+      "cantata",
+      "cantina",
+      "cicada",
+      "citing",
+      "dancing",
+      "dicing",
+      "dicta",
+      "didact",
+      "didactic",
+      "gigantic",
+      "icing",
+      "incant",
+      "incanting",
+      "inciting",
+      "indica",
+      "indicia",
+      "indict",
+      "indicting",
+      "intact",
+      "niacin",
+      "tacit",
+      "tact",
+      "tactic",
+      "tactician",
+      "tannic",
+      "tinct",
+      "titanic"
+    ],
+    "pangramHints": [
+      {
+        "word": "addicting",
+        "hint": "A word that describes something that's hard to resist."
+      },
+      {
+        "word": "dictating",
+        "hint": "This word involves commanding or controlling something."
+      },
+      {
+        "word": "indicating",
+        "hint": "A term that signifies pointing out or showing."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

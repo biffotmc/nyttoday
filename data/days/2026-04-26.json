@@ -1,0 +1,196 @@
+{
+  "date": "2026-04-26",
+  "fetchedAt": "2026-05-10T20:29:52.660Z",
+  "connections": {
+    "puzzleId": 1140,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STIPULATION",
+        "words": [
+          "CATCH",
+          "CAVEAT",
+          "FINE PRINT",
+          "STRINGS"
+        ]
+      },
+      {
+        "title": "VOCAL CHARACTERISTICS",
+        "words": [
+          "PITCH",
+          "RANGE",
+          "REGISTER",
+          "TONE"
+        ]
+      },
+      {
+        "title": "CHARACTERS IN \"DICK AND JANE\"",
+        "words": [
+          "DICK",
+          "JANE",
+          "MOTHER",
+          "SPOT"
+        ]
+      },
+      {
+        "title": "THINGS WITH FACES",
+        "words": [
+          "BUILDING",
+          "CLIFF",
+          "CLOCK",
+          "POLYHEDRON"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the details matter, look for the hidden clauses that bind. A careful eye can reveal much.",
+      "The sounds we make can vary greatly; listen closely to the nuances that define each note.",
+      "In a world of simple tales, some characters shine brighter than others, each with their own story.",
+      "Not all faces are human; some are crafted by nature or design, each telling a tale of its own."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1961,
+    "editor": "Tracy Bennett",
+    "solution": "gloss",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that adds shine."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a finish that enhances appearance."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a superficial layer."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 958,
+    "editor": "Tracy Bennett",
+    "clue": "Get into it",
+    "spangram": "LOCKHORNS",
+    "themeWords": [
+      "ARGUE",
+      "BICKER",
+      "DIFFER",
+      "QUARREL",
+      "SQUABBLE",
+      "WRANGLE"
+    ],
+    "startingBoard": [
+      "ERLORE",
+      "KIBCFF",
+      "CSQKIQ",
+      "BUHDAU",
+      "BAOERR",
+      "ELRLNG",
+      "RANWAL",
+      "GUESRE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2700,
+    "sides": [
+      "IGU",
+      "XAT",
+      "RPE",
+      "CML"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "PLUMAGE",
+      "EXECUTRIX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12098,
+    "centerLetter": "r",
+    "outerLetters": "acinty",
+    "pangrams": [
+      "intricacy"
+    ],
+    "answers": [
+      "airy",
+      "antarctic",
+      "arancini",
+      "arcana",
+      "arctic",
+      "aria",
+      "arnica",
+      "arrant",
+      "array",
+      "arty",
+      "atria",
+      "attar",
+      "attract",
+      "attractant",
+      "cairn",
+      "canary",
+      "carat",
+      "carny",
+      "carry",
+      "cart",
+      "cataract",
+      "circa",
+      "cirri",
+      "citric",
+      "crania",
+      "cranny",
+      "critic",
+      "irritant",
+      "narc",
+      "nary",
+      "nitric",
+      "racy",
+      "rain",
+      "rainy",
+      "raita",
+      "rani",
+      "rant",
+      "rarity",
+      "ratatat",
+      "rattan",
+      "ratty",
+      "ricin",
+      "tantara",
+      "tantra",
+      "tantric",
+      "tarry",
+      "tart",
+      "tartan",
+      "tartar",
+      "tiara",
+      "tract",
+      "train",
+      "trait",
+      "tray",
+      "trinity",
+      "tyranny",
+      "tyrant",
+      "yarn"
+    ],
+    "pangramHints": [
+      {
+        "word": "intricacy",
+        "hint": "A complex arrangement, often intricate and detailed."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

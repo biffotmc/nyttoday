@@ -1,0 +1,183 @@
+{
+  "date": "2025-06-18",
+  "fetchedAt": "2026-05-10T20:10:28.727Z",
+  "connections": {
+    "puzzleId": 775,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "QUALITIES OF A RAINY DAY",
+        "words": [
+          "COLD",
+          "GRAY",
+          "WET",
+          "WINDY"
+        ]
+      },
+      {
+        "title": "SQUARELY",
+        "words": [
+          "DEAD",
+          "EXACTLY",
+          "RIGHT",
+          "SMACK"
+        ]
+      },
+      {
+        "title": "CONTENTS OF A POD",
+        "words": [
+          "ASTRONAUT",
+          "COFFEE",
+          "PEA",
+          "WHALE"
+        ]
+      },
+      {
+        "title": "BODY PART PLUS A STARTING LETTER",
+        "words": [
+          "BARM",
+          "LEAR",
+          "RANKLE",
+          "SHIP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the sky weeps, you might want to grab a cozy blanket and a warm drink.",
+      "Think of something that is unyielding and can be quite precise.",
+      "What do you find in a garden pod, or perhaps in a spacecraft?",
+      "Combine a part of you with the first letter of the alphabet, and you might just get somewhere."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2099,
+    "editor": "Tracy Bennett",
+    "solution": "munch",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might do with a snack."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a playful action often associated with food."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This action can also mean to enjoy something eagerly."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 622,
+    "editor": "Tracy Bennett",
+    "clue": "Down time",
+    "spangram": "SADNESS",
+    "themeWords": [
+      "BLUE",
+      "DOLEFUL",
+      "GLOOMY",
+      "MELANCHOLY",
+      "TEARY",
+      "WOEBEGONE"
+    ],
+    "startingBoard": [
+      "LOHCNA",
+      "YWONEL",
+      "LBEEOE",
+      "UEBGEM",
+      "SADNYS",
+      "FELRST",
+      "UOGAEM",
+      "LDLOOY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2388,
+    "sides": [
+      "CIH",
+      "SYA",
+      "BRQ",
+      "UMP"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "HUBCAPS",
+      "SQUIRMY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18708,
+    "centerLetter": "n",
+    "outerLetters": "cehilp",
+    "pangrams": [
+      "cinephile",
+      "philhellenic"
+    ],
+    "answers": [
+      "chenille",
+      "chin",
+      "cinch",
+      "clench",
+      "clinch",
+      "clinic",
+      "epicene",
+      "heinie",
+      "helpline",
+      "hence",
+      "hipline",
+      "inch",
+      "incipience",
+      "incline",
+      "innie",
+      "lenience",
+      "lichen",
+      "lien",
+      "linchpin",
+      "line",
+      "linen",
+      "nene",
+      "nice",
+      "niche",
+      "niece",
+      "nine",
+      "ninepin",
+      "nipple",
+      "peen",
+      "pence",
+      "pencil",
+      "penicillin",
+      "penile",
+      "penne",
+      "philhellene",
+      "picnic",
+      "pinch",
+      "pine",
+      "pipeline",
+      "pippin"
+    ],
+    "pangramHints": [
+      {
+        "word": "cinephile",
+        "hint": "A lover of film; think of someone who can't get enough of the silver screen."
+      },
+      {
+        "word": "philhellenic",
+        "hint": "A term that celebrates Greek culture; it’s a love letter to a rich heritage."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-02-23",
+  "fetchedAt": "2026-05-10T20:25:34.396Z",
+  "connections": {
+    "puzzleId": 1068,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EAT VORACIOUSLY",
+        "words": [
+          "BOLT",
+          "GORGE",
+          "INHALE",
+          "SCARF"
+        ]
+      },
+      {
+        "title": "CONICAL THINGS",
+        "words": [
+          "CHRISTMAS TREE",
+          "CONE",
+          "PARTY HAT",
+          "VOLCANO"
+        ]
+      },
+      {
+        "title": "POSE",
+        "words": [
+          "BLUFF",
+          "FRONT",
+          "MASQUERADE",
+          "POSTURE"
+        ]
+      },
+      {
+        "title": "SETTINGS FOR A KISS",
+        "words": [
+          "BLARNEY STONE",
+          "MISTLETOE",
+          "NEW YEAR'S EVE",
+          "WEDDING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When hunger strikes, it's time to devour with gusto! Think of ways to consume in a hurry.",
+      "These shapes reach for the sky, often adorned for celebrations. What could they be?",
+      "To mask your true intentions, you might adopt a certain stance. What are the ways to present oneself?",
+      "In romantic moments, certain places set the stage for affection. Where do lovers gather for a sweet embrace?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2229,
+    "editor": "Tracy Bennett",
+    "solution": "attic",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a cozy space often found in homes."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a place where you store things, often above your head."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This location can be a bit dusty and is often overlooked."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 885,
+    "editor": "Tracy Bennett",
+    "clue": "Strike a chord",
+    "spangram": "GUITAR",
+    "themeWords": [
+      "BODY",
+      "BRIDGE",
+      "FRETBOARD",
+      "HEADSTOCK",
+      "NECK",
+      "PEGS",
+      "STRING"
+    ],
+    "startingBoard": [
+      "ADSTOC",
+      "EKCENK",
+      "HUITAR",
+      "GEPGEB",
+      "GOBDIR",
+      "SDGBTE",
+      "SYNODR",
+      "TRIARF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2638,
+    "sides": [
+      "UTP",
+      "OMB",
+      "ENQ",
+      "AYL"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUOTABLE",
+      "EPONYM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27638,
+    "centerLetter": "h",
+    "outerLetters": "ipracg",
+    "pangrams": [
+      "graphic"
+    ],
+    "answers": [
+      "aargh",
+      "arch",
+      "archaic",
+      "chai",
+      "chair",
+      "chap",
+      "char",
+      "chia",
+      "chic",
+      "chica",
+      "chichi",
+      "chip",
+      "chirp",
+      "graph",
+      "hair",
+      "harp",
+      "high",
+      "highchair",
+      "paragraph",
+      "parch",
+      "pariah",
+      "rich"
+    ],
+    "pangramHints": [
+      {
+        "word": "graphic",
+        "hint": "A visual representation that can be quite striking; think of art and design."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

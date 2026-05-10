@@ -1,0 +1,169 @@
+{
+  "date": "2025-10-31",
+  "fetchedAt": "2026-05-10T20:18:07.872Z",
+  "connections": {
+    "puzzleId": 895,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GOLDILOCKS",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "CINDERELLA",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "POPEYE",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "MS. PAC-MAN",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "groupHints": [
+      "A tale of a girl with a penchant for porridge; not too hot, not too cold, just right.",
+      "A classic story of transformation and a midnight escapade; don't forget the footwear!",
+      "A sailor with a love for greens and a certain strength; can you guess his favorite snack?",
+      "A maze of dots and ghosts; this lady knows how to munch while on the run!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2045,
+    "editor": "Tracy Bennett",
+    "solution": "abhor",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word has a strong dislike."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that evokes strong feelings of disgust."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term often used when something is deeply rejected or loathed."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 607,
+    "editor": "Tracy Bennett",
+    "clue": "Good bones",
+    "spangram": "SKELETON",
+    "themeWords": [
+      "FEMUR",
+      "FIBULA",
+      "HUMERUS",
+      "RADIUS",
+      "SKULL",
+      "STERNUM",
+      "ULNA"
+    ],
+    "startingBoard": [
+      "LLSLUR",
+      "UKANNE",
+      "FEUUMT",
+      "SMERES",
+      "AKALUT",
+      "DRLHMO",
+      "UIUENU",
+      "SFIBRS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2522,
+    "sides": [
+      "AIX",
+      "FWE",
+      "URN",
+      "MSL"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "INFLUXES",
+      "SWARM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22996,
+    "centerLetter": "w",
+    "outerLetters": "cghint",
+    "pangrams": [
+      "twitching",
+      "witching"
+    ],
+    "answers": [
+      "nitwit",
+      "twig",
+      "twin",
+      "twinging",
+      "twining",
+      "twinning",
+      "twit",
+      "twitch",
+      "which",
+      "whinging",
+      "whining",
+      "whit",
+      "whiting",
+      "wigging",
+      "wight",
+      "winch",
+      "wincing",
+      "wing",
+      "winging",
+      "wining",
+      "winning",
+      "witch",
+      "with",
+      "within",
+      "witting"
+    ],
+    "pangramHints": [
+      {
+        "word": "twitching",
+        "hint": "A word that captures a sudden movement; think of a nervous tick."
+      },
+      {
+        "word": "witching",
+        "hint": "A term that conjures images of magic and spells; it’s all about the craft."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

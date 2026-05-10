@@ -1,0 +1,182 @@
+{
+  "date": "2025-05-24",
+  "fetchedAt": "2026-05-10T20:07:11.177Z",
+  "connections": {
+    "puzzleId": 751,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BABY GEAR",
+        "words": [
+          "BIB",
+          "BOTTLE",
+          "MONITOR",
+          "STROLLER"
+        ]
+      },
+      {
+        "title": "KINDS OF PANTS MINUS \"S\"",
+        "words": [
+          "CAPRI",
+          "JEAN",
+          "JOGGER",
+          "SLACK"
+        ]
+      },
+      {
+        "title": "NEW YORK SPORTS TEAM MEMBERS",
+        "words": [
+          "JET",
+          "MET",
+          "NET",
+          "RANGER"
+        ]
+      },
+      {
+        "title": "BLACK WOMEN AUTHORS",
+        "words": [
+          "BUTLER",
+          "GAY",
+          "HOOKS",
+          "WALKER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Tiny treasures for the tiniest among us; these essentials keep little ones safe and sound.",
+      "Fashion for the lower half, but without the final letter; these styles are all the rage.",
+      "Athletic spirits soar in the Big Apple; these players are always ready to make a move.",
+      "Voices that resonate with strength and wisdom; these storytellers shape narratives and inspire."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2351,
+    "editor": "Tracy Bennett",
+    "solution": "suede",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a soft, luxurious fabric."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This material is often used in fashion and upholstery."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word, and it rhymes with 'made'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 618,
+    "editor": "Tracy Bennett",
+    "clue": "Flights of fancy",
+    "spangram": "FIRSTCLASS",
+    "themeWords": [
+      "CHAMPAGNE",
+      "LEGROOM",
+      "PILLOW",
+      "PRIVACY",
+      "TOWELETTE"
+    ],
+    "startingBoard": [
+      "LFAMNE",
+      "EIRHPG",
+      "YGSCEA",
+      "CRTCTE",
+      "AVOLTL",
+      "IPOAWE",
+      "WRLMSO",
+      "OLIPST"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2363,
+    "sides": [
+      "RET",
+      "MVH",
+      "IAY",
+      "DCN"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "THRIVED",
+      "DYNAMIC"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 11659,
+    "centerLetter": "n",
+    "outerLetters": "egipux",
+    "pangrams": [
+      "expunging"
+    ],
+    "answers": [
+      "egging",
+      "engine",
+      "ennui",
+      "expunge",
+      "gene",
+      "genie",
+      "genii",
+      "genuine",
+      "gigging",
+      "ginning",
+      "gunning",
+      "ingenue",
+      "innie",
+      "inning",
+      "nene",
+      "nine",
+      "ninepin",
+      "nipping",
+      "nixing",
+      "peeing",
+      "peen",
+      "peeping",
+      "pegging",
+      "penguin",
+      "penne",
+      "penning",
+      "pepping",
+      "pigging",
+      "pigpen",
+      "pine",
+      "ping",
+      "pinging",
+      "pining",
+      "pinning",
+      "pinup",
+      "piping",
+      "pippin",
+      "punning",
+      "unpeg",
+      "unpegging",
+      "unpen",
+      "unpenning",
+      "unpin",
+      "unpinning",
+      "upping"
+    ],
+    "pangramHints": [
+      {
+        "word": "expunging",
+        "hint": "A word that means to erase or remove completely; think of a clean slate."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

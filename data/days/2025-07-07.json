@@ -1,0 +1,165 @@
+{
+  "date": "2025-07-07",
+  "fetchedAt": "2026-05-10T20:10:37.337Z",
+  "connections": {
+    "puzzleId": 792,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INFORMANT",
+        "words": [
+          "CANARY",
+          "LEAK",
+          "RAT",
+          "SOURCE"
+        ]
+      },
+      {
+        "title": "BIG IMPRESSION",
+        "words": [
+          "FOOTPRINT",
+          "IMPACT",
+          "MARK",
+          "SPLASH"
+        ]
+      },
+      {
+        "title": "BASKETBALL MOVES",
+        "words": [
+          "BLOCK",
+          "DRIBBLE",
+          "PASS",
+          "SHOOT"
+        ]
+      },
+      {
+        "title": "TOP ___",
+        "words": [
+          "BANANA",
+          "DOG",
+          "HAT",
+          "SECRET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Whispers in the shadows can lead to unexpected truths.",
+      "When you leave your mark, make sure it’s a memorable one.",
+      "On the court, finesse and strategy dance together.",
+      "What’s on top can sometimes be a delightful surprise."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 989,
+    "editor": "Tracy Bennett",
+    "solution": "stilt",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that supports or elevates."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with structures or frameworks."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It can refer to a type of leg, often found in architecture."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 639,
+    "editor": "Tracy Bennett",
+    "clue": "Prescriptions plus",
+    "spangram": "PHARMACYAISLE",
+    "themeWords": [
+      "BEAUTY",
+      "GROCERY",
+      "HEALTH",
+      "MEDICINE",
+      "VITAMINS"
+    ],
+    "startingBoard": [
+      "PERYNS",
+      "HCORIM",
+      "ARVGAE",
+      "YMITNM",
+      "TACYIE",
+      "AUHACD",
+      "EHEISI",
+      "BTLALE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2407,
+    "sides": [
+      "WJH",
+      "OMG",
+      "ETU",
+      "VRB"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JUMBO",
+      "OVERGROWTH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 6765,
+    "centerLetter": "t",
+    "outerLetters": "adfpru",
+    "pangrams": [
+      "updraft"
+    ],
+    "answers": [
+      "adapt",
+      "apart",
+      "apparat",
+      "attar",
+      "daft",
+      "dart",
+      "data",
+      "draft",
+      "drat",
+      "fart",
+      "frat",
+      "part",
+      "pfft",
+      "prat",
+      "putt",
+      "raft",
+      "rapt",
+      "ratatat",
+      "rattrap",
+      "tapa",
+      "tarp",
+      "tart",
+      "tartar",
+      "taut",
+      "trap",
+      "tuft",
+      "turf",
+      "tutu"
+    ],
+    "pangramHints": [
+      {
+        "word": "updraft",
+        "hint": "A rising current that lifts things higher; think of the wind's playful nature."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

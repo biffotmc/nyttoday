@@ -1,0 +1,202 @@
+{
+  "date": "2025-05-31",
+  "fetchedAt": "2026-05-10T20:10:20.050Z",
+  "connections": {
+    "puzzleId": 758,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ALCOVE",
+        "words": [
+          "CAVITY",
+          "HOLLOW",
+          "NOOK",
+          "RECESS"
+        ]
+      },
+      {
+        "title": "WAYS TO RECOGNIZE ACHIEVEMENT",
+        "words": [
+          "CERTIFICATE",
+          "MEDAL",
+          "PLAQUE",
+          "TROPHY"
+        ]
+      },
+      {
+        "title": "VERBS IN BREADMAKING",
+        "words": [
+          "FERMENT",
+          "PROOF",
+          "REST",
+          "RISE"
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN BLOW",
+        "words": [
+          "BUBBLE",
+          "FUSE",
+          "KISS",
+          "RASPBERRY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Find a cozy corner where secrets may lie, a space that invites you to hide and sigh.",
+      "Shiny tokens of glory await, each one a testament to triumph and fate.",
+      "In the kitchen, magic unfolds as dough transforms, rising high as the story is told.",
+      "With a gentle breath, create a sound, from playful gestures, joy can be found."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1707,
+    "editor": "Tracy Bennett",
+    "solution": "habit",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about daily routines."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to a common practice."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's something you do repeatedly, often without thinking."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 621,
+    "editor": "Tracy Bennett",
+    "clue": "Next to the bobby pins",
+    "spangram": "HAIRACCESSORIES",
+    "themeWords": [
+      "BARRETTE",
+      "CLAW",
+      "CLIP",
+      "HEADBAND",
+      "SCRUNCHIE"
+    ],
+    "startingBoard": [
+      "PIAHSC",
+      "LCIRRE",
+      "ABCAUI",
+      "RRCENH",
+      "ETSSDC",
+      "TEORNH",
+      "LCEIAE",
+      "AWSBDA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2369,
+    "sides": [
+      "REV",
+      "AIL",
+      "MUH",
+      "OYT"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "ULTRAVIOLET",
+      "THYME"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19592,
+    "centerLetter": "l",
+    "outerLetters": "abeovy",
+    "pangrams": [
+      "loveably",
+      "volleyball"
+    ],
+    "answers": [
+      "able",
+      "ably",
+      "allay",
+      "allele",
+      "alley",
+      "alloy",
+      "ally",
+      "aloe",
+      "babble",
+      "babel",
+      "bale",
+      "ball",
+      "ballboy",
+      "belay",
+      "bell",
+      "bellboy",
+      "belle",
+      "belly",
+      "bevel",
+      "blab",
+      "blabby",
+      "blob",
+      "blobby",
+      "bobble",
+      "bola",
+      "boll",
+      "bolo",
+      "eely",
+      "evolve",
+      "eyeball",
+      "label",
+      "lava",
+      "lave",
+      "leave",
+      "levee",
+      "level",
+      "levelly",
+      "levy",
+      "lobby",
+      "lobe",
+      "loblolly",
+      "lobo",
+      "loll",
+      "lovable",
+      "lovably",
+      "love",
+      "loveable",
+      "lovely",
+      "lovey",
+      "loyal",
+      "loyally",
+      "oleo",
+      "oval",
+      "vale",
+      "valley",
+      "valve",
+      "veal",
+      "vole",
+      "volley",
+      "yell"
+    ],
+    "pangramHints": [
+      {
+        "word": "loveably",
+        "hint": "A word that embodies affection, but don't utter it aloud."
+      },
+      {
+        "word": "volleyball",
+        "hint": "A sport that bounces with energy, keep the name under wraps."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

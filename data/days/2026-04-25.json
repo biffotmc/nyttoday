@@ -1,0 +1,200 @@
+{
+  "date": "2026-04-25",
+  "fetchedAt": "2026-05-10T20:29:48.793Z",
+  "connections": {
+    "puzzleId": 1126,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BODY COVERINGS",
+        "words": [
+          "ENAMEL",
+          "HAIR",
+          "NAIL",
+          "SKIN"
+        ]
+      },
+      {
+        "title": "MASSES, IN IDIOMS",
+        "words": [
+          "CROWD",
+          "HAYSTACK",
+          "MILLION",
+          "OCEAN"
+        ]
+      },
+      {
+        "title": "OLD TIMEY SLANG FOR LAW ENFORCEMENT",
+        "words": [
+          "COPPER",
+          "DICK",
+          "FLATFOOT",
+          "GUMSHOE"
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"THROW\"",
+        "words": [
+          "CAST IRON",
+          "CHUCK E. CHEESE",
+          "HURLY-BURLY",
+          "PITCHFORK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A protective layer, a flowing mane, a hard tip, and the surface we wear—what do they have in common?",
+      "Think of gatherings and vast quantities; sometimes, they can be overwhelming.",
+      "In the past, they wore badges of honor, but their titles were a bit more colorful.",
+      "To send something airborne, you might use these terms, but be careful with the first one!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1907,
+    "editor": "Tracy Bennett",
+    "solution": "women",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's about a group, often associated with strength."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word represents half of humanity."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of the opposite of 'men'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 957,
+    "editor": "Tracy Bennett",
+    "clue": "On the shopping block",
+    "spangram": "STOREFRONT",
+    "themeWords": [
+      "CONVENIENCE",
+      "CORNER",
+      "DISCOUNT",
+      "GROCERY",
+      "LIQUOR"
+    ],
+    "startingBoard": [
+      "RNRTNU",
+      "EOYRGO",
+      "CLRODC",
+      "RIECIS",
+      "OUQECN",
+      "SOCNET",
+      "TNVEIN",
+      "OREFRO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2699,
+    "sides": [
+      "PWE",
+      "OLN",
+      "IVY",
+      "ADB"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BELIEVED",
+      "DOWNPLAY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15739,
+    "centerLetter": "o",
+    "outerLetters": "ehilnp",
+    "pangrams": [
+      "oenophile",
+      "pinhole"
+    ],
+    "answers": [
+      "elope",
+      "hellhole",
+      "hellion",
+      "hello",
+      "hippo",
+      "hole",
+      "hone",
+      "hoop",
+      "hoopoe",
+      "hope",
+      "leonine",
+      "lion",
+      "lipo",
+      "loin",
+      "loll",
+      "lollipop",
+      "lollop",
+      "lone",
+      "loon",
+      "loonie",
+      "loop",
+      "loophole",
+      "lope",
+      "neon",
+      "noel",
+      "none",
+      "nonillion",
+      "noon",
+      "nope",
+      "oleo",
+      "olio",
+      "ollie",
+      "onion",
+      "online",
+      "open",
+      "opine",
+      "opinion",
+      "peephole",
+      "peon",
+      "people",
+      "phenol",
+      "phone",
+      "phono",
+      "piehole",
+      "pillion",
+      "pinion",
+      "plop",
+      "pole",
+      "polio",
+      "poll",
+      "pollen",
+      "polo",
+      "pone",
+      "pooh",
+      "pool",
+      "poop",
+      "pope",
+      "poplin"
+    ],
+    "pangramHints": [
+      {
+        "word": "oenophile",
+        "hint": "A lover of fine wines; hints at a taste for the finer things."
+      },
+      {
+        "word": "pinhole",
+        "hint": "A tiny opening, often used in photography; think small but significant."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

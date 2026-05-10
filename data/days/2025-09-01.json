@@ -1,0 +1,183 @@
+{
+  "date": "2025-09-01",
+  "fetchedAt": "2026-05-10T20:14:15.045Z",
+  "connections": {
+    "puzzleId": 850,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FIRST APPEARANCE",
+        "words": [
+          "DEBUT",
+          "INTRODUCTION",
+          "LAUNCH",
+          "PREMIERE"
+        ]
+      },
+      {
+        "title": "ONES CELEBRATED WITH HOLIDAYS",
+        "words": [
+          "MOTHER",
+          "PRESIDENT",
+          "SAINT PATRICK",
+          "SAINT VALENTINE"
+        ]
+      },
+      {
+        "title": "FAMOUS POETS",
+        "words": [
+          "BISHOP",
+          "BURNS",
+          "LORDE",
+          "POPE"
+        ]
+      },
+      {
+        "title": "WHAT \"CARDINAL\" MIGHT REFER TO",
+        "words": [
+          "BIRD",
+          "CLERGY MEMBER",
+          "M.L.B. PLAYER",
+          "N.F.L. PLAYER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "The first step is always the hardest; these words mark the start of something new.",
+      "Celebration is in the air! Think of those special days dedicated to loved ones and legends.",
+      "These wordsmiths have left their mark on the world; their verses echo through time.",
+      "When you think of a cardinal, consider both the feathered and the robed; each has its own significance."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1260,
+    "editor": "Tracy Bennett",
+    "solution": "least",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a common word related to quantity."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think about what you might find in a ranking."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also mean 'to the smallest degree'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 713,
+    "editor": "Tracy Bennett",
+    "clue": "Be my guest",
+    "spangram": "HOSPITALITY",
+    "themeWords": [
+      "EMBRACE",
+      "GREET",
+      "INVITE",
+      "RECEIVE",
+      "SERVE",
+      "WELCOME"
+    ],
+    "startingBoard": [
+      "OMEECR",
+      "CEWIVE",
+      "LPITAE",
+      "SEMBRL",
+      "OIECAI",
+      "EHNYTV",
+      "TIVTER",
+      "GREESE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2463,
+    "sides": [
+      "EIY",
+      "PXR",
+      "MKN",
+      "ULC"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "PUMPERNICKEL",
+      "LYNX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 13778,
+    "centerLetter": "c",
+    "outerLetters": "aeinty",
+    "pangrams": [
+      "tenacity"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "accent",
+      "acetate",
+      "acetic",
+      "acne",
+      "ancient",
+      "antic",
+      "attic",
+      "cacti",
+      "cancan",
+      "cane",
+      "canine",
+      "canna",
+      "canny",
+      "cant",
+      "cantata",
+      "canteen",
+      "cantina",
+      "catty",
+      "cayenne",
+      "cent",
+      "cetacean",
+      "cite",
+      "city",
+      "cyan",
+      "cynic",
+      "enact",
+      "entice",
+      "incant",
+      "incite",
+      "intact",
+      "niacin",
+      "nice",
+      "nicety",
+      "niece",
+      "tacet",
+      "tacit",
+      "tact",
+      "tactic",
+      "tactician",
+      "tannic",
+      "tenancy",
+      "tinct",
+      "titanic"
+    ],
+    "pangramHints": [
+      {
+        "word": "tenacity",
+        "hint": "A quality that shows persistence; think of a determined spirit."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

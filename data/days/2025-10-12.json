@@ -1,0 +1,210 @@
+{
+  "date": "2025-10-12",
+  "fetchedAt": "2026-05-10T20:16:49.081Z",
+  "connections": {
+    "puzzleId": 894,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FOR ALL TIME",
+        "words": [
+          "ETERNAL",
+          "EVERLASTING",
+          "FOREVER",
+          "PERMANENT"
+        ]
+      },
+      {
+        "title": "ESTABLISHES",
+        "words": [
+          "BEGINS",
+          "INSTITUTES",
+          "LAUNCHES",
+          "PIONEERS"
+        ]
+      },
+      {
+        "title": "BIRDS",
+        "words": [
+          "KITE",
+          "ROBIN",
+          "SWALLOW",
+          "SWIFT"
+        ]
+      },
+      {
+        "title": "HAPPY ___",
+        "words": [
+          "DAYS",
+          "ENDING",
+          "RETURNS",
+          "TRAILS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Timelessness is the essence of existence; think of what lasts beyond the moment.",
+      "Initiation is key; consider the first steps that lead to something grand.",
+      "Feathers in the sky, soaring high; what creatures bring joy with their flight?",
+      "Celebrate the joy of moments; what follows the cheer of a joyful occasion?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1973,
+    "editor": "Tracy Bennett",
+    "solution": "wound",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of an injury or a cut."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a wrap or bandage."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Consider a term that describes both physical and emotional pain."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 756,
+    "editor": "Tracy Bennett",
+    "clue": "Follow suit",
+    "spangram": "TRICKTAKING",
+    "themeWords": [
+      "BRIDGE",
+      "EUCHRE",
+      "HEARTS",
+      "PINOCHLE",
+      "SPADES",
+      "WHIST"
+    ],
+    "startingBoard": [
+      "APSHST",
+      "DSKTER",
+      "EICAKA",
+      "TREGIN",
+      "EBRIDG",
+      "RINHIS",
+      "HPOCWT",
+      "CUEHLE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2498,
+    "sides": [
+      "NAG",
+      "BLQ",
+      "UOS",
+      "RDE"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "GONDOLA",
+      "ARABESQUE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22779,
+    "centerLetter": "b",
+    "outerLetters": "aceilt",
+    "pangrams": [
+      "balletic",
+      "celibate",
+      "citable"
+    ],
+    "answers": [
+      "abaci",
+      "abate",
+      "abet",
+      "ablate",
+      "able",
+      "albeit",
+      "alibi",
+      "baba",
+      "babble",
+      "babe",
+      "babel",
+      "bacilli",
+      "bail",
+      "bait",
+      "bale",
+      "ball",
+      "ballet",
+      "bate",
+      "battle",
+      "beat",
+      "beatable",
+      "beet",
+      "beetle",
+      "belie",
+      "belittle",
+      "bell",
+      "belle",
+      "belt",
+      "beta",
+      "betel",
+      "bible",
+      "biblical",
+      "bilabial",
+      "bile",
+      "bill",
+      "billable",
+      "billet",
+      "bite",
+      "blab",
+      "blat",
+      "bleat",
+      "cabal",
+      "cabala",
+      "cabbie",
+      "cable",
+      "callable",
+      "celeb",
+      "ciabatta",
+      "electable",
+      "label",
+      "labia",
+      "labial",
+      "labile",
+      "liable",
+      "libel",
+      "libelee",
+      "tabla",
+      "table",
+      "tablet",
+      "tibia",
+      "tibiae",
+      "tibial"
+    ],
+    "pangramHints": [
+      {
+        "word": "balletic",
+        "hint": "A graceful term, often associated with dance."
+      },
+      {
+        "word": "celibate",
+        "hint": "A lifestyle choice that involves abstaining from romantic relationships."
+      },
+      {
+        "word": "citable",
+        "hint": "A term that refers to something worthy of reference."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

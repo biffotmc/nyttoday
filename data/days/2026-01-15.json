@@ -1,0 +1,175 @@
+{
+  "date": "2026-01-15",
+  "fetchedAt": "2026-05-10T20:23:05.467Z",
+  "connections": {
+    "puzzleId": 1004,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GARDENING TOOLS",
+        "words": [
+          "HOSE",
+          "RAKE",
+          "SHOVEL",
+          "SPADE"
+        ]
+      },
+      {
+        "title": "UNMOVING",
+        "words": [
+          "FROZEN",
+          "STATIC",
+          "STATIONARY",
+          "STILL"
+        ]
+      },
+      {
+        "title": "THINGS THAT COME IN FLAKES",
+        "words": [
+          "CEREAL",
+          "DANDRUFF",
+          "SALT",
+          "SNOW"
+        ]
+      },
+      {
+        "title": "WORDS FORMED BY TWO MEN’S NAMES",
+        "words": [
+          "JACKAL",
+          "LEVITATE",
+          "MELTED",
+          "PATRON"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These tools help you dig deep into the earth, but they won't be found in a toolbox.",
+      "Stuck in place, these words describe a state of being that’s hard to shake off.",
+      "Flaky, crunchy, or cold; these items can add texture to your mornings or your winter.",
+      "Combine two names of men, and you might just create something unexpected."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1699,
+    "editor": "Tracy Bennett",
+    "solution": "chasm",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A deep divide often found in nature."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a gap that can be both literal and metaphorical."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word starts with a 'c' and ends with an 'm', often associated with vastness."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 850,
+    "editor": "Tracy Bennett",
+    "clue": "The ears have it!",
+    "spangram": "HEARHEAR",
+    "themeWords": [
+      "ANVIL",
+      "CANAL",
+      "CARTILAGE",
+      "DRUM",
+      "HAMMER",
+      "LOBE",
+      "STIRRUP"
+    ],
+    "startingBoard": [
+      "HCARBE",
+      "ESPTOL",
+      "ATUIGE",
+      "RIRLAH",
+      "RHRREA",
+      "DUELMM",
+      "ANMAIN",
+      "LACRVA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2600,
+    "sides": [
+      "ECT",
+      "LIR",
+      "AKN",
+      "POF"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PREFERENTIAL",
+      "LOCK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19428,
+    "centerLetter": "i",
+    "outerLetters": "deghtw",
+    "pangrams": [
+      "weighted"
+    ],
+    "answers": [
+      "died",
+      "diet",
+      "dieted",
+      "digit",
+      "eddied",
+      "edit",
+      "edited",
+      "eight",
+      "eighth",
+      "eightieth",
+      "gigged",
+      "height",
+      "hide",
+      "high",
+      "thigh",
+      "tide",
+      "tided",
+      "tidied",
+      "tied",
+      "tight",
+      "tithe",
+      "tithed",
+      "twig",
+      "twit",
+      "wedgie",
+      "weigh",
+      "weighed",
+      "weight",
+      "whit",
+      "white",
+      "wide",
+      "widget",
+      "width",
+      "wigged",
+      "wight",
+      "with"
+    ],
+    "pangramHints": [
+      {
+        "word": "weighted",
+        "hint": "A term that suggests something has mass, but don't let it tip the scales!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

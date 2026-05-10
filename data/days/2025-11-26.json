@@ -1,0 +1,173 @@
+{
+  "date": "2025-11-26",
+  "fetchedAt": "2026-05-10T20:19:49.411Z",
+  "connections": {
+    "puzzleId": 945,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "VERBS EXPRESSING POSSIBILITY",
+        "words": [
+          "CAN",
+          "COULD",
+          "MAY",
+          "MIGHT"
+        ]
+      },
+      {
+        "title": "WOMEN’S NICKNAMES",
+        "words": [
+          "DEB",
+          "JAN",
+          "KAT",
+          "SUE"
+        ]
+      },
+      {
+        "title": "FINANCIAL ABBREVIATIONS",
+        "words": [
+          "APR",
+          "CFO",
+          "IRA",
+          "SEC"
+        ]
+      },
+      {
+        "title": "BACKWARDS ANIMALS",
+        "words": [
+          "FLOW",
+          "GOD",
+          "MAR",
+          "TAB"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These actions can open doors to new opportunities, or keep them slightly ajar.",
+      "These names may not be on the official roster, but they carry a charm of familiarity.",
+      "In the world of finance, these abbreviations can make or break a deal.",
+      "These creatures seem to have a knack for reversing their fortunes."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 787,
+    "editor": "Tracy Bennett",
+    "solution": "hovel",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a humble abode."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This place is often associated with a lack of luxury."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term for a dwelling that might not be fit for a king."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 801,
+    "editor": "Tracy Bennett",
+    "clue": "All aboard!",
+    "spangram": "PASSENGERTRAIN",
+    "themeWords": [
+      "COACH",
+      "DINING",
+      "OBSERVATION",
+      "QUIET",
+      "SLEEPER"
+    ],
+    "startingBoard": [
+      "EIUNID",
+      "TQICON",
+      "GNHCAI",
+      "ASNETA",
+      "PSEGRR",
+      "SBOASL",
+      "ERVTEE",
+      "NOIREP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2549,
+    "sides": [
+      "IWM",
+      "YHO",
+      "SCP",
+      "DLR"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DYSMORPHIC",
+      "COWL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17700,
+    "centerLetter": "i",
+    "outerLetters": "abeflx",
+    "pangrams": [
+      "fixable"
+    ],
+    "answers": [
+      "affix",
+      "alexia",
+      "alibi",
+      "axial",
+      "axilla",
+      "axillae",
+      "bail",
+      "bailiff",
+      "belie",
+      "belief",
+      "biaxial",
+      "bible",
+      "biff",
+      "bilabial",
+      "bile",
+      "bill",
+      "billable",
+      "exile",
+      "fail",
+      "fallible",
+      "fief",
+      "fife",
+      "file",
+      "filial",
+      "fill",
+      "fillable",
+      "flail",
+      "flexible",
+      "ibex",
+      "labia",
+      "labial",
+      "labile",
+      "liable",
+      "libel",
+      "libelee",
+      "life"
+    ],
+    "pangramHints": [
+      {
+        "word": "fixable",
+        "hint": "A solution is within reach, but it requires some effort to mend."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

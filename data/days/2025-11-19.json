@@ -1,0 +1,196 @@
+{
+  "date": "2025-11-19",
+  "fetchedAt": "2026-05-10T20:19:23.175Z",
+  "connections": {
+    "puzzleId": 939,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STOCKY",
+        "words": [
+          "HUSKY",
+          "SOLID",
+          "SQUAT",
+          "THICK"
+        ]
+      },
+      {
+        "title": "STEER",
+        "words": [
+          "DIRECT",
+          "GUIDE",
+          "LEAD",
+          "SHEPHERD"
+        ]
+      },
+      {
+        "title": "SECOND WORDS IN POE STORIES, AFTER \"THE\"",
+        "words": [
+          "CASK",
+          "FALL",
+          "MASQUE",
+          "PIT"
+        ]
+      },
+      {
+        "title": "ORGAN PLUS A LETTER",
+        "words": [
+          "COLONY",
+          "HEARTH",
+          "LUNGE",
+          "SKINK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These sturdy words share a brawny essence, perfect for a heavyweight contest.",
+      "Think of a guiding force, one that leads the way through life's winding paths.",
+      "In the realm of tales, these follow a certain phrase, unveiling mysteries in the shadows.",
+      "Combine a living entity with an extra character, and you’ll find a curious mix."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1709,
+    "editor": "Tracy Bennett",
+    "solution": "maker",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that brings things into existence."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to someone who creates."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of someone who crafts or constructs, often with hands."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 793,
+    "editor": "Tracy Bennett",
+    "clue": "Divinely inspired",
+    "spangram": "RELIGIOUSFIGURES",
+    "themeWords": [
+      "BUDDHA",
+      "IMAM",
+      "MONK",
+      "PRIEST",
+      "PROPHET",
+      "RABBI"
+    ],
+    "startingBoard": [
+      "MASEBU",
+      "MIURAD",
+      "ARGIHD",
+      "IBSFPR",
+      "RBUOEI",
+      "OPGIST",
+      "PHILKN",
+      "ETREOM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2542,
+    "sides": [
+      "VUO",
+      "TBW",
+      "IHP",
+      "RME"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "VIEWPORT",
+      "THUMB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9776,
+    "centerLetter": "d",
+    "outerLetters": "abeghi",
+    "pangrams": [
+      "bighead",
+      "bigheaded"
+    ],
+    "answers": [
+      "abed",
+      "abide",
+      "abided",
+      "adage",
+      "added",
+      "aged",
+      "ahead",
+      "aide",
+      "aided",
+      "baaed",
+      "babied",
+      "baddie",
+      "bade",
+      "badge",
+      "badged",
+      "bagged",
+      "bead",
+      "beaded",
+      "bedded",
+      "bedhead",
+      "begged",
+      "behead",
+      "beheaded",
+      "bide",
+      "bided",
+      "dabbed",
+      "dead",
+      "deadhead",
+      "deadheaded",
+      "deed",
+      "deeded",
+      "died",
+      "ebbed",
+      "eddied",
+      "edge",
+      "edged",
+      "egad",
+      "egged",
+      "egghead",
+      "eggheaded",
+      "gabbed",
+      "gadded",
+      "gagged",
+      "gibed",
+      "gigged",
+      "head",
+      "headed",
+      "hedge",
+      "hedged",
+      "heed",
+      "heeded",
+      "hide",
+      "idea"
+    ],
+    "pangramHints": [
+      {
+        "word": "bighead",
+        "hint": "An inflated sense of self might lead to this playful term."
+      },
+      {
+        "word": "bigheaded",
+        "hint": "When one is overly proud, they might be described with this longer form."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

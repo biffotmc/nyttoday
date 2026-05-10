@@ -1,0 +1,203 @@
+{
+  "date": "2025-09-11",
+  "fetchedAt": "2026-05-10T20:14:52.971Z",
+  "connections": {
+    "puzzleId": 857,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BLEMISH",
+        "words": [
+          "DENT",
+          "DING",
+          "MAR",
+          "SCRATCH"
+        ]
+      },
+      {
+        "title": "BEHEMOTH",
+        "words": [
+          "COLOSSUS",
+          "MAMMOTH",
+          "WHALE",
+          "WHOPPER"
+        ]
+      },
+      {
+        "title": "RUDE THINGS TO DO",
+        "words": [
+          "POINT",
+          "SNICKER",
+          "STARE",
+          "WHISPER"
+        ]
+      },
+      {
+        "title": "ON A BASEBALL FIELD",
+        "words": [
+          "BASE",
+          "BOX",
+          "MOUND",
+          "PLATE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A little imperfection can tell a bigger story. What’s the mark of a tale gone wrong?",
+      "Think of giants that roam the earth, casting shadows larger than life. What do they have in common?",
+      "Sometimes, a little mischief can speak louder than words. What actions might raise an eyebrow?",
+      "In the game of baseball, every position has its purpose. What are the essential spots on the diamond?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1372,
+    "editor": "Tracy Bennett",
+    "solution": "chair",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It’s something you sit on."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This object often has four legs."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of furniture that supports you while you dine or work."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 724,
+    "editor": "Tracy Bennett",
+    "clue": "Take a break",
+    "spangram": "METIME",
+    "themeWords": [
+      "EXERCISE",
+      "JOURNAL",
+      "MEDITATE",
+      "PAINT",
+      "READ",
+      "UNPLUG",
+      "WALK"
+    ],
+    "startingBoard": [
+      "PNUESI",
+      "LEXERC",
+      "ULUOJE",
+      "GANRMD",
+      "METIAR",
+      "APWAEM",
+      "IKLEIE",
+      "NTTATD"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2473,
+    "sides": [
+      "REN",
+      "VTA",
+      "YWO",
+      "SCI"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "INVESTOR",
+      "RACEWAY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23241,
+    "centerLetter": "c",
+    "outerLetters": "agikln",
+    "pangrams": [
+      "cackling",
+      "clacking",
+      "clanking",
+      "lacking"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "acing",
+      "alack",
+      "caging",
+      "caking",
+      "call",
+      "calla",
+      "calling",
+      "canal",
+      "cancan",
+      "caning",
+      "canna",
+      "canning",
+      "cilia",
+      "clack",
+      "clan",
+      "clang",
+      "clanging",
+      "clank",
+      "click",
+      "clicking",
+      "cling",
+      "clinging",
+      "clinic",
+      "clinical",
+      "clinician",
+      "clink",
+      "clinking",
+      "glacial",
+      "glancing",
+      "icing",
+      "iliac",
+      "inclining",
+      "kick",
+      "kicking",
+      "knack",
+      "knickknack",
+      "lacing",
+      "lack",
+      "laic",
+      "laical",
+      "lancing",
+      "lick",
+      "licking",
+      "lilac",
+      "niacin",
+      "nick",
+      "nicking"
+    ],
+    "pangramHints": [
+      {
+        "word": "cackling",
+        "hint": "A sound that echoes with laughter and mischief."
+      },
+      {
+        "word": "clacking",
+        "hint": "A rhythmic noise that can be quite catchy."
+      },
+      {
+        "word": "clanking",
+        "hint": "A metallic sound that suggests movement or chaos."
+      },
+      {
+        "word": "lacking",
+        "hint": "A state of emptiness or absence that can be felt."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

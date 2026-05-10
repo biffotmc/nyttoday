@@ -1,0 +1,194 @@
+{
+  "date": "2025-07-12",
+  "fetchedAt": "2026-05-10T20:10:40.641Z",
+  "connections": {
+    "puzzleId": 800,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ENDORSE",
+        "words": [
+          "BACK",
+          "CHAMPION",
+          "SECOND",
+          "SUPPORT"
+        ]
+      },
+      {
+        "title": "DETAILED",
+        "words": [
+          "ELABORATE",
+          "MINUTE",
+          "PARTICULAR",
+          "THOROUGH"
+        ]
+      },
+      {
+        "title": "ERA",
+        "words": [
+          "AGE",
+          "DAY",
+          "PERIOD",
+          "TIME"
+        ]
+      },
+      {
+        "title": "IN THE NATO ALPHABET",
+        "words": [
+          "ECHO",
+          "KILO",
+          "UNIFORM",
+          "VICTOR"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you stand behind someone, you might just be their biggest fan.",
+      "In the world of precision, every tiny detail counts.",
+      "Time marches on, marking the moments that define us.",
+      "In the phonetic world, some letters carry weight like no other."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 687,
+    "editor": "Tracy Bennett",
+    "solution": "exile",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a word that suggests being away."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can imply a form of separation."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s often used in contexts of banishment or exile."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 662,
+    "editor": "Tracy Bennett",
+    "clue": "In the ballpark",
+    "spangram": "STADIUM",
+    "themeWords": [
+      "BULLPEN",
+      "GLOVE",
+      "HELMET",
+      "JUMBOTRON",
+      "PEANUTS",
+      "PITCHER"
+    ],
+    "startingBoard": [
+      "TMLTJU",
+      "EERDOM",
+      "HOALIB",
+      "NTUELU",
+      "SBNPMP",
+      "EVOCTI",
+      "STULHE",
+      "PEANGR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2412,
+    "sides": [
+      "WIL",
+      "OTN",
+      "YUA",
+      "HKD"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WHODUNIT",
+      "TALKY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20745,
+    "centerLetter": "c",
+    "outerLetters": "ailntu",
+    "pangrams": [
+      "lunatic",
+      "nautical"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "actual",
+      "antic",
+      "attic",
+      "cacti",
+      "calculi",
+      "call",
+      "calla",
+      "canal",
+      "cancan",
+      "canna",
+      "cannula",
+      "cant",
+      "cantata",
+      "cantina",
+      "catcall",
+      "cattail",
+      "caul",
+      "cilia",
+      "clan",
+      "clinic",
+      "clinical",
+      "clinician",
+      "cull",
+      "cult",
+      "cultic",
+      "iliac",
+      "illicit",
+      "incant",
+      "intact",
+      "italic",
+      "lactic",
+      "lacuna",
+      "laic",
+      "laical",
+      "licit",
+      "lilac",
+      "niacin",
+      "tacit",
+      "tact",
+      "tactic",
+      "tactical",
+      "tactician",
+      "tactual",
+      "talc",
+      "tannic",
+      "tinct",
+      "titanic",
+      "tunic",
+      "uncut"
+    ],
+    "pangramHints": [
+      {
+        "word": "lunatic",
+        "hint": "A whimsical mind can wander far and wide."
+      },
+      {
+        "word": "nautical",
+        "hint": "Sailing through letters, this word navigates the seas."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

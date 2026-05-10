@@ -1,0 +1,180 @@
+{
+  "date": "2025-08-08",
+  "fetchedAt": "2026-05-10T20:12:10.964Z",
+  "connections": {
+    "puzzleId": 829,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MAKE EQUAL, AS A SCORE",
+        "words": [
+          "DRAW",
+          "EVEN",
+          "SQUARE",
+          "TIE"
+        ]
+      },
+      {
+        "title": "BESTOW",
+        "words": [
+          "CONFER",
+          "GRANT",
+          "PRESENT",
+          "VEST"
+        ]
+      },
+      {
+        "title": "THINGS YOU MIGHT DO DURING A BORING CLASS/MEETING",
+        "words": [
+          "DOODLE",
+          "DOZE",
+          "PASS NOTES",
+          "SPACE"
+        ]
+      },
+      {
+        "title": "WORDS AFTER THE LETTERS “MS”",
+        "words": [
+          "DEGREE",
+          "MARVEL",
+          "PAC-MAN",
+          "PAINT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When two teams are neck and neck, they might find themselves in a stalemate.",
+      "To give someone a title is to elevate their status, but what about the act itself?",
+      "In a dull lecture, your mind might wander to doodles or daydreams.",
+      "What follows when you address a woman with respect? It’s a title that brings to mind achievement."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1878,
+    "editor": "Tracy Bennett",
+    "solution": "imbue",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a word that means to infuse or inspire."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often used in creative contexts, especially when discussing art or ideas."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with a vowel and ends with a consonant, and it’s about imbuing something with a quality."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 690,
+    "editor": "Tracy Bennett",
+    "clue": "Kings of swing and bebop",
+    "spangram": "JAZZCATS",
+    "themeWords": [
+      "CANNONBALL",
+      "COUNT",
+      "DIZZY",
+      "DUKE",
+      "FATS",
+      "HAWK",
+      "YARDBIRD"
+    ],
+    "startingBoard": [
+      "CANSYD",
+      "YNTAIR",
+      "ZZOARB",
+      "INCHAD",
+      "DCBZWK",
+      "OAZSAF",
+      "UTLATE",
+      "NLJDUK"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2439,
+    "sides": [
+      "LNG",
+      "OIR",
+      "UPE",
+      "VDF"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ENVELOP",
+      "PREFIGURED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22995,
+    "centerLetter": "t",
+    "outerLetters": "delnpy",
+    "pangrams": [
+      "dependently"
+    ],
+    "answers": [
+      "delete",
+      "deleted",
+      "delt",
+      "dent",
+      "dented",
+      "dependent",
+      "deplete",
+      "depleted",
+      "detente",
+      "entente",
+      "eyelet",
+      "lent",
+      "netted",
+      "nettle",
+      "nettled",
+      "netty",
+      "pellet",
+      "pelleted",
+      "pelt",
+      "pelted",
+      "pendent",
+      "pent",
+      "petted",
+      "petty",
+      "plenty",
+      "teddy",
+      "teed",
+      "teen",
+      "teeny",
+      "teepee",
+      "teletype",
+      "tell",
+      "tend",
+      "tended",
+      "tenet",
+      "tent",
+      "tented",
+      "tepee",
+      "type",
+      "typed",
+      "yente"
+    ],
+    "pangramHints": [
+      {
+        "word": "dependently",
+        "hint": "A word that suggests reliance, filled with vowels and consonants alike."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

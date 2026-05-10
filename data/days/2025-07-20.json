@@ -1,0 +1,217 @@
+{
+  "date": "2025-07-20",
+  "fetchedAt": "2026-05-10T20:10:59.134Z",
+  "connections": {
+    "puzzleId": 807,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MOVE TO THE MUSIC",
+        "words": [
+          "BOP",
+          "BOUNCE",
+          "GROOVE",
+          "SWAY"
+        ]
+      },
+      {
+        "title": "INHALATION",
+        "words": [
+          "DRAG",
+          "DRAW",
+          "PUFF",
+          "PULL"
+        ]
+      },
+      {
+        "title": "MARTINI SPECIFICATIONS",
+        "words": [
+          "DRY",
+          "GIN",
+          "SHAKEN",
+          "TWIST"
+        ]
+      },
+      {
+        "title": "___WORD",
+        "words": [
+          "BUZZ",
+          "CROSS",
+          "LOAN",
+          "PASS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the rhythm hits, these words will have you moving in no time. Feel the beat!",
+      "Inhale deeply and let these words fill your lungs with fresh air.",
+      "A classic cocktail has its secrets; these words are the key ingredients.",
+      "Fill in the blanks with these versatile terms that can take you places."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1012,
+    "editor": "Tracy Bennett",
+    "solution": "blank",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something empty or void."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word often describes a canvas before the artist begins."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that can also mean to remove all content."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 670,
+    "editor": "Tracy Bennett",
+    "clue": "Shore thing!",
+    "spangram": "BEACHATTIRE",
+    "themeWords": [
+      "BIKINI",
+      "SANDALS",
+      "SARONG",
+      "SWIMSUIT",
+      "TRUNKS",
+      "WRAP"
+    ],
+    "startingBoard": [
+      "BIKUNS",
+      "INIRTK",
+      "BEACHA",
+      "ONGPTL",
+      "RSATAS",
+      "ARIDAS",
+      "WRSNTI",
+      "EWIMSU"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2420,
+    "sides": [
+      "AUO",
+      "YFP",
+      "DTE",
+      "SNI"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FEUD",
+      "DYSTOPIAN"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9712,
+    "centerLetter": "p",
+    "outerLetters": "gilnot",
+    "pangrams": [
+      "piloting",
+      "plotting",
+      "toppling"
+    ],
+    "answers": [
+      "gloop",
+      "glop",
+      "glopping",
+      "goop",
+      "lipo",
+      "lipping",
+      "lollipop",
+      "lollop",
+      "lolloping",
+      "loop",
+      "looping",
+      "loping",
+      "lopping",
+      "nipping",
+      "opining",
+      "opinion",
+      "opting",
+      "option",
+      "optioning",
+      "pigging",
+      "piling",
+      "pill",
+      "pilling",
+      "pillion",
+      "pilot",
+      "ping",
+      "pinging",
+      "pining",
+      "pinion",
+      "pinioning",
+      "pinning",
+      "pinot",
+      "pinpoint",
+      "pinpointing",
+      "pint",
+      "pinto",
+      "piping",
+      "pipit",
+      "pippin",
+      "piton",
+      "pitting",
+      "plop",
+      "plopping",
+      "plot",
+      "pogo",
+      "pogoing",
+      "point",
+      "pointing",
+      "poling",
+      "polio",
+      "poll",
+      "polling",
+      "polo",
+      "pong",
+      "pontoon",
+      "pool",
+      "pooling",
+      "poop",
+      "pooping",
+      "poplin",
+      "popping",
+      "potion",
+      "potting",
+      "tipi",
+      "tipping",
+      "tippling",
+      "tiptop",
+      "toping",
+      "topping"
+    ],
+    "pangramHints": [
+      {
+        "word": "piloting",
+        "hint": "Steering through the skies, this word takes you on a journey."
+      },
+      {
+        "word": "plotting",
+        "hint": "Crafting a tale or a scheme? This word is your guide."
+      },
+      {
+        "word": "toppling",
+        "hint": "Watch out! This word describes a fall from grace."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

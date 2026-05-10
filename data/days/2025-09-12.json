@@ -1,0 +1,155 @@
+{
+  "date": "2025-09-12",
+  "fetchedAt": "2026-05-10T20:14:57.163Z",
+  "connections": {
+    "puzzleId": 861,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ENTREATY",
+        "words": [
+          "APPEAL",
+          "BID",
+          "CALL",
+          "PETITION"
+        ]
+      },
+      {
+        "title": "CONTACT INFO",
+        "words": [
+          "ADDRESS",
+          "EMAIL",
+          "NAME",
+          "NUMBER"
+        ]
+      },
+      {
+        "title": "KINDS OF CAMERA LENSES",
+        "words": [
+          "FISHEYE",
+          "MACRO",
+          "TELEPHOTO",
+          "ZOOM"
+        ]
+      },
+      {
+        "title": "BODIES OF WATER PLUS STARTING LETTER",
+        "words": [
+          "DRIVER",
+          "EBAY",
+          "FINLET",
+          "FLAKE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A request wrapped in sincerity, often heard in courts and councils.",
+      "The details you share when you want to connect, revealing your identity.",
+      "These optical wonders can transform a scene, each with its own unique flair.",
+      "Water bodies with a twist, where the first letter adds a playful touch."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1822,
+    "editor": "Tracy Bennett",
+    "solution": "throb",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a pulse you can feel."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a rhythmic sensation."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word captures a feeling often associated with excitement or anxiety."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 726,
+    "editor": "Tracy Bennett",
+    "clue": "That's classic",
+    "spangram": "TIMEHONORED",
+    "themeWords": [
+      "AGELESS",
+      "ANTIQUE",
+      "ENDURING",
+      "HISTORIC",
+      "VINTAGE"
+    ],
+    "startingBoard": [
+      "VIDIST",
+      "NEHROE",
+      "TROIDN",
+      "GANCUR",
+      "EAOHEI",
+      "NESSMN",
+      "ETLGIG",
+      "UQIEAT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2474,
+    "sides": [
+      "KRA",
+      "HDP",
+      "BIS",
+      "CLO"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BACKSPLASH",
+      "HAIRDO"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 3649,
+    "centerLetter": "i",
+    "outerLetters": "chkmnu",
+    "pangrams": [
+      "munchkin"
+    ],
+    "answers": [
+      "chic",
+      "chichi",
+      "chick",
+      "chin",
+      "cinch",
+      "cumin",
+      "hick",
+      "inch",
+      "kick",
+      "kimchi",
+      "kink",
+      "mimic",
+      "mini",
+      "minim",
+      "minimum",
+      "mink",
+      "nick",
+      "unkink"
+    ],
+    "pangramHints": [
+      {
+        "word": "munchkin",
+        "hint": "A playful creature that might dance in your imagination."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

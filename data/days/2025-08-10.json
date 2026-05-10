@@ -1,0 +1,201 @@
+{
+  "date": "2025-08-10",
+  "fetchedAt": "2026-05-10T20:12:19.364Z",
+  "connections": {
+    "puzzleId": 828,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INFLUENCE",
+        "words": [
+          "JUICE",
+          "PULL",
+          "SWAY",
+          "WEIGHT"
+        ]
+      },
+      {
+        "title": "AMASS",
+        "words": [
+          "CLUSTER",
+          "COLLECT",
+          "CONCENTRATE",
+          "GROUP"
+        ]
+      },
+      {
+        "title": "KINDS OF FICTION",
+        "words": [
+          "FAN",
+          "HISTORICAL",
+          "PULP",
+          "SCIENCE"
+        ]
+      },
+      {
+        "title": "STARTING WITH MATH AND SCIENCE CLASSES, FOR SHORT",
+        "words": [
+          "BIOPIC",
+          "CALCIUM",
+          "CHEMISE",
+          "TRIGLYCERIDE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A sweet elixir can sway your thoughts, while a heavy presence can weigh on your mind.",
+      "Gathering treasures together creates a beautiful tapestry of abundance.",
+      "From tales of the past to the realms of imagination, stories take many forms.",
+      "When numbers dance with elements, they create a curious blend of knowledge."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 596,
+    "editor": "Tracy Bennett",
+    "solution": "minty",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Fresh and vibrant, often associated with nature."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a flavor or a color."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something that can evoke a sense of freshness or coolness."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 692,
+    "editor": "Tracy Bennett",
+    "clue": "A rip-roaring good time",
+    "spangram": "PARTIES",
+    "themeWords": [
+      "BLOWOUT",
+      "HOEDOWN",
+      "JAMBOREE",
+      "LUAU",
+      "SHINDIG",
+      "WINGDING"
+    ],
+    "startingBoard": [
+      "IDHOWN",
+      "GNLUEO",
+      "HIRTAD",
+      "SAOWIU",
+      "PLEEOE",
+      "BWIRUS",
+      "NINAOT",
+      "GDGJMB"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2441,
+    "sides": [
+      "POL",
+      "BCT",
+      "RKH",
+      "IUE"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PROBIOTIC",
+      "CHUCKLE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17377,
+    "centerLetter": "g",
+    "outerLetters": "aemnot",
+    "pangrams": [
+      "magneto",
+      "megaton",
+      "montage"
+    ],
+    "answers": [
+      "agate",
+      "agent",
+      "agog",
+      "among",
+      "eggnog",
+      "engage",
+      "engagement",
+      "gaga",
+      "gage",
+      "game",
+      "gamete",
+      "gamma",
+      "gang",
+      "gannet",
+      "gate",
+      "gene",
+      "genome",
+      "gent",
+      "geotag",
+      "gnat",
+      "gnome",
+      "goat",
+      "goatee",
+      "gone",
+      "gong",
+      "gonna",
+      "goon",
+      "gotta",
+      "gotten",
+      "mage",
+      "magenta",
+      "maggot",
+      "magma",
+      "magnate",
+      "magnet",
+      "manage",
+      "management",
+      "manga",
+      "mange",
+      "mango",
+      "mega",
+      "nametag",
+      "negate",
+      "nonagon",
+      "ogee",
+      "omega",
+      "tang",
+      "tangent",
+      "tango",
+      "teenage",
+      "toga",
+      "tong",
+      "tonnage"
+    ],
+    "pangramHints": [
+      {
+        "word": "magneto",
+        "hint": "A force that pulls, but never reveals its secrets."
+      },
+      {
+        "word": "megaton",
+        "hint": "A massive measure, heavy in impact but light in name."
+      },
+      {
+        "word": "montage",
+        "hint": "A collection of moments, pieced together in harmony."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

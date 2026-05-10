@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-15",
+  "fetchedAt": "2026-05-10T20:29:08.882Z",
+  "connections": {
+    "puzzleId": 1119,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GRADUATION GEAR",
+        "words": [
+          "CAP",
+          "DIPLOMA",
+          "GOWN",
+          "TASSEL"
+        ]
+      },
+      {
+        "title": "TEDIOUS UNDERTAKING",
+        "words": [
+          "CHORE",
+          "GRIND",
+          "HASSLE",
+          "TRIAL"
+        ]
+      },
+      {
+        "title": "OVERSIMPLISTIC",
+        "words": [
+          "FACILE",
+          "FLIP",
+          "SHALLOW",
+          "TRITE"
+        ]
+      },
+      {
+        "title": "SHAPES OF CHESS PIECES",
+        "words": [
+          "CASTLE",
+          "CROWN",
+          "HORSE",
+          "MITER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A heady mix of celebration and tradition, these items mark a significant milestone.",
+      "Laborious tasks that can feel like they stretch on forever, yet often lead to growth.",
+      "When something is too easy, it might just lack depth or substance.",
+      "These formations on the board each hold their own unique power and strategy."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 834,
+    "editor": "Tracy Bennett",
+    "solution": "begun",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that starts a journey."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to beginnings and is often associated with action."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term that signifies the initiation of an event or process."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 947,
+    "editor": "Tracy Bennett",
+    "clue": "Gift of the month",
+    "spangram": "BIRTHSTONE",
+    "themeWords": [
+      "DIAMOND",
+      "GARNET",
+      "OPAL",
+      "PERIDOT",
+      "TOPAZ",
+      "TURQUOISE"
+    ],
+    "startingBoard": [
+      "AZPOST",
+      "PTAIEU",
+      "OLOUQR",
+      "BIRTHS",
+      "NOMNRT",
+      "DAEATO",
+      "IPTGON",
+      "DERIDE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2689,
+    "sides": [
+      "BYP",
+      "RTO",
+      "AIH",
+      "CED"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "EPIC",
+      "CARBOHYDRATE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 1632,
+    "centerLetter": "a",
+    "outerLetters": "emnptv",
+    "pangrams": [
+      "pavement"
+    ],
+    "answers": [
+      "amen",
+      "ante",
+      "antenna",
+      "antennae",
+      "apeman",
+      "apemen",
+      "apnea",
+      "attempt",
+      "eaten",
+      "eave",
+      "emanate",
+      "enema",
+      "mama",
+      "mamma",
+      "manatee",
+      "mane",
+      "manna",
+      "manta",
+      "mate",
+      "matte",
+      "maven",
+      "mean",
+      "meant",
+      "meat",
+      "meta",
+      "naan",
+      "name",
+      "nametape",
+      "nana",
+      "nape",
+      "natant",
+      "nave",
+      "neap",
+      "neat",
+      "neaten",
+      "paean",
+      "pampa",
+      "panama",
+      "pane",
+      "pant",
+      "papa",
+      "pate",
+      "patent",
+      "patentee",
+      "pavane",
+      "pave",
+      "peat",
+      "penman",
+      "pennant",
+      "pentane",
+      "tame",
+      "tamp",
+      "tapa",
+      "tape",
+      "team",
+      "teammate",
+      "teat",
+      "tenant",
+      "vamp",
+      "vane",
+      "vape"
+    ],
+    "pangramHints": [
+      {
+        "word": "pavement",
+        "hint": "A surface underfoot that connects places, often seen in urban landscapes."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

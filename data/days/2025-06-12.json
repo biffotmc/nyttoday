@@ -1,0 +1,196 @@
+{
+  "date": "2025-06-12",
+  "fetchedAt": "2026-05-10T20:10:26.121Z",
+  "connections": {
+    "puzzleId": 765,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GETTING COZY",
+        "words": [
+          "CUDDLING",
+          "HUGGING",
+          "SNUGGLING",
+          "SPOONING"
+        ]
+      },
+      {
+        "title": "GOSSIPING",
+        "words": [
+          "BUZZING",
+          "DISHING",
+          "SPILLING",
+          "WHISPERING"
+        ]
+      },
+      {
+        "title": "ENGAGING IN AN ACTIVITY WITH PINS OR NEEDLES",
+        "words": [
+          "ACUPUNCTURING",
+          "BOWLING",
+          "SEWING",
+          "WRESTLING"
+        ]
+      },
+      {
+        "title": "STARTING WITH TITLES",
+        "words": [
+          "DOCTORING",
+          "LORDING",
+          "MISSING",
+          "SIRING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the temperature drops, these activities warm the heart and body. Think of the closeness!",
+      "Whispers travel faster than a rumor. What do you do when you can't keep a secret?",
+      "Needles and pins can lead to many outcomes, from art to sport. What’s your favorite pastime?",
+      "Titles can elevate the ordinary to the extraordinary. What do you call someone with a knack for authority?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 919,
+    "editor": "Tracy Bennett",
+    "solution": "vixen",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word describes a clever female fox."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a word that captures a sly or cunning nature."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with 'v' and ends with 'n', embodying a clever character."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 633,
+    "editor": "Tracy Bennett",
+    "clue": "Gone fishing",
+    "spangram": "TACKLEBOX",
+    "themeWords": [
+      "BOBBER",
+      "HOOK",
+      "LINE",
+      "LURE",
+      "REEL",
+      "SCALE",
+      "SINKER",
+      "SWIVEL"
+    ],
+    "startingBoard": [
+      "ULHORE",
+      "RIVLOE",
+      "EWSEKL",
+      "TACKXO",
+      "KERLEB",
+      "INBOBB",
+      "SEENRE",
+      "LACSIL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2382,
+    "sides": [
+      "ZAI",
+      "BRL",
+      "DUE",
+      "TOV"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "BOULEVARD",
+      "DITZ"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17872,
+    "centerLetter": "d",
+    "outerLetters": "cgilno",
+    "pangrams": [
+      "clodding",
+      "coddling",
+      "colliding",
+      "condoling"
+    ],
+    "answers": [
+      "clod",
+      "codicil",
+      "coding",
+      "codon",
+      "coinciding",
+      "cold",
+      "colloid",
+      "condo",
+      "condoning",
+      "dicing",
+      "diddling",
+      "digging",
+      "dildo",
+      "dill",
+      "ding",
+      "dinging",
+      "dingo",
+      "dining",
+      "dino",
+      "dodging",
+      "dodo",
+      "dogging",
+      "doggo",
+      "doing",
+      "doling",
+      "doll",
+      "dolling",
+      "dong",
+      "donning",
+      "doodling",
+      "gild",
+      "gilding",
+      "gliding",
+      "gold",
+      "good",
+      "idling",
+      "idol",
+      "indigo",
+      "lodging",
+      "nodding",
+      "noodling"
+    ],
+    "pangramHints": [
+      {
+        "word": "clodding",
+        "hint": "A heavy step can make quite the noise, but this word is all about the weight."
+      },
+      {
+        "word": "coddling",
+        "hint": "To treat someone with excessive care and affection, this word wraps around them."
+      },
+      {
+        "word": "colliding",
+        "hint": "When two things meet with force, they create a dynamic moment."
+      },
+      {
+        "word": "condoling",
+        "hint": "Offering sympathy during tough times, this word is about sharing sorrow."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

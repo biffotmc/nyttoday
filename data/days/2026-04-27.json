@@ -1,0 +1,161 @@
+{
+  "date": "2026-04-27",
+  "fetchedAt": "2026-05-10T20:29:56.369Z",
+  "connections": {
+    "puzzleId": 1090,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SALAD INGREDIENTS",
+        "words": [
+          "RANCH DRESSING",
+          "RED ONION",
+          "ROASTED CHICKEN",
+          "ROMAINE LETTUCE"
+        ]
+      },
+      {
+        "title": "CLASSIC FILMS",
+        "words": [
+          "RAIN MAN",
+          "REAR WINDOW",
+          "RESERVOIR DOGS",
+          "ROMAN HOLIDAY"
+        ]
+      },
+      {
+        "title": "\"THE SIMPSONS\" CHARACTERS",
+        "words": [
+          "RADIOACTIVE MAN",
+          "RALPH WIGGUM",
+          "REVEREND LOVEJOY",
+          "ROD FLANDERS"
+        ]
+      },
+      {
+        "title": "ENDING IN NBA PLAYERS",
+        "words": [
+          "RAGING BULL",
+          "REGINA KING",
+          "ROE BUCK",
+          "ROTARY CLIPPER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A creamy companion for crisp greens, this mix adds zest to your bowl.",
+      "Timeless tales that keep you on the edge of your seat, each frame a classic.",
+      "Quirky characters from a yellow town, their antics are anything but ordinary.",
+      "Players with a flair for the dramatic, their names echo in the arena."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 595,
+    "editor": "Tracy Bennett",
+    "solution": "eerie",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something spooky or ghostly."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word has a double letter."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It describes an unsettling atmosphere, often associated with the supernatural."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 900,
+    "editor": "Tracy Bennett",
+    "clue": "The ayes have it!",
+    "spangram": "EYEOPENERS",
+    "themeWords": [
+      "ICICLE",
+      "ICON",
+      "IDOLIZE",
+      "IOTA",
+      "IRONIC",
+      "ISLAND",
+      "IVORY"
+    ],
+    "startingBoard": [
+      "IEYEVI",
+      "OTOYRO",
+      "AEPCIC",
+      "ZIEIEL",
+      "LONDIS",
+      "IDENAL",
+      "NORORI",
+      "ICSNIC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2701,
+    "sides": [
+      "ECR",
+      "OBT",
+      "MWH",
+      "NGU"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BUTCH",
+      "HOMEGROWN"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10652,
+    "centerLetter": "z",
+    "outerLetters": "aegiln",
+    "pangrams": [
+      "legalizing"
+    ],
+    "answers": [
+      "agaze",
+      "azalea",
+      "elegize",
+      "elegizing",
+      "gaze",
+      "gazelle",
+      "gazing",
+      "geez",
+      "glaze",
+      "glazing",
+      "laze",
+      "lazing",
+      "legalize",
+      "zagging",
+      "zeal",
+      "zigging",
+      "zigzag",
+      "zigzagging",
+      "zine",
+      "zing",
+      "zinging",
+      "zinnia"
+    ],
+    "pangramHints": [
+      {
+        "word": "legalizing",
+        "hint": "A word that brings order to chaos, but don't say it outright!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

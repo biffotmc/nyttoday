@@ -1,0 +1,158 @@
+{
+  "date": "2025-12-28",
+  "fetchedAt": "2026-05-10T20:21:54.212Z",
+  "connections": {
+    "puzzleId": 972,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CONTAINERS FOR SHIPPING",
+        "words": [
+          "BOX",
+          "ENVELOPE",
+          "MAILER",
+          "TUBE"
+        ]
+      },
+      {
+        "title": "UNMOVING",
+        "words": [
+          "CONSTANT",
+          "STATIC",
+          "STATIONARY",
+          "STILL"
+        ]
+      },
+      {
+        "title": "MECHANICAL WATCH PARTS",
+        "words": [
+          "GEAR",
+          "PAWL",
+          "RATCHET",
+          "SPRING"
+        ]
+      },
+      {
+        "title": "DOGS WITH FIRST LETTER CHANGED",
+        "words": [
+          "DUSKY",
+          "NOODLE",
+          "PERRIER",
+          "SOXER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These carriers are essential for transporting your treasures across the seas.",
+      "They stand firm and unwavering, embodying the essence of reliability.",
+      "Intricate components that keep time ticking, each plays a vital role in precision.",
+      "With a twist of fate, these canines take on new identities with just a letter swap."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1672,
+    "editor": "Tracy Bennett",
+    "solution": "abbot",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a title for a religious leader."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word has a double letter and relates to authority."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term often associated with a monastery or abbey."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 808,
+    "editor": "Tracy Bennett",
+    "clue": "Load up on tissues",
+    "spangram": "COLDSYMPTOM",
+    "themeWords": [
+      "COUGH",
+      "DRIP",
+      "HACK",
+      "SNEEZE",
+      "SNIFFLE",
+      "SNORT",
+      "WHEEZE"
+    ],
+    "startingBoard": [
+      "CELFNS",
+      "SOTRFI",
+      "NLDKOS",
+      "EESCDN",
+      "ZYAHPR",
+      "HEMPTI",
+      "GCHWEO",
+      "UOEEZM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2576,
+    "sides": [
+      "XFM",
+      "PWR",
+      "NHL",
+      "ETI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "EXPERIMENT",
+      "TWELFTH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27610,
+    "centerLetter": "c",
+    "outerLetters": "hlopry",
+    "pangrams": [
+      "chlorophyll"
+    ],
+    "answers": [
+      "chop",
+      "choppy",
+      "clop",
+      "cloy",
+      "coho",
+      "color",
+      "cool",
+      "coolly",
+      "coop",
+      "copy",
+      "coyly",
+      "croc",
+      "crop",
+      "hooch",
+      "loch",
+      "loco",
+      "pooch",
+      "porch",
+      "rococo"
+    ],
+    "pangramHints": [
+      {
+        "word": "chlorophyll",
+        "hint": "A vital green pigment that helps plants harness sunlight."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

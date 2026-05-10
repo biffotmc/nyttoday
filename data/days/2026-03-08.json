@@ -1,0 +1,204 @@
+{
+  "date": "2026-03-08",
+  "fetchedAt": "2026-05-10T20:26:36.038Z",
+  "connections": {
+    "puzzleId": 1083,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CITIES",
+        "words": [
+          "LIMA",
+          "NICE",
+          "OSAKA",
+          "PHOENIX"
+        ]
+      },
+      {
+        "title": "PALINDROMES",
+        "words": [
+          "EYE",
+          "REFER",
+          "ROTATOR",
+          "SELES"
+        ]
+      },
+      {
+        "title": "HORROR MOVIES MINUS \"S\"",
+        "words": [
+          "GREMLIN",
+          "JAW",
+          "SINNER",
+          "TREMOR"
+        ]
+      },
+      {
+        "title": "STARTING WITH SLANG FOR ZERO",
+        "words": [
+          "JACKET",
+          "NADAL",
+          "SQUATTER",
+          "ZIPPER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These urban landscapes are known for their unique flavors and vibrant cultures, each offering a distinct charm.",
+      "Reflect on words that mirror themselves, revealing a fascinating symmetry in language.",
+      "Chilling tales that send shivers down your spine, but watch out for the missing letter that changes everything.",
+      "These terms all kick off with a slang term for nothing, leading to a variety of unexpected items."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 720,
+    "editor": "Tracy Bennett",
+    "solution": "lobby",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a place where people gather."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often associated with socializing and gatherings."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a specific type of room in a building."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 908,
+    "editor": "Tracy Bennett",
+    "clue": "That time of year again",
+    "spangram": "DAYLIGHTSAVINGS",
+    "themeWords": [
+      "CLOCK",
+      "FORWARD",
+      "HOUR",
+      "LOSING",
+      "SLEEP",
+      "SPRING"
+    ],
+    "startingBoard": [
+      "PRIUSI",
+      "SNORON",
+      "GHLILG",
+      "DAYGHT",
+      "CLOCKS",
+      "SGNIVA",
+      "FORSEP",
+      "DRAWLE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2651,
+    "sides": [
+      "TOF",
+      "LAS",
+      "YNR",
+      "KIC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FACTIONS",
+      "STARKLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23688,
+    "centerLetter": "i",
+    "outerLetters": "acnotx",
+    "pangrams": [
+      "intoxicant",
+      "intoxication"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "action",
+      "anion",
+      "annotation",
+      "anoint",
+      "anoxia",
+      "anoxic",
+      "anti",
+      "antic",
+      "antitoxin",
+      "ataxia",
+      "attain",
+      "attic",
+      "cacti",
+      "canonic",
+      "cantina",
+      "catatonia",
+      "catatonic",
+      "cation",
+      "ciao",
+      "citation",
+      "coati",
+      "cocci",
+      "coin",
+      "concoction",
+      "conic",
+      "connotation",
+      "contain",
+      "icon",
+      "iconic",
+      "inaction",
+      "incant",
+      "incantation",
+      "initiation",
+      "intact",
+      "into",
+      "intonation",
+      "ionic",
+      "iota",
+      "nation",
+      "niacin",
+      "nontoxic",
+      "notation",
+      "notion",
+      "onion",
+      "tacit",
+      "tactic",
+      "tactician",
+      "taint",
+      "tannic",
+      "tannin",
+      "taxation",
+      "taxi",
+      "tinct",
+      "tint",
+      "titan",
+      "titanic",
+      "tonic",
+      "toxic",
+      "toxin"
+    ],
+    "pangramHints": [
+      {
+        "word": "intoxicant",
+        "hint": "A substance that alters your state, but don't get too carried away!"
+      },
+      {
+        "word": "intoxication",
+        "hint": "A state that can lead to wild adventures, just remember to stay safe!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "date": "2026-05-10",
+  "fetchedAt": "2026-05-10T20:30:46.207Z",
+  "connections": {
+    "puzzleId": 1141,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MUSIC PLAYER BUTTONS",
+        "words": [
+          "PLAY",
+          "REPEAT",
+          "SHUFFLE",
+          "SKIP"
+        ]
+      },
+      {
+        "title": "DESTINED",
+        "words": [
+          "BOUND",
+          "CERTAIN",
+          "FATED",
+          "SURE"
+        ]
+      },
+      {
+        "title": "VERBS IN MAKING A MOJITO",
+        "words": [
+          "GARNISH",
+          "MUDDLE",
+          "POUR",
+          "STIR"
+        ]
+      },
+      {
+        "title": "WHAT \"SPRING\" MIGHT REFER TO",
+        "words": [
+          "COIL",
+          "FOUNTAIN",
+          "LEAP",
+          "SEASON"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the rhythm hits, don't just sit; press the button to let the music flow.",
+      "Fate has a way of tying things together, like a knot you can't untie.",
+      "Mixing flavors is an art; each action adds a touch to the masterpiece.",
+      "Spring into action, whether it's a bounce or a burst of water; nature has its ways."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1949,
+    "editor": "Tracy Bennett",
+    "solution": "parka",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A cozy outer layer for chilly days."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something warm that you wear."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This garment often has a hood and is essential for winter."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 972,
+    "editor": "Tracy Bennett",
+    "clue": "We all saw it",
+    "spangram": "CLEARCUT",
+    "themeWords": [
+      "BLATANT",
+      "BRAZEN",
+      "FLAGRANT",
+      "GLARING",
+      "OBVIOUS",
+      "OVERT"
+    ],
+    "startingBoard": [
+      "TVOTAT",
+      "RESURN",
+      "IOUCGF",
+      "BVRALG",
+      "NOABAN",
+      "ATERZI",
+      "ATLNER",
+      "LBCGLA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2714,
+    "sides": [
+      "IDA",
+      "RML",
+      "NOT",
+      "CPK"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "OPTICAL",
+      "LANDMARK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17092,
+    "centerLetter": "l",
+    "outerLetters": "dfgino",
+    "pangrams": [
+      "flooding",
+      "folding",
+      "fondling"
+    ],
+    "answers": [
+      "diddling",
+      "dildo",
+      "dill",
+      "doling",
+      "doll",
+      "dolling",
+      "doodling",
+      "fiddling",
+      "filing",
+      "fill",
+      "filling",
+      "fling",
+      "flinging",
+      "flog",
+      "flogging",
+      "flood",
+      "foil",
+      "foiling",
+      "fold",
+      "folio",
+      "fool",
+      "fooling",
+      "giggling",
+      "gigolo",
+      "gild",
+      "gilding",
+      "gill",
+      "gilling",
+      "gliding",
+      "goggling",
+      "gold",
+      "golf",
+      "golfing",
+      "googling",
+      "googol",
+      "idling",
+      "idol",
+      "igloo",
+      "infill",
+      "infilling",
+      "lingo",
+      "lining",
+      "lion",
+      "lodging",
+      "logging",
+      "login",
+      "logo",
+      "loin",
+      "loll",
+      "lolling",
+      "long",
+      "longing",
+      "loon",
+      "niggling",
+      "nonillion",
+      "noodling",
+      "ogling",
+      "oiling",
+      "olio",
+      "oolong"
+    ],
+    "pangramHints": [
+      {
+        "word": "flooding",
+        "hint": "A deluge that can sweep you away; think of water's might."
+      },
+      {
+        "word": "folding",
+        "hint": "A simple act of bending; think of paper and origami."
+      },
+      {
+        "word": "fondling",
+        "hint": "A gentle touch that conveys affection; think of soft gestures."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

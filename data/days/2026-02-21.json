@@ -1,0 +1,225 @@
+{
+  "date": "2026-02-21",
+  "fetchedAt": "2026-05-10T20:25:24.109Z",
+  "connections": {
+    "puzzleId": 1067,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EXPERIENCE",
+        "words": [
+          "BACKGROUND",
+          "HISTORY",
+          "LIFE",
+          "PAST"
+        ]
+      },
+      {
+        "title": "ATTENDANCE STATUS",
+        "words": [
+          "ABSENT",
+          "EXCUSED",
+          "LATE",
+          "PRESENT"
+        ]
+      },
+      {
+        "title": "COMMENTARY ABOUT YOUR CONNECTIONS RESULTS",
+        "words": [
+          "GREAT",
+          "PERFECT",
+          "PHEW",
+          "SOLID"
+        ]
+      },
+      {
+        "title": "CAR BRANDS PLUS TWO LETTERS",
+        "words": [
+          "AUDITS",
+          "DODGERS",
+          "INFINITIVE",
+          "MINION"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Reflect on the tapestry of your journey; each thread tells a tale of who you are.",
+      "Consider the spectrum of presence; some are here, while others drift in and out.",
+      "Evaluate the echoes of your performance; some resonate with applause, others with relief.",
+      "Picture the sleek machines that glide on roads, with a twist of letters that adds a unique flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2531,
+    "editor": "Tracy Bennett",
+    "solution": "awake",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a state of being alert."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of the opposite of being asleep."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with the start of a new day."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 890,
+    "editor": "Tracy Bennett",
+    "clue": "The beer necessities",
+    "spangram": "HOMEBREW",
+    "themeWords": [
+      "BARLEY",
+      "FLAVOR",
+      "HOPS",
+      "MALT",
+      "SUGAR",
+      "WATER",
+      "WHEAT",
+      "YEAST"
+    ],
+    "startingBoard": [
+      "WAHEAS",
+      "TROTYT",
+      "ETMAEH",
+      "ALFEWG",
+      "MLBSUA",
+      "OVARER",
+      "RHEYRL",
+      "OPSWAB"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2636,
+    "sides": [
+      "AGR",
+      "TKF",
+      "HNO",
+      "YIE"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FEATHERY",
+      "YOKING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22461,
+    "centerLetter": "m",
+    "outerLetters": "acinot",
+    "pangrams": [
+      "amniotic",
+      "anatomic",
+      "contaminant",
+      "contamination",
+      "manicotti",
+      "monatomic"
+    ],
+    "answers": [
+      "amino",
+      "ammo",
+      "ammonia",
+      "amnio",
+      "anima",
+      "animation",
+      "atom",
+      "atomic",
+      "caiman",
+      "cami",
+      "camo",
+      "catmint",
+      "cinnamon",
+      "coma",
+      "comic",
+      "comma",
+      "commit",
+      "common",
+      "commotion",
+      "imam",
+      "imitation",
+      "intimation",
+      "maim",
+      "main",
+      "maintain",
+      "mama",
+      "mamma",
+      "mammon",
+      "mania",
+      "maniac",
+      "manic",
+      "manna",
+      "manta",
+      "mica",
+      "mimic",
+      "mini",
+      "minicam",
+      "minim",
+      "minima",
+      "minion",
+      "mint",
+      "mitt",
+      "moan",
+      "moat",
+      "momma",
+      "mono",
+      "monomania",
+      "monomaniac",
+      "moon",
+      "moot",
+      "motion",
+      "motto",
+      "nomination",
+      "noncom",
+      "omit",
+      "ottoman",
+      "tatami",
+      "tomato",
+      "tomcat",
+      "tomtit"
+    ],
+    "pangramHints": [
+      {
+        "word": "amniotic",
+        "hint": "A word related to fluid, often linked with life."
+      },
+      {
+        "word": "anatomic",
+        "hint": "Think of the structure that makes up living beings."
+      },
+      {
+        "word": "contaminant",
+        "hint": "A word that describes something unwanted in a pure state."
+      },
+      {
+        "word": "contamination",
+        "hint": "The process that leads to the presence of unwanted elements."
+      },
+      {
+        "word": "manicotti",
+        "hint": "A delicious pasta that can be stuffed and baked."
+      },
+      {
+        "word": "monatomic",
+        "hint": "Refers to a single atom, often in the context of noble gases."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

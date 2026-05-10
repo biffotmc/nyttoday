@@ -1,0 +1,169 @@
+{
+  "date": "2025-12-19",
+  "fetchedAt": "2026-05-10T20:21:16.222Z",
+  "connections": {
+    "puzzleId": 961,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FINDINGS",
+        "words": [
+          "DATA",
+          "DETAILS",
+          "INFORMATION",
+          "INTELLIGENCE"
+        ]
+      },
+      {
+        "title": "DINNER OPTIONS",
+        "words": [
+          "COOK",
+          "DELIVERY",
+          "GO OUT",
+          "LEFTOVERS"
+        ]
+      },
+      {
+        "title": "U.S. CABINET DEPARTMENTS",
+        "words": [
+          "COMMERCE",
+          "EDUCATION",
+          "ENERGY",
+          "LABOR"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF PLACES TO PARK A SHIP",
+        "words": [
+          "BIRTH",
+          "DOC",
+          "PEER",
+          "WORF"
+        ]
+      }
+    ],
+    "groupHints": [
+      "What you gather to make sense of the world, often stored in files and folders.",
+      "Choices for a meal that can range from homemade to takeout, with options galore.",
+      "Branches of the government that manage various aspects of American life and economy.",
+      "Words that sound the same as places where vessels rest, but lead you on a different course."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1839,
+    "editor": "Tracy Bennett",
+    "solution": "myrrh",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A fragrant gift from ancient times."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with royalty and rituals."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a resin, not a spice, and has ties to the nativity."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 823,
+    "editor": "Tracy Bennett",
+    "clue": "On the chopping block",
+    "spangram": "MAKINGTHECUT",
+    "themeWords": [
+      "CHIFFONADE",
+      "CUBE",
+      "DICE",
+      "JULIENNE",
+      "MINCE",
+      "SLICE"
+    ],
+    "startingBoard": [
+      "JULICU",
+      "ENNEEB",
+      "MAKING",
+      "ILCETH",
+      "CSHDCE",
+      "EMIAUT",
+      "IEFNID",
+      "NCFOEC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2570,
+    "sides": [
+      "OHD",
+      "MIE",
+      "YLW",
+      "RFA"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "WAIF",
+      "FORMALDEHYDE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20430,
+    "centerLetter": "v",
+    "outerLetters": "aeilpt",
+    "pangrams": [
+      "palliative"
+    ],
+    "answers": [
+      "alive",
+      "alleviate",
+      "appetitive",
+      "avail",
+      "aviate",
+      "eave",
+      "elevate",
+      "evil",
+      "lava",
+      "lave",
+      "leave",
+      "levee",
+      "level",
+      "levitate",
+      "live",
+      "pave",
+      "peeve",
+      "titivate",
+      "vale",
+      "valet",
+      "valve",
+      "vape",
+      "veal",
+      "veep",
+      "veil",
+      "velvet",
+      "vial",
+      "vile",
+      "villa",
+      "vital",
+      "vitiate"
+    ],
+    "pangramHints": [
+      {
+        "word": "palliative",
+        "hint": "A term often used in healthcare, hinting at comfort rather than cure."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "date": "2025-05-13",
+  "fetchedAt": "2026-05-10T20:06:23.793Z",
+  "connections": {
+    "puzzleId": 740,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PLACES TO SHOP",
+        "words": [
+          "BAZAAR",
+          "FAIR",
+          "MARKET",
+          "OUTLET"
+        ]
+      },
+      {
+        "title": "KINDS OF PIZZA",
+        "words": [
+          "HAWAIIAN",
+          "PLAIN",
+          "SUPREME",
+          "VEGGIE"
+        ]
+      },
+      {
+        "title": "ENDING WITH COLORS",
+        "words": [
+          "EVERGREEN",
+          "INFRARED",
+          "MARIGOLD",
+          "QUICKSILVER"
+        ]
+      },
+      {
+        "title": "___ CLEANER",
+        "words": [
+          "BATHROOM",
+          "DRY",
+          "PIPE",
+          "VACUUM"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A bustling hub where treasures await, but don't forget to haggle a bit.",
+      "A slice of paradise with toppings galore, but watch out for the controversial ones!",
+      "Colors that evoke nature's palette, some are vibrant while others shimmer in the night.",
+      "A tool for tidiness that comes in various forms, each designed for a specific mess."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1173,
+    "editor": "Tracy Bennett",
+    "solution": "aware",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's about perception and consciousness."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think about being mindful and alert."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word rhymes with 'care' but starts with a different sound."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 599,
+    "editor": "Tracy Bennett",
+    "clue": "Keep on keeping on",
+    "spangram": "STAYSTRONG",
+    "themeWords": [
+      "ABIDE",
+      "ENDURE",
+      "LAST",
+      "PERSEVERE",
+      "PERSIST",
+      "SURVIVE"
+    ],
+    "startingBoard": [
+      "REASSU",
+      "ULTIVR",
+      "DNEEVT",
+      "STAYSR",
+      "EPDGNO",
+      "RSIERE",
+      "EEABSP",
+      "REVIST"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2354,
+    "sides": [
+      "ORN",
+      "EDW",
+      "TLK",
+      "AMI"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "MEADOWLARK",
+      "KNIT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21278,
+    "centerLetter": "o",
+    "outerLetters": "acgilz",
+    "pangrams": [
+      "zoological"
+    ],
+    "answers": [
+      "agog",
+      "aioli",
+      "cacao",
+      "calico",
+      "callaloo",
+      "ciao",
+      "cloaca",
+      "clog",
+      "coal",
+      "coca",
+      "cocci",
+      "cocoa",
+      "coil",
+      "cola",
+      "colic",
+      "cool",
+      "gigolo",
+      "goal",
+      "googol",
+      "igloo",
+      "illogic",
+      "illogical",
+      "local",
+      "loci",
+      "loco",
+      "loggia",
+      "logic",
+      "logical",
+      "logo",
+      "loll",
+      "olio",
+      "zoologic"
+    ],
+    "pangramHints": [
+      {
+        "word": "zoological",
+        "hint": "A term that encompasses the study of animal life; think of the wild!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-30",
+  "fetchedAt": "2026-05-10T20:30:07.879Z",
+  "connections": {
+    "puzzleId": 1136,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "UNNERVE",
+        "words": [
+          "ALARM",
+          "DISTURB",
+          "SHAKE",
+          "SHOCK"
+        ]
+      },
+      {
+        "title": "REMOVE, AS AN ITEM FROM A LIST, WITH \"OFF\"",
+        "words": [
+          "CHECK",
+          "CROSS",
+          "MARK",
+          "TICK"
+        ]
+      },
+      {
+        "title": "WHAT \"T\" MIGHT STAND FOR",
+        "words": [
+          "TESLA",
+          "TIME",
+          "TRUE",
+          "TYRANNOSAURUS"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF POSSESSIVE ADJECTIVES",
+        "words": [
+          "HOUR",
+          "HUR",
+          "THERE",
+          "YORE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When tension rises, these words might just make your heart race. Can you feel the pulse?",
+      "To eliminate choices, these actions are essential. Check, cross, mark, or tick them off your list!",
+      "What could the letter 'T' symbolize? It might just be more than you think!",
+      "These words sound alike but belong to different realms. Listen closely to their subtle differences."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 667,
+    "editor": "Tracy Bennett",
+    "solution": "crock",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might find in a kitchen."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This object can be used for cooking or serving."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a container that can hold something, often used in culinary contexts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 961,
+    "editor": "Tracy Bennett",
+    "clue": "Wet blankets",
+    "spangram": "CONDENSATION",
+    "themeWords": [
+      "AEROSOL",
+      "DRIZZLE",
+      "HUMIDITY",
+      "MIST",
+      "STEAM",
+      "VAPOR"
+    ],
+    "startingBoard": [
+      "RONOEL",
+      "TPAIZI",
+      "SIVTZR",
+      "MOLADT",
+      "SENSIY",
+      "ODMDIM",
+      "RNOAUH",
+      "EACETS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2704,
+    "sides": [
+      "SGH",
+      "UOZ",
+      "PNL",
+      "IMJ"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JUMP",
+      "PHILOSOPHIZING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22905,
+    "centerLetter": "u",
+    "outerLetters": "cimnot",
+    "pangrams": [
+      "continuum"
+    ],
+    "answers": [
+      "coconut",
+      "communion",
+      "count",
+      "cumin",
+      "cutout",
+      "intuit",
+      "intuition",
+      "minimum",
+      "mount",
+      "munition",
+      "mutt",
+      "mutton",
+      "muumuu",
+      "nonunion",
+      "noun",
+      "nuncio",
+      "tout",
+      "tuition",
+      "tunic",
+      "tutti",
+      "tutu",
+      "uncommon",
+      "unction",
+      "uncut",
+      "union",
+      "unit",
+      "unmount",
+      "unto"
+    ],
+    "pangramHints": [
+      {
+        "word": "continuum",
+        "hint": "A seamless flow that connects everything; think of unbroken sequences."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

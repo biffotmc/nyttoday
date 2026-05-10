@@ -1,0 +1,175 @@
+{
+  "date": "2025-10-03",
+  "fetchedAt": "2026-05-10T20:16:15.660Z",
+  "connections": {
+    "puzzleId": 886,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BOUNDARY",
+        "words": [
+          "BORDER",
+          "EDGE",
+          "EXTREMITY",
+          "LIMIT"
+        ]
+      },
+      {
+        "title": "THEY MOVE IN A SPIRAL",
+        "words": [
+          "EDDY",
+          "FOOTBALL",
+          "TASMANIAN DEVIL",
+          "TORNADO"
+        ]
+      },
+      {
+        "title": "SONGS FROM MUSICALS",
+        "words": [
+          "CABARET",
+          "EDELWEISS",
+          "MAMMA MIA",
+          "MEMORY"
+        ]
+      },
+      {
+        "title": "WHAT \"ED\" MIGHT INDICATE",
+        "words": [
+          "EDITOR",
+          "EDUCATION",
+          "EDWARD",
+          "PAST TENSE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Where lines meet and definitions blur, think of the limits that keep us secure.",
+      "A whirlwind of chaos, a dance in the air, some things twist and turn without a care.",
+      "Melodies that tell stories, where dreams take flight, these tunes from the stage bring joy and delight.",
+      "A suffix that signals, a role or a time, what could it mean when endings rhyme?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1998,
+    "editor": "Tracy Bennett",
+    "solution": "spasm",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A sudden contraction, a quick twitch."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a muscle reaction or a brief spasm."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that captures a moment of involuntary movement."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 746,
+    "editor": "Tracy Bennett",
+    "clue": "Who's in charge?",
+    "spangram": "LEADERSHIP",
+    "themeWords": [
+      "BOSS",
+      "CHIEF",
+      "DIRECTOR",
+      "HEAD",
+      "MANAGER",
+      "SUPERVISOR"
+    ],
+    "startingBoard": [
+      "AMELSS",
+      "NAAFEO",
+      "GERDIB",
+      "EADEHS",
+      "OHRCIO",
+      "RTCSVR",
+      "DEPHRS",
+      "IRIEPU"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2495,
+    "sides": [
+      "VYQ",
+      "FIG",
+      "XLU",
+      "OTE"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "FOXGLOVE",
+      "EQUITY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22131,
+    "centerLetter": "n",
+    "outerLetters": "cdimou",
+    "pangrams": [
+      "condominium"
+    ],
+    "answers": [
+      "cocoon",
+      "codon",
+      "coin",
+      "common",
+      "communion",
+      "condo",
+      "condom",
+      "conic",
+      "cumin",
+      "dino",
+      "dominion",
+      "domino",
+      "dunno",
+      "icon",
+      "iconic",
+      "indium",
+      "ionic",
+      "mind",
+      "mini",
+      "minim",
+      "minimum",
+      "minion",
+      "mondo",
+      "mono",
+      "moon",
+      "mound",
+      "noncom",
+      "nonunion",
+      "noon",
+      "noun",
+      "nuncio",
+      "onion",
+      "udon",
+      "uncommon",
+      "undid",
+      "undo",
+      "union"
+    ],
+    "pangramHints": [
+      {
+        "word": "condominium",
+        "hint": "A multi-unit dwelling that sounds quite posh; remember, it's not just a single home."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "date": "2026-01-06",
+  "fetchedAt": "2026-05-10T20:22:32.078Z",
+  "connections": {
+    "puzzleId": 1003,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "APARTMENT",
+        "words": [
+          "DIGS",
+          "FLAT",
+          "PAD",
+          "QUARTERS"
+        ]
+      },
+      {
+        "title": "SONOROUS",
+        "words": [
+          "CLEAR",
+          "DEEP",
+          "FULL",
+          "RICH"
+        ]
+      },
+      {
+        "title": "POKER HANDS, FAMILIARLY",
+        "words": [
+          "BOAT",
+          "FLUSH",
+          "QUADS",
+          "STRAIGHT"
+        ]
+      },
+      {
+        "title": "___ ANIMAL",
+        "words": [
+          "BALLOON",
+          "PACK",
+          "PARTY",
+          "STUFFED"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Where you lay your head can be cozy or cramped; find the term that fits your style.",
+      "A sound that resonates deeply, but not all echoes are created equal.",
+      "In the game of chance, some combinations are worth more than others; what do you call a winning hand?",
+      "A creature that can be inflated or plush, often found in festive gatherings."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2397,
+    "editor": "Tracy Bennett",
+    "solution": "oomph",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's an expression of energy or enthusiasm."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a word that conveys a sense of impact or excitement."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word often describes a powerful presence or effect, but it's not just about volume."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 841,
+    "editor": "Tracy Bennett",
+    "clue": "Look up!",
+    "spangram": "DEFYINGGRAVITY",
+    "themeWords": [
+      "AIRPLANE",
+      "BALLOON",
+      "BIRD",
+      "DRONE",
+      "KITE",
+      "ROCKET"
+    ],
+    "startingBoard": [
+      "ONABRO",
+      "OLGGDN",
+      "LNEDRE",
+      "ITKBRA",
+      "YINAIV",
+      "FECKLI",
+      "EOEAPT",
+      "DRTIRY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2586,
+    "sides": [
+      "VLC",
+      "JKI",
+      "ERD",
+      "TOA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "OKRA",
+      "ADJECTIVAL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10000,
+    "centerLetter": "t",
+    "outerLetters": "abiorv",
+    "pangrams": [
+      "vibrato",
+      "vibrator"
+    ],
+    "answers": [
+      "abbot",
+      "abort",
+      "airboat",
+      "aorta",
+      "arbitrator",
+      "atria",
+      "attar",
+      "avatar",
+      "aviator",
+      "bait",
+      "biota",
+      "boat",
+      "boot",
+      "brat",
+      "iota",
+      "obit",
+      "orator",
+      "oratorio",
+      "orbit",
+      "rabbit",
+      "raita",
+      "ratatat",
+      "ratio",
+      "ribbit",
+      "riot",
+      "robot",
+      "root",
+      "rotator",
+      "roti",
+      "rotor",
+      "taboo",
+      "tabor",
+      "taro",
+      "tarot",
+      "tart",
+      "tartar",
+      "tattoo",
+      "tiara",
+      "tibia",
+      "toot",
+      "tori",
+      "torii",
+      "toro",
+      "tort",
+      "torta",
+      "trait",
+      "traitor",
+      "trattoria",
+      "trio",
+      "trivia",
+      "trot"
+    ],
+    "pangramHints": [
+      {
+        "word": "vibrato",
+        "hint": "A musical term that adds a little shake to the sound, but don't say it outright!"
+      },
+      {
+        "word": "vibrator",
+        "hint": "This device can create waves of sensation, but keep it discreet!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

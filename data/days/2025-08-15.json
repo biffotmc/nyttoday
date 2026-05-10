@@ -1,0 +1,186 @@
+{
+  "date": "2025-08-15",
+  "fetchedAt": "2026-05-10T20:12:39.703Z",
+  "connections": {
+    "puzzleId": 834,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "POULTRY CUTS",
+        "words": [
+          "BREAST",
+          "TENDER",
+          "THIGH",
+          "WING"
+        ]
+      },
+      {
+        "title": "HANDLE, AS A BILL",
+        "words": [
+          "FOOT",
+          "PAY",
+          "SETTLE",
+          "TAKE CARE OF"
+        ]
+      },
+      {
+        "title": "SPLENDID",
+        "words": [
+          "BRILLIANT",
+          "CAPITAL",
+          "FINE",
+          "GRAND"
+        ]
+      },
+      {
+        "title": "STARTS OF CULINARY NUTS",
+        "words": [
+          "CASH",
+          "HAZE",
+          "MAC",
+          "PEC"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Feathers and flavors take flight in this savory selection.",
+      "When it comes to settling up, these actions will keep you in good standing.",
+      "Radiance and grandeur define this collection of words.",
+      "The beginnings of these nutty delights are quite the treasure."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 986,
+    "editor": "Tracy Bennett",
+    "solution": "level",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A measure of quality."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with stages or ranks."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something that can be high or low."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 693,
+    "editor": "Tracy Bennett",
+    "clue": "Labor intensive",
+    "spangram": "WHATACHORE",
+    "themeWords": [
+      "DISHES",
+      "GARBAGE",
+      "GROCERIES",
+      "LAUNDRY",
+      "VACUUMING"
+    ],
+    "startingBoard": [
+      "NGWHLA",
+      "MITADU",
+      "CUAYRN",
+      "AUCDIH",
+      "BVHOSE",
+      "ARORCS",
+      "GARGRE",
+      "EGEIES"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2446,
+    "sides": [
+      "LOV",
+      "UYT",
+      "EQA",
+      "PIX"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUALITATIVE",
+      "EPOXY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20294,
+    "centerLetter": "n",
+    "outerLetters": "eloptu",
+    "pangrams": [
+      "opulent"
+    ],
+    "answers": [
+      "entente",
+      "lent",
+      "lento",
+      "lone",
+      "loon",
+      "lune",
+      "lunette",
+      "nene",
+      "neon",
+      "nettle",
+      "noel",
+      "none",
+      "nonet",
+      "noon",
+      "nope",
+      "note",
+      "noun",
+      "null",
+      "onto",
+      "open",
+      "opponent",
+      "peen",
+      "peloton",
+      "penne",
+      "pent",
+      "penult",
+      "peon",
+      "pollen",
+      "pone",
+      "pontoon",
+      "potent",
+      "punt",
+      "teen",
+      "tenet",
+      "tenon",
+      "tent",
+      "tentpole",
+      "tone",
+      "tonne",
+      "toon",
+      "tune",
+      "tuneup",
+      "tunnel",
+      "unlet",
+      "unopen",
+      "unpen",
+      "unto",
+      "untune",
+      "upon"
+    ],
+    "pangramHints": [
+      {
+        "word": "opulent",
+        "hint": "A lavish lifestyle, but don't reveal the name."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

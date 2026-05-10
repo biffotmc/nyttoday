@@ -1,0 +1,192 @@
+{
+  "date": "2026-03-07",
+  "fetchedAt": "2026-05-10T20:26:31.696Z",
+  "connections": {
+    "puzzleId": 1028,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "$1",
+        "words": [
+          "BUCK",
+          "DOLLAR",
+          "ONE",
+          "SINGLE"
+        ]
+      },
+      {
+        "title": "\"WHEREFORE ART THOU ROMEO?\"",
+        "words": [
+          "ART",
+          "ROMEO",
+          "THOU",
+          "WHEREFORE"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"CASTLE\"",
+        "words": [
+          "BOUNCY",
+          "NEW",
+          "SAND",
+          "WHITE"
+        ]
+      },
+      {
+        "title": "WHERE YOU MIGHT MAKE A CONNECTION",
+        "words": [
+          "AIRPORT",
+          "DATING APP",
+          "INTERNET CAFE",
+          null
+        ]
+      }
+    ],
+    "groupHints": [
+      "A quartet of currency, each one worth its weight in value.",
+      "A famous line from a star-crossed lover, pondering existence.",
+      "Four descriptors that could precede a grand structure.",
+      "A place where hearts and networks intertwine in the digital age."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1733,
+    "editor": "Tracy Bennett",
+    "solution": "vogue",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A term often associated with style."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a magazine that sets trends."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word rhymes with 'rogue' and relates to fashion."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 906,
+    "editor": "Tracy Bennett",
+    "clue": "Nice glasses!",
+    "spangram": "DRINKWARE",
+    "themeWords": [
+      "CHALICE",
+      "GOBLET",
+      "SNIFTER",
+      "STEIN",
+      "TANKARD",
+      "TUMBLER"
+    ],
+    "startingBoard": [
+      "TERTED",
+      "UMBALR",
+      "ELWBOA",
+      "RHCKGK",
+      "LANTAN",
+      "ICEIER",
+      "NIRSIT",
+      "ETSDNF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2648,
+    "sides": [
+      "OTI",
+      "HSC",
+      "YAR",
+      "PZM"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "MATZOH",
+      "HYPOCRISY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22627,
+    "centerLetter": "r",
+    "outerLetters": "bginow",
+    "pangrams": [
+      "borrowing",
+      "browning"
+    ],
+    "answers": [
+      "boor",
+      "boring",
+      "born",
+      "boron",
+      "borrow",
+      "bribing",
+      "brig",
+      "bring",
+      "bringing",
+      "brining",
+      "brio",
+      "brow",
+      "brown",
+      "gorging",
+      "gorgon",
+      "goring",
+      "grin",
+      "grinning",
+      "grog",
+      "groin",
+      "grow",
+      "growing",
+      "grown",
+      "ignoring",
+      "inborn",
+      "ingrown",
+      "iron",
+      "ironing",
+      "nigiri",
+      "noir",
+      "nori",
+      "origin",
+      "ribbing",
+      "ribbon",
+      "ribboning",
+      "rigging",
+      "rigor",
+      "ring",
+      "ringing",
+      "robbing",
+      "robin",
+      "robing",
+      "rowing",
+      "wiring",
+      "worn",
+      "wring",
+      "wringing",
+      "wrong",
+      "wronging"
+    ],
+    "pangramHints": [
+      {
+        "word": "borrowing",
+        "hint": "A term that implies taking with the intent to return."
+      },
+      {
+        "word": "browning",
+        "hint": "A process that can add flavor or color, often in cooking."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

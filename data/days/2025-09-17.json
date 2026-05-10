@@ -1,0 +1,192 @@
+{
+  "date": "2025-09-17",
+  "fetchedAt": "2026-05-10T20:15:16.233Z",
+  "connections": {
+    "puzzleId": 869,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "THEY'RE BLOWIN' IN THE WIND",
+        "words": [
+          "FLAG",
+          "PINWHEEL",
+          "VANE",
+          "WIND CHIME"
+        ]
+      },
+      {
+        "title": "CHANGE ONE’S TUNE",
+        "words": [
+          "ABOUT-FACE",
+          "BACKPEDAL",
+          "FLIP-FLOP",
+          "RENEGE"
+        ]
+      },
+      {
+        "title": "CRAM",
+        "words": [
+          "JAM",
+          "SHOEHORN",
+          "STUFF",
+          "WEDGE"
+        ]
+      },
+      {
+        "title": "LAST WORDS IN LONG-RUNNING CHILDREN’S SHOW TITLES",
+        "words": [
+          "KANGAROO",
+          "NEIGHBORHOOD",
+          "RAINBOW",
+          "STREET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the breeze, these items dance and sway, each with its own story to convey.",
+      "When the rhythm changes, so do the steps; a sudden shift in direction, what comes next?",
+      "Packed tight, these items find their place, making room where there seems to be no space.",
+      "In a world of make-believe, these creatures roam, their names echo in the hearts of children at home."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1598,
+    "editor": "Tracy Bennett",
+    "solution": "teeth",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that can bite and smile."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to a common feature of smiles."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with dental health and can be found in pairs."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 729,
+    "editor": "Tracy Bennett",
+    "clue": "We beg to differ",
+    "spangram": "OPPOSITESATTRACT",
+    "themeWords": [
+      "BOLD",
+      "FLEXIBLE",
+      "NOISY",
+      "QUIET",
+      "RIGID",
+      "TIMID"
+    ],
+    "startingBoard": [
+      "IDTTRA",
+      "GAELFC",
+      "ISXIBT",
+      "ROEDLE",
+      "BLTIMI",
+      "DQINOT",
+      "IUSYSI",
+      "ETOPPO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2479,
+    "sides": [
+      "ASN",
+      "OUT",
+      "CMI",
+      "QKR"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "KARMA",
+      "ACQUISITION"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24099,
+    "centerLetter": "n",
+    "outerLetters": "cilotu",
+    "pangrams": [
+      "linocut",
+      "locution"
+    ],
+    "answers": [
+      "clinic",
+      "coconut",
+      "cocoon",
+      "coin",
+      "colon",
+      "colonic",
+      "concoct",
+      "concoction",
+      "conic",
+      "cotillion",
+      "cotton",
+      "council",
+      "count",
+      "icon",
+      "iconic",
+      "into",
+      "intuit",
+      "intuition",
+      "ionic",
+      "lint",
+      "lion",
+      "loin",
+      "loon",
+      "lotion",
+      "nonillion",
+      "nonunion",
+      "noon",
+      "notion",
+      "noun",
+      "null",
+      "nuncio",
+      "octillion",
+      "onion",
+      "onto",
+      "tinct",
+      "tint",
+      "tonic",
+      "toon",
+      "tuition",
+      "tunic",
+      "uncoil",
+      "uncool",
+      "unction",
+      "uncut",
+      "union",
+      "unit",
+      "unlit",
+      "until",
+      "unto"
+    ],
+    "pangramHints": [
+      {
+        "word": "linocut",
+        "hint": "A printmaking technique that carves out a unique design; think of art and texture."
+      },
+      {
+        "word": "locution",
+        "hint": "A way of speaking that reflects style and regional flair; consider the nuances of language."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

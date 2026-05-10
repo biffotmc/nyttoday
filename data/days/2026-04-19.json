@@ -1,0 +1,209 @@
+{
+  "date": "2026-04-19",
+  "fetchedAt": "2026-05-10T20:29:25.272Z",
+  "connections": {
+    "puzzleId": 1122,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CHEEKY",
+        "words": [
+          "ARCH",
+          "FRESH",
+          "SASSY",
+          "WISE"
+        ]
+      },
+      {
+        "title": "DRESS MEASUREMENTS",
+        "words": [
+          "BUST",
+          "HIPS",
+          "LENGTH",
+          "WAIST"
+        ]
+      },
+      {
+        "title": "CARDS IN TEXAS HOLD 'EM",
+        "words": [
+          "FLOP",
+          "HOLE",
+          "RIVER",
+          "TURN"
+        ]
+      },
+      {
+        "title": "LAST WORDS OF CANDY BRANDS IN THE SINGULAR",
+        "words": [
+          "CAP",
+          "DUD",
+          "KID",
+          "MINT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A playful attitude is key; these words might just make you grin.",
+      "When it comes to fitting in, these measurements are essential.",
+      "In the game of chance, these terms will help you make your move.",
+      "The final touch from these sweet names leaves a lasting impression."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 4230,
+    "editor": "Tracy Bennett",
+    "solution": "stand",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you do when you are grounded."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a position that can be taken."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word suggests a firm position or a place to rest."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 952,
+    "editor": "Tracy Bennett",
+    "clue": "Small change",
+    "spangram": "THEREIFIXEDIT",
+    "themeWords": [
+      "ADJUST",
+      "ALTER",
+      "IMPROVE",
+      "MODIFY",
+      "REFINE",
+      "TWEAK"
+    ],
+    "startingBoard": [
+      "THEREI",
+      "ADFIDF",
+      "JUYEOI",
+      "STRTMX",
+      "VORLAE",
+      "TEPMID",
+      "WREENI",
+      "EAKFIT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2693,
+    "sides": [
+      "AFT",
+      "PER",
+      "MNY",
+      "BLO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FLAMBE",
+      "ENTROPY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21952,
+    "centerLetter": "m",
+    "outerLetters": "ailntu",
+    "pangrams": [
+      "illuminati",
+      "matutinal"
+    ],
+    "answers": [
+      "allium",
+      "alum",
+      "alumina",
+      "aluminum",
+      "alumna",
+      "alumni",
+      "anima",
+      "animal",
+      "autumn",
+      "autumnal",
+      "ilium",
+      "imam",
+      "lama",
+      "lamina",
+      "laminal",
+      "lima",
+      "liminal",
+      "limit",
+      "limn",
+      "llama",
+      "mail",
+      "mailman",
+      "maim",
+      "main",
+      "maintain",
+      "mall",
+      "malt",
+      "mama",
+      "mamma",
+      "mammal",
+      "mammalian",
+      "mania",
+      "manila",
+      "manna",
+      "manta",
+      "mantilla",
+      "manual",
+      "manumit",
+      "maul",
+      "militant",
+      "militia",
+      "militiaman",
+      "mill",
+      "mini",
+      "minim",
+      "minima",
+      "minimal",
+      "minimum",
+      "mint",
+      "minutia",
+      "mitt",
+      "mull",
+      "mutant",
+      "mutt",
+      "mutual",
+      "muumuu",
+      "tantalum",
+      "tatami",
+      "titanium",
+      "tumult",
+      "ultima",
+      "ultimata",
+      "ultimatum",
+      "umami",
+      "umlaut",
+      "unman"
+    ],
+    "pangramHints": [
+      {
+        "word": "illuminati",
+        "hint": "A secret society that sheds light on hidden truths."
+      },
+      {
+        "word": "matutinal",
+        "hint": "Relating to the early hours; think of morning rituals."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "date": "2025-08-25",
+  "fetchedAt": "2026-05-10T20:13:49.617Z",
+  "connections": {
+    "puzzleId": 846,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PREDICAMENT",
+        "words": [
+          "FIX",
+          "JAM",
+          "MESS",
+          "PICKLE"
+        ]
+      },
+      {
+        "title": "SMALL SPHERICAL THINGS",
+        "words": [
+          "MOTHBALL",
+          "PEA",
+          "PEARL",
+          "POM-POM"
+        ]
+      },
+      {
+        "title": "PIPE-SMOKING ACCESSORIES",
+        "words": [
+          "FILTER",
+          "LIGHTER",
+          "PIPE CLEANER",
+          "TAMPER"
+        ]
+      },
+      {
+        "title": "WHAT \"DOWN\" MIGHT MEAN",
+        "words": [
+          "FEATHERS",
+          "GUZZLE",
+          "SAD",
+          "WILLING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When life gives you these, you might find yourself in a sticky situation.",
+      "Tiny treasures that often hide in corners or float through the air.",
+      "Essential tools for a relaxing pastime, ensuring your enjoyment is lit.",
+      "A mix of emotions and actions that can lead to unexpected outcomes."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2051,
+    "editor": "Tracy Bennett",
+    "solution": "mirth",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a feeling often associated with joy."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of laughter and happiness."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a state of light-heartedness."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 709,
+    "editor": "Tracy Bennett",
+    "clue": "Back to school",
+    "spangram": "SUPPLIES",
+    "themeWords": [
+      "BACKPACK",
+      "CALCULATOR",
+      "FOLDERS",
+      "LAPTOP",
+      "NOTEBOOKS"
+    ],
+    "startingBoard": [
+      "PATAUC",
+      "KCCOLL",
+      "ABKRAC",
+      "EILPPU",
+      "SONOFS",
+      "TSLDPL",
+      "EREOTA",
+      "BOOKSP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2456,
+    "sides": [
+      "MTL",
+      "HIN",
+      "POF",
+      "ARG"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FRONTAL",
+      "LAMPLIGHT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24066,
+    "centerLetter": "t",
+    "outerLetters": "aghlou",
+    "pangrams": [
+      "although"
+    ],
+    "answers": [
+      "allot",
+      "alto",
+      "atoll",
+      "aught",
+      "auto",
+      "galoot",
+      "gloat",
+      "glottal",
+      "glut",
+      "goat",
+      "goth",
+      "gotta",
+      "gout",
+      "halt",
+      "hath",
+      "hatha",
+      "holt",
+      "hoot",
+      "lath",
+      "loath",
+      "loot",
+      "lotto",
+      "lout",
+      "oath",
+      "ought",
+      "outgo",
+      "outthought",
+      "tall",
+      "tattoo",
+      "taught",
+      "taut",
+      "that",
+      "thou",
+      "though",
+      "thought",
+      "thug",
+      "toga",
+      "toll",
+      "tool",
+      "toot",
+      "tooth",
+      "total",
+      "tough",
+      "tout",
+      "tutu"
+    ],
+    "pangramHints": [
+      {
+        "word": "although",
+        "hint": "A word that introduces contrast, often seen in arguments."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

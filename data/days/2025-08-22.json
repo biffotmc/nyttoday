@@ -1,0 +1,171 @@
+{
+  "date": "2025-08-22",
+  "fetchedAt": "2026-05-10T20:13:37.143Z",
+  "connections": {
+    "puzzleId": 843,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "U.S. PRESIDENTS",
+        "words": [
+          "ADAMS",
+          "FORD",
+          "GRANT",
+          "WASHINGTON"
+        ]
+      },
+      {
+        "title": "ACTORS WHOSE LAST NAMES ARE ALSO VERBS",
+        "words": [
+          "CHEVY CHASE",
+          "CHRISTOPH WALTZ",
+          "GEOFFREY RUSH",
+          "TOM CRUISE"
+        ]
+      },
+      {
+        "title": "KINDS OF POKER",
+        "words": [
+          "DRAW",
+          "OMAHA",
+          "STRIP",
+          "STUD"
+        ]
+      },
+      {
+        "title": "PROPER NOUNS AFTER WORDS ENDING IN \"ING\" IN '90S MOVIE TITLES",
+        "words": [
+          "AMY",
+          "JOHN MALKOVICH",
+          "LAS VEGAS",
+          "PRIVATE RYAN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A quartet of leaders who shaped a nation, each leaving their mark in history's book.",
+      "Famous faces who also take action, their names echoing in both film and function.",
+      "A game of chance with various styles, where luck and strategy can bring smiles.",
+      "Titles that follow a trend, where stories unfold and characters blend."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2185,
+    "editor": "Tracy Bennett",
+    "solution": "ratty",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that might describe a shabby appearance."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can relate to a worn-out look, often used in casual contexts."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term that might evoke images of old clothing or a messy room."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 705,
+    "editor": "Tracy Bennett",
+    "clue": "Whodunit?",
+    "spangram": "ITSAMYSTERY",
+    "themeWords": [
+      "DETECTIVE",
+      "HEIR",
+      "LOVER",
+      "RIVAL",
+      "SPOUSE",
+      "STRANGER"
+    ],
+    "startingBoard": [
+      "IRESTE",
+      "ETGNRV",
+      "SRSAIT",
+      "SUIATC",
+      "POEMEE",
+      "ERHYVD",
+      "VOLSIA",
+      "YRETRL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2453,
+    "sides": [
+      "EIR",
+      "OUY",
+      "NHW",
+      "TMC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "CUMIN",
+      "NOTEWORTHY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22355,
+    "centerLetter": "c",
+    "outerLetters": "fimnor",
+    "pangrams": [
+      "confirm"
+    ],
+    "answers": [
+      "cirri",
+      "cocci",
+      "cocoon",
+      "coffin",
+      "coif",
+      "coin",
+      "coir",
+      "comic",
+      "common",
+      "conform",
+      "conic",
+      "corn",
+      "croc",
+      "croci",
+      "croon",
+      "foci",
+      "formic",
+      "icon",
+      "iconic",
+      "ionic",
+      "ironic",
+      "micro",
+      "microform",
+      "micromini",
+      "micron",
+      "mimic",
+      "morocco",
+      "moronic",
+      "noncom",
+      "omicron",
+      "ricin",
+      "rococo",
+      "romcom"
+    ],
+    "pangramHints": [
+      {
+        "word": "confirm",
+        "hint": "A declaration of agreement, often used in discussions."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

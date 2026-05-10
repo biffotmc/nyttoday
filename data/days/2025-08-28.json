@@ -1,0 +1,197 @@
+{
+  "date": "2025-08-28",
+  "fetchedAt": "2026-05-10T20:13:59.219Z",
+  "connections": {
+    "puzzleId": 851,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PLACES TO GET TRAPPED",
+        "words": [
+          "NET",
+          "SNARE",
+          "TANGLE",
+          "WEB"
+        ]
+      },
+      {
+        "title": "USED FOR TEA",
+        "words": [
+          "CUP",
+          "KETTLE",
+          "TEABAG",
+          "WATER"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH HARDNESS",
+        "words": [
+          "DIAMOND",
+          "NAILS",
+          "ROCK",
+          "STEEL"
+        ]
+      },
+      {
+        "title": "ENDING WITH KEYBOARD KEYS",
+        "words": [
+          "CANTAB",
+          "CYBERSPACE",
+          "ICECAPS",
+          "MAKESHIFT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a web of entrapment, one may find themselves ensnared, tangled in the threads of fate.",
+      "A warm embrace for your favorite brew, this vessel holds the essence of comfort.",
+      "Forged from the earth's might, these elements stand resilient against time and pressure.",
+      "These terms might just unlock a digital realm, where the end is as important as the beginning."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1838,
+    "editor": "Tracy Bennett",
+    "solution": "split",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of dividing something into parts."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to sever or separate."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a common action in cooking or crafting, often with a tool."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 711,
+    "editor": "Tracy Bennett",
+    "clue": "Do go on ...",
+    "spangram": "CHATTERBOX",
+    "themeWords": [
+      "GABBY",
+      "LOQUACIOUS",
+      "TALKATIVE",
+      "VERBOSE",
+      "VOLUBLE"
+    ],
+    "startingBoard": [
+      "TAEVTS",
+      "SOLIAU",
+      "ERBKOI",
+      "VEQUAC",
+      "HCOLXO",
+      "ATTERB",
+      "LUEBYG",
+      "VOBLBA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2459,
+    "sides": [
+      "EAI",
+      "RLF",
+      "OMY",
+      "WVD"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WAVEFORM",
+      "MILDLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26568,
+    "centerLetter": "c",
+    "outerLetters": "aenotv",
+    "pangrams": [
+      "covenant"
+    ],
+    "answers": [
+      "accent",
+      "acetate",
+      "acetone",
+      "acne",
+      "avocet",
+      "cacao",
+      "cancan",
+      "cane",
+      "canna",
+      "cannon",
+      "cannot",
+      "canoe",
+      "canon",
+      "cant",
+      "cantata",
+      "canteen",
+      "canton",
+      "cava",
+      "cave",
+      "caveat",
+      "cent",
+      "cetacean",
+      "coat",
+      "coca",
+      "cocoa",
+      "cocoon",
+      "concatenate",
+      "concave",
+      "concoct",
+      "cone",
+      "connect",
+      "connote",
+      "contact",
+      "content",
+      "convect",
+      "convene",
+      "convent",
+      "coot",
+      "cote",
+      "cotenant",
+      "cotton",
+      "cove",
+      "coven",
+      "covet",
+      "ecotone",
+      "enact",
+      "neocon",
+      "nonce",
+      "ocean",
+      "octane",
+      "octant",
+      "octave",
+      "octet",
+      "once",
+      "tacet",
+      "taco",
+      "tact",
+      "toccata",
+      "vacant",
+      "vacate"
+    ],
+    "pangramHints": [
+      {
+        "word": "covenant",
+        "hint": "A promise or agreement, often binding in nature."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

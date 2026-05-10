@@ -1,0 +1,159 @@
+{
+  "date": "2025-10-27",
+  "fetchedAt": "2026-05-10T20:17:45.778Z",
+  "connections": {
+    "puzzleId": 920,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EMANATE",
+        "words": [
+          "BRANCH",
+          "FAN",
+          "RADIATE",
+          "SPREAD"
+        ]
+      },
+      {
+        "title": "IN THE SLIGHTEST",
+        "words": [
+          "JUST",
+          "MERELY",
+          "ONLY",
+          "SIMPLY"
+        ]
+      },
+      {
+        "title": "COCKTAIL GARNISHES",
+        "words": [
+          "CHERRY",
+          "MINT",
+          "OLIVE",
+          "TWIST"
+        ]
+      },
+      {
+        "title": "___ FOUR",
+        "words": [
+          "CONNECT",
+          "FAB",
+          "FANTASTIC",
+          "PETIT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words all share a common theme of dispersal, whether it's a branch reaching out or something spreading through the air.",
+      "Think of expressions that convey minimalism, where less is more, and every word counts.",
+      "These delightful additions can elevate your drink, adding a burst of flavor or a touch of elegance.",
+      "This phrase suggests something small yet significant, often used to describe something that stands out."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 795,
+    "editor": "Tracy Bennett",
+    "solution": "fetid",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Something unpleasant, often associated with decay."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a five-letter word that describes a foul smell."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that might describe a stinky situation, often used in a negative context."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 771,
+    "editor": "Tracy Bennett",
+    "clue": "Witch way?",
+    "spangram": "WIZARDRY",
+    "themeWords": [
+      "AMULET",
+      "CAULDRON",
+      "CHARM",
+      "INCANTATION",
+      "POTION",
+      "WAND"
+    ],
+    "startingBoard": [
+      "TIWDNA",
+      "POOICW",
+      "UNZMRH",
+      "MLEANA",
+      "ATROIT",
+      "LUCDNA",
+      "DARICT",
+      "RONYAN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2524,
+    "sides": [
+      "YUI",
+      "DOA",
+      "NBC",
+      "TMS"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "SYNDICATION",
+      "NUMB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22142,
+    "centerLetter": "d",
+    "outerLetters": "ailnuv",
+    "pangrams": [
+      "individual"
+    ],
+    "answers": [
+      "avid",
+      "dial",
+      "dill",
+      "diva",
+      "divan",
+      "dual",
+      "dull",
+      "inlaid",
+      "inland",
+      "invalid",
+      "laid",
+      "land",
+      "laud",
+      "livid",
+      "nada",
+      "naiad",
+      "undid",
+      "unlaid",
+      "valid",
+      "vandal",
+      "vivid"
+    ],
+    "pangramHints": [
+      {
+        "word": "individual",
+        "hint": "A term that emphasizes uniqueness, often used to describe a single entity."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

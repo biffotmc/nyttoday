@@ -1,0 +1,202 @@
+{
+  "date": "2025-05-20",
+  "fetchedAt": "2026-05-10T20:06:52.408Z",
+  "connections": {
+    "puzzleId": 747,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ACCOUNT BOOK",
+        "words": [
+          "LEDGER",
+          "LOG",
+          "RECORD",
+          "REGISTER"
+        ]
+      },
+      {
+        "title": "SEEN IN A BARN",
+        "words": [
+          "BALE",
+          "HORSE",
+          "PITCHFORK",
+          "TROUGH"
+        ]
+      },
+      {
+        "title": "DETECTIVES OF KID-LIT",
+        "words": [
+          "BROWN",
+          "DREW",
+          "HARDY",
+          "HOLMES"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE “BED”",
+        "words": [
+          "CANOPY",
+          "DAY",
+          "MURPHY",
+          "WATER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the world of finances, this collection keeps track of every penny, but beware of the red ink!",
+      "In the rustic charm of a barn, you'll find these items essential for farm life, each with its own purpose.",
+      "These literary sleuths have cracked many a case, each with a unique flair for mystery and adventure.",
+      "Before drifting off to sleep, these words set the stage for dreams, each one a cozy invitation."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2005,
+    "editor": "Tracy Bennett",
+    "solution": "borne",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that can be carried or endured."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s related to the past, often tied to experiences."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also imply a sense of responsibility or obligation."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 610,
+    "editor": "Tracy Bennett",
+    "clue": "Oh, of course!",
+    "spangram": "FINEDINING",
+    "themeWords": [
+      "APPETIZERS",
+      "CHEESE",
+      "DESSERT",
+      "ENTREE",
+      "SALAD",
+      "SOUP"
+    ],
+    "startingBoard": [
+      "SLDZER",
+      "AAIPPS",
+      "FITEAG",
+      "SNEDIN",
+      "SESNIE",
+      "EDUOEN",
+      "RTEPET",
+      "ESEHCR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2359,
+    "sides": [
+      "XIG",
+      "TVC",
+      "UNA",
+      "RJE"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JIVE",
+      "EXCRUCIATING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27300,
+    "centerLetter": "y",
+    "outerLetters": "ailnot",
+    "pangrams": [
+      "atonality",
+      "nationality",
+      "nationally",
+      "notionality",
+      "notionally",
+      "tonality"
+    ],
+    "answers": [
+      "allay",
+      "alloy",
+      "ally",
+      "anally",
+      "annoy",
+      "atonally",
+      "illy",
+      "inanity",
+      "initially",
+      "inlay",
+      "itty",
+      "laity",
+      "lily",
+      "linty",
+      "litany",
+      "loony",
+      "loyal",
+      "loyally",
+      "loyalty",
+      "nanny",
+      "natality",
+      "nattily",
+      "natty",
+      "ninny",
+      "nylon",
+      "oaty",
+      "oily",
+      "oniony",
+      "onlay",
+      "only",
+      "tally",
+      "tatty",
+      "tinily",
+      "tinny",
+      "tiny",
+      "tonally",
+      "tony",
+      "totality",
+      "totally"
+    ],
+    "pangramHints": [
+      {
+        "word": "atonality",
+        "hint": "A musical term that lacks a tonal center; think avant-garde."
+      },
+      {
+        "word": "nationality",
+        "hint": "This word defines your belonging to a particular nation."
+      },
+      {
+        "word": "nationally",
+        "hint": "An adverb that speaks to actions or perspectives on a national scale."
+      },
+      {
+        "word": "notionality",
+        "hint": "A term that refers to the quality of being conceptual or hypothetical."
+      },
+      {
+        "word": "notionally",
+        "hint": "This adverb suggests a conceptual understanding rather than a literal one."
+      },
+      {
+        "word": "tonality",
+        "hint": "A musical term that refers to the organization of pitches in a piece."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

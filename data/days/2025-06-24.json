@@ -1,0 +1,186 @@
+{
+  "date": "2025-06-24",
+  "fetchedAt": "2026-05-10T20:10:31.350Z",
+  "connections": {
+    "puzzleId": 783,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STRICT",
+        "words": [
+          "FIRM",
+          "RIGID",
+          "STERN",
+          "TOUGH"
+        ]
+      },
+      {
+        "title": "BOTANICAL COVERINGS",
+        "words": [
+          "HULL",
+          "HUSK",
+          "POD",
+          "SHELL"
+        ]
+      },
+      {
+        "title": "SEEN IN OPENING CREDITS",
+        "words": [
+          "CAST",
+          "DIRECTOR",
+          "STUDIO",
+          "TITLE"
+        ]
+      },
+      {
+        "title": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
+        "words": [
+          "LINE",
+          "PLANE",
+          "POINT",
+          "SOLID"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words all embody a sense of unyielding strength, where flexibility is not an option.",
+      "Nature's protective layers come in various forms, each guarding what lies within.",
+      "Think of the names that roll across the screen, setting the stage for the stories to unfold.",
+      "From the simplest line to the most complex solid, these terms represent different dimensions of existence."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 658,
+    "editor": "Tracy Bennett",
+    "solution": "elite",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word often describes someone or something of high quality."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a term that signifies a top-tier status or excellence."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with a vowel and is often used in contexts of distinction or superiority."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 642,
+    "editor": "Tracy Bennett",
+    "clue": "Healthful helpers",
+    "spangram": "SUPPLEMENTS",
+    "themeWords": [
+      "CALCIUM",
+      "FLAXSEED",
+      "MAGNESIUM",
+      "PROBIOTIC",
+      "ZINC"
+    ],
+    "startingBoard": [
+      "LFUSLC",
+      "XAPCAI",
+      "ESPLUM",
+      "EDCECN",
+      "TIEMZI",
+      "IONMIS",
+      "BOTAUE",
+      "RPSMGN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2394,
+    "sides": [
+      "AIU",
+      "XPO",
+      "ESR",
+      "VMT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "IMPROV",
+      "VEXATIOUS"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16829,
+    "centerLetter": "a",
+    "outerLetters": "ceiptv",
+    "pangrams": [
+      "captivate",
+      "captive"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "accept",
+      "acetate",
+      "acetic",
+      "activate",
+      "active",
+      "apace",
+      "apiece",
+      "appetite",
+      "appetitive",
+      "attic",
+      "aviate",
+      "cacti",
+      "cape",
+      "cava",
+      "cave",
+      "caveat",
+      "eave",
+      "ipecac",
+      "pace",
+      "pact",
+      "papa",
+      "pate",
+      "pave",
+      "peace",
+      "peat",
+      "pepita",
+      "pica",
+      "piccata",
+      "pita",
+      "pitapat",
+      "tacet",
+      "tacit",
+      "tact",
+      "tactic",
+      "tapa",
+      "tape",
+      "teat",
+      "titivate",
+      "vacate",
+      "vape",
+      "vitiate",
+      "vivace"
+    ],
+    "pangramHints": [
+      {
+        "word": "captivate",
+        "hint": "To hold someone’s attention completely, often with charm or beauty."
+      },
+      {
+        "word": "captive",
+        "hint": "Describes someone held in confinement, often against their will."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

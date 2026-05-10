@@ -1,0 +1,197 @@
+{
+  "date": "2025-12-10",
+  "fetchedAt": "2026-05-10T20:20:40.866Z",
+  "connections": {
+    "puzzleId": 965,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "\"MY GOODNESS!\"",
+        "words": [
+          "DEAR",
+          "GRACIOUS",
+          "HEAVENS",
+          "MERCY"
+        ]
+      },
+      {
+        "title": "IMITATION",
+        "words": [
+          "COPY",
+          "DUMMY",
+          "DUPE",
+          "FAKE"
+        ]
+      },
+      {
+        "title": "CONFECTION",
+        "words": [
+          "CANDY",
+          "LOLLY",
+          "SUCKER",
+          "SWEET"
+        ]
+      },
+      {
+        "title": "WHAT \"Y\" MIGHT MEAN",
+        "words": [
+          "WHY",
+          "YEAR",
+          "YELLOW",
+          "YES"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A polite exclamation when one is taken aback, often followed by a gasp.",
+      "A shadow of the original; a mere reflection of something true.",
+      "A sugary delight that brings joy, often found in colorful wrappers.",
+      "A letter that poses a question, or a hue that brightens the day."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1497,
+    "editor": "Tracy Bennett",
+    "solution": "erase",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you do to a mistake."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a clean slate."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This action can help you start fresh."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 812,
+    "editor": "Tracy Bennett",
+    "clue": "A Nobel effort",
+    "spangram": "LAUREATES",
+    "themeWords": [
+      "CHEMISTRY",
+      "LITERATURE",
+      "MEDICINE",
+      "PEACE",
+      "PHYSICS"
+    ],
+    "startingBoard": [
+      "RYLDIC",
+      "STAEEI",
+      "EIUMHN",
+      "HMRSYP",
+      "TCEACS",
+      "UARTIE",
+      "RELEAP",
+      "ETISEC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2562,
+    "sides": [
+      "AEI",
+      "NMP",
+      "YLO",
+      "HFC"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "MALEFIC",
+      "CACOPHONY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19136,
+    "centerLetter": "g",
+    "outerLetters": "aeilty",
+    "pangrams": [
+      "illegality",
+      "legality"
+    ],
+    "answers": [
+      "agate",
+      "agile",
+      "agilely",
+      "agility",
+      "agita",
+      "agitate",
+      "aglet",
+      "alga",
+      "algae",
+      "algal",
+      "allege",
+      "eagle",
+      "eaglet",
+      "eggy",
+      "elegy",
+      "gaga",
+      "gage",
+      "gaggle",
+      "gaiety",
+      "gaily",
+      "gait",
+      "gala",
+      "gale",
+      "galette",
+      "gall",
+      "galley",
+      "gate",
+      "gayety",
+      "gayly",
+      "gelati",
+      "gelee",
+      "gelt",
+      "giggle",
+      "giggly",
+      "gill",
+      "gilt",
+      "glee",
+      "glia",
+      "illegal",
+      "illegally",
+      "laggy",
+      "lallygag",
+      "legal",
+      "legally",
+      "legate",
+      "legatee",
+      "leggy",
+      "legit",
+      "liege",
+      "ligate",
+      "litigate",
+      "tagliatelle",
+      "taiga",
+      "tailgate",
+      "tillage"
+    ],
+    "pangramHints": [
+      {
+        "word": "illegality",
+        "hint": "A state of being against the law, but with a twist."
+      },
+      {
+        "word": "legality",
+        "hint": "The quality of being lawful; think of rules and order."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

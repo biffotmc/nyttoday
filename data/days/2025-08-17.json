@@ -1,0 +1,199 @@
+{
+  "date": "2025-08-17",
+  "fetchedAt": "2026-05-10T20:12:46.692Z",
+  "connections": {
+    "puzzleId": 838,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CONVENIENTLY LOCATED",
+        "words": [
+          "ACCESSIBLE",
+          "CLOSE",
+          "HANDY",
+          "NEARBY"
+        ]
+      },
+      {
+        "title": "NEEDS FOR SENDING A LETTER",
+        "words": [
+          "ADDRESS",
+          "ENVELOPE",
+          "NAME",
+          "STAMP"
+        ]
+      },
+      {
+        "title": "WORDS ON A DOOR",
+        "words": [
+          "EXIT",
+          "OPEN",
+          "PUSH",
+          "WELCOME"
+        ]
+      },
+      {
+        "title": "FIRST AMENDMENT FREEDOMS",
+        "words": [
+          "ASSEMBLY",
+          "PETITION",
+          "PRESS",
+          "SPEECH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of ease, these words are your allies, bringing you closer to what you seek.",
+      "To send your thoughts afar, gather these essentials, each a piece of the postal puzzle.",
+      "These terms greet you at the threshold, inviting you in or guiding you out.",
+      "In the spirit of expression, these rights empower voices to be heard and ideas to flourish."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1640,
+    "editor": "Tracy Bennett",
+    "solution": "lousy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's not the best, but it certainly exists."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with disappointment or mediocrity."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that describes something less than satisfactory."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 699,
+    "editor": "Tracy Bennett",
+    "clue": "Think again!",
+    "spangram": "RIGHTBRAIN",
+    "themeWords": [
+      "CREATIVITY",
+      "FEELINGS",
+      "INTUITION",
+      "SPONTANEITY"
+    ],
+    "startingBoard": [
+      "ITNTIN",
+      "NUOAVI",
+      "IIEISA",
+      "NTRTGR",
+      "AECYNB",
+      "TYIFIT",
+      "NTEELH",
+      "OPSRIG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2448,
+    "sides": [
+      "HKG",
+      "TBN",
+      "AUO",
+      "IML"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "THINGAMABOB",
+      "BULK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17432,
+    "centerLetter": "c",
+    "outerLetters": "abdeit",
+    "pangrams": [
+      "abdicate",
+      "abdicated",
+      "diabetic"
+    ],
+    "answers": [
+      "abaci",
+      "acacia",
+      "acai",
+      "accede",
+      "acceded",
+      "aced",
+      "acetate",
+      "acetic",
+      "acid",
+      "acidic",
+      "acted",
+      "addict",
+      "addicted",
+      "attic",
+      "cabbed",
+      "cabbie",
+      "cacti",
+      "caddie",
+      "caddied",
+      "cadet",
+      "cede",
+      "ceded",
+      "ciabatta",
+      "cicada",
+      "cite",
+      "cited",
+      "decade",
+      "deceit",
+      "decide",
+      "decided",
+      "dedicate",
+      "dedicated",
+      "dedicatee",
+      "deice",
+      "deiced",
+      "deicide",
+      "detect",
+      "detected",
+      "dice",
+      "diced",
+      "dicta",
+      "dictate",
+      "dictated",
+      "didact",
+      "didactic",
+      "dietetic",
+      "edict",
+      "eidetic",
+      "iced",
+      "tacet",
+      "tacit",
+      "tact",
+      "tactic"
+    ],
+    "pangramHints": [
+      {
+        "word": "abdicate",
+        "hint": "A regal retreat, stepping down from the throne."
+      },
+      {
+        "word": "abdicated",
+        "hint": "The past tense of a royal resignation."
+      },
+      {
+        "word": "diabetic",
+        "hint": "A condition that requires careful balancing of sweet and health."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

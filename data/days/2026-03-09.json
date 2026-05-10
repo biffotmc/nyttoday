@@ -1,0 +1,168 @@
+{
+  "date": "2026-03-09",
+  "fetchedAt": "2026-05-10T20:26:40.447Z",
+  "connections": {
+    "puzzleId": 1077,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STARTING WITH THE SAME SOUND, SPELLED DIFFERENTLY",
+        "words": [
+          "WAREHOUSE",
+          "WEARABLE",
+          "WEREWOLF",
+          "WHEREFORE"
+        ]
+      },
+      {
+        "title": "METAPHORS FOR PUBLIC SCRUTINY",
+        "words": [
+          "FISHBOWL",
+          "HOT SEAT",
+          "MICROSCOPE",
+          "SPOTLIGHT"
+        ]
+      },
+      {
+        "title": "MUPPETS",
+        "words": [
+          "ANIMAL",
+          "BEAKER",
+          "FOZZIE",
+          "GONZO"
+        ]
+      },
+      {
+        "title": "THEY FEATURE A BOSS",
+        "words": [
+          "COMPANY",
+          "E STREET BAND",
+          "MAFIA",
+          "VIDEO GAME"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words may sound alike, but their paths diverge in spelling. Can you hear the difference?",
+      "When the spotlight shines, the world watches closely. What do you see through the glass?",
+      "These characters bring laughter and joy, each with their own quirky charm. Who's your favorite?",
+      "In these realms, authority reigns supreme. What do you call the entities that lead the charge?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2293,
+    "editor": "Tracy Bennett",
+    "solution": "hasty",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's quick and can describe a decision."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something done in a rush."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can imply urgency, often associated with choices."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 912,
+    "editor": "Tracy Bennett",
+    "clue": "Cute enough to eat",
+    "spangram": "ENDEARMENTS",
+    "themeWords": [
+      "BEAN",
+      "DUMPLING",
+      "MUFFIN",
+      "NUGGET",
+      "PEANUT",
+      "PUMPKIN"
+    ],
+    "startingBoard": [
+      "PUINNA",
+      "EMKTBE",
+      "FNPENU",
+      "FUDGGM",
+      "IMEARE",
+      "NILUTN",
+      "NDPNPT",
+      "GUMAES"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2655,
+    "sides": [
+      "MLI",
+      "UOB",
+      "REP",
+      "ATV"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "OVIRAPTOR",
+      "RUMBLE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25660,
+    "centerLetter": "b",
+    "outerLetters": "adiluy",
+    "pangrams": [
+      "audibly"
+    ],
+    "answers": [
+      "ably",
+      "alibi",
+      "baba",
+      "baby",
+      "badly",
+      "bail",
+      "bald",
+      "baldly",
+      "ball",
+      "ballad",
+      "baud",
+      "bialy",
+      "biddy",
+      "bilabial",
+      "bill",
+      "billy",
+      "blab",
+      "blabby",
+      "bubba",
+      "bubbly",
+      "buddy",
+      "build",
+      "bulb",
+      "bull",
+      "bully",
+      "daub",
+      "labia",
+      "labial",
+      "laudably",
+      "lullaby"
+    ],
+    "pangramHints": [
+      {
+        "word": "audibly",
+        "hint": "A way to convey sound, but don't let the word escape your lips!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

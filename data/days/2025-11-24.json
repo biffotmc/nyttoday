@@ -1,0 +1,181 @@
+{
+  "date": "2025-11-24",
+  "fetchedAt": "2026-05-10T20:19:41.683Z",
+  "connections": {
+    "puzzleId": 924,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SMALL KITCHEN APPLIANCES",
+        "words": [
+          "BLENDER",
+          "MICROWAVE",
+          "RICE COOKER",
+          "TOASTER"
+        ]
+      },
+      {
+        "title": "FEATURES OF A CAR'S CENTER CONSOLE",
+        "words": [
+          "AIR CONDITIONER",
+          "CUP HOLDER",
+          "RADIO",
+          "SHIFTER"
+        ]
+      },
+      {
+        "title": "SEEN WHILE GOING THROUGH AIRPORT SECURITY",
+        "words": [
+          "BIN",
+          "CARRY-ON",
+          "METAL DETECTOR",
+          "X-RAY"
+        ]
+      },
+      {
+        "title": "ENDING IN COLORS",
+        "words": [
+          "INFRARED",
+          "MARIGOLD",
+          "STINGRAY",
+          "ULTRAVIOLET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These little helpers make cooking a breeze, blending and toasting with ease.",
+      "Inside the cockpit of comfort, these features keep you cool and your drinks close.",
+      "Security checks can be a hassle, but these items help you breeze through the hassle.",
+      "Colors that dance beyond the visible spectrum, some are vibrant, others subtle and rare."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 943,
+    "editor": "Tracy Bennett",
+    "solution": "dough",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that rises and can be sweet."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "A common ingredient in pastries, often associated with baking."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word relates to a doughy texture, often used in desserts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 799,
+    "editor": "Tracy Bennett",
+    "clue": "Horsing around",
+    "spangram": "EQUESTRIAN",
+    "themeWords": [
+      "FARRIER",
+      "GROOM",
+      "JOCKEY",
+      "VETERINARIAN",
+      "WRANGLER"
+    ],
+    "startingBoard": [
+      "YKCTRG",
+      "EOSRMO",
+      "JUERIO",
+      "EQIEAN",
+      "ARNTEV",
+      "NWARFA",
+      "RGAIRR",
+      "ELNEIR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2547,
+    "sides": [
+      "EIH",
+      "NPY",
+      "CAK",
+      "TUL"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "UNLIKE",
+      "EYEPATCH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27696,
+    "centerLetter": "o",
+    "outerLetters": "rwabin",
+    "pangrams": [
+      "rainbow"
+    ],
+    "answers": [
+      "anion",
+      "anon",
+      "arbor",
+      "arborio",
+      "arrow",
+      "baboon",
+      "baobab",
+      "baron",
+      "barrio",
+      "barrow",
+      "boar",
+      "boba",
+      "bobbin",
+      "bonbon",
+      "bonobo",
+      "boob",
+      "booboo",
+      "boon",
+      "boor",
+      "born",
+      "boron",
+      "borrow",
+      "bowwow",
+      "brio",
+      "brow",
+      "brown",
+      "inborn",
+      "iron",
+      "nabob",
+      "narrow",
+      "noir",
+      "noob",
+      "noon",
+      "nori",
+      "onion",
+      "ribbon",
+      "roan",
+      "roar",
+      "robin",
+      "rowan",
+      "warrior",
+      "winnow",
+      "wino",
+      "worn"
+    ],
+    "pangramHints": [
+      {
+        "word": "rainbow",
+        "hint": "A spectrum of colors, but don't let the pot of gold distract you."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

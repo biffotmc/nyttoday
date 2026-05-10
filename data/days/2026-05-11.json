@@ -1,0 +1,188 @@
+{
+  "date": "2026-05-11",
+  "fetchedAt": "2026-05-10T20:13:53.240Z",
+  "connections": {
+    "puzzleId": 1145,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MOVE STEALTHILY, WITH \"IN\"",
+        "words": [
+          "CREEP",
+          "SLIP",
+          "SNEAK",
+          "STEAL"
+        ]
+      },
+      {
+        "title": "KINDS OF SCHEMES",
+        "words": [
+          "COLOR",
+          "PONZI",
+          "PYRAMID",
+          "RHYME"
+        ]
+      },
+      {
+        "title": "DETECTIVE MOVIES",
+        "words": [
+          "CHINATOWN",
+          "KNIVES OUT",
+          "SEVEN",
+          "VERTIGO"
+        ]
+      },
+      {
+        "title": "BODY PARTS SURROUNDED BY TWO LETTERS",
+        "words": [
+          "ELEGY",
+          "KARMA",
+          "KEYED",
+          "SHANDY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the shadows, these actions are often the quietest. Think of how one might move when trying to avoid detection.",
+      "These plans can be colorful or complex, but beware of the traps they may lead you into.",
+      "Mysteries unfold in the dark, where every clue could be a twist in the tale.",
+      "Enclosed in letters, these parts of you often hold more than meets the eye."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2181,
+    "editor": "Tracy Bennett",
+    "solution": "newly",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a fresh start."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think about something that happens after an old phase."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe something that has just come into existence."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 973,
+    "editor": "Tracy Bennett",
+    "clue": "A nice medley",
+    "spangram": "ODDSANDENDS",
+    "themeWords": [
+      "HODGEPODGE",
+      "JUMBLE",
+      "MISHMASH",
+      "RAGBAG",
+      "VARIETY"
+    ],
+    "startingBoard": [
+      "HODGEG",
+      "EGDOPA",
+      "VRITGB",
+      "ADESYA",
+      "OSDJAR",
+      "HIMUMN",
+      "HMELBD",
+      "SASDNE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2715,
+    "sides": [
+      "LEF",
+      "DSR",
+      "NTW",
+      "OZU"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WONDERFUL",
+      "LUTZES"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12620,
+    "centerLetter": "t",
+    "outerLetters": "cdehiw",
+    "pangrams": [
+      "twitched"
+    ],
+    "answers": [
+      "chit",
+      "cite",
+      "cited",
+      "deceit",
+      "detect",
+      "detected",
+      "diet",
+      "dieted",
+      "dietetic",
+      "ditch",
+      "ditched",
+      "edict",
+      "edit",
+      "edited",
+      "eidetic",
+      "etch",
+      "etched",
+      "ethic",
+      "hectic",
+      "hitch",
+      "hitched",
+      "itch",
+      "itched",
+      "tech",
+      "techie",
+      "teed",
+      "teeth",
+      "teethe",
+      "teethed",
+      "thee",
+      "tide",
+      "tided",
+      "tidied",
+      "tied",
+      "tithe",
+      "tithed",
+      "twee",
+      "tweed",
+      "tweet",
+      "tweeted",
+      "twice",
+      "twit",
+      "twitch",
+      "wetted",
+      "whet",
+      "whetted",
+      "whit",
+      "white",
+      "width",
+      "witch",
+      "with"
+    ],
+    "pangramHints": [
+      {
+        "word": "twitched",
+        "hint": "A sudden movement that catches the eye; think of something that jumps or jerks."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

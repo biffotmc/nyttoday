@@ -1,0 +1,161 @@
+{
+  "date": "2025-06-23",
+  "fetchedAt": "2026-05-10T20:10:31.256Z",
+  "connections": {
+    "puzzleId": 777,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KINDS OF JEANS",
+        "words": [
+          "BOYFRIEND",
+          "FLARE",
+          "MOM",
+          "SKINNY"
+        ]
+      },
+      {
+        "title": "FICTION CATEGORIES",
+        "words": [
+          "HISTORICAL",
+          "LITERARY",
+          "SPECULATIVE",
+          "YOUNG ADULT"
+        ]
+      },
+      {
+        "title": "WORDS IN HEMINGWAY TITLES",
+        "words": [
+          "BELL",
+          "FAREWELL",
+          "OLD MAN",
+          "SUN"
+        ]
+      },
+      {
+        "title": "___ GLASS GLASSWARE",
+        "words": [
+          "COCKTAIL",
+          "COLLINS",
+          "OLD FASHIONED",
+          "SHOT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These styles may cause a stir on the runway, but they’re all about comfort and fit.",
+      "Dive into tales that transport you through time, each with its own unique flavor.",
+      "A master of prose, he captures moments that resonate through the ages.",
+      "Raise a toast with these classic vessels, each designed for a specific sip."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1472,
+    "editor": "Tracy Bennett",
+    "solution": "oddly",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's not quite normal."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think about something unusual or unexpected."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word suggests something that deviates from the ordinary."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 641,
+    "editor": "Tracy Bennett",
+    "clue": "Breaking up the band",
+    "spangram": "ROCKGROUPS",
+    "themeWords": [
+      "CHEAP",
+      "HEADS",
+      "PUMPKINS",
+      "SMASHING",
+      "TALKING",
+      "TRICK"
+    ],
+    "startingBoard": [
+      "IGPAGN",
+      "HNHEIT",
+      "SMSCKA",
+      "ACKGPL",
+      "ROPRUS",
+      "PMUOEH",
+      "SKKCIA",
+      "NITRDS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2393,
+    "sides": [
+      "BUG",
+      "RSA",
+      "INW",
+      "OCT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ACROBATICS",
+      "SWUNG"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 6035,
+    "centerLetter": "k",
+    "outerLetters": "chiory",
+    "pangrams": [
+      "hickory"
+    ],
+    "answers": [
+      "chick",
+      "chock",
+      "cock",
+      "cocky",
+      "cook",
+      "cork",
+      "corky",
+      "crick",
+      "crock",
+      "crook",
+      "hick",
+      "hock",
+      "hook",
+      "hooky",
+      "icky",
+      "kick",
+      "kicky",
+      "kook",
+      "kooky",
+      "rick",
+      "rock",
+      "rocky",
+      "rook"
+    ],
+    "pangramHints": [
+      {
+        "word": "hickory",
+        "hint": "A sturdy tree, often associated with a smoky flavor."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

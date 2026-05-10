@@ -1,0 +1,189 @@
+{
+  "date": "2025-06-13",
+  "fetchedAt": "2026-05-10T20:10:26.137Z",
+  "connections": {
+    "puzzleId": 776,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PERSPECTIVE",
+        "words": [
+          "ANGLE",
+          "BENT",
+          "LENS",
+          "POINT OF VIEW"
+        ]
+      },
+      {
+        "title": "SEEN AT AN ICE CREAM SHOP",
+        "words": [
+          "CONE",
+          "CUP",
+          "LITTLE SPOON",
+          "SCOOP"
+        ]
+      },
+      {
+        "title": "HIT SONGS OF 1998",
+        "words": [
+          "CLOSING TIME",
+          "IRIS",
+          "ONE WEEK",
+          "TOO CLOSE"
+        ]
+      },
+      {
+        "title": "HOT ___",
+        "words": [
+          "DOG",
+          "POTATO",
+          "ROD",
+          "WATER BOTTLE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Look at the world from a different angle; sometimes a shift in view can change everything.",
+      "When the temperature rises, cool down with a delightful treat served in various forms.",
+      "The late '90s brought us tunes that still echo in our memories; can you recall the hits that defined a generation?",
+      "When things get heated, there's nothing quite like a savory delight to satisfy your cravings."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 898,
+    "editor": "Tracy Bennett",
+    "solution": "bilge",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something related to water."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a part of a ship."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with unwanted water accumulation."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 635,
+    "editor": "Tracy Bennett",
+    "clue": "Scattering petals",
+    "spangram": "FLOWERGIRLS",
+    "themeWords": [
+      "AZALEA",
+      "DAISY",
+      "LILY",
+      "PETUNIA",
+      "POPPY",
+      "ROSE",
+      "VIOLET"
+    ],
+    "startingBoard": [
+      "YWOLFP",
+      "ESEUTE",
+      "LTIRNI",
+      "VOAGRA",
+      "ILDIEO",
+      "AEARYS",
+      "LIZLPP",
+      "LYASPO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2383,
+    "sides": [
+      "NRU",
+      "FGH",
+      "ATC",
+      "YIL"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FULCRA",
+      "ANYTHING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20180,
+    "centerLetter": "p",
+    "outerLetters": "acilnt",
+    "pangrams": [
+      "applicant"
+    ],
+    "answers": [
+      "alpaca",
+      "anticipant",
+      "apian",
+      "appall",
+      "capital",
+      "captain",
+      "catalpa",
+      "catnap",
+      "catnip",
+      "clap",
+      "clip",
+      "inapt",
+      "pact",
+      "pail",
+      "pain",
+      "paint",
+      "palapa",
+      "palatal",
+      "palatial",
+      "pall",
+      "palp",
+      "panic",
+      "panini",
+      "pant",
+      "papa",
+      "papal",
+      "papilla",
+      "patina",
+      "pica",
+      "piccata",
+      "picnic",
+      "pill",
+      "pinata",
+      "pint",
+      "pintail",
+      "pipit",
+      "pippin",
+      "pita",
+      "pitapat",
+      "plain",
+      "plaint",
+      "plait",
+      "plan",
+      "plant",
+      "plantain",
+      "plat",
+      "pliant",
+      "tapa",
+      "tilapia",
+      "tipi"
+    ],
+    "pangramHints": [
+      {
+        "word": "applicant",
+        "hint": "A seeker of opportunities, this word embodies ambition and desire."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

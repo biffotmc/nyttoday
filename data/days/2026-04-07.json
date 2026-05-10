@@ -1,0 +1,189 @@
+{
+  "date": "2026-04-07",
+  "fetchedAt": "2026-05-10T20:28:37.676Z",
+  "connections": {
+    "puzzleId": 1117,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "COMPETITION",
+        "words": [
+          "BATTLE",
+          "CLASH",
+          "CONTEST",
+          "MATCH"
+        ]
+      },
+      {
+        "title": "ON BOARD",
+        "words": [
+          "DOWN",
+          "GAME",
+          "IN",
+          "WILLING"
+        ]
+      },
+      {
+        "title": "WORDS FOR UNSPECIFIED CHOICES",
+        "words": [
+          "ANOTHER",
+          "EITHER",
+          "NEITHER",
+          "ONE"
+        ]
+      },
+      {
+        "title": "___LIFE",
+        "words": [
+          "AFTER",
+          "LOW",
+          "NIGHT",
+          "WILD"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the stakes rise, it's not just a game; it's a showdown of wills.",
+      "All aboard for a journey where choices are made and paths are taken.",
+      "In a world of options, which way will you lean? The choice is yours.",
+      "Life's adventures can take many forms, each with its own twist and turn."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1200,
+    "editor": "Tracy Bennett",
+    "solution": "dense",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something thick or rich."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes something that is compact or closely packed."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It often describes a texture or a quality of a material, not just a measurement."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 939,
+    "editor": "Tracy Bennett",
+    "clue": "Taking the helm",
+    "spangram": "SMOOTHSAILING",
+    "themeWords": [
+      "BEARING",
+      "COURSE",
+      "FATHOM",
+      "KNOT",
+      "MARK",
+      "WAYPOINT"
+    ],
+    "startingBoard": [
+      "RAEMNI",
+      "IBSOTO",
+      "NSEOYP",
+      "GRUTWA",
+      "GOCHSA",
+      "FNILIK",
+      "AHOKMR",
+      "TMNOTA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2681,
+    "sides": [
+      "YUK",
+      "CHP",
+      "IMT",
+      "QEA"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUICKIE",
+      "EMPATHY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22077,
+    "centerLetter": "g",
+    "outerLetters": "deflnu",
+    "pangrams": [
+      "engulfed",
+      "unfledged"
+    ],
+    "answers": [
+      "deluge",
+      "deluged",
+      "dengue",
+      "dung",
+      "edge",
+      "edged",
+      "egged",
+      "engulf",
+      "fledge",
+      "fledged",
+      "flung",
+      "fudge",
+      "fudged",
+      "fugu",
+      "fugue",
+      "geld",
+      "gelded",
+      "gelee",
+      "gelled",
+      "gene",
+      "glee",
+      "gleeful",
+      "glen",
+      "glue",
+      "glued",
+      "glug",
+      "glugged",
+      "guff",
+      "gulf",
+      "gull",
+      "gulled",
+      "gunned",
+      "ledge",
+      "legend",
+      "legged",
+      "luge",
+      "luged",
+      "lugged",
+      "lung",
+      "lunge",
+      "lunged",
+      "lungful",
+      "nudge",
+      "nudged",
+      "unglue",
+      "unglued"
+    ],
+    "pangramHints": [
+      {
+        "word": "engulfed",
+        "hint": "A word that suggests being completely surrounded or swallowed up."
+      },
+      {
+        "word": "unfledged",
+        "hint": "Describes something that is not yet fully developed or mature."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

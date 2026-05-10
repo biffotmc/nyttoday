@@ -1,0 +1,203 @@
+{
+  "date": "2026-03-13",
+  "fetchedAt": "2026-05-10T20:26:58.308Z",
+  "connections": {
+    "puzzleId": 1088,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "\"NO THANKS\"",
+        "words": [
+          "LATER",
+          "NAH",
+          "NEXT TIME",
+          "PASS"
+        ]
+      },
+      {
+        "title": "KINDS OF NUMBERS",
+        "words": [
+          "EVEN",
+          "IRRATIONAL",
+          "PERFECT",
+          "PRIME"
+        ]
+      },
+      {
+        "title": "KINDS OF WALLS",
+        "words": [
+          "BERLIN",
+          "BRICK",
+          "FOURTH",
+          "GREAT"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF NON-NUMERIC AMOUNTS",
+        "words": [
+          "AWL",
+          "NUN",
+          "PHEW",
+          "SUM"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you politely decline, what do you say? Think of options that keep you free.",
+      "These numbers have their own unique qualities; some are friendly, while others are a bit odd.",
+      "Not all barriers are built the same; some have history, while others are just for decoration.",
+      "Sounds like a tool, a religious figure, a sigh of relief, and a total—can you hear the similarities?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 784,
+    "editor": "Tracy Bennett",
+    "solution": "eaten",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you do with food."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "You might do this when you're hungry."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a common action that involves consumption."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 915,
+    "editor": "Tracy Bennett",
+    "clue": "Mountain band",
+    "spangram": "BLUEGRASSMUSIC",
+    "themeWords": [
+      "BANJO",
+      "FIDDLE",
+      "GUITAR",
+      "HARMONICA",
+      "MANDOLIN"
+    ],
+    "startingBoard": [
+      "OJSSCA",
+      "NADDMI",
+      "ARILUN",
+      "BGFESO",
+      "AMEIRM",
+      "DNUCHA",
+      "LOLRAG",
+      "INBTIU"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2656,
+    "sides": [
+      "JCO",
+      "MTY",
+      "LAR",
+      "ISG"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "JICAMA",
+      "ASTROLOGY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21904,
+    "centerLetter": "i",
+    "outerLetters": "achort",
+    "pangrams": [
+      "chariot",
+      "haricot",
+      "thoracic"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "aortic",
+      "archaic",
+      "arctic",
+      "aria",
+      "arthritic",
+      "atria",
+      "attic",
+      "cacti",
+      "cathartic",
+      "chai",
+      "chair",
+      "chaotic",
+      "chia",
+      "chic",
+      "chica",
+      "chichi",
+      "chit",
+      "chitchat",
+      "choir",
+      "ciao",
+      "circa",
+      "cirri",
+      "citric",
+      "coati",
+      "cocci",
+      "cochair",
+      "coir",
+      "critic",
+      "croci",
+      "hair",
+      "hitch",
+      "ichor",
+      "iota",
+      "itch",
+      "oratorio",
+      "orthotic",
+      "raita",
+      "ratio",
+      "rhotic",
+      "rich",
+      "ricotta",
+      "riot",
+      "roti",
+      "tacit",
+      "tactic",
+      "tiara",
+      "tori",
+      "toric",
+      "torii",
+      "trait",
+      "traitor",
+      "trattoria",
+      "tricot",
+      "trio"
+    ],
+    "pangramHints": [
+      {
+        "word": "chariot",
+        "hint": "A vehicle of ancient times, often pulled by horses."
+      },
+      {
+        "word": "haricot",
+        "hint": "A type of bean that's often found in French cuisine."
+      },
+      {
+        "word": "thoracic",
+        "hint": "Relating to a part of the body that houses vital organs."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

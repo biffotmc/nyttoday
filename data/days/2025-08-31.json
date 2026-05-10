@@ -1,0 +1,171 @@
+{
+  "date": "2025-08-31",
+  "fetchedAt": "2026-05-10T20:14:11.311Z",
+  "connections": {
+    "puzzleId": 853,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CRITICIZE HARSHLY",
+        "words": [
+          "BASH",
+          "BLAST",
+          "FLAME",
+          "ROAST"
+        ]
+      },
+      {
+        "title": "COMMON COMPONENTS OF BOARD GAMES",
+        "words": [
+          "BOARD",
+          "CARDS",
+          "DICE",
+          "PIECES"
+        ]
+      },
+      {
+        "title": "HETERONYMS",
+        "words": [
+          "AXES",
+          "BASS",
+          "COORDINATE",
+          "DOES"
+        ]
+      },
+      {
+        "title": "___STICKS",
+        "words": [
+          "CHOP",
+          "DRUM",
+          "FIDDLE",
+          "FISH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the heat is on, these words will surely leave a mark.",
+      "Every game has its essentials; without these, it's just a gathering.",
+      "These words may sound the same, but their meanings dance in different directions.",
+      "These actions can create rhythm or just a mess, depending on your skill."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1820,
+    "editor": "Tracy Bennett",
+    "solution": "petal",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that blooms."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often associated with gardens."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a part of a flower."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 716,
+    "editor": "Tracy Bennett",
+    "clue": "Up the hill",
+    "spangram": "JACKANDJILL",
+    "themeWords": [
+      "AFTER",
+      "BROKE",
+      "CROWN",
+      "FETCH",
+      "PAIL",
+      "TUMBLING",
+      "WATER"
+    ],
+    "startingBoard": [
+      "TUWATH",
+      "LLMBEC",
+      "RIJLRT",
+      "OBDNIE",
+      "KECANF",
+      "APRKCG",
+      "ILROAJ",
+      "AFTEWN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2462,
+    "sides": [
+      "YHG",
+      "LDI",
+      "FRN",
+      "AOS"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "LANYARD",
+      "DOGFISH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25534,
+    "centerLetter": "c",
+    "outerLetters": "himoru",
+    "pangrams": [
+      "chromium"
+    ],
+    "answers": [
+      "chic",
+      "chichi",
+      "choir",
+      "chum",
+      "church",
+      "churro",
+      "cirri",
+      "cocci",
+      "coho",
+      "coir",
+      "comic",
+      "couch",
+      "croc",
+      "croci",
+      "crouch",
+      "curio",
+      "curium",
+      "hooch",
+      "ichor",
+      "micro",
+      "mimic",
+      "mochi",
+      "mooch",
+      "morocco",
+      "much",
+      "mucho",
+      "occur",
+      "ouch",
+      "rich",
+      "rococo",
+      "romcom",
+      "uric"
+    ],
+    "pangramHints": [
+      {
+        "word": "chromium",
+        "hint": "A shiny element that can make things gleam, but don't let its name fool you."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2025-11-08",
+  "fetchedAt": "2026-05-10T20:18:40.018Z",
+  "connections": {
+    "puzzleId": 919,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BLOCK, AS AN OPENING",
+        "words": [
+          "CLOSE",
+          "PLUG",
+          "SEAL",
+          "STOP"
+        ]
+      },
+      {
+        "title": "PUT FORWARD, AS AN ANNOUNCEMENT",
+        "words": [
+          "DELIVER",
+          "GIVE",
+          "PRESENT",
+          "PRONOUNCE"
+        ]
+      },
+      {
+        "title": "KINDS OF LANGUAGE",
+        "words": [
+          "BODY",
+          "PROGRAMMING",
+          "SIGN",
+          "SPOKEN"
+        ]
+      },
+      {
+        "title": "WORDS AFTER \"I\"",
+        "words": [
+          "BEAM",
+          "CHING",
+          "ROBOT",
+          "SPY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the door is ajar, what might you do to keep it that way? Think of barriers that can be applied.",
+      "Imagine a grand announcement echoing through a hall. What actions bring words to life?",
+      "Languages can take many forms. Consider the diverse ways we communicate beyond just spoken words.",
+      "After declaring 'I', what playful sounds might follow? Think of expressions that add flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 535,
+    "editor": "Tracy Bennett",
+    "solution": "arise",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's about coming into view."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that happens when the sun rises."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with new beginnings or opportunities."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 782,
+    "editor": "Tracy Bennett",
+    "clue": "Knock, knock!",
+    "spangram": "LETMEIN",
+    "themeWords": [
+      "DOORWAY",
+      "ENTRANCE",
+      "GATE",
+      "INGRESS",
+      "PORTAL",
+      "THRESHOLD"
+    ],
+    "startingBoard": [
+      "ENOPGA",
+      "ETLRET",
+      "CRATIN",
+      "NAMEWA",
+      "LETRSY",
+      "DOOTSI",
+      "ERHDEN",
+      "SHOLRG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2528,
+    "sides": [
+      "OTX",
+      "GMI",
+      "AUN",
+      "FLE"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "EXFOLIATING",
+      "GUM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 2965,
+    "centerLetter": "o",
+    "outerLetters": "cghilr",
+    "pangrams": [
+      "choirgirl",
+      "horologic"
+    ],
+    "answers": [
+      "chloric",
+      "chocoholic",
+      "choir",
+      "clog",
+      "cocci",
+      "coho",
+      "coil",
+      "coir",
+      "colic",
+      "color",
+      "cool",
+      "corgi",
+      "croc",
+      "croci",
+      "gigolo",
+      "googol",
+      "grog",
+      "hooch",
+      "horror",
+      "ichor",
+      "igloo",
+      "illogic",
+      "loch",
+      "loci",
+      "loco",
+      "logic",
+      "logo",
+      "logroll",
+      "loll",
+      "olio",
+      "rigor",
+      "rococo",
+      "roil",
+      "roll"
+    ],
+    "pangramHints": [
+      {
+        "word": "choirgirl",
+        "hint": "A lively ensemble often found in harmony, but don't sing it out loud!"
+      },
+      {
+        "word": "horologic",
+        "hint": "Time keeps ticking, but don't let the clock reveal this one!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

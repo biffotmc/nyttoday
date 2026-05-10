@@ -1,0 +1,165 @@
+{
+  "date": "2025-07-01",
+  "fetchedAt": "2026-05-10T20:10:34.602Z",
+  "connections": {
+    "puzzleId": 789,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STEAL",
+        "words": [
+          "NICK",
+          "PALM",
+          "PINCH",
+          "POCKET"
+        ]
+      },
+      {
+        "title": "DO SOME GROOMING",
+        "words": [
+          "BRUSH",
+          "DRESS",
+          "SHAVE",
+          "SHOWER"
+        ]
+      },
+      {
+        "title": "DAPPER",
+        "words": [
+          "NEAT",
+          "SHARP",
+          "SMART",
+          "TIDY"
+        ]
+      },
+      {
+        "title": "___STONE",
+        "words": [
+          "BIRTH",
+          "KEY",
+          "MILE",
+          "TOUCH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Sometimes you have to take a little something to make it through the day.",
+      "A little pampering can go a long way in feeling fresh and fine.",
+      "Looking sharp is all about the details and the right touches.",
+      "A special kind of marker can signify important moments in life."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 753,
+    "editor": "Tracy Bennett",
+    "solution": "moldy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that can describe old bread."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a word that can also suggest something that's not fresh."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a state of being that is less than ideal."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 650,
+    "editor": "Tracy Bennett",
+    "clue": "Center of attraction",
+    "spangram": "AMUSEMENTPARK",
+    "themeWords": [
+      "CAROUSEL",
+      "FUNHOUSE",
+      "SCRAMBLER",
+      "SLIDE",
+      "TRAIN"
+    ],
+    "startingBoard": [
+      "MEFUNH",
+      "ESNESO",
+      "SRCTUR",
+      "URAPTA",
+      "MEMSAI",
+      "ALBLRN",
+      "ORACIK",
+      "USELDE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2401,
+    "sides": [
+      "RMF",
+      "QOI",
+      "UNK",
+      "ALE"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "AQUARIUM",
+      "MENFOLK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 13076,
+    "centerLetter": "b",
+    "outerLetters": "egmnoy",
+    "pangrams": [
+      "bogeymen"
+    ],
+    "answers": [
+      "been",
+      "begem",
+      "begone",
+      "bogey",
+      "boggy",
+      "bomb",
+      "bombe",
+      "bonbon",
+      "bone",
+      "bong",
+      "bongo",
+      "bonny",
+      "bonobo",
+      "bony",
+      "boob",
+      "booboo",
+      "booby",
+      "boom",
+      "boomy",
+      "boon",
+      "bygone",
+      "ebon",
+      "ebony",
+      "enby",
+      "goby",
+      "noob",
+      "obey",
+      "oboe"
+    ],
+    "pangramHints": [
+      {
+        "word": "bogeymen",
+        "hint": "A playful term for mythical figures that might lurk in the shadows."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

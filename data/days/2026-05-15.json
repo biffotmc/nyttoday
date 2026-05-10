@@ -1,0 +1,195 @@
+{
+  "date": "2026-05-15",
+  "fetchedAt": "2026-05-10T20:14:03.355Z",
+  "connections": {
+    "puzzleId": 1143,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "NAVIGATE THROUGH, AS A RIVER",
+        "words": [
+          "CROSS",
+          "FORD",
+          "TRAVERSE",
+          "WADE"
+        ]
+      },
+      {
+        "title": "MULTI-TIME NBA MVPS",
+        "words": [
+          "BIRD",
+          "CURRY",
+          "JAMES",
+          "JORDAN"
+        ]
+      },
+      {
+        "title": "NON-PALINDROMIC WORDS IN A FAMOUS PALINDROME",
+        "words": [
+          "ABLE",
+          "ELBA",
+          "SAW",
+          "WAS"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF KINDS OF DOGS, FAMILIARLY",
+        "words": [
+          "CIAO",
+          "PALM",
+          "PEEK",
+          "PITT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "To traverse the waters of life, you might need to find a way across. Think of the paths less taken.",
+      "In the realm of hoops, legends rise above the rest. Seek the titans who have claimed the crown multiple times.",
+      "In a famous phrase, some words dance in and out, never to mirror themselves. Can you spot the odd ones out?",
+      "When names sound like breeds, you might just hear a bark in the background. Listen closely for the playful puns."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 885,
+    "editor": "Tracy Bennett",
+    "solution": "creed",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a principle often upheld."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean a formal statement of belief."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a declaration that guides actions, often found in spiritual contexts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 978,
+    "editor": "Tracy Bennett",
+    "clue": "Weaselly wascals",
+    "spangram": "MUSTELIDS",
+    "themeWords": [
+      "BADGER",
+      "FERRET",
+      "MARTEN",
+      "OTTER",
+      "POLECAT",
+      "WOLVERINE"
+    ],
+    "startingBoard": [
+      "ACMENI",
+      "TEUVER",
+      "PLSLBR",
+      "EOTOAE",
+      "TNEWDG",
+      "RMLIFT",
+      "ATEDEE",
+      "OTRSRR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2719,
+    "sides": [
+      "JUT",
+      "IGD",
+      "EON",
+      "XHR"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JINXED",
+      "DROUGHT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23161,
+    "centerLetter": "m",
+    "outerLetters": "acginp",
+    "pangrams": [
+      "campaign",
+      "campaigning",
+      "camping"
+    ],
+    "answers": [
+      "aiming",
+      "amping",
+      "anima",
+      "caiman",
+      "cami",
+      "camp",
+      "gamin",
+      "gaming",
+      "gamma",
+      "gimp",
+      "imaging",
+      "imagining",
+      "imam",
+      "impinging",
+      "macing",
+      "magi",
+      "magic",
+      "magician",
+      "magma",
+      "maim",
+      "maiming",
+      "main",
+      "mama",
+      "mamma",
+      "managing",
+      "manga",
+      "mania",
+      "maniac",
+      "manic",
+      "manna",
+      "manning",
+      "mapping",
+      "mica",
+      "mimic",
+      "miming",
+      "mincing",
+      "mini",
+      "minicam",
+      "minicamp",
+      "minim",
+      "minima",
+      "mining",
+      "naming",
+      "pampa",
+      "panama",
+      "pimp",
+      "pimping"
+    ],
+    "pangramHints": [
+      {
+        "word": "campaign",
+        "hint": "A strategic effort to win hearts and minds, but don't say it outright."
+      },
+      {
+        "word": "campaigning",
+        "hint": "It's the act of rallying support, but keep it under wraps."
+      },
+      {
+        "word": "camping",
+        "hint": "A retreat into nature, where the wild things roam, but keep it discreet."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

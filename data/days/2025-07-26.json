@@ -1,0 +1,194 @@
+{
+  "date": "2025-07-26",
+  "fetchedAt": "2026-05-10T20:11:20.894Z",
+  "connections": {
+    "puzzleId": 816,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "HERBS AND SPICES",
+        "words": [
+          "ANISE",
+          "DILL",
+          "MACE",
+          "SAGE"
+        ]
+      },
+      {
+        "title": "SHADES OF GREEN",
+        "words": [
+          "BOTTLE",
+          "HUNTER",
+          "KELLY",
+          "PEA"
+        ]
+      },
+      {
+        "title": "TRAVEL ON FOOT",
+        "words": [
+          "HIKE",
+          "MARCH",
+          "TRAMP",
+          "TREK"
+        ]
+      },
+      {
+        "title": "STARTS OF EUROPEAN CAPITALS",
+        "words": [
+          "COPE",
+          "LUXE",
+          "SARA",
+          "WARS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Aromatic wonders await in your kitchen; some add warmth, others a cool touch.",
+      "Think of nature's palette; these hues can brighten your day or calm your spirit.",
+      "Put on your boots and explore the great outdoors; each step brings a new adventure.",
+      "From the bustling streets to the quiet corners, these names echo the heart of Europe."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1370,
+    "editor": "Tracy Bennett",
+    "solution": "haunt",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Something that lingers in the shadows."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with memories and the past."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can evoke a feeling of nostalgia or presence."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 677,
+    "editor": "Tracy Bennett",
+    "clue": "It's been a while",
+    "spangram": "REUNION",
+    "themeWords": [
+      "ASSEMBLE",
+      "CONGREGATE",
+      "CONVENE",
+      "GATHER",
+      "MEET",
+      "MUSTER"
+    ],
+    "startingBoard": [
+      "EECSEE",
+      "NVOSML",
+      "GANRAB",
+      "RETHEN",
+      "MUNIOM",
+      "UOETAE",
+      "SCNGGE",
+      "TERRET"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2426,
+    "sides": [
+      "MHD",
+      "OXY",
+      "PAL",
+      "EIR"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "POLYHEDRA",
+      "AXIOM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22353,
+    "centerLetter": "l",
+    "outerLetters": "cdenow",
+    "pangrams": [
+      "clowned"
+    ],
+    "answers": [
+      "cell",
+      "celled",
+      "cello",
+      "clod",
+      "clone",
+      "cloned",
+      "clown",
+      "coddle",
+      "coddled",
+      "cold",
+      "colleen",
+      "colon",
+      "colonel",
+      "condole",
+      "condoled",
+      "condolence",
+      "cool",
+      "cooldown",
+      "cooled",
+      "cowl",
+      "dell",
+      "dole",
+      "doled",
+      "doll",
+      "dolled",
+      "doodle",
+      "doodled",
+      "dowel",
+      "dwell",
+      "dwelled",
+      "lede",
+      "lend",
+      "lewd",
+      "loco",
+      "locoweed",
+      "lode",
+      "loll",
+      "lolled",
+      "lone",
+      "loon",
+      "lowdown",
+      "lowed",
+      "needle",
+      "needled",
+      "newel",
+      "noel",
+      "noodle",
+      "noodled",
+      "olden",
+      "oleo",
+      "weld",
+      "welded",
+      "well",
+      "welled",
+      "wool",
+      "woolen"
+    ],
+    "pangramHints": [
+      {
+        "word": "clowned",
+        "hint": "A playful term that might make you think of jesters and laughter."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

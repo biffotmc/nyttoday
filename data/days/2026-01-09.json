@@ -1,0 +1,174 @@
+{
+  "date": "2026-01-09",
+  "fetchedAt": "2026-05-10T20:22:43.778Z",
+  "connections": {
+    "puzzleId": 998,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "THINGS THAT ARE RED",
+        "words": [
+          "3 BALL",
+          "CARDINAL",
+          "HEART EMOJI",
+          "SOLO CUP"
+        ]
+      },
+      {
+        "title": "USED IN METAPHORS FOR PRECARIOUS SITUATIONS",
+        "words": [
+          "8 BALL",
+          "DEEP END",
+          "LIMB",
+          "THIN ICE"
+        ]
+      },
+      {
+        "title": "MUSICAL ARTISTS MINUS STARTING NUMBERS",
+        "words": [
+          "6 MAFIA",
+          "CHAINZ",
+          "DIRECTION",
+          "NON BLONDES"
+        ]
+      },
+      {
+        "title": "CARDINAL DIRECTIONS WITH FIRST LETTER CHANGED",
+        "words": [
+          "COUTH",
+          "FORTH",
+          "LEST",
+          "OAST"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These items might make you think of a certain color often associated with passion and energy.",
+      "Picture a tightrope walker; these phrases capture the essence of walking on the edge.",
+      "These artists have numbers in their names that you need to subtract for a clearer view.",
+      "Change the first letter and you might find yourself navigating in a different way."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 874,
+    "editor": "Tracy Bennett",
+    "solution": "eight",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a number, but not just any number."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a common term for a quantity, often used in games."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with a specific count or score."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 844,
+    "editor": "Tracy Bennett",
+    "clue": "For cubs fans",
+    "spangram": "BEARSINMIND",
+    "themeWords": [
+      "BLACK",
+      "BROWN",
+      "GRIZZLY",
+      "PANDA",
+      "POLAR",
+      "SPECTACLED"
+    ],
+    "startingBoard": [
+      "LOPGAR",
+      "ARRAES",
+      "AILCBI",
+      "DZBWKN",
+      "NYZONM",
+      "ALRLCI",
+      "PBDEAN",
+      "SPECTD"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2588,
+    "sides": [
+      "KFT",
+      "LJI",
+      "ANG",
+      "CHP"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "FLAPJACK",
+      "KNIGHT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21315,
+    "centerLetter": "h",
+    "outerLetters": "acdeip",
+    "pangrams": [
+      "headpiece"
+    ],
+    "answers": [
+      "ache",
+      "ached",
+      "ahead",
+      "aphid",
+      "cache",
+      "cached",
+      "chad",
+      "chai",
+      "chap",
+      "chapped",
+      "cheap",
+      "cheapie",
+      "cheep",
+      "cheeped",
+      "chia",
+      "chic",
+      "chica",
+      "chichi",
+      "chide",
+      "chided",
+      "chip",
+      "chipped",
+      "dacha",
+      "deadhead",
+      "deadheaded",
+      "each",
+      "head",
+      "headache",
+      "headed",
+      "heap",
+      "heaped",
+      "heed",
+      "heeded",
+      "hide",
+      "hippie",
+      "peach"
+    ],
+    "pangramHints": [
+      {
+        "word": "headpiece",
+        "hint": "A covering that can add flair, often worn atop the head."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

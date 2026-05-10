@@ -1,0 +1,183 @@
+{
+  "date": "2026-01-16",
+  "fetchedAt": "2026-05-10T20:23:09.006Z",
+  "connections": {
+    "puzzleId": 1005,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KINDS OF HATS",
+        "words": [
+          "DERBY",
+          "FEDORA",
+          "PANAMA",
+          "PORKPIE"
+        ]
+      },
+      {
+        "title": "COMPONENTS OF A KID’S BEDTIME ROUTINE",
+        "words": [
+          "BATH",
+          "BRUSHING",
+          "PAJAMAS",
+          "STORY"
+        ]
+      },
+      {
+        "title": "MUSICAL ACTS WITH \"A\" AS THE ONLY VOWEL",
+        "words": [
+          "ALABAMA",
+          "BANANARAMA",
+          "KANSAS",
+          "SANTANA"
+        ]
+      },
+      {
+        "title": "GRAND ___",
+        "words": [
+          "BAHAMA",
+          "CANYON",
+          "PIANO",
+          "SLAM"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These toppers can elevate your style, but beware of windy days!",
+      "A nightly ritual that leads to sweet dreams, but don’t forget the warm hugs!",
+      "These bands bring the sound, but only one vowel keeps it all together.",
+      "A majestic place or a musical piece, both can leave you in awe."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1269,
+    "editor": "Tracy Bennett",
+    "solution": "racer",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a speed machine."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s often associated with competition."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also describe someone who is quick on their feet."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 851,
+    "editor": "Tracy Bennett",
+    "clue": "DC crusader",
+    "spangram": "BATMAN",
+    "themeWords": [
+      "CAPE",
+      "JOKER",
+      "JUSTICE",
+      "MANOR",
+      "PENGUIN",
+      "ROBIN",
+      "VENGEANCE"
+    ],
+    "startingBoard": [
+      "BIREEP",
+      "ONJOKA",
+      "RATMAC",
+      "BNGEMN",
+      "PEANAE",
+      "EVNROC",
+      "NECJUI",
+      "GUINST"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2598,
+    "sides": [
+      "LRC",
+      "HGN",
+      "OIM",
+      "TUA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "GLITCH",
+      "HONORARIUM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18341,
+    "centerLetter": "c",
+    "outerLetters": "aefilm",
+    "pangrams": [
+      "malefic"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "acclaim",
+      "acme",
+      "cafe",
+      "calf",
+      "call",
+      "calla",
+      "calm",
+      "came",
+      "camel",
+      "camellia",
+      "cami",
+      "celiac",
+      "cell",
+      "celli",
+      "cilia",
+      "claim",
+      "clam",
+      "clef",
+      "cliff",
+      "clime",
+      "efface",
+      "emcee",
+      "face",
+      "facial",
+      "facile",
+      "fecal",
+      "fleece",
+      "icefall",
+      "icicle",
+      "iliac",
+      "lace",
+      "laic",
+      "laical",
+      "lice",
+      "lilac",
+      "mace",
+      "malic",
+      "malice",
+      "mecca",
+      "mica",
+      "mice",
+      "mimic"
+    ],
+    "pangramHints": [
+      {
+        "word": "malefic",
+        "hint": "A word that hints at something dark or ominous, but don't let it cast a shadow!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

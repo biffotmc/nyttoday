@@ -1,0 +1,197 @@
+{
+  "date": "2026-03-10",
+  "fetchedAt": "2026-05-10T20:26:44.948Z",
+  "connections": {
+    "puzzleId": 1082,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "COOK WITH DRY HEAT",
+        "words": [
+          "BROWN",
+          "ROAST",
+          "SEAR",
+          "TOAST"
+        ]
+      },
+      {
+        "title": "FAMILIAL NICKNAMES",
+        "words": [
+          "CUZ",
+          "GRAM",
+          "POP",
+          "UNC"
+        ]
+      },
+      {
+        "title": "U.S. STATE ABBREVIATIONS",
+        "words": [
+          "MASS",
+          "MISS",
+          "PENN",
+          "WASH"
+        ]
+      },
+      {
+        "title": "PUNCH",
+        "words": [
+          "BOX",
+          "DUKE",
+          "SLUG",
+          "SOCK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the heat is on, these methods bring out the best in your ingredients. Think of a golden hue and a crispy finish.",
+      "These endearing titles reflect bonds that run deeper than blood. They are terms of affection that warm the heart.",
+      "Each of these is a shorthand for a state, but they carry the weight of history and identity.",
+      "In the ring or on the street, these terms pack a punch. They evoke strength and resilience in the face of competition."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 924,
+    "editor": "Tracy Bennett",
+    "solution": "shoal",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a group of fish swimming together."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a shallow area in a body of water."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with 'goal' and is often associated with marine life."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 913,
+    "editor": "Tracy Bennett",
+    "clue": "\"Hey\"",
+    "spangram": "GOODDAY",
+    "themeWords": [
+      "AHOY",
+      "GREETINGS",
+      "HELLO",
+      "HOWDY",
+      "SALUTATIONS",
+      "WELCOME"
+    ],
+    "startingBoard": [
+      "HEOOHG",
+      "LLWDOY",
+      "WLYOIO",
+      "ECDTNH",
+      "MODEGA",
+      "EAESTI",
+      "YRUTAO",
+      "GSALNS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2652,
+    "sides": [
+      "HDW",
+      "IAS",
+      "TKB",
+      "COU"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "SWITCHBACK",
+      "KUDOS"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26465,
+    "centerLetter": "m",
+    "outerLetters": "acnort",
+    "pangrams": [
+      "cormorant",
+      "monocrat"
+    ],
+    "answers": [
+      "ammo",
+      "armor",
+      "aroma",
+      "atom",
+      "camo",
+      "carom",
+      "catamaran",
+      "coatroom",
+      "coma",
+      "comma",
+      "common",
+      "cram",
+      "macaron",
+      "macaroon",
+      "macro",
+      "macron",
+      "mama",
+      "mamma",
+      "mammon",
+      "manna",
+      "manor",
+      "manta",
+      "mantra",
+      "maraca",
+      "marm",
+      "marmot",
+      "maroon",
+      "mart",
+      "matron",
+      "moan",
+      "moat",
+      "momma",
+      "mono",
+      "moon",
+      "moor",
+      "moot",
+      "morn",
+      "morocco",
+      "moron",
+      "mortar",
+      "motor",
+      "motorcar",
+      "motto",
+      "noncom",
+      "norm",
+      "ottoman",
+      "roam",
+      "romcom",
+      "room",
+      "tarmac",
+      "tomato",
+      "tomcat",
+      "tram",
+      "tramcar"
+    ],
+    "pangramHints": [
+      {
+        "word": "cormorant",
+        "hint": "A bird that dives deep, often seen by the water's edge."
+      },
+      {
+        "word": "monocrat",
+        "hint": "One who holds power alone, ruling without a partner."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

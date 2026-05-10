@@ -1,0 +1,174 @@
+{
+  "date": "2025-12-18",
+  "fetchedAt": "2026-05-10T20:21:12.751Z",
+  "connections": {
+    "puzzleId": 966,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BIT OF WISHFUL THINKING",
+        "words": [
+          "DAYDREAM",
+          "FANCY",
+          "FANTASY",
+          "ILLUSION"
+        ]
+      },
+      {
+        "title": "PROTAGONIST",
+        "words": [
+          "HERO",
+          "LEAD",
+          "PRINCIPAL",
+          "STAR"
+        ]
+      },
+      {
+        "title": "COMPONENT OF AN ARTS AND CRAFTS PROJECT",
+        "words": [
+          "FELT",
+          "GLITTER",
+          "PIPE CLEANER",
+          "POMPOM"
+        ]
+      },
+      {
+        "title": "SOCIAL ___",
+        "words": [
+          "BUTTERFLY",
+          "MEDIA",
+          "SECURITY",
+          "WORKER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A whimsical journey through the mind's eye, where reality bends and dreams take flight.",
+      "The spotlight shines bright on those who take charge, leading the way through trials and triumphs.",
+      "Crafting magic with colorful materials, where creativity knows no bounds and every piece tells a story.",
+      "In the realm of social interactions, some flutter about effortlessly, while others connect through the digital tapestry."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1237,
+    "editor": "Tracy Bennett",
+    "solution": "rugby",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a sport played with an oval ball."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word shares its name with a popular game known for its tackles."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with 'hubby' and is often associated with teams and championships."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 822,
+    "editor": "Tracy Bennett",
+    "clue": "Natural remedies",
+    "spangram": "IMMUNEBOOSTERS",
+    "themeWords": [
+      "ELDERBERRY",
+      "GARLIC",
+      "HONEY",
+      "LEMON",
+      "TURMERIC"
+    ],
+    "startingBoard": [
+      "IEERBE",
+      "MLDYRR",
+      "MUNEIC",
+      "GARBRT",
+      "CILOEU",
+      "ETSOMR",
+      "RHEYNO",
+      "SONLEM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2571,
+    "sides": [
+      "IRT",
+      "UOE",
+      "AWN",
+      "QKC"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "CINQUAIN",
+      "NETWORK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23058,
+    "centerLetter": "i",
+    "outerLetters": "beflnu",
+    "pangrams": [
+      "bluefin",
+      "unbelief"
+    ],
+    "answers": [
+      "beeline",
+      "belie",
+      "belief",
+      "bible",
+      "biff",
+      "bile",
+      "bill",
+      "blin",
+      "blini",
+      "elfin",
+      "ennui",
+      "feline",
+      "fief",
+      "fife",
+      "file",
+      "fill",
+      "fine",
+      "fulfill",
+      "infill",
+      "innie",
+      "libel",
+      "libelee",
+      "lien",
+      "lieu",
+      "life",
+      "lifeline",
+      "line",
+      "linen",
+      "nibble",
+      "nine",
+      "nubbin",
+      "nubile"
+    ],
+    "pangramHints": [
+      {
+        "word": "bluefin",
+        "hint": "A vibrant fish known for its speed and beauty, often sought after in the culinary world."
+      },
+      {
+        "word": "unbelief",
+        "hint": "A state of doubt that challenges convictions and beliefs, often leading to deeper questions."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

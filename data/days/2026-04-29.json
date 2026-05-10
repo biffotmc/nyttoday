@@ -1,0 +1,172 @@
+{
+  "date": "2026-04-29",
+  "fetchedAt": "2026-05-10T20:30:04.180Z",
+  "connections": {
+    "puzzleId": 1137,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STEP IN A PROCESS",
+        "words": [
+          "LEVEL",
+          "PHASE",
+          "ROUND",
+          "STAGE"
+        ]
+      },
+      {
+        "title": "SOUND LIKE THUNDER",
+        "words": [
+          "BOOM",
+          "CLAP",
+          "ROLL",
+          "RUMBLE"
+        ]
+      },
+      {
+        "title": "KINDS OF PUPPETS",
+        "words": [
+          "HAND",
+          "SHADOW",
+          "SOCK",
+          "STRING"
+        ]
+      },
+      {
+        "title": "STANDING ___",
+        "words": [
+          "JOKE",
+          "ORDERS",
+          "OVATION",
+          "ROOM"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Every journey has its phases, but which one do you find yourself in today?",
+      "When nature speaks, it can be quite the spectacle; listen closely to the echoes.",
+      "These little performers can tell grand stories without uttering a single word.",
+      "In a place where applause meets laughter, what might you find standing tall?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2286,
+    "editor": "Tracy Bennett",
+    "solution": "rural",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of countryside and open fields."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to areas outside urban life."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with farming and nature, but don't confuse it with the city."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 960,
+    "editor": "Tracy Bennett",
+    "clue": "Fish or cut bait",
+    "spangram": "TACKLE",
+    "themeWords": [
+      "BOBBER",
+      "COOLER",
+      "HOOK",
+      "LURE",
+      "PLIERS",
+      "REEL",
+      "SWIVEL",
+      "WEIGHT"
+    ],
+    "startingBoard": [
+      "EEKBOB",
+      "RLOWEB",
+      "HOEHTR",
+      "TAIGLE",
+      "ERCKPL",
+      "ULWSEI",
+      "VICOOR",
+      "ELRELS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2703,
+    "sides": [
+      "RDO",
+      "JQX",
+      "HUN",
+      "CSE"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "EXCHEQUERS",
+      "SOJOURNED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17544,
+    "centerLetter": "v",
+    "outerLetters": "aeglot",
+    "pangrams": [
+      "voltage"
+    ],
+    "answers": [
+      "agave",
+      "eave",
+      "elevate",
+      "evolve",
+      "gavage",
+      "gave",
+      "gavel",
+      "gavotte",
+      "glove",
+      "lava",
+      "lavage",
+      "lave",
+      "leave",
+      "levee",
+      "level",
+      "lovage",
+      "love",
+      "oval",
+      "ovate",
+      "vagal",
+      "vale",
+      "valet",
+      "valve",
+      "veal",
+      "vegetal",
+      "vegetate",
+      "velvet",
+      "veto",
+      "vlog",
+      "vole",
+      "volt",
+      "vote"
+    ],
+    "pangramHints": [
+      {
+        "word": "voltage",
+        "hint": "A measure of electric potential; think about the power that flows."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

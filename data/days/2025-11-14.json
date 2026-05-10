@@ -1,0 +1,175 @@
+{
+  "date": "2025-11-14",
+  "fetchedAt": "2026-05-10T20:19:04.625Z",
+  "connections": {
+    "puzzleId": 930,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EVALUATE",
+        "words": [
+          "GRADE",
+          "JUDGE",
+          "RATE",
+          "REVIEW"
+        ]
+      },
+      {
+        "title": "RADIO TUNING OPTIONS",
+        "words": [
+          "BAND",
+          "CHANNEL",
+          "FREQUENCY",
+          "STATION"
+        ]
+      },
+      {
+        "title": "ACTION FILM SUBGENRES",
+        "words": [
+          "BUDDY",
+          "DISASTER",
+          "MARTIAL ARTS",
+          "SUPERHERO"
+        ]
+      },
+      {
+        "title": "CLASSIC '90S ACTION FILMS",
+        "words": [
+          "ARMAGEDDON",
+          "HARD BOILED",
+          "HEAT",
+          "SPEED"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When it comes to assessing quality, these terms play a crucial role in the final verdict.",
+      "Tune into these options to find the perfect frequency for your auditory pleasure.",
+      "Get ready for some thrilling sequences that redefine the meaning of action-packed!",
+      "These cinematic gems from a bygone era will surely rev up your adrenaline."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1066,
+    "editor": "Tracy Bennett",
+    "solution": "lurid",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something vivid and shocking."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word often describes something that stands out in a bold way."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It can relate to a sense that is both intense and eye-catching."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 788,
+    "editor": "Tracy Bennett",
+    "clue": "Low-key elusive",
+    "spangram": "BARELYTHERE",
+    "themeWords": [
+      "FAINT",
+      "NEBULOUS",
+      "SUBTLE",
+      "TENUOUS",
+      "UNDERSTATED"
+    ],
+    "startingBoard": [
+      "EREDEL",
+      "HUNEBT",
+      "NTSRUS",
+      "EYTATE",
+      "BTLSUD",
+      "UNEOET",
+      "LIARUN",
+      "OUSFAB"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2533,
+    "sides": [
+      "YOB",
+      "TRD",
+      "ALS",
+      "ING"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BLOG",
+      "GRANDIOSITY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23407,
+    "centerLetter": "k",
+    "outerLetters": "abelno",
+    "pangrams": [
+      "anklebone"
+    ],
+    "answers": [
+      "ankle",
+      "babka",
+      "bake",
+      "balk",
+      "bank",
+      "bankable",
+      "beak",
+      "blank",
+      "bleak",
+      "bloke",
+      "bonk",
+      "book",
+      "bookable",
+      "kabob",
+      "kale",
+      "kebab",
+      "keel",
+      "keen",
+      "kennel",
+      "keno",
+      "knee",
+      "kneel",
+      "knell",
+      "knob",
+      "knoll",
+      "koala",
+      "koan",
+      "kola",
+      "kook",
+      "lake",
+      "lank",
+      "leak",
+      "leek",
+      "look",
+      "lookbook",
+      "nankeen",
+      "nook",
+      "oaken"
+    ],
+    "pangramHints": [
+      {
+        "word": "anklebone",
+        "hint": "A unique combination of body parts, but don't mention the name!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

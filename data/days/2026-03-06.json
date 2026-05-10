@@ -1,0 +1,184 @@
+{
+  "date": "2026-03-06",
+  "fetchedAt": "2026-05-10T20:26:27.827Z",
+  "connections": {
+    "puzzleId": 1080,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FREELOADER",
+        "words": [
+          "LEECH",
+          "MOOCH",
+          "PARASITE",
+          "SPONGE"
+        ]
+      },
+      {
+        "title": "CONCEALING COVER",
+        "words": [
+          "BLANKET",
+          "CLOAK",
+          "CURTAIN",
+          "LAYER"
+        ]
+      },
+      {
+        "title": "WAYS ONE MIGHT REFER TO #",
+        "words": [
+          "HASH",
+          "NUMBER",
+          "POUND",
+          "SHARP"
+        ]
+      },
+      {
+        "title": "WORDS FOR LUCIDITY, IN THE SINGULAR",
+        "words": [
+          "FACULTY",
+          "MARBLE",
+          "SENSE",
+          "WIT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Some cling to you without giving back, like shadows in the night.",
+      "When the chill sets in, these layers keep secrets hidden.",
+      "A numerical enigma, often marked by a symbol that cuts through the noise.",
+      "In the realm of clarity, these terms shine bright, each a beacon of understanding."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 4616,
+    "editor": "Tracy Bennett",
+    "solution": "gunky",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that’s messy or unrefined."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s often associated with a sticky situation."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word describes a state that’s not quite clean, often used in a figurative sense."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 905,
+    "editor": "Tracy Bennett",
+    "clue": "That's dedication",
+    "spangram": "YOURBIGGESTFAN",
+    "themeWords": [
+      "DEVOTEE",
+      "ENTHUSIAST",
+      "FOLLOWER",
+      "LOVER",
+      "STAN"
+    ],
+    "startingBoard": [
+      "EOLBIG",
+      "RVRSEG",
+      "YUSTOF",
+      "OTFERL",
+      "AEOAWL",
+      "NDVTNO",
+      "EHUAEE",
+      "NTSIST"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2650,
+    "sides": [
+      "QOL",
+      "UHN",
+      "PRI",
+      "GCA"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "AQUAPLANING",
+      "GROUCH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18788,
+    "centerLetter": "u",
+    "outerLetters": "defilp",
+    "pangrams": [
+      "upfield"
+    ],
+    "answers": [
+      "delude",
+      "deluded",
+      "dude",
+      "duel",
+      "dueled",
+      "duff",
+      "duffel",
+      "duffle",
+      "dull",
+      "dulled",
+      "dupe",
+      "duped",
+      "duple",
+      "elude",
+      "eluded",
+      "feud",
+      "feuded",
+      "flue",
+      "fluff",
+      "fluffed",
+      "fluid",
+      "fuddle",
+      "fuddled",
+      "fuel",
+      "fueled",
+      "fulfill",
+      "fulfilled",
+      "full",
+      "lieu",
+      "luff",
+      "lull",
+      "lulled",
+      "lulu",
+      "pileup",
+      "puddle",
+      "puddled",
+      "puff",
+      "puffed",
+      "pule",
+      "puled",
+      "puli",
+      "pull",
+      "pulled",
+      "pulp",
+      "pulped",
+      "pupil",
+      "upped"
+    ],
+    "pangramHints": [
+      {
+        "word": "upfield",
+        "hint": "A direction beyond the usual, where things grow and flourish."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

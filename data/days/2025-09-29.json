@@ -1,0 +1,166 @@
+{
+  "date": "2025-09-29",
+  "fetchedAt": "2026-05-10T20:15:59.588Z",
+  "connections": {
+    "puzzleId": 876,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KINDS OF UNDERWEAR",
+        "words": [
+          "BOXER",
+          "BRIEF",
+          "HIPSTER",
+          "THONG"
+        ]
+      },
+      {
+        "title": "PLAY A JOKE ON",
+        "words": [
+          "FOOL",
+          "PRANK",
+          "PUNK",
+          "TRICK"
+        ]
+      },
+      {
+        "title": "PARTS OF A TOILET TANK",
+        "words": [
+          "CHAIN",
+          "FLAPPER",
+          "FLOAT",
+          "HANDLE"
+        ]
+      },
+      {
+        "title": "FIRST WORDS IN '70S ROCK SONG TITLES",
+        "words": [
+          "BABA",
+          "BOHEMIAN",
+          "HOTEL",
+          "STAIRWAY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Underneath it all, these garments come in various styles, each with its own flair. Which one do you prefer to wear?",
+      "A little mischief can go a long way; these actions are all about having a laugh at someone else's expense.",
+      "In the realm of plumbing, these components work together to keep things flowing smoothly. Can you name them?",
+      "These iconic phrases kick off some legendary tunes from a bygone era. Let the music take you back!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 863,
+    "editor": "Tracy Bennett",
+    "solution": "civil",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about society and its structure."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to a community or its citizens."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term often used in discussions about rights and duties."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 742,
+    "editor": "Tracy Bennett",
+    "clue": "Chew on that!",
+    "spangram": "GUMFLAVOR",
+    "themeWords": [
+      "BERRY",
+      "BUBBLE",
+      "CINNAMON",
+      "SPEARMINT",
+      "WINTERGREEN"
+    ],
+    "startingBoard": [
+      "BBLEMN",
+      "UCINAO",
+      "BWNGRE",
+      "GNIRNE",
+      "SUTEVO",
+      "PTMFAR",
+      "ENIBLY",
+      "ARMERR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2491,
+    "sides": [
+      "QTS",
+      "AOI",
+      "NGU",
+      "HPV"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "VANQUISH",
+      "HIGHTOP"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17137,
+    "centerLetter": "p",
+    "outerLetters": "acnotu",
+    "pangrams": [
+      "occupant"
+    ],
+    "answers": [
+      "atop",
+      "capo",
+      "capon",
+      "catnap",
+      "coop",
+      "coopt",
+      "copout",
+      "coup",
+      "coupon",
+      "cuppa",
+      "cutup",
+      "output",
+      "pact",
+      "pant",
+      "papa",
+      "pontoon",
+      "poop",
+      "poppa",
+      "potato",
+      "pout",
+      "punt",
+      "pupa",
+      "putout",
+      "putt",
+      "tapa",
+      "topcoat",
+      "unapt",
+      "uncap",
+      "upon"
+    ],
+    "pangramHints": [
+      {
+        "word": "occupant",
+        "hint": "A resident or dweller, but don't say it outright!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

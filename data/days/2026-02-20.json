@@ -1,0 +1,165 @@
+{
+  "date": "2026-02-20",
+  "fetchedAt": "2026-05-10T20:25:20.541Z",
+  "connections": {
+    "puzzleId": 1069,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "QUICK FIX",
+        "words": [
+          "EASY ANSWER",
+          "MAGIC WAND",
+          "PANACEA",
+          "SILVER BULLET"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH THE MOON",
+        "words": [
+          "ECLIPSE",
+          "GREEN CHEESE",
+          "TIDE",
+          "WEREWOLF"
+        ]
+      },
+      {
+        "title": "ORIGINAL MONOPOLY TOKENS",
+        "words": [
+          "BOOT",
+          "IRON",
+          "THIMBLE",
+          "TOP HAT"
+        ]
+      },
+      {
+        "title": "WHAT \"JACK\" MIGHT REFER TO",
+        "words": [
+          "CHEESE",
+          "DONKEY",
+          "PLAYING CARD",
+          "SOCKET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When life gets tough, these are your go-to solutions, like a superhero in disguise.",
+      "Celestial events and folklore collide here; think of the night sky's secrets.",
+      "Classic pieces from a beloved board game that have stood the test of time.",
+      "A playful riddle about a common name that can mean many things, from food to games."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 619,
+    "editor": "Tracy Bennett",
+    "solution": "stank",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It’s a word often associated with unpleasant odors."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that can describe a bad smell or a situation."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to something that leaves a negative impression."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 889,
+    "editor": "Tracy Bennett",
+    "clue": "True grit",
+    "spangram": "SANDPAPER",
+    "themeWords": [
+      "ABRASIVE",
+      "COARSE",
+      "HARSH",
+      "PRICKLY",
+      "ROUGH",
+      "SCRATCHY"
+    ],
+    "startingBoard": [
+      "SAHYSC",
+      "PNDCAR",
+      "RCPATR",
+      "IKLPEA",
+      "GHYISB",
+      "UORVAR",
+      "EAOEHH",
+      "SRCARS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2635,
+    "sides": [
+      "NAO",
+      "SJL",
+      "KBM",
+      "URC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "MAJORS",
+      "SUNBLOCK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25549,
+    "centerLetter": "u",
+    "outerLetters": "abdgly",
+    "pangrams": [
+      "ladybug"
+    ],
+    "answers": [
+      "baud",
+      "bubba",
+      "bubbly",
+      "buddy",
+      "buggy",
+      "bulb",
+      "bulgy",
+      "bull",
+      "bully",
+      "daub",
+      "dual",
+      "dually",
+      "dull",
+      "dully",
+      "duly",
+      "gaudy",
+      "glug",
+      "gulag",
+      "gull",
+      "gully",
+      "laud",
+      "laudably",
+      "luau",
+      "lull",
+      "lullaby",
+      "lulu",
+      "ugly"
+    ],
+    "pangramHints": [
+      {
+        "word": "ladybug",
+        "hint": "A charming little creature that brings luck; think of gardens and colors."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

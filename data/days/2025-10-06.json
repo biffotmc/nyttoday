@@ -1,0 +1,190 @@
+{
+  "date": "2025-10-06",
+  "fetchedAt": "2026-05-10T20:16:29.257Z",
+  "connections": {
+    "puzzleId": 891,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PARTS OF A RECORD PLAYER SETUP",
+        "words": [
+          "AMP",
+          "PREAMP",
+          "SPEAKER",
+          "TURNTABLE"
+        ]
+      },
+      {
+        "title": "KINDS OF COATS",
+        "words": [
+          "CAMEL",
+          "DUFFLE",
+          "PEA",
+          "TRENCH"
+        ]
+      },
+      {
+        "title": "THINGS THAT COME ON SPOOLS",
+        "words": [
+          "FILM",
+          "TAPE",
+          "THREAD",
+          "WIRE"
+        ]
+      },
+      {
+        "title": "STARTING WITH HOMOPHONES OF GREETINGS",
+        "words": [
+          "HAIKU",
+          "HAYSTACK",
+          "HELONIUM",
+          "YEOMAN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the music hits, these components play their part in harmony.",
+      "From the classic to the trendy, these outer layers keep you warm.",
+      "These items unwind their stories, often found in a crafty corner.",
+      "Words that sound alike but lead you down different paths of creativity."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1026,
+    "editor": "Tracy Bennett",
+    "solution": "amuse",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that brings joy."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a feeling often associated with laughter."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also mean to entertain or provide enjoyment."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 750,
+    "editor": "Tracy Bennett",
+    "clue": "In for the evening",
+    "spangram": "LOUNGEWEAR",
+    "themeWords": [
+      "JOGGERS",
+      "LONGJOHNS",
+      "NIGHTGOWNS",
+      "PAJAMAS",
+      "ROBES"
+    ],
+    "startingBoard": [
+      "PJMSOE",
+      "AAARBS",
+      "IGHTWS",
+      "NOUGON",
+      "LNGEER",
+      "LOHGWA",
+      "OJNOGS",
+      "NGSJER"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2502,
+    "sides": [
+      "ESL",
+      "OAF",
+      "RTH",
+      "IVW"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "OVERFLOW",
+      "WHATSIT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22668,
+    "centerLetter": "l",
+    "outerLetters": "abginz",
+    "pangrams": [
+      "blazing",
+      "labializing"
+    ],
+    "answers": [
+      "ailing",
+      "alga",
+      "algal",
+      "alibi",
+      "align",
+      "aligning",
+      "anal",
+      "angling",
+      "annal",
+      "babbling",
+      "bail",
+      "bailing",
+      "baling",
+      "ball",
+      "balling",
+      "banal",
+      "bilabial",
+      "bill",
+      "billing",
+      "blab",
+      "blabbing",
+      "blin",
+      "bling",
+      "blini",
+      "gabbling",
+      "gala",
+      "galangal",
+      "gall",
+      "galling",
+      "ganglia",
+      "gangling",
+      "giggling",
+      "gill",
+      "gilling",
+      "glazing",
+      "glia",
+      "glib",
+      "labia",
+      "labial",
+      "lagging",
+      "lain",
+      "lanai",
+      "lazing",
+      "lining",
+      "nail",
+      "nailing",
+      "nibbling",
+      "niggling"
+    ],
+    "pangramHints": [
+      {
+        "word": "blazing",
+        "hint": "A fiery term that ignites enthusiasm."
+      },
+      {
+        "word": "labializing",
+        "hint": "A complex term that wraps around the lips."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "date": "2025-10-19",
+  "fetchedAt": "2026-05-10T20:17:14.001Z",
+  "connections": {
+    "puzzleId": 900,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TOPPLE",
+        "words": [
+          "FALL",
+          "SPILL",
+          "TUMBLE",
+          "WIPEOUT"
+        ]
+      },
+      {
+        "title": "PARTS OF A BOOK",
+        "words": [
+          "COVER",
+          "JACKET",
+          "LEAVES",
+          "SPINE"
+        ]
+      },
+      {
+        "title": "LOSE IT, WITH \"OUT\"",
+        "words": [
+          "BUG",
+          "FLIP",
+          "FREAK",
+          "WIG"
+        ]
+      },
+      {
+        "title": "CHOCOLATE BARS PLUS A LETTER",
+        "words": [
+          "CRUNCHY",
+          "DOVER",
+          "MARSH",
+          "SKORT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When gravity takes charge, the outcome can be quite messy.",
+      "A tale's cover can reveal much, but the real story lies within.",
+      "Sometimes, letting go is the only way to find freedom.",
+      "A sweet treat can take on new forms with just a little twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 899,
+    "editor": "Tracy Bennett",
+    "solution": "ideal",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a concept that embodies perfection."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with aspirations and goals."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that starts with a vowel and suggests something exemplary."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 760,
+    "editor": "Tracy Bennett",
+    "clue": "For the picking",
+    "spangram": "APPLES",
+    "themeWords": [
+      "BUTTER",
+      "CIDER",
+      "COMPOTE",
+      "FRITTER",
+      "JELLY",
+      "SAUCE",
+      "STRUDEL"
+    ],
+    "startingBoard": [
+      "UCEYLR",
+      "ARJELE",
+      "SUETDI",
+      "BPTLCS",
+      "ACPRER",
+      "EOSTUE",
+      "TMEDFT",
+      "OPLRIT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2511,
+    "sides": [
+      "IOB",
+      "LYT",
+      "HDR",
+      "UAG"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "LIGHTBULB",
+      "BYROAD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19667,
+    "centerLetter": "t",
+    "outerLetters": "befgin",
+    "pangrams": [
+      "befitting",
+      "benefiting",
+      "benefitting"
+    ],
+    "answers": [
+      "beet",
+      "befit",
+      "beget",
+      "begetting",
+      "beignet",
+      "benefit",
+      "bent",
+      "betting",
+      "bite",
+      "biting",
+      "bitten",
+      "effete",
+      "entente",
+      "feet",
+      "feint",
+      "feinting",
+      "fete",
+      "feting",
+      "fifteen",
+      "finite",
+      "fitting",
+      "gent",
+      "getting",
+      "gift",
+      "gifting",
+      "ignite",
+      "igniting",
+      "infinite",
+      "intent",
+      "netting",
+      "nineteen",
+      "nite",
+      "teeing",
+      "teen",
+      "teff",
+      "tenet",
+      "tent",
+      "tenting",
+      "tiff",
+      "tine",
+      "tinge",
+      "tingeing",
+      "tinging",
+      "tinning",
+      "tint",
+      "tinting"
+    ],
+    "pangramHints": [
+      {
+        "word": "befitting",
+        "hint": "A word that suggests appropriateness or suitability."
+      },
+      {
+        "word": "benefiting",
+        "hint": "This word implies gaining an advantage or profit."
+      },
+      {
+        "word": "benefitting",
+        "hint": "Similar to the previous, but with a twist in spelling."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

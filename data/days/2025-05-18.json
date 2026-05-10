@@ -1,0 +1,195 @@
+{
+  "date": "2025-05-18",
+  "fetchedAt": "2026-05-10T20:06:45.691Z",
+  "connections": {
+    "puzzleId": 746,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TASKS FOR A STUDENT",
+        "words": [
+          "ASSIGNMENT",
+          "DRILL",
+          "EXERCISE",
+          "LESSON"
+        ]
+      },
+      {
+        "title": "ENCOURAGING RESPONSES IN A GUESSING GAME",
+        "words": [
+          "ALMOST",
+          "CLOSE",
+          "NOT QUITE",
+          "WARM"
+        ]
+      },
+      {
+        "title": "UP FOR ANYTHING",
+        "words": [
+          "EASY",
+          "FLEXIBLE",
+          "GAME",
+          "OPEN"
+        ]
+      },
+      {
+        "title": "WHAT “A” MIGHT MEAN",
+        "words": [
+          "AREA",
+          "ATHLETIC",
+          "EXCELLENT",
+          "ONE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Every scholar knows the importance of practice; these tasks are the building blocks of knowledge.",
+      "In the game of guesses, some hints are like warm sunlight—close enough to feel the heat.",
+      "Being adaptable is key; these words suggest a willingness to embrace whatever comes your way.",
+      "The letter 'A' can symbolize many things; here are some interpretations that might surprise you."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1951,
+    "editor": "Tracy Bennett",
+    "solution": "livid",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word describes a strong emotion, often associated with anger."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a color that reflects intense feelings."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word starts with 'L' and ends with 'D', and it's not a pleasant state to be in."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 605,
+    "editor": "Tracy Bennett",
+    "clue": "Riding the wind",
+    "spangram": "SAILBOAT",
+    "themeWords": [
+      "HELM",
+      "HULL",
+      "KEEL",
+      "MAST",
+      "RIGGING",
+      "RUDDER",
+      "STERN",
+      "TILLER"
+    ],
+    "startingBoard": [
+      "STIGIR",
+      "ANBGLM",
+      "MGLOEH",
+      "SAIUAT",
+      "ELHDLL",
+      "EREDUR",
+      "KSTTIL",
+      "NREREL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2357,
+    "sides": [
+      "EDA",
+      "BIL",
+      "CRH",
+      "NTW"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BANDWIDTH",
+      "HERETICAL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20246,
+    "centerLetter": "f",
+    "outerLetters": "agilnu",
+    "pangrams": [
+      "gainful",
+      "unfailing",
+      "unflagging"
+    ],
+    "answers": [
+      "alfalfa",
+      "fail",
+      "failing",
+      "fall",
+      "falling",
+      "fang",
+      "fanning",
+      "faun",
+      "fauna",
+      "faunal",
+      "fifing",
+      "filial",
+      "filing",
+      "fill",
+      "filling",
+      "finagling",
+      "final",
+      "finial",
+      "fining",
+      "flag",
+      "flagging",
+      "flail",
+      "flailing",
+      "flan",
+      "flanging",
+      "fling",
+      "flinging",
+      "fluff",
+      "fluffing",
+      "flung",
+      "fugu",
+      "fulfill",
+      "fulfilling",
+      "full",
+      "fungal",
+      "fungi",
+      "gaff",
+      "guff",
+      "gulf",
+      "infill",
+      "infilling",
+      "luff",
+      "lungful",
+      "naif",
+      "unfulfilling"
+    ],
+    "pangramHints": [
+      {
+        "word": "gainful",
+        "hint": "A rewarding pursuit, often tied to effort and benefit."
+      },
+      {
+        "word": "unfailing",
+        "hint": "Reliability is its hallmark; think of something that never lets you down."
+      },
+      {
+        "word": "unflagging",
+        "hint": "Persistence is key; this word embodies tireless dedication."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "date": "2025-05-28",
+  "fetchedAt": "2026-05-10T20:07:26.272Z",
+  "connections": {
+    "puzzleId": 762,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CONNECT",
+        "words": [
+          "BRIDGE",
+          "JOIN",
+          "LINK",
+          "UNITE"
+        ]
+      },
+      {
+        "title": "PARTS OF A BIKE",
+        "words": [
+          "CHAIN",
+          "PEDAL",
+          "SADDLE",
+          "WHEEL"
+        ]
+      },
+      {
+        "title": "BEST PICTURE WINNERS SINCE 2000",
+        "words": [
+          "CHICAGO",
+          "CRASH",
+          "GLADIATOR",
+          "MOONLIGHT"
+        ]
+      },
+      {
+        "title": "MUSIC GENRES PLUS A LETTER",
+        "words": [
+          "BLUEST",
+          "POPE",
+          "ROCKY",
+          "SKAT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Think of structures that connect people and places, often spanning gaps.",
+      "These components help you ride smoothly, each playing a vital role in motion.",
+      "Films that have taken home the golden statue, each a tale worth telling.",
+      "Genres that groove and move, with a twist of an extra character."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1545,
+    "editor": "Tracy Bennett",
+    "solution": "polar",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's related to the cold and the North."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think about the opposite of warmth."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a specific type of climate or a type of bear."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 615,
+    "editor": "Tracy Bennett",
+    "clue": "Top contenders",
+    "spangram": "FINISHSTRONG",
+    "themeWords": [
+      "CHAMP",
+      "MEDALIST",
+      "TITLEHOLDER",
+      "VICTOR",
+      "WINNER"
+    ],
+    "startingBoard": [
+      "ITHOER",
+      "TLELDV",
+      "FINOTI",
+      "ILIRMC",
+      "SASHPA",
+      "TWDSCH",
+      "NIETRO",
+      "NERMGN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2367,
+    "sides": [
+      "DKN",
+      "GLW",
+      "CTI",
+      "AOR"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "TWANG",
+      "GRIDLOCK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20622,
+    "centerLetter": "d",
+    "outerLetters": "abortu",
+    "pangrams": [
+      "outboard",
+      "troubadour"
+    ],
+    "answers": [
+      "aboard",
+      "abroad",
+      "adobo",
+      "ardor",
+      "bard",
+      "baud",
+      "board",
+      "brad",
+      "broad",
+      "brood",
+      "dart",
+      "dartboard",
+      "data",
+      "daub",
+      "dodo",
+      "doodad",
+      "door",
+      "dorado",
+      "dotard",
+      "doubt",
+      "dour",
+      "drab",
+      "drat",
+      "drub",
+      "odor",
+      "outdo",
+      "outdoor",
+      "radar",
+      "road",
+      "rood",
+      "tabard",
+      "toad",
+      "trod"
+    ],
+    "pangramHints": [
+      {
+        "word": "outboard",
+        "hint": "A word often associated with boats, it’s a part that helps you move through water."
+      },
+      {
+        "word": "troubadour",
+        "hint": "A term for a traveling musician, often linked to tales of love and adventure."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "date": "2025-07-22",
+  "fetchedAt": "2026-05-10T20:11:06.289Z",
+  "connections": {
+    "puzzleId": 811,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SASSINESS",
+        "words": [
+          "ATTITUDE",
+          "CHEEK",
+          "LIP",
+          "MOUTH"
+        ]
+      },
+      {
+        "title": "MITIGATE",
+        "words": [
+          "CUSHION",
+          "DAMPEN",
+          "SOFTEN",
+          "TEMPER"
+        ]
+      },
+      {
+        "title": "PATTERNS",
+        "words": [
+          "CAMO",
+          "CHECKERS",
+          "HONEYCOMB",
+          "STRIPES"
+        ]
+      },
+      {
+        "title": "___ PIE",
+        "words": [
+          "CHESS",
+          "CUTIE",
+          "HUMBLE",
+          "WHOOPIE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A bold flair can turn heads, but don't forget to keep it playful.",
+      "When life throws challenges, a gentle touch can make all the difference.",
+      "Shapes and designs can dance together in a delightful display.",
+      "Sweet treats can come in many forms, some are more playful than others."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 915,
+    "editor": "Tracy Bennett",
+    "solution": "burnt",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that can be charred."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often associated with a cooking mishap."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also describe a color, often seen in a sunset."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 673,
+    "editor": "Tracy Bennett",
+    "clue": "Pet store purchase",
+    "spangram": "AQUARIUM",
+    "themeWords": [
+      "FILTER",
+      "FISH",
+      "PLANTS",
+      "PUMP",
+      "ROCKS",
+      "TANK",
+      "THERMOMETER"
+    ],
+    "startingBoard": [
+      "ETLAKN",
+      "RIQTAR",
+      "PPFUOC",
+      "MUASKM",
+      "HIFREO",
+      "SLITRM",
+      "SAPUER",
+      "TNMTHE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2422,
+    "sides": [
+      "RLS",
+      "QNT",
+      "AIO",
+      "UBE"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "QUARTILES",
+      "SNOB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21059,
+    "centerLetter": "h",
+    "outerLetters": "bceiot",
+    "pangrams": [
+      "biotech"
+    ],
+    "answers": [
+      "beech",
+      "boho",
+      "boohoo",
+      "booth",
+      "botch",
+      "both",
+      "chic",
+      "chichi",
+      "chit",
+      "choice",
+      "coho",
+      "echo",
+      "echoic",
+      "etch",
+      "ethic",
+      "hectic",
+      "hitch",
+      "hobbit",
+      "hobo",
+      "hooch",
+      "hoot",
+      "hottie",
+      "itch",
+      "tech",
+      "techie",
+      "teeth",
+      "teethe",
+      "thee",
+      "tithe",
+      "tooth"
+    ],
+    "pangramHints": [
+      {
+        "word": "biotech",
+        "hint": "A blend of biology and technology; think innovation."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2025-12-24",
+  "fetchedAt": "2026-05-10T20:21:36.148Z",
+  "connections": {
+    "puzzleId": 969,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SLANG FOR MONEY",
+        "words": [
+          "BACON",
+          "BREAD",
+          "CHEESE",
+          "PAPER"
+        ]
+      },
+      {
+        "title": "MASTICATE",
+        "words": [
+          "BITE",
+          "CHAMP",
+          "CHEW",
+          "MUNCH"
+        ]
+      },
+      {
+        "title": "FISH",
+        "words": [
+          "CHAR",
+          "POLLOCK",
+          "SOLE",
+          "TANG"
+        ]
+      },
+      {
+        "title": "WAYS TO VOCALIZE MUSICALLY PLUS A LETTER",
+        "words": [
+          "HUMP",
+          "RAPT",
+          "SINGE",
+          "WHISTLER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you're feeling flush, you might just want to stack it all up in a pile.",
+      "It's all about the rhythm of the jaw; chew your way to satisfaction.",
+      "From the depths of the ocean to your plate, these swimmers are quite the catch.",
+      "To serenade with flair, add a twist and let your voice take flight."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1619,
+    "editor": "Tracy Bennett",
+    "solution": "spool",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that helps you keep things organized."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s often used in the context of sewing or crafts."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a type of thread or cord."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 828,
+    "editor": "Tracy Bennett",
+    "clue": "Gather around",
+    "spangram": "SNUGASABUG",
+    "themeWords": [
+      "COMFY",
+      "COZY",
+      "HOMEY",
+      "PLEASANT",
+      "RELAXING",
+      "SOFT",
+      "WARM"
+    ],
+    "startingBoard": [
+      "MOCHOM",
+      "FWATFE",
+      "YRMOSY",
+      "SNUGAS",
+      "YZOCRA",
+      "AELPEB",
+      "SANTLU",
+      "GNIXAG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2593,
+    "sides": [
+      "IOY",
+      "DRU",
+      "LKA",
+      "CBN"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "CARIBOU",
+      "UNKINDLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 14079,
+    "centerLetter": "p",
+    "outerLetters": "aginrw",
+    "pangrams": [
+      "warping",
+      "wrapping"
+    ],
+    "answers": [
+      "apian",
+      "aping",
+      "gaping",
+      "gawp",
+      "gawping",
+      "grappa",
+      "grip",
+      "griping",
+      "gripping",
+      "napping",
+      "nipping",
+      "pagan",
+      "paging",
+      "pain",
+      "paining",
+      "pair",
+      "pairing",
+      "pang",
+      "panini",
+      "panning",
+      "papa",
+      "papaw",
+      "paring",
+      "pawing",
+      "pawn",
+      "pawning",
+      "pawpaw",
+      "pigging",
+      "ping",
+      "pinging",
+      "pining",
+      "pinning",
+      "piping",
+      "pippin",
+      "prawn",
+      "prig",
+      "rapini",
+      "rapping",
+      "riparian",
+      "ripping",
+      "warp",
+      "wiping",
+      "wrap"
+    ],
+    "pangramHints": [
+      {
+        "word": "warping",
+        "hint": "A twisting motion that can change the shape of something."
+      },
+      {
+        "word": "wrapping",
+        "hint": "Covering something snugly, often for protection or presentation."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

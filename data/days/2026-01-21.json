@@ -1,0 +1,189 @@
+{
+  "date": "2026-01-21",
+  "fetchedAt": "2026-05-10T20:23:27.634Z",
+  "connections": {
+    "puzzleId": 1014,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ITEMS TO RECYCLE",
+        "words": [
+          "BOTTLE",
+          "CAN",
+          "CARDBOARD BOX",
+          "NEWSPAPER"
+        ]
+      },
+      {
+        "title": "BEDDING",
+        "words": [
+          "BLANKET",
+          "SHAM",
+          "SHEET",
+          "THROW"
+        ]
+      },
+      {
+        "title": "PLAGIARIZE",
+        "words": [
+          "COPY",
+          "CRIB",
+          "LIFT",
+          "PIRATE"
+        ]
+      },
+      {
+        "title": "BATMAN'S \"BAT\" THINGS",
+        "words": [
+          "CAVE",
+          "MOBILE",
+          "SIGNAL",
+          "SUIT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These items help our planet breathe a little easier; they come in all shapes and sizes.",
+      "When the night gets chilly, these cozy companions wrap you in warmth and comfort.",
+      "To take someone else's work and call it your own is a slippery slope; tread carefully!",
+      "In the shadowy world of Gotham, these gadgets and gear keep the caped crusader ready for action."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1642,
+    "editor": "Tracy Bennett",
+    "solution": "cubic",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a geometric shape."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It has equal sides and angles."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This term often describes a three-dimensional form."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 856,
+    "editor": "Tracy Bennett",
+    "clue": "That's not very polite",
+    "spangram": "DONTBERUDE",
+    "themeWords": [
+      "BURP",
+      "GLOAT",
+      "INTERRUPT",
+      "POINT",
+      "SHOUT",
+      "STARE",
+      "TEASE"
+    ],
+    "startingBoard": [
+      "TADOER",
+      "EOLNSA",
+      "SEGTPT",
+      "BATBOT",
+      "UPREIN",
+      "TRUIRU",
+      "UHDNRP",
+      "OSETET"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2605,
+    "sides": [
+      "TBL",
+      "YAO",
+      "EPR",
+      "MGC"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CRABMEAT",
+      "TOPOLOGY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15608,
+    "centerLetter": "o",
+    "outerLetters": "acelnw",
+    "pangrams": [
+      "allowance"
+    ],
+    "answers": [
+      "aeon",
+      "allow",
+      "aloe",
+      "alone",
+      "anon",
+      "cacao",
+      "callaloo",
+      "callow",
+      "cannon",
+      "canoe",
+      "canola",
+      "canon",
+      "cello",
+      "cloaca",
+      "clone",
+      "clown",
+      "coal",
+      "coca",
+      "cocoa",
+      "cocoon",
+      "cola",
+      "colcannon",
+      "colleen",
+      "colon",
+      "colonel",
+      "conceal",
+      "cone",
+      "cool",
+      "cowl",
+      "llano",
+      "loan",
+      "local",
+      "locale",
+      "loco",
+      "loll",
+      "lone",
+      "loon",
+      "neocon",
+      "neon",
+      "noel",
+      "nonce",
+      "none",
+      "nonlocal",
+      "noon",
+      "ocean",
+      "oleo",
+      "once",
+      "wallow",
+      "wool",
+      "woolen"
+    ],
+    "pangramHints": [
+      {
+        "word": "allowance",
+        "hint": "A sum of money given regularly; think of it as a small financial gift."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

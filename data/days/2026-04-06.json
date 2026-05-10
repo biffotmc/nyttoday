@@ -1,0 +1,160 @@
+{
+  "date": "2026-04-06",
+  "fetchedAt": "2026-05-10T20:28:33.816Z",
+  "connections": {
+    "puzzleId": 1107,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EVENTS WITH DANCING",
+        "words": [
+          "BALL",
+          "HOEDOWN",
+          "HOP",
+          "RAVE"
+        ]
+      },
+      {
+        "title": "INTEREST",
+        "words": [
+          "CLAIM",
+          "CONCERN",
+          "SHARE",
+          "STAKE"
+        ]
+      },
+      {
+        "title": "COMPONENTS OF WHAC-A-MOLE",
+        "words": [
+          "HOLES",
+          "MALLET",
+          "MOLE",
+          "TIMER"
+        ]
+      },
+      {
+        "title": "MUSICALS WITH LAST LETTER CHANGED",
+        "words": [
+          "CAROUSER",
+          "EVITE",
+          "OLIVES",
+          "WICKET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A formal gathering where the rhythm takes over and feet can't resist the beat.",
+      "When you have something to say, sometimes you need to put your name on it.",
+      "In a game of reflexes, these elements keep the action lively and unpredictable.",
+      "Imagine a story told through song, but with a twist at the end that changes everything."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 950,
+    "editor": "Tracy Bennett",
+    "solution": "sworn",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a promise made."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to pledge allegiance."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term often associated with oaths and commitments."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 937,
+    "editor": "Tracy Bennett",
+    "clue": "Fringe group",
+    "spangram": "OUTERLIMITS",
+    "themeWords": [
+      "BOUNDARY",
+      "BRINK",
+      "EDGE",
+      "EXTREMITY",
+      "MARGIN",
+      "VERGE"
+    ],
+    "startingBoard": [
+      "VNUOBE",
+      "EDARYG",
+      "RARGID",
+      "GMKBNE",
+      "EMNIRS",
+      "OEITYT",
+      "URTXEI",
+      "TERLIM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2680,
+    "sides": [
+      "DWE",
+      "TUL",
+      "AIF",
+      "RGN"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "INAUGURAL",
+      "LEFTWARD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16880,
+    "centerLetter": "h",
+    "outerLetters": "acekpy",
+    "pangrams": [
+      "paycheck"
+    ],
+    "answers": [
+      "ache",
+      "achy",
+      "cache",
+      "chap",
+      "cheap",
+      "check",
+      "cheek",
+      "cheeky",
+      "cheep",
+      "each",
+      "hack",
+      "haka",
+      "hake",
+      "happy",
+      "heap",
+      "heck",
+      "hype",
+      "peach",
+      "peachy",
+      "yeah",
+      "yecch",
+      "yech"
+    ],
+    "pangramHints": [
+      {
+        "word": "paycheck",
+        "hint": "A financial term that sounds like a reward for hard work."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

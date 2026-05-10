@@ -1,0 +1,200 @@
+{
+  "date": "2026-01-08",
+  "fetchedAt": "2026-05-10T20:22:40.305Z",
+  "connections": {
+    "puzzleId": 1002,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BIT OF A RESPONSE TO STRONG EMOTIONS",
+        "words": [
+          "CHILL",
+          "GOOSEBUMP",
+          "SHIVER",
+          "TINGLE"
+        ]
+      },
+      {
+        "title": "BREAK THE RULES",
+        "words": [
+          "JAYWALK",
+          "LITTER",
+          "LOITER",
+          "SPEED"
+        ]
+      },
+      {
+        "title": "FIRST-CLASS LEVERS",
+        "words": [
+          "CLOTHESPIN",
+          "CROWBAR",
+          "SCISSORS",
+          "SEESAW"
+        ]
+      },
+      {
+        "title": "STARTING WITH CANDY BARS",
+        "words": [
+          "AEROPLANE",
+          "DOVETAIL",
+          "HEATHERS",
+          "MARSALA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the heart races and the skin tingles, these words capture the sensations of a powerful moment.",
+      "Sometimes the rules are just suggestions, and these actions might lead you astray.",
+      "These tools can lift and separate, each with its own unique purpose in the world of mechanics.",
+      "These delightful treats take flight in unexpected ways, combining sweetness with creativity."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 573,
+    "editor": "Tracy Bennett",
+    "solution": "blast",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a sudden impact or force."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to make a loud noise."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with a burst of energy or excitement."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 843,
+    "editor": "Tracy Bennett",
+    "clue": "That's just reality (TV)",
+    "spangram": "THETRAITORS",
+    "themeWords": [
+      "BANISHMENT",
+      "CASTLE",
+      "FAITHFUL",
+      "MISSION",
+      "SHIELD"
+    ],
+    "startingBoard": [
+      "SIEASE",
+      "HDLCTL",
+      "THETRA",
+      "BFAITI",
+      "ASIMHT",
+      "NSILFO",
+      "INOUTR",
+      "SHMENS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2583,
+    "sides": [
+      "CUL",
+      "NRP",
+      "HDE",
+      "AIM"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PUNCHLINE",
+      "EARDRUM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16380,
+    "centerLetter": "a",
+    "outerLetters": "deimty",
+    "pangrams": [
+      "daytime"
+    ],
+    "answers": [
+      "added",
+      "admit",
+      "admitted",
+      "aide",
+      "aided",
+      "aimed",
+      "amid",
+      "amity",
+      "daddy",
+      "dame",
+      "dammed",
+      "dammit",
+      "data",
+      "date",
+      "dated",
+      "dead",
+      "deadeye",
+      "diadem",
+      "dyad",
+      "edamame",
+      "edema",
+      "idea",
+      "ideate",
+      "ideated",
+      "imam",
+      "imitate",
+      "imitated",
+      "immediate",
+      "madam",
+      "madame",
+      "made",
+      "maid",
+      "maim",
+      "maimed",
+      "mama",
+      "mamma",
+      "mate",
+      "mated",
+      "matey",
+      "matte",
+      "matted",
+      "mayday",
+      "mead",
+      "meat",
+      "meaty",
+      "media",
+      "mediate",
+      "mediated",
+      "meditate",
+      "meditated",
+      "meta",
+      "metadata",
+      "midday",
+      "tame",
+      "tamed",
+      "tatami",
+      "tatted",
+      "tatty",
+      "team",
+      "teamed",
+      "teammate",
+      "teat",
+      "teatime"
+    ],
+    "pangramHints": [
+      {
+        "word": "daytime",
+        "hint": "A period of light when activities often bloom, but don't spell it out!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "date": "2025-10-10",
+  "fetchedAt": "2026-05-10T20:16:42.017Z",
+  "connections": {
+    "puzzleId": 892,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SIGNIFICANT",
+        "words": [
+          "BIG",
+          "IMPORTANT",
+          "MAJOR",
+          "SERIOUS"
+        ]
+      },
+      {
+        "title": "ONE IN A SEPTET",
+        "words": [
+          "CONTINENT",
+          "DEADLY SIN",
+          "SISTER",
+          "WONDER"
+        ]
+      },
+      {
+        "title": "TAROT CARDS, WITH \"THE\"",
+        "words": [
+          "DEVIL",
+          "LOVERS",
+          "MAGICIAN",
+          "STAR"
+        ]
+      },
+      {
+        "title": "___ EYE",
+        "words": [
+          "EVIL",
+          "MAGIC",
+          "NAKED",
+          "THIRD"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Think of the weighty matters that shape our lives; these words carry a lot of gravity.",
+      "Consider the unique members of a group of seven, each with its own distinct role.",
+      "Mystical symbols await; delve into the cards that reveal hidden truths and connections.",
+      "A gaze that pierces through the veil of reality; what do you see when you look closer?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2123,
+    "editor": "Tracy Bennett",
+    "solution": "lever",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a tool often used to gain an advantage."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a part of a machine."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something that can help you pull or adjust."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 754,
+    "editor": "Tracy Bennett",
+    "clue": "I'm a ladle hungry",
+    "spangram": "ONEPOT",
+    "themeWords": [
+      "CHILI",
+      "GOULASH",
+      "GUMBO",
+      "JAMBALAYA",
+      "RAGOUT",
+      "STEW",
+      "TAGINE"
+    ],
+    "startingBoard": [
+      "RAGOUT",
+      "WETGOB",
+      "ONESUM",
+      "LALPOT",
+      "USAAYA",
+      "OHBCHI",
+      "GJAMIL",
+      "TAGINE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2500,
+    "sides": [
+      "IAE",
+      "BRD",
+      "NGT",
+      "LVF"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "INDEFATIGABLE",
+      "EVER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9356,
+    "centerLetter": "l",
+    "outerLetters": "eikpuy",
+    "pangrams": [
+      "puppylike"
+    ],
+    "answers": [
+      "eely",
+      "illy",
+      "keel",
+      "kelp",
+      "kelpie",
+      "kill",
+      "leek",
+      "lieu",
+      "like",
+      "likely",
+      "lily",
+      "lippy",
+      "lull",
+      "lulu",
+      "peel",
+      "pile",
+      "pileup",
+      "pill",
+      "plie",
+      "pule",
+      "puli",
+      "pull",
+      "pulley",
+      "pulp",
+      "pulpy",
+      "pupil",
+      "ukulele",
+      "yell",
+      "yelp",
+      "yule"
+    ],
+    "pangramHints": [
+      {
+        "word": "puppylike",
+        "hint": "A playful term that evokes the joy of young canines; think of their boundless energy."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "date": "2025-08-26",
+  "fetchedAt": "2026-05-10T20:13:52.416Z",
+  "connections": {
+    "puzzleId": 847,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DISTINGUISHING CHARACTERISTICS",
+        "words": [
+          "MOLE",
+          "PIERCING",
+          "SCAR",
+          "TATTOO"
+        ]
+      },
+      {
+        "title": "A REAL JERK",
+        "words": [
+          "CREEP",
+          "HEEL",
+          "RAT",
+          "SKUNK"
+        ]
+      },
+      {
+        "title": "PESTER",
+        "words": [
+          "BADGER",
+          "BUG",
+          "HARRY",
+          "RIDE"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"STOOL\"",
+        "words": [
+          "BAR",
+          "FOOT",
+          "STEP",
+          "TOAD"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a world of ink and skin, some marks tell tales while others hide within.",
+      "Not all who wander are lost, but some certainly leave a bad taste.",
+      "When persistence becomes a nuisance, some creatures just won't let up.",
+      "Before you take a seat, consider the steps that led you here."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1622,
+    "editor": "Tracy Bennett",
+    "solution": "annex",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of adding something to a place."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can mean to attach or join."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often used in real estate, it implies expansion."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 710,
+    "editor": "Tracy Bennett",
+    "clue": "Bee friendly",
+    "spangram": "WILDFLOWER",
+    "themeWords": [
+      "BLUEBELL",
+      "CHAMOMILE",
+      "DAISY",
+      "MARIGOLD",
+      "PRIMROSE"
+    ],
+    "startingBoard": [
+      "PWERLB",
+      "RIOBEU",
+      "MRLELL",
+      "DOFAMO",
+      "LESDHM",
+      "OMLCID",
+      "GAILAI",
+      "IRWEYS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2457,
+    "sides": [
+      "YDU",
+      "PML",
+      "SIO",
+      "AQR"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "POLYAMOROUS",
+      "SQUID"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23195,
+    "centerLetter": "m",
+    "outerLetters": "defhiu",
+    "pangrams": [
+      "dehumidified",
+      "humidified"
+    ],
+    "answers": [
+      "deem",
+      "deemed",
+      "dime",
+      "dimmed",
+      "dumdum",
+      "dummied",
+      "femme",
+      "fume",
+      "fumed",
+      "heme",
+      "hemmed",
+      "humid",
+      "hummed",
+      "medium",
+      "meme",
+      "memed",
+      "midi",
+      "miff",
+      "miffed",
+      "mime",
+      "mimed",
+      "muddied",
+      "muff",
+      "muffed",
+      "mummified",
+      "muumuu"
+    ],
+    "pangramHints": [
+      {
+        "word": "dehumidified",
+        "hint": "A word that suggests the removal of moisture; think of a dry environment."
+      },
+      {
+        "word": "humidified",
+        "hint": "This word implies adding moisture; consider a steamy atmosphere."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

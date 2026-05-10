@@ -1,0 +1,196 @@
+{
+  "date": "2025-11-28",
+  "fetchedAt": "2026-05-10T20:19:56.532Z",
+  "connections": {
+    "puzzleId": 954,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FITTING",
+        "words": [
+          "FAIR",
+          "JUST",
+          "PROPER",
+          "RIGHT"
+        ]
+      },
+      {
+        "title": "ACHIEVE VICTORY OVER",
+        "words": [
+          "BEAT",
+          "BEST",
+          "TAKE",
+          "WORST"
+        ]
+      },
+      {
+        "title": "PARTS OF AN ELECTRIC GUITAR",
+        "words": [
+          "FRET",
+          "PEG",
+          "PICKUP",
+          "STRING"
+        ]
+      },
+      {
+        "title": "PHONETIC ELEMENTS OF SPEECH",
+        "words": [
+          "INTONATION",
+          "LOUDNESS",
+          "RHYTHM",
+          "STRESS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When things align just right, harmony is achieved. Seek the balance in the choices.",
+      "To conquer is to rise above, leaving the competition behind. What’s your strategy?",
+      "Every string has its purpose, contributing to the melody of life. Tune in to the essentials.",
+      "Sound waves carry meaning, each element plays its part in the symphony of communication."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2390,
+    "editor": "Tracy Bennett",
+    "solution": "colic",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a term related to discomfort."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to a common issue in infants."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with 'c' and refers to a type of pain."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 802,
+    "editor": "Tracy Bennett",
+    "clue": "If all else fails ...",
+    "spangram": "MAKEAWISH",
+    "themeWords": [
+      "COIN",
+      "DANDELION",
+      "EYELASH",
+      "FOUNTAIN",
+      "LADYBUG",
+      "STAR"
+    ],
+    "startingBoard": [
+      "RNOANH",
+      "ASIDDS",
+      "TYLEAM",
+      "EIELAG",
+      "SCWKLU",
+      "HOAEAB",
+      "INNTDY",
+      "FOUAIN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2551,
+    "sides": [
+      "IDM",
+      "RFE",
+      "BOU",
+      "TLP"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PROFIT",
+      "TUMBLED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22473,
+    "centerLetter": "a",
+    "outerLetters": "dinory",
+    "pangrams": [
+      "nondairy",
+      "ordinary"
+    ],
+    "answers": [
+      "adorn",
+      "airy",
+      "andiron",
+      "android",
+      "anion",
+      "annoy",
+      "anon",
+      "ardor",
+      "aria",
+      "arid",
+      "array",
+      "arroyo",
+      "daddy",
+      "dairy",
+      "dandy",
+      "darn",
+      "diary",
+      "dinar",
+      "doodad",
+      "dooryard",
+      "dorado",
+      "drain",
+      "dray",
+      "dryad",
+      "dyad",
+      "inroad",
+      "naan",
+      "nada",
+      "nadir",
+      "naiad",
+      "nana",
+      "nanny",
+      "nary",
+      "noonday",
+      "ordain",
+      "radar",
+      "radian",
+      "radii",
+      "radio",
+      "radon",
+      "raid",
+      "rain",
+      "rainy",
+      "rand",
+      "rando",
+      "randy",
+      "rani",
+      "rayon",
+      "road",
+      "roan",
+      "roar",
+      "yard",
+      "yarn"
+    ],
+    "pangramHints": [
+      {
+        "word": "nondairy",
+        "hint": "A word that suggests alternatives, often for those avoiding milk."
+      },
+      {
+        "word": "ordinary",
+        "hint": "This word describes the commonplace, yet it holds a certain charm."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-01",
+  "fetchedAt": "2026-05-10T20:30:11.593Z",
+  "connections": {
+    "puzzleId": 1135,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MAKE GLOSSY",
+        "words": [
+          "BUFF",
+          "POLISH",
+          "SHINE",
+          "WAX"
+        ]
+      },
+      {
+        "title": "TRANSLUCENT GOLDEN THINGS",
+        "words": [
+          "ALE",
+          "AMBER",
+          "CITRINE",
+          "HONEY"
+        ]
+      },
+      {
+        "title": "FEATURES OF A BIRD'S HEAD",
+        "words": [
+          "BEAK",
+          "COMB",
+          "CREST",
+          "WATTLE"
+        ]
+      },
+      {
+        "title": "NUMBERS WITH FIRST LETTER CHANGED",
+        "words": [
+          "HIVE",
+          "MIX",
+          "POUR",
+          "WIGHT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "To make things shine, sometimes you need a little elbow grease and a lot of love.",
+      "These golden treasures can light up your day, but they're not just for sipping.",
+      "Birds have their own unique styles, and these features are their crowning glories.",
+      "Change one letter and you might find yourself in a different kind of math class."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 544,
+    "editor": "Tracy Bennett",
+    "solution": "plume",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that adds flair."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a feather's soft touch."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with elegance and grace."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 962,
+    "editor": "Tracy Bennett",
+    "clue": "I ❤️ Hawaii",
+    "spangram": "ALOHASPIRIT",
+    "themeWords": [
+      "HULA",
+      "LUAU",
+      "MACADAMIA",
+      "PINEAPPLE",
+      "POKE",
+      "UKULELE"
+    ],
+    "startingBoard": [
+      "ULKPAH",
+      "AUEOLU",
+      "SPIRIT",
+      "AUKULE",
+      "HPIMEL",
+      "ONEAAA",
+      "LEADCI",
+      "ALPPAM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2705,
+    "sides": [
+      "GTO",
+      "HUR",
+      "ANV",
+      "BLE"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "OVERBOUGHT",
+      "TALON"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15851,
+    "centerLetter": "l",
+    "outerLetters": "cdehik",
+    "pangrams": [
+      "childlike"
+    ],
+    "answers": [
+      "cell",
+      "celled",
+      "celli",
+      "chicle",
+      "child",
+      "chili",
+      "chill",
+      "chilled",
+      "cichlid",
+      "cliche",
+      "cliched",
+      "click",
+      "clicked",
+      "deckle",
+      "deli",
+      "dell",
+      "diddle",
+      "diddled",
+      "dill",
+      "elide",
+      "elided",
+      "heckle",
+      "heckled",
+      "heel",
+      "heeled",
+      "held",
+      "hell",
+      "hill",
+      "hilled",
+      "icicle",
+      "idle",
+      "idled",
+      "keel",
+      "keeled",
+      "kill",
+      "killed",
+      "lech",
+      "lede",
+      "leech",
+      "leeched",
+      "leek",
+      "lice",
+      "lick",
+      "licked",
+      "lidded",
+      "lied",
+      "like",
+      "liked"
+    ],
+    "pangramHints": [
+      {
+        "word": "childlike",
+        "hint": "A youthful spirit captured in a single word; think of innocence."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

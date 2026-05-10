@@ -1,0 +1,194 @@
+{
+  "date": "2025-09-04",
+  "fetchedAt": "2026-05-10T20:14:27.642Z",
+  "connections": {
+    "puzzleId": 864,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "WHAT YOU MIGHT SEE ON A CHRISTMAS TREE",
+        "words": [
+          "ANGEL",
+          "CANDY CANE",
+          "STRING LIGHTS",
+          "TINSEL"
+        ]
+      },
+      {
+        "title": "CLEAN UP, AS A PHOTOGRAPH",
+        "words": [
+          "AIRBRUSH",
+          "FIX",
+          "PHOTOSHOP",
+          "TOUCH UP"
+        ]
+      },
+      {
+        "title": "FRENCH FOOD WORDS",
+        "words": [
+          "CORNICHON",
+          "PAIN",
+          "PAMPLEMOUSSE",
+          "VINAIGRETTE"
+        ]
+      },
+      {
+        "title": "THINGS WITH CELLS",
+        "words": [
+          "HONEYCOMB",
+          "ORGANISM",
+          "SOLAR PANEL",
+          "SPREADSHEET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Glistening treasures hang from the boughs, each with its own tale of holiday cheer.",
+      "Transform the ordinary into the extraordinary with a touch of magic and finesse.",
+      "Savor the essence of a culinary journey, where each word dances with flavor and flair.",
+      "Explore the intricate structures of life and technology, where every unit plays a vital role."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1583,
+    "editor": "Tracy Bennett",
+    "solution": "blend",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a mix of things."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think about combining elements together."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word often describes a harmonious mixture."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 712,
+    "editor": "Tracy Bennett",
+    "clue": "Far from ordinary",
+    "spangram": "OFFTHEWALL",
+    "themeWords": [
+      "ABSURD",
+      "BIZARRE",
+      "ECCENTRIC",
+      "MADCAP",
+      "QUIRKY",
+      "ZANY"
+    ],
+    "startingBoard": [
+      "NAOYBA",
+      "EYZFKS",
+      "NCFRDU",
+      "TECTIR",
+      "IRHQUC",
+      "ZBIEDA",
+      "ACWMAP",
+      "RREALL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2466,
+    "sides": [
+      "LIM",
+      "KNR",
+      "TAE",
+      "PJO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "KLEPTOMANIA",
+      "AJAR"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27699,
+    "centerLetter": "o",
+    "outerLetters": "yachln",
+    "pangrams": [
+      "halcyon"
+    ],
+    "answers": [
+      "achoo",
+      "ahoy",
+      "alcohol",
+      "alloy",
+      "aloha",
+      "ancho",
+      "annoy",
+      "anon",
+      "anyhoo",
+      "cacao",
+      "callaloo",
+      "cannon",
+      "canola",
+      "canon",
+      "canyon",
+      "cloaca",
+      "cloy",
+      "coach",
+      "coal",
+      "coca",
+      "cocoa",
+      "cocoon",
+      "coho",
+      "cola",
+      "colcannon",
+      "colon",
+      "colony",
+      "conch",
+      "cool",
+      "coolly",
+      "coyly",
+      "halo",
+      "holly",
+      "holy",
+      "honcho",
+      "hooch",
+      "llano",
+      "loach",
+      "loan",
+      "local",
+      "locally",
+      "loch",
+      "loco",
+      "loll",
+      "loon",
+      "loony",
+      "loyal",
+      "loyally",
+      "nacho",
+      "nonlocal",
+      "noon",
+      "nylon",
+      "onlay",
+      "only",
+      "yahoo",
+      "yoohoo"
+    ],
+    "pangramHints": [
+      {
+        "word": "halcyon",
+        "hint": "A serene time, often evoking peace and tranquility."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

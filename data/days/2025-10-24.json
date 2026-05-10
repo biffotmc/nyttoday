@@ -1,0 +1,207 @@
+{
+  "date": "2025-10-24",
+  "fetchedAt": "2026-05-10T20:17:35.208Z",
+  "connections": {
+    "puzzleId": 904,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BEST YEARS",
+        "words": [
+          "HEYDAY",
+          "PINNACLE",
+          "PRIME",
+          "ZENITH"
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN DO TO TEXT",
+        "words": [
+          "BOLD",
+          "HIGHLIGHT",
+          "STRIKETHROUGH",
+          "UNDERLINE"
+        ]
+      },
+      {
+        "title": "THINGS KNOWN FOR BEING COLORFUL THINGS",
+        "words": [
+          "KALEIDOSCOPE",
+          "PEACOCK",
+          "RAINBOW",
+          "SUNSET"
+        ]
+      },
+      {
+        "title": "ENDING IN ACCESSORIES",
+        "words": [
+          "BAYWATCH",
+          "COOTIE",
+          "HERRING",
+          "KINGPIN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A time when everything seemed to shine bright and possibilities were endless.",
+      "Ways to make your messages stand out and grab attention.",
+      "Nature's vibrant displays that paint the sky and earth in stunning hues.",
+      "Names that evoke images of characters or roles, often with a twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1009,
+    "editor": "Tracy Bennett",
+    "solution": "tuber",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that grows underground."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a common vegetable often used in cooking."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a type of plant that stores energy in its roots."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 767,
+    "editor": "Tracy Bennett",
+    "clue": "Through the ages",
+    "spangram": "HISTORY",
+    "themeWords": [
+      "BRONZE",
+      "INDUSTRIAL",
+      "INFORMATION",
+      "IRON",
+      "SPACE",
+      "STONE"
+    ],
+    "startingBoard": [
+      "OTRONO",
+      "NSBNIR",
+      "ESEZRY",
+      "IATOSP",
+      "HILECA",
+      "IRFORM",
+      "NSTNTA",
+      "DUINOI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2518,
+    "sides": [
+      "ORL",
+      "BFT",
+      "MPI",
+      "AEU"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "TABLETOP",
+      "PARFUMERIE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20980,
+    "centerLetter": "p",
+    "outerLetters": "deimnt",
+    "pangrams": [
+      "impediment",
+      "pediment"
+    ],
+    "answers": [
+      "deep",
+      "deepen",
+      "deepened",
+      "depend",
+      "depended",
+      "dependent",
+      "dipped",
+      "emptied",
+      "epee",
+      "impede",
+      "impeded",
+      "impend",
+      "impended",
+      "impenitent",
+      "independent",
+      "inept",
+      "ninepin",
+      "nipped",
+      "peed",
+      "peen",
+      "peep",
+      "peeped",
+      "pend",
+      "pended",
+      "pendent",
+      "penitent",
+      "penmen",
+      "penne",
+      "penned",
+      "pent",
+      "pepped",
+      "peptide",
+      "petit",
+      "petite",
+      "petted",
+      "pied",
+      "pimp",
+      "pimped",
+      "pine",
+      "pined",
+      "pinned",
+      "pinniped",
+      "pint",
+      "pipe",
+      "piped",
+      "pipet",
+      "pipette",
+      "pipit",
+      "pippin",
+      "pitied",
+      "pitted",
+      "teepee",
+      "temp",
+      "temped",
+      "tempi",
+      "tempt",
+      "tempted",
+      "tenpin",
+      "tepee",
+      "tepid",
+      "tiepin",
+      "tipi",
+      "tipped",
+      "tippet"
+    ],
+    "pangramHints": [
+      {
+        "word": "impediment",
+        "hint": "A barrier that can slow you down; think of obstacles in your path."
+      },
+      {
+        "word": "pediment",
+        "hint": "Architectural features that often cap a structure, adding flair without being too flashy."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

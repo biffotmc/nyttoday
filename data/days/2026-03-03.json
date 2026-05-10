@@ -1,0 +1,205 @@
+{
+  "date": "2026-03-03",
+  "fetchedAt": "2026-05-10T20:26:15.606Z",
+  "connections": {
+    "puzzleId": 1072,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "\"BIG\" THINGS",
+        "words": [
+          "APPLE",
+          "BROTHER",
+          "DIPPER",
+          "MAC"
+        ]
+      },
+      {
+        "title": "BE ADJACENT TO",
+        "words": [
+          "ABUT",
+          "FLANK",
+          "NEIGHBOR",
+          "TOUCH"
+        ]
+      },
+      {
+        "title": "SEEN IN A CLOSET",
+        "words": [
+          "HANGER",
+          "HOOK",
+          "ROD",
+          "SHELF"
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"SPEEDY\"",
+        "words": [
+          "BRISKET",
+          "FASTIDIOUS",
+          "FLEETWOOD",
+          "QUICKSAND"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Think of the giants of the tech world and their fruity names.",
+      "These words are all about closeness, both physically and relationally.",
+      "Look for items that help keep your wardrobe organized and tidy.",
+      "These terms all suggest quickness, but watch out for the meat reference!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 3493,
+    "editor": "Tracy Bennett",
+    "solution": "linen",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might find in your laundry."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word rhymes with 'kitchen' but is softer."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a fabric that’s often used for sheets."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 902,
+    "editor": "Tracy Bennett",
+    "clue": "Everything's in place",
+    "spangram": "SPRUCEDUP",
+    "themeWords": [
+      "CLEAN",
+      "IMMACULATE",
+      "NEAT",
+      "ORDERLY",
+      "SHIPSHAPE",
+      "TIDY"
+    ],
+    "startingBoard": [
+      "ORDLYP",
+      "TNERTU",
+      "AEYDID",
+      "SPRUCE",
+      "MMISHE",
+      "ATEPIP",
+      "CACSHA",
+      "ULLEAN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2646,
+    "sides": [
+      "EHG",
+      "IBC",
+      "RUT",
+      "OAF"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FIREBUG",
+      "GOTCHA"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17018,
+    "centerLetter": "a",
+    "outerLetters": "bceklo",
+    "pangrams": [
+      "blockable",
+      "cookable",
+      "lockable"
+    ],
+    "answers": [
+      "aback",
+      "able",
+      "alack",
+      "allele",
+      "allocable",
+      "aloe",
+      "baba",
+      "babble",
+      "babe",
+      "babel",
+      "babka",
+      "back",
+      "bake",
+      "bale",
+      "balk",
+      "ball",
+      "ballcock",
+      "baobab",
+      "beak",
+      "blab",
+      "black",
+      "blackball",
+      "bleak",
+      "boba",
+      "bola",
+      "bookable",
+      "cabal",
+      "cabala",
+      "cable",
+      "cacao",
+      "cackle",
+      "cake",
+      "call",
+      "calla",
+      "callable",
+      "callaloo",
+      "callback",
+      "clack",
+      "cloaca",
+      "cloak",
+      "coal",
+      "coca",
+      "cocoa",
+      "cola",
+      "collab",
+      "kabob",
+      "kale",
+      "kebab",
+      "koala",
+      "kola",
+      "label",
+      "lace",
+      "lack",
+      "lake",
+      "leak",
+      "local",
+      "locale"
+    ],
+    "pangramHints": [
+      {
+        "word": "blockable",
+        "hint": "A word that suggests something can be prevented or hindered."
+      },
+      {
+        "word": "cookable",
+        "hint": "This word relates to food preparation and readiness."
+      },
+      {
+        "word": "lockable",
+        "hint": "Think of security features that can be engaged."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

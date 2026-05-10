@@ -1,0 +1,172 @@
+{
+  "date": "2026-05-05",
+  "fetchedAt": "2026-05-10T20:30:28.352Z",
+  "connections": {
+    "puzzleId": 1131,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GLIMMER",
+        "words": [
+          "FLICKER",
+          "HINT",
+          "SUGGESTION",
+          "WHIFF"
+        ]
+      },
+      {
+        "title": "INVOLUNTARY ACTIONS",
+        "words": [
+          "BLINK",
+          "HICCUP",
+          "SHIVER",
+          "SNEEZE"
+        ]
+      },
+      {
+        "title": "KINDS OF KNOTS",
+        "words": [
+          "BEND",
+          "BOWLINE",
+          "HITCH",
+          "SHEEPSHANK"
+        ]
+      },
+      {
+        "title": "STARTING WITH UNITS IN COMPETITIONS",
+        "words": [
+          "GAMELAN",
+          "MATCHSTICK",
+          "POINTER",
+          "SETBACK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A flicker of light dances in the air, whispering secrets of the night.",
+      "These actions happen without a thought, like a reflex in a sudden shock.",
+      "Twists and turns, binding together in ways that hold firm yet can be undone.",
+      "In the arena of competition, these elements set the stage for a thrilling showdown."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1414,
+    "editor": "Tracy Bennett",
+    "solution": "latch",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a mechanism that secures."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s often used in doors and gates."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a way of holding something in place."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 966,
+    "editor": "Tracy Bennett",
+    "clue": "Get up!",
+    "spangram": "DIGITALCLOCK",
+    "themeWords": [
+      "ALARM",
+      "DATE",
+      "DISPLAY",
+      "RADIO",
+      "SNOOZE",
+      "TIME",
+      "TUNER"
+    ],
+    "startingBoard": [
+      "ALARID",
+      "DIGMOA",
+      "SOITIR",
+      "NOTEMD",
+      "ZEALCA",
+      "DTUNLT",
+      "IREYOE",
+      "SPLACK"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2709,
+    "sides": [
+      "ASE",
+      "IHL",
+      "BUX",
+      "RTV"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "VARIABLE",
+      "EXHAUST"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27605,
+    "centerLetter": "c",
+    "outerLetters": "denuab",
+    "pangrams": [
+      "abundance"
+    ],
+    "answers": [
+      "accede",
+      "acceded",
+      "aced",
+      "acne",
+      "adduce",
+      "adduced",
+      "banc",
+      "cabana",
+      "cabbed",
+      "cadence",
+      "cancan",
+      "cane",
+      "caned",
+      "canna",
+      "canned",
+      "cede",
+      "ceded",
+      "cube",
+      "cubed",
+      "cued",
+      "dance",
+      "danced",
+      "decade",
+      "decadence",
+      "deduce",
+      "deduced",
+      "deuce",
+      "dunce",
+      "educe",
+      "educed",
+      "nuance",
+      "nuanced",
+      "unceded"
+    ],
+    "pangramHints": [
+      {
+        "word": "abundance",
+        "hint": "A wealth of variety, overflowing with letters."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "date": "2025-06-21",
+  "fetchedAt": "2026-05-10T20:10:30.144Z",
+  "connections": {
+    "puzzleId": 779,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STOCKY",
+        "words": [
+          "SOLID",
+          "SQUAT",
+          "STOUT",
+          "THICK"
+        ]
+      },
+      {
+        "title": "COMPANY",
+        "words": [
+          "CONCERN",
+          "FIRM",
+          "HOUSE",
+          "OUTFIT"
+        ]
+      },
+      {
+        "title": "APPLE PRODUCTS",
+        "words": [
+          "BRANDY",
+          "BUTTER",
+          "CIDER",
+          "SAUCE"
+        ]
+      },
+      {
+        "title": "STARTS OF EUROPEAN COUNTRIES",
+        "words": [
+          "GERM",
+          "LUXE",
+          "MALT",
+          "PORT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words are all about being sturdy and robust; think of a solid foundation.",
+      "A collective of entities that work together, often under a shared banner.",
+      "These are delightful concoctions, often enjoyed with a meal or as a treat.",
+      "The beginnings of nations, often hinting at their rich histories."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1524,
+    "editor": "Tracy Bennett",
+    "solution": "glade",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a serene woodland area."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word evokes a peaceful natural setting."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Consider a place where sunlight filters through the trees."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 640,
+    "editor": "Tracy Bennett",
+    "clue": "Goose eggs",
+    "spangram": "DIDDLYSQUAT",
+    "themeWords": [
+      "BUPKIS",
+      "NADA",
+      "NAUGHT",
+      "NOTHING",
+      "ZERO",
+      "ZILCH",
+      "ZIPPO"
+    ],
+    "startingBoard": [
+      "IZDBUP",
+      "LCIDIK",
+      "UNHDPS",
+      "GAYLOP",
+      "HTSZIT",
+      "ZEQUHO",
+      "ANRAIN",
+      "DAOTGN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2391,
+    "sides": [
+      "LDT",
+      "ROF",
+      "IEU",
+      "BXS"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FILIBUSTERED",
+      "DOX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 14194,
+    "centerLetter": "e",
+    "outerLetters": "cghikn",
+    "pangrams": [
+      "checking",
+      "chickening"
+    ],
+    "answers": [
+      "check",
+      "cheek",
+      "chicken",
+      "egging",
+      "eking",
+      "engine",
+      "geek",
+      "geeking",
+      "gene",
+      "genie",
+      "genii",
+      "ghee",
+      "heck",
+      "heinie",
+      "hence",
+      "henge",
+      "hike",
+      "hinge",
+      "innie",
+      "keen",
+      "keening",
+      "knee",
+      "kneeing",
+      "neck",
+      "necking",
+      "neigh",
+      "neighing",
+      "nene",
+      "nice",
+      "niche",
+      "niece",
+      "nine"
+    ],
+    "pangramHints": [
+      {
+        "word": "checking",
+        "hint": "A word that suggests verifying or inspecting."
+      },
+      {
+        "word": "chickening",
+        "hint": "This term relates to the act of becoming timid or cowardly."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

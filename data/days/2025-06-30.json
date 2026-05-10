@@ -1,0 +1,191 @@
+{
+  "date": "2025-06-30",
+  "fetchedAt": "2026-05-10T20:10:34.494Z",
+  "connections": {
+    "puzzleId": 788,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DENTAL ADDITIONS",
+        "words": [
+          "BRIDGE",
+          "CROWN",
+          "FILLING",
+          "VENEER"
+        ]
+      },
+      {
+        "title": "METAPHORS FOR A DRAMATIC AND CHAOTIC EVENT",
+        "words": [
+          "CIRCUS",
+          "ROLLER COASTER",
+          "SOAP OPERA",
+          "WHIRLWIND"
+        ]
+      },
+      {
+        "title": "SECOND WORDS IN DAVID LYNCH TITLES",
+        "words": [
+          "DRIVE",
+          "HIGHWAY",
+          "PEAKS",
+          "VELVET"
+        ]
+      },
+      {
+        "title": "WHAT “JET” MIGHT REFER TO",
+        "words": [
+          "AIRPLANE",
+          "BLACK",
+          "HOT TUB NOZZLE",
+          "NFL PLAYER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A bridge to a royal position, with a filling to enhance the smile.",
+      "A circus of emotions, where the ride is anything but smooth.",
+      "A journey through twisted narratives, where peaks and velvet intertwine.",
+      "A jet setting experience, where the color black takes flight."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 724,
+    "editor": "Tracy Bennett",
+    "solution": "blink",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a quick action, often associated with the eyes."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that happens in a flash, often surprising."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also describe a sudden change in focus."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 649,
+    "editor": "Tracy Bennett",
+    "clue": "Trellis beauties",
+    "spangram": "CLIMBER",
+    "themeWords": [
+      "CLEMATIS",
+      "JASMINE",
+      "MOONFLOWER",
+      "SWEETPEA",
+      "WISTERIA"
+    ],
+    "startingBoard": [
+      "ATSIWS",
+      "IREAIR",
+      "MIMETE",
+      "SNLCBM",
+      "AJEMNO",
+      "CLIAFO",
+      "WEPEOL",
+      "SETWER"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2400,
+    "sides": [
+      "UOE",
+      "TWM",
+      "HGA",
+      "IRF"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FURTHERMORE",
+      "EARWIG"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20683,
+    "centerLetter": "l",
+    "outerLetters": "aehpuv",
+    "pangrams": [
+      "upheaval"
+    ],
+    "answers": [
+      "aleph",
+      "allele",
+      "alpha",
+      "appall",
+      "appeal",
+      "appellee",
+      "apple",
+      "halal",
+      "hale",
+      "hall",
+      "halva",
+      "halvah",
+      "halve",
+      "haul",
+      "heal",
+      "heel",
+      "hell",
+      "helluva",
+      "help",
+      "helve",
+      "hula",
+      "hull",
+      "lapel",
+      "lava",
+      "lave",
+      "leap",
+      "leave",
+      "levee",
+      "level",
+      "luau",
+      "lull",
+      "lulu",
+      "paella",
+      "palapa",
+      "pale",
+      "pall",
+      "palp",
+      "papal",
+      "peal",
+      "peel",
+      "plea",
+      "pule",
+      "pull",
+      "pulp",
+      "pupal",
+      "uvula",
+      "uvulae",
+      "vale",
+      "value",
+      "valve",
+      "veal",
+      "vulva",
+      "vulvae",
+      "vulval"
+    ],
+    "pangramHints": [
+      {
+        "word": "upheaval",
+        "hint": "A sudden change that stirs the pot; think of a stormy sea."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "date": "2025-08-21",
+  "fetchedAt": "2026-05-10T20:13:01.821Z",
+  "connections": {
+    "puzzleId": 842,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BLUNDER",
+        "words": [
+          "BOO-BOO",
+          "FLUB",
+          "GAFFE",
+          "NO-NO"
+        ]
+      },
+      {
+        "title": "LANDS OF THE IMAGINATION",
+        "words": [
+          "DREAM",
+          "FANTASY",
+          "LA-LA",
+          "NEVER NEVER"
+        ]
+      },
+      {
+        "title": "THINGS WITH ANTENNA/E",
+        "words": [
+          "INSECT",
+          "RADIO TOWER",
+          "SATELLITE DISH",
+          "TELETUBBY"
+        ]
+      },
+      {
+        "title": "___ DOODLE",
+        "words": [
+          "CHEESE",
+          "DIPSY",
+          "GOOGLE",
+          "YANKEE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Mistakes can be quite the spectacle, but some are just too amusing to forget.",
+      "Venture beyond reality's grasp, where the impossible becomes a delightful escape.",
+      "Look up! Signals abound in the air, connecting worlds both real and whimsical.",
+      "A playful twist awaits at the end of this creative journey, where imagination reigns."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1488,
+    "editor": "Tracy Bennett",
+    "solution": "extol",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a word that celebrates or praises."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It begins with a vowel and has a positive vibe."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word often comes up in discussions of achievements or virtues."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 704,
+    "editor": "Tracy Bennett",
+    "clue": "Marvel-ous and then some",
+    "spangram": "SUPERHEROES",
+    "themeWords": [
+      "DAREDEVIL",
+      "HULK",
+      "ROGUE",
+      "STORM",
+      "THING",
+      "WOLVERINE"
+    ],
+    "startingBoard": [
+      "MRPUNE",
+      "OEOLSI",
+      "TRWVER",
+      "SRHLIV",
+      "OGTEDE",
+      "UKGHRE",
+      "ELNIOR",
+      "HUSEDA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2452,
+    "sides": [
+      "PUN",
+      "LEK",
+      "COI",
+      "ATR"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "POTENTIAL",
+      "LUCKIER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16149,
+    "centerLetter": "l",
+    "outerLetters": "dgimnp",
+    "pangrams": [
+      "dimpling"
+    ],
+    "answers": [
+      "diddling",
+      "dill",
+      "giggling",
+      "gild",
+      "gilding",
+      "gill",
+      "gilling",
+      "gliding",
+      "idling",
+      "limn",
+      "limning",
+      "limp",
+      "limpid",
+      "limping",
+      "lining",
+      "lipid",
+      "lipping",
+      "middling",
+      "mild",
+      "mill",
+      "milling",
+      "mingling",
+      "niggling",
+      "piddling",
+      "piling",
+      "pill",
+      "pilling"
+    ],
+    "pangramHints": [
+      {
+        "word": "dimpling",
+        "hint": "A playful word that suggests a gentle curve or indentation."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

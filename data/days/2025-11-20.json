@@ -1,0 +1,183 @@
+{
+  "date": "2025-11-20",
+  "fetchedAt": "2026-05-10T20:19:26.843Z",
+  "connections": {
+    "puzzleId": 947,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ADHERE",
+        "words": [
+          "FIX",
+          "PASTE",
+          "PLASTER",
+          "STICK"
+        ]
+      },
+      {
+        "title": "GRAZE",
+        "words": [
+          "BRUSH",
+          "KISS",
+          "SKIM",
+          "STROKE"
+        ]
+      },
+      {
+        "title": "PARTS OF A TOOTH",
+        "words": [
+          "CROWN",
+          "ENAMEL",
+          "PULP",
+          "ROOT"
+        ]
+      },
+      {
+        "title": "WORDS THAT SOUND LIKE TWO LETTERS",
+        "words": [
+          "ANY",
+          "ARTY",
+          "DECAY",
+          "ESSAY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you want to make something stick, these are your go-to tools. Don't let them slip away!",
+      "A gentle touch can leave a mark, but be careful not to leave too much behind.",
+      "These are the hidden heroes of your smile, each playing a crucial role in your dental drama.",
+      "They may sound simple, but these words pack a punch, each echoing with a hint of duality."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 522,
+    "editor": "Tracy Bennett",
+    "solution": "grave",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a place where you might lay someone to rest."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean serious or solemn."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term that might describe a serious situation or a burial site."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 794,
+    "editor": "Tracy Bennett",
+    "clue": "Busybody buzz",
+    "spangram": "SPREADTHEWORD",
+    "themeWords": [
+      "GOSSIP",
+      "HEARSAY",
+      "REPORT",
+      "RUMOR",
+      "SCUTTLEBUTT"
+    ],
+    "startingBoard": [
+      "RORSSP",
+      "UMTGOI",
+      "EPRSRA",
+      "ROYAEH",
+      "HEWORD",
+      "TDAERP",
+      "SCUTTS",
+      "TTUBEL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2543,
+    "sides": [
+      "ITH",
+      "ALC",
+      "NMY",
+      "ZUS"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "SCHMUTZ",
+      "ZANILY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21322,
+    "centerLetter": "e",
+    "outerLetters": "gintuy",
+    "pangrams": [
+      "ingenuity"
+    ],
+    "answers": [
+      "egging",
+      "eggy",
+      "engine",
+      "ennui",
+      "entente",
+      "entity",
+      "eyeing",
+      "eying",
+      "gene",
+      "genie",
+      "genii",
+      "gent",
+      "genuine",
+      "getting",
+      "gigue",
+      "ignite",
+      "ingenue",
+      "innie",
+      "intent",
+      "nene",
+      "netting",
+      "netty",
+      "nine",
+      "nineteen",
+      "ninety",
+      "nite",
+      "nugget",
+      "teeing",
+      "teen",
+      "teeny",
+      "tenet",
+      "tent",
+      "tenting",
+      "tenuity",
+      "tine",
+      "tinge",
+      "tingeing",
+      "tune",
+      "tutee",
+      "unguent",
+      "unite",
+      "untie",
+      "untune",
+      "yenning",
+      "yente",
+      "yeti"
+    ],
+    "pangramHints": [
+      {
+        "word": "ingenuity",
+        "hint": "A cleverness that shines bright; think outside the box!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

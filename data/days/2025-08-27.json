@@ -1,0 +1,188 @@
+{
+  "date": "2025-08-27",
+  "fetchedAt": "2026-05-10T20:13:55.491Z",
+  "connections": {
+    "puzzleId": 845,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "RESTAURANT WATER OPTIONS",
+        "words": [
+          "BOTTLED",
+          "SPARKLING",
+          "STILL",
+          "TAP"
+        ]
+      },
+      {
+        "title": "ATM OPTIONS",
+        "words": [
+          "CHECKING",
+          "DEPOSIT",
+          "SAVINGS",
+          "WITHDRAWAL"
+        ]
+      },
+      {
+        "title": "BINARY QUESTION OPTIONS",
+        "words": [
+          "FALSE",
+          "NO",
+          "TRUE",
+          "YES"
+        ]
+      },
+      {
+        "title": "ROULETTE OPTIONS",
+        "words": [
+          "BLACK",
+          "EVEN",
+          "ODD",
+          "RED"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When it comes to hydration, are you feeling fancy or just keeping it simple?",
+      "In the world of finance, which option helps you keep your funds in check?",
+      "When faced with a choice, do you lean towards affirmation or negation?",
+      "In the game of chance, do you prefer the dark side or the bright side?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1842,
+    "editor": "Tracy Bennett",
+    "solution": "tower",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It’s a tall structure."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a landmark that reaches for the sky."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with urban landscapes and can also refer to a part of a game."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 474,
+    "editor": "Tracy Bennett",
+    "clue": "Go with the flow",
+    "spangram": "BODIESOFWATER",
+    "themeWords": [
+      "BAYOU",
+      "HARBOR",
+      "LAGOON",
+      "LAKE",
+      "OCEAN",
+      "POND",
+      "SWAMP"
+    ],
+    "startingBoard": [
+      "NDBLAK",
+      "OPODEN",
+      "BORIOO",
+      "RHOAEG",
+      "ACENSA",
+      "AWFOLU",
+      "TSWMPO",
+      "ERABAY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2458,
+    "sides": [
+      "HAC",
+      "PWI",
+      "ENK",
+      "RSU"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "UNWRAP",
+      "PECKISH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 11379,
+    "centerLetter": "l",
+    "outerLetters": "adinvy",
+    "pangrams": [
+      "invalidly"
+    ],
+    "answers": [
+      "allay",
+      "ally",
+      "anal",
+      "anally",
+      "annal",
+      "anvil",
+      "avail",
+      "avidly",
+      "daily",
+      "dally",
+      "dandily",
+      "daylily",
+      "dial",
+      "diddly",
+      "dill",
+      "dilly",
+      "dillydally",
+      "idly",
+      "idyl",
+      "idyll",
+      "illy",
+      "inlaid",
+      "inland",
+      "inlay",
+      "invalid",
+      "lady",
+      "laid",
+      "lain",
+      "lanai",
+      "land",
+      "landlady",
+      "lava",
+      "lily",
+      "livid",
+      "lividly",
+      "nail",
+      "naval",
+      "vainly",
+      "valid",
+      "validly",
+      "vandal",
+      "vanilla",
+      "vanillin",
+      "vial",
+      "villa",
+      "villain",
+      "villainy",
+      "vinyl",
+      "vividly"
+    ],
+    "pangramHints": [
+      {
+        "word": "invalidly",
+        "hint": "A word that suggests something is not valid; think of rules being broken."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

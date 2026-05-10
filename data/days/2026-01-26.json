@@ -1,0 +1,179 @@
+{
+  "date": "2026-01-26",
+  "fetchedAt": "2026-05-10T20:23:46.931Z",
+  "connections": {
+    "puzzleId": 995,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EXPLOIT",
+        "words": [
+          "DRAIN",
+          "FLEECE",
+          "MILK",
+          "SQUEEZE"
+        ]
+      },
+      {
+        "title": "DAUNT",
+        "words": [
+          "BUFFALO",
+          "COW",
+          "RATTLE",
+          "RUFFLE"
+        ]
+      },
+      {
+        "title": "ICONIC ACTRESSES",
+        "words": [
+          "CLOSE",
+          "FIELD",
+          "FOSTER",
+          "WEAVER"
+        ]
+      },
+      {
+        "title": "MAMMALS MINUS LAST LETTER",
+        "words": [
+          "BADGE",
+          "GOA",
+          "MOOS",
+          "RABBI"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When life gives you a challenge, remember to extract every drop of opportunity.",
+      "In the wild, some creatures can be intimidating, but they also have a gentle side.",
+      "These women have left a mark on the silver screen, each with a unique flair.",
+      "Take a closer look; even the smallest creatures can reveal their secrets when you remove a layer."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1016,
+    "editor": "Tracy Bennett",
+    "solution": "freak",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something unusual or unexpected."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It might be a bit wild, but it’s not what you think."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a surprising twist or an odd character."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 862,
+    "editor": "Tracy Bennett",
+    "clue": "Grape expectations",
+    "spangram": "BYTHEBOTTLE",
+    "themeWords": [
+      "CHARDONNAY",
+      "MALBEC",
+      "MERLOT",
+      "SHIRAZ",
+      "ZINFANDEL"
+    ],
+    "startingBoard": [
+      "DNELIR",
+      "EATSHA",
+      "LFNTEZ",
+      "AIOMRT",
+      "NYZBLO",
+      "NHCECM",
+      "OABHEA",
+      "DRYTBL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2610,
+    "sides": [
+      "HTN",
+      "XAS",
+      "RLP",
+      "IOC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "CHINSTRAP",
+      "PHLOX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23606,
+    "centerLetter": "d",
+    "outerLetters": "bceoty",
+    "pangrams": [
+      "boycotted"
+    ],
+    "answers": [
+      "bedded",
+      "bobbed",
+      "bode",
+      "boded",
+      "body",
+      "booed",
+      "booted",
+      "cede",
+      "ceded",
+      "code",
+      "coded",
+      "coed",
+      "cooed",
+      "debt",
+      "deco",
+      "decoct",
+      "decocted",
+      "decode",
+      "decoded",
+      "decoy",
+      "decoyed",
+      "deed",
+      "deeded",
+      "detect",
+      "detected",
+      "dodo",
+      "dote",
+      "doted",
+      "dotted",
+      "dotty",
+      "dyed",
+      "ebbed",
+      "eddy",
+      "eyed",
+      "obeyed",
+      "teddy",
+      "teed",
+      "toddy",
+      "toed",
+      "tooted",
+      "toted",
+      "toyed"
+    ],
+    "pangramHints": [
+      {
+        "word": "boycotted",
+        "hint": "A word that signifies a refusal, often in a group context."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

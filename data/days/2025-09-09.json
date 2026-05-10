@@ -1,0 +1,200 @@
+{
+  "date": "2025-09-09",
+  "fetchedAt": "2026-05-10T20:14:44.909Z",
+  "connections": {
+    "puzzleId": 856,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FINISHED",
+        "words": [
+          "COMPLETE",
+          "DONE",
+          "OVER",
+          "THROUGH"
+        ]
+      },
+      {
+        "title": "THINGS WITH SHELLS",
+        "words": [
+          "EGG",
+          "HARD TACO",
+          "M&M",
+          "SNAIL"
+        ]
+      },
+      {
+        "title": "SWIG",
+        "words": [
+          "BELT",
+          "GULP",
+          "SHOT",
+          "SLUG"
+        ]
+      },
+      {
+        "title": "___DOG",
+        "words": [
+          "BULL",
+          "LAP",
+          "UNDER",
+          "WATCH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When everything is wrapped up, it’s time to celebrate the end of the journey.",
+      "From breakfast to dessert, these delights come with a protective layer.",
+      "A quick sip or a hearty gulp can make all the difference in a toast.",
+      "These companions are always by your side, no matter the situation."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1046,
+    "editor": "Tracy Bennett",
+    "solution": "trick",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a playful deception."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to outsmart someone."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It often involves cleverness and mischief."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 721,
+    "editor": "Tracy Bennett",
+    "clue": "No gray area",
+    "spangram": "BLACKANDWHITE",
+    "themeWords": [
+      "DICE",
+      "DOMINO",
+      "NEWSPAPER",
+      "ORCA",
+      "PENGUIN",
+      "PIANO"
+    ],
+    "startingBoard": [
+      "BLDOIM",
+      "IACINO",
+      "APKACD",
+      "NOPNDE",
+      "NUNEWH",
+      "IGRCRI",
+      "APEAOT",
+      "PSWENE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2471,
+    "sides": [
+      "RNZ",
+      "UVT",
+      "AFI",
+      "EQL"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "FERVENT",
+      "TRANQUILIZE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19297,
+    "centerLetter": "n",
+    "outerLetters": "bdelmo",
+    "pangrams": [
+      "embolden",
+      "emboldened"
+    ],
+    "answers": [
+      "been",
+      "bellmen",
+      "bend",
+      "blend",
+      "blended",
+      "blond",
+      "blonde",
+      "bonbon",
+      "bond",
+      "bonded",
+      "bone",
+      "boned",
+      "bonobo",
+      "boon",
+      "debone",
+      "deboned",
+      "demon",
+      "done",
+      "donee",
+      "donned",
+      "ebon",
+      "emend",
+      "emended",
+      "ended",
+      "ennoble",
+      "ennobled",
+      "lemon",
+      "lend",
+      "lone",
+      "loon",
+      "melodeon",
+      "melon",
+      "mend",
+      "mended",
+      "mondo",
+      "mono",
+      "moon",
+      "mooned",
+      "need",
+      "needed",
+      "needle",
+      "needled",
+      "nene",
+      "neon",
+      "noble",
+      "noblemen",
+      "nodded",
+      "node",
+      "noel",
+      "none",
+      "noob",
+      "noodle",
+      "noodled",
+      "noon",
+      "odeon",
+      "olden",
+      "omen"
+    ],
+    "pangramHints": [
+      {
+        "word": "embolden",
+        "hint": "A word that encourages strength, but don’t say it outright."
+      },
+      {
+        "word": "emboldened",
+        "hint": "To make someone brave; a longer form of its shorter cousin."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

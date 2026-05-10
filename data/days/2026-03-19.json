@@ -1,0 +1,173 @@
+{
+  "date": "2026-03-19",
+  "fetchedAt": "2026-05-10T20:27:22.891Z",
+  "connections": {
+    "puzzleId": 1085,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FOLK TALE CHARACTERS",
+        "words": [
+          "CHICKEN LITTLE",
+          "FROG PRINCE",
+          "GINGERBREAD MAN",
+          "GOLDILOCKS"
+        ]
+      },
+      {
+        "title": "GOOD LUCK SYMBOLS",
+        "words": [
+          "EVIL EYE",
+          "FOUR-LEAF CLOVER",
+          "HORSESHOE",
+          "RABBIT'S FOOT"
+        ]
+      },
+      {
+        "title": "THINGS THAT CHANGE COLOR",
+        "words": [
+          "CHAMELEON",
+          "MOOD RING",
+          "SUNSET",
+          "TRAFFIC LIGHT"
+        ]
+      },
+      {
+        "title": "ENDING IN MUSIC GENRES",
+        "words": [
+          "BABY BLUES",
+          "PET ROCK",
+          "SCRAP METAL",
+          "SODA POP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a world where tales twist and turn, these characters each face their own fate, often with a lesson to learn.",
+      "Symbols of fortune, some are worn, others are found; they promise luck, but can they truly astound?",
+      "From vibrant hues to shifting shades, these entities reflect the world in ways that never fade.",
+      "Genres that evoke emotions, from joy to sorrow, each ending in a sound that could inspire tomorrow."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 788,
+    "editor": "Tracy Bennett",
+    "solution": "rehab",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a place for recovery."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to healing, often used in a therapeutic context."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that starts with 'r' and is associated with getting back on track."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 917,
+    "editor": "Tracy Bennett",
+    "clue": "Bring a plate",
+    "spangram": "POTLUCK",
+    "themeWords": [
+      "APPETIZERS",
+      "BEVERAGE",
+      "CASSEROLE",
+      "DESSERT",
+      "VEGGIES"
+    ],
+    "startingBoard": [
+      "EIASEE",
+      "SGCSRL",
+      "EGTDOK",
+      "PVRSEC",
+      "EOESUA",
+      "GATLPZ",
+      "REEPIE",
+      "VEBTRS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2662,
+    "sides": [
+      "IHZ",
+      "ONA",
+      "VSE",
+      "GDR"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "INVADERS",
+      "SHOEGAZE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 2335,
+    "centerLetter": "n",
+    "outerLetters": "eghmoy",
+    "pangrams": [
+      "hegemony",
+      "homogeny"
+    ],
+    "answers": [
+      "eggnog",
+      "enemy",
+      "gene",
+      "genome",
+      "gnome",
+      "gnomon",
+      "gone",
+      "gong",
+      "goon",
+      "goony",
+      "hegemon",
+      "henge",
+      "homonym",
+      "homonymy",
+      "hone",
+      "honey",
+      "honeymoon",
+      "hymen",
+      "hymn",
+      "money",
+      "moneymen",
+      "mono",
+      "mononym",
+      "moon",
+      "moony",
+      "nene",
+      "neon",
+      "none",
+      "noon",
+      "omen",
+      "yeomen"
+    ],
+    "pangramHints": [
+      {
+        "word": "hegemony",
+        "hint": "A term for dominance, often in politics; think of power dynamics."
+      },
+      {
+        "word": "homogeny",
+        "hint": "A word related to uniformity; consider how things can be made the same."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "date": "2026-01-20",
+  "fetchedAt": "2026-05-10T20:23:23.101Z",
+  "connections": {
+    "puzzleId": 1010,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INTERTWINE",
+        "words": [
+          "LACE",
+          "TWIST",
+          "WEAVE",
+          "WIND"
+        ]
+      },
+      {
+        "title": "KINDS OF BEES",
+        "words": [
+          "BUMBLE",
+          "CARPENTER",
+          "HONEY",
+          "KILLER"
+        ]
+      },
+      {
+        "title": "FAMOUS BRIDGES",
+        "words": [
+          "BROOKLYN",
+          "GOLDEN GATE",
+          "RIALTO",
+          "TOWER"
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"HANKER FOR\"",
+        "words": [
+          "CRAVEN",
+          "DESIREE",
+          "NEEDLE",
+          "WANTON"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Twisted threads may hold secrets, but can they bind the past and present?",
+      "Buzzing around, these creatures have their own roles in nature's grand design.",
+      "These structures connect more than just land; they link stories and lives.",
+      "Yearning for something more, these words express deep desires in various forms."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2225,
+    "editor": "Tracy Bennett",
+    "solution": "sully",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a word that suggests tarnishing or making less pure."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to spoil or ruin something."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with an 's' and ends with a 'y'; it's often used in contexts of reputation."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 855,
+    "editor": "Tracy Bennett",
+    "clue": "Sneak-ing around",
+    "spangram": "JUSTFORKICKS",
+    "themeWords": [
+      "EYELET",
+      "HEEL",
+      "LOGO",
+      "SHOELACE",
+      "SOLE",
+      "TONGUE",
+      "VAMP"
+    ],
+    "startingBoard": [
+      "JEELOE",
+      "UYETHL",
+      "SLOGSA",
+      "TAMPOC",
+      "FVEUGE",
+      "OSOTON",
+      "RELHEE",
+      "KICKSL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2604,
+    "sides": [
+      "KFX",
+      "ADO",
+      "CHL",
+      "BUN"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "HANDFUL",
+      "LOCKBOX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27595,
+    "centerLetter": "a",
+    "outerLetters": "filnty",
+    "pangrams": [
+      "faintly",
+      "finality",
+      "infantility"
+    ],
+    "answers": [
+      "affiant",
+      "affinity",
+      "alfalfa",
+      "alit",
+      "allay",
+      "ally",
+      "anal",
+      "anally",
+      "annal",
+      "anti",
+      "antifa",
+      "atilt",
+      "attain",
+      "fail",
+      "faint",
+      "fall",
+      "fanny",
+      "fantail",
+      "fatal",
+      "fatality",
+      "fatally",
+      "fatly",
+      "fatty",
+      "fiat",
+      "filial",
+      "filially",
+      "final",
+      "finally",
+      "finial",
+      "flail",
+      "flan",
+      "flat",
+      "flatly",
+      "flay",
+      "inanity",
+      "infant",
+      "initial",
+      "initially",
+      "inlay",
+      "lain",
+      "laity",
+      "lanai",
+      "lantana",
+      "litany",
+      "naan",
+      "naif",
+      "nail",
+      "nana",
+      "nanny",
+      "natal",
+      "natality",
+      "natant",
+      "nattily",
+      "natty",
+      "taffy",
+      "tail",
+      "taint",
+      "tali",
+      "tall",
+      "tallit",
+      "tally",
+      "tannin",
+      "tatty",
+      "tiffany",
+      "titan"
+    ],
+    "pangramHints": [
+      {
+        "word": "faintly",
+        "hint": "A soft touch, like a whisper in the dark."
+      },
+      {
+        "word": "finality",
+        "hint": "The end of a journey, with no turning back."
+      },
+      {
+        "word": "infantility",
+        "hint": "A state of being that reflects youthfulness and immaturity."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

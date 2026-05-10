@@ -1,0 +1,176 @@
+{
+  "date": "2025-07-28",
+  "fetchedAt": "2026-05-10T20:11:28.258Z",
+  "connections": {
+    "puzzleId": 815,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FOREMOST",
+        "words": [
+          "FIRST",
+          "INITIAL",
+          "ORIGINAL",
+          "PRIMARY"
+        ]
+      },
+      {
+        "title": "INDICATION",
+        "words": [
+          "EVIDENCE",
+          "HINT",
+          "SIGN",
+          "TRACE"
+        ]
+      },
+      {
+        "title": "ITEM IN A COLLECTION",
+        "words": [
+          "COIN",
+          "COMIC",
+          "RECORD",
+          "STAMP"
+        ]
+      },
+      {
+        "title": "___ MOVIE",
+        "words": [
+          "BUDDY",
+          "CULT",
+          "DATE",
+          "SILENT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "The first step is often the most important; think of beginnings.",
+      "A whisper of something to come, a clue to guide your way.",
+      "Treasures come in many forms; what do you collect?",
+      "Films that forge friendships or leave an impression; what genre are we talking about?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 704,
+    "editor": "Tracy Bennett",
+    "solution": "savvy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word describes someone who is perceptive."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It starts with 's' and ends with 'y', often used to describe someone sharp."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that implies cleverness or shrewdness, often used in a positive light."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 679,
+    "editor": "Tracy Bennett",
+    "clue": "Inch by inch, row by row",
+    "spangram": "VEGETABLEGARDEN",
+    "themeWords": [
+      "BLOSSOM",
+      "GROW",
+      "HARVEST",
+      "RIPEN",
+      "SEED",
+      "SPROUT"
+    ],
+    "startingBoard": [
+      "MOASTW",
+      "SSRHEO",
+      "ORPVNR",
+      "LISESG",
+      "BELERP",
+      "VEBGUO",
+      "EDAATN",
+      "GETRDE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2428,
+    "sides": [
+      "KRI",
+      "APL",
+      "NOE",
+      "BDT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "INKBLOT",
+      "TEARDROP"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22856,
+    "centerLetter": "n",
+    "outerLetters": "akmorw",
+    "pangrams": [
+      "workman",
+      "workwoman"
+    ],
+    "answers": [
+      "anon",
+      "anorak",
+      "know",
+      "known",
+      "koan",
+      "krona",
+      "kronor",
+      "mammon",
+      "manna",
+      "manor",
+      "maroon",
+      "moan",
+      "monk",
+      "mono",
+      "moon",
+      "morn",
+      "moron",
+      "mown",
+      "naan",
+      "nana",
+      "narrow",
+      "nonwork",
+      "nook",
+      "noon",
+      "norm",
+      "rank",
+      "roan",
+      "rowan",
+      "wanna",
+      "warn",
+      "woman",
+      "wonk",
+      "worn"
+    ],
+    "pangramHints": [
+      {
+        "word": "workman",
+        "hint": "A term for a laborer, often associated with craftsmanship."
+      },
+      {
+        "word": "workwoman",
+        "hint": "A strong figure in the workforce, breaking barriers."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

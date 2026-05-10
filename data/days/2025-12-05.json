@@ -1,0 +1,191 @@
+{
+  "date": "2025-12-05",
+  "fetchedAt": "2026-05-10T20:20:22.053Z",
+  "connections": {
+    "puzzleId": 960,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TRICKY",
+        "words": [
+          "COMPLEX",
+          "DELICATE",
+          "STICKY",
+          "TOUGH"
+        ]
+      },
+      {
+        "title": "STATE OF AFFAIRS",
+        "words": [
+          "DEAL",
+          "SITUATION",
+          "STATUS",
+          "STORY"
+        ]
+      },
+      {
+        "title": "CLASSIC BOARD GAMES",
+        "words": [
+          "MASTERMIND",
+          "MOUSE TRAP",
+          "OPERATION",
+          "SORRY"
+        ]
+      },
+      {
+        "title": "___ TALK",
+        "words": [
+          "BABY",
+          "PILLOW",
+          "SMALL",
+          "SWEET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Navigating this maze might require a little finesse; don't get stuck in the web of choices.",
+      "Every twist and turn tells a tale; can you decipher the narrative behind these choices?",
+      "These games have stood the test of time, but can you outsmart the classics?",
+      "Whispers of innocence and comfort linger here; what conversations might unfold?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1018,
+    "editor": "Tracy Bennett",
+    "solution": "among",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a common word that suggests being in the middle of something."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a word that relates to being part of a group or collective."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word often describes a position or presence within a certain context."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 809,
+    "editor": "Tracy Bennett",
+    "clue": "Feeling peckish?",
+    "spangram": "DININGOUT",
+    "themeWords": [
+      "BAKERY",
+      "BISTRO",
+      "BREWERY",
+      "BUFFET",
+      "CAFE",
+      "STEAKHOUSE"
+    ],
+    "startingBoard": [
+      "KADKAB",
+      "OHEIER",
+      "UTNOBY",
+      "SESIRI",
+      "BUNYTS",
+      "FFEGRE",
+      "CTOEWR",
+      "AFEUTB"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2555,
+    "sides": [
+      "SYU",
+      "TIQ",
+      "LAE",
+      "MGO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "GYM",
+      "MILQUETOAST"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19687,
+    "centerLetter": "e",
+    "outerLetters": "abcimn",
+    "pangrams": [
+      "ambiance",
+      "ambience"
+    ],
+    "answers": [
+      "acme",
+      "acne",
+      "ameba",
+      "amebae",
+      "amebic",
+      "amen",
+      "anemia",
+      "anemic",
+      "anime",
+      "babe",
+      "bane",
+      "beam",
+      "bean",
+      "beanie",
+      "became",
+      "been",
+      "biennia",
+      "cabbie",
+      "came",
+      "cane",
+      "canine",
+      "cinema",
+      "emcee",
+      "eminence",
+      "enema",
+      "iceman",
+      "icemen",
+      "imbibe",
+      "imminence",
+      "inane",
+      "innie",
+      "mace",
+      "mane",
+      "mean",
+      "meanie",
+      "mecca",
+      "meme",
+      "menace",
+      "mice",
+      "mien",
+      "mime",
+      "mince",
+      "mine",
+      "name",
+      "nene",
+      "nice",
+      "niece",
+      "nine"
+    ],
+    "pangramHints": [
+      {
+        "word": "ambiance",
+        "hint": "A word that captures the essence of a place; think atmosphere."
+      },
+      {
+        "word": "ambience",
+        "hint": "Similar to the first, but with a twist; it also relates to environment."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

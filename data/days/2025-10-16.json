@@ -1,0 +1,203 @@
+{
+  "date": "2025-10-16",
+  "fetchedAt": "2026-05-10T20:17:04.234Z",
+  "connections": {
+    "puzzleId": 896,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FRUIT DESSERTS",
+        "words": [
+          "COBBLER",
+          "CRISP",
+          "CRUMBLE",
+          "TART"
+        ]
+      },
+      {
+        "title": "CRABBY",
+        "words": [
+          "CROSS",
+          "PRICKLY",
+          "SORE",
+          "SOUR"
+        ]
+      },
+      {
+        "title": "FISH",
+        "words": [
+          "CHAR",
+          "FLUKE",
+          "PIKE",
+          "SKATE"
+        ]
+      },
+      {
+        "title": "BANANA ___",
+        "words": [
+          "BOAT",
+          "BREAD",
+          "SLUG",
+          "SPLIT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These sweet treats can be baked to perfection, often served warm and topped with a scoop of ice cream.",
+      "Beware of the prickly personalities in this group; they might leave you feeling a bit sore.",
+      "Swim into this aquatic assortment, where each member has its own unique flavor and texture.",
+      "This playful phrase suggests a fun way to enjoy a beloved yellow fruit, often paired with ice cream."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2274,
+    "editor": "Tracy Bennett",
+    "solution": "catty",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a feline's playful nature."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a certain attitude, often associated with jealousy."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with 'batty' and relates to a specific type of behavior."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 761,
+    "editor": "Tracy Bennett",
+    "clue": "And the category is ...",
+    "spangram": "TRIVIANIGHT",
+    "themeWords": [
+      "GEOGRAPHY",
+      "HISTORY",
+      "MOVIES",
+      "MUSIC",
+      "NEWS",
+      "SPORTS"
+    ],
+    "startingBoard": [
+      "TSPRHP",
+      "MROTYA",
+      "SUISOR",
+      "IVGESG",
+      "CHIEMT",
+      "IAIOHN",
+      "STNVGE",
+      "ORYIWS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2508,
+    "sides": [
+      "IUT",
+      "RWN",
+      "KOA",
+      "SCV"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "VICTORIOUS",
+      "SWANK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17600,
+    "centerLetter": "t",
+    "outerLetters": "aelnux",
+    "pangrams": [
+      "exultant"
+    ],
+    "answers": [
+      "ante",
+      "antenatal",
+      "antenna",
+      "antennae",
+      "attenuate",
+      "attune",
+      "aunt",
+      "eaten",
+      "elate",
+      "entente",
+      "exalt",
+      "exeunt",
+      "extant",
+      "extent",
+      "extenuate",
+      "exult",
+      "lantana",
+      "late",
+      "laten",
+      "latent",
+      "latex",
+      "latte",
+      "leant",
+      "lent",
+      "lunate",
+      "lunette",
+      "lute",
+      "luteal",
+      "natal",
+      "natant",
+      "neat",
+      "neaten",
+      "nettle",
+      "next",
+      "tale",
+      "talent",
+      "tall",
+      "tattle",
+      "tattletale",
+      "taunt",
+      "taut",
+      "tauten",
+      "taxa",
+      "teal",
+      "teat",
+      "teen",
+      "teletext",
+      "telex",
+      "tell",
+      "telltale",
+      "tenant",
+      "tenet",
+      "tent",
+      "text",
+      "textual",
+      "tulle",
+      "tuna",
+      "tune",
+      "tunnel",
+      "tutee",
+      "tutu",
+      "ululate",
+      "uneaten",
+      "unlet",
+      "untune"
+    ],
+    "pangramHints": [
+      {
+        "word": "exultant",
+        "hint": "A feeling of great joy, often expressed in a lively manner."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

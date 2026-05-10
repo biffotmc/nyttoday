@@ -1,0 +1,185 @@
+{
+  "date": "2025-10-23",
+  "fetchedAt": "2026-05-10T20:17:31.609Z",
+  "connections": {
+    "puzzleId": 908,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PEACHY",
+        "words": [
+          "DANDY",
+          "DUCKY",
+          "FINE",
+          "SWELL"
+        ]
+      },
+      {
+        "title": "WINNINGS",
+        "words": [
+          "KITTY",
+          "POT",
+          "PRIZE",
+          "PURSE"
+        ]
+      },
+      {
+        "title": "PIECES OF OLYMPIC SPORTS EQUIPMENT",
+        "words": [
+          "BALL",
+          "BIRDIE",
+          "PUCK",
+          "STONE"
+        ]
+      },
+      {
+        "title": "___ BAG",
+        "words": [
+          "DOGGY",
+          "GO",
+          "MIXED",
+          "SWAG"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words are all about feeling great, but watch out for the one that might quack you up!",
+      "Think of furry friends and treasures that might make you purr with delight.",
+      "When you think of games played in the arena, these items are essential for the action!",
+      "This phrase can describe a playful pup or a collection of fun items you might carry."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1800,
+    "editor": "Tracy Bennett",
+    "solution": "drill",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a tool often used in construction."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word rhymes with 'thrill'."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that describes a repetitive action, often associated with making holes."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 768,
+    "editor": "Tracy Bennett",
+    "clue": "Please don't eat me!",
+    "spangram": "POISONOUS",
+    "themeWords": [
+      "AZALEA",
+      "BELLADONNA",
+      "FOXGLOVE",
+      "HEMLOCK",
+      "OLEANDER"
+    ],
+    "startingBoard": [
+      "PNAELO",
+      "DODERV",
+      "OAIFOE",
+      "NLSOGL",
+      "NLOHXK",
+      "AENEMC",
+      "ABEOLO",
+      "ZALAUS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2517,
+    "sides": [
+      "SEA",
+      "LUT",
+      "OZY",
+      "ICV"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "VACUOUS",
+      "STYLIZE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9361,
+    "centerLetter": "a",
+    "outerLetters": "bcfikl",
+    "pangrams": [
+      "backfill"
+    ],
+    "answers": [
+      "abaci",
+      "aback",
+      "acacia",
+      "acai",
+      "alack",
+      "alfalfa",
+      "alibi",
+      "alkali",
+      "baba",
+      "babka",
+      "bacilli",
+      "back",
+      "bail",
+      "bailiff",
+      "balalaika",
+      "balk",
+      "ball",
+      "biblical",
+      "bilabial",
+      "blab",
+      "black",
+      "blackball",
+      "cabal",
+      "cabala",
+      "calf",
+      "call",
+      "calla",
+      "callback",
+      "cilia",
+      "clack",
+      "facial",
+      "fail",
+      "fall",
+      "fallback",
+      "filial",
+      "flab",
+      "flack",
+      "flail",
+      "flak",
+      "iliac",
+      "kickback",
+      "kickball",
+      "labia",
+      "labial",
+      "lack",
+      "laic",
+      "laical",
+      "lilac"
+    ],
+    "pangramHints": [
+      {
+        "word": "backfill",
+        "hint": "A term used in construction, but don't dig too deep into the details!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

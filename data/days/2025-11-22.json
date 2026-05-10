@@ -1,0 +1,193 @@
+{
+  "date": "2025-11-22",
+  "fetchedAt": "2026-05-10T20:19:34.389Z",
+  "connections": {
+    "puzzleId": 952,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LITTLE BIT",
+        "words": [
+          "DAB",
+          "DROP",
+          "SPLASH",
+          "TOUCH"
+        ]
+      },
+      {
+        "title": "SAILOR",
+        "words": [
+          "SALTY DOG",
+          "SKIPPER",
+          "SWAB",
+          "TAR"
+        ]
+      },
+      {
+        "title": "TROPICAL FRUITS/VEGETABLES",
+        "words": [
+          "BITTER MELON",
+          "CHAYOTE",
+          "DURIAN",
+          "SOURSOP"
+        ]
+      },
+      {
+        "title": "___ DEAL",
+        "words": [
+          "BIG",
+          "PLEA",
+          "RAW",
+          "SWEETHEART"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A gentle nudge can create ripples in the calmest of waters.",
+      "Navigating the seas requires a steady hand and a salty spirit.",
+      "In the garden of flavors, some delights are an acquired taste.",
+      "When it comes to negotiations, sweetness can sometimes mask the bitter."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1585,
+    "editor": "Tracy Bennett",
+    "solution": "thick",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that can be both heavy and substantial."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that can describe a dense layer."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word often relates to texture or consistency."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 796,
+    "editor": "Tracy Bennett",
+    "clue": "Ivy League",
+    "spangram": "SPORTSTEAM",
+    "themeWords": [
+      "BEARS",
+      "BULLDOGS",
+      "CRIMSON",
+      "LIONS",
+      "QUAKERS",
+      "TIGERS"
+    ],
+    "startingBoard": [
+      "SOSPQS",
+      "GDBOUR",
+      "LLURAE",
+      "BEATKO",
+      "SRTSNS",
+      "GTELMI",
+      "EIAICR",
+      "SRMONS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2545,
+    "sides": [
+      "LDN",
+      "FAT",
+      "CWO",
+      "UIE"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FUNCTIONAL",
+      "LEWD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20040,
+    "centerLetter": "o",
+    "outerLetters": "gintuw",
+    "pangrams": [
+      "outwitting"
+    ],
+    "answers": [
+      "going",
+      "gong",
+      "gonging",
+      "goon",
+      "gouging",
+      "gout",
+      "gown",
+      "gowning",
+      "ignition",
+      "ingot",
+      "into",
+      "intoning",
+      "intuition",
+      "noggin",
+      "nonunion",
+      "noon",
+      "noting",
+      "notion",
+      "noun",
+      "ongoing",
+      "onion",
+      "onto",
+      "outgo",
+      "outgoing",
+      "outgun",
+      "outgunning",
+      "outing",
+      "outwit",
+      "owing",
+      "owning",
+      "togging",
+      "tong",
+      "tonging",
+      "tonguing",
+      "toning",
+      "toon",
+      "toot",
+      "tooting",
+      "toting",
+      "tout",
+      "touting",
+      "towing",
+      "town",
+      "tuition",
+      "union",
+      "unto",
+      "unwon",
+      "winnow",
+      "winnowing",
+      "wino",
+      "wont",
+      "wonton",
+      "wooing",
+      "woot",
+      "wowing"
+    ],
+    "pangramHints": [
+      {
+        "word": "outwitting",
+        "hint": "A clever twist in the tale, but don't reveal the plot!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

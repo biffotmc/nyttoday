@@ -1,0 +1,166 @@
+{
+  "date": "2025-09-06",
+  "fetchedAt": "2026-05-10T20:14:34.432Z",
+  "connections": {
+    "puzzleId": 859,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "RUPTURED",
+        "words": [
+          "BLEW",
+          "BROKE",
+          "BURST",
+          "SPLIT"
+        ]
+      },
+      {
+        "title": "APPARITION",
+        "words": [
+          "SHADE",
+          "SPECTER",
+          "SPIRIT",
+          "WIGHT"
+        ]
+      },
+      {
+        "title": "PREDICT",
+        "words": [
+          "CALL",
+          "DIVINE",
+          "FORECAST",
+          "READ"
+        ]
+      },
+      {
+        "title": "\"BEST ___ PERFORMANCE\" GRAMMY AWARD",
+        "words": [
+          "AMERICANA",
+          "CHORAL",
+          "JAZZ",
+          "RAP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When things go wrong, they often do so with a bang or a pop.",
+      "A figure from beyond, lurking in the shadows, waiting to be seen.",
+      "Peering into the future is a tricky business; some have the gift.",
+      "A musical accolade that celebrates a variety of genres, but only one can take the crown."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1790,
+    "editor": "Tracy Bennett",
+    "solution": "bulge",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that can expand unexpectedly."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe an overfilled container."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term often used in physics, relating to pressure."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 700,
+    "editor": "Tracy Bennett",
+    "clue": "In stitches",
+    "spangram": "KNITTINGPROJECT",
+    "themeWords": [
+      "BLANKET",
+      "BOOTIES",
+      "MITTENS",
+      "SOCKS",
+      "SWEATER"
+    ],
+    "startingBoard": [
+      "EWBLKN",
+      "AESTAI",
+      "TRENTT",
+      "BOOKCT",
+      "SITSIE",
+      "ECNEJN",
+      "OKMTGO",
+      "SSITRP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2468,
+    "sides": [
+      "WVT",
+      "FOR",
+      "ELD",
+      "AIG"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DIVA",
+      "AFTERGLOW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20057,
+    "centerLetter": "v",
+    "outerLetters": "cdelop",
+    "pangrams": [
+      "codevelop",
+      "codeveloped"
+    ],
+    "answers": [
+      "clove",
+      "coevolve",
+      "coevolved",
+      "cove",
+      "delve",
+      "delved",
+      "develop",
+      "developed",
+      "devolve",
+      "devolved",
+      "dove",
+      "evolve",
+      "evolved",
+      "levee",
+      "level",
+      "leveled",
+      "love",
+      "loved",
+      "peeve",
+      "peeved",
+      "veep",
+      "veld",
+      "vole",
+      "voodoo"
+    ],
+    "pangramHints": [
+      {
+        "word": "codevelop",
+        "hint": "A collaborative effort that often leads to innovation."
+      },
+      {
+        "word": "codeveloped",
+        "hint": "When two minds join forces to create something new."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "date": "2026-03-02",
+  "fetchedAt": "2026-05-10T20:26:11.413Z",
+  "connections": {
+    "puzzleId": 1071,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GYMNASTICS APPARATUS",
+        "words": [
+          "BEAM",
+          "HORSE",
+          "RINGS",
+          "VAULT"
+        ]
+      },
+      {
+        "title": "STATUS",
+        "words": [
+          "POSITION",
+          "RANK",
+          "STANDING",
+          "STATION"
+        ]
+      },
+      {
+        "title": "BASEBALL CALLS",
+        "words": [
+          "BALL",
+          "FOUL",
+          "SAFE",
+          "STRIKE"
+        ]
+      },
+      {
+        "title": "___ CHICKEN",
+        "words": [
+          "FUNKY",
+          "POPCORN",
+          "RUBBER",
+          "SPRING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Balance and grace are key in this arena; one misstep could lead to a tumble.",
+      "Climbing the ladder of success, these terms define where you stand in the game.",
+      "In the diamond's realm, every call can change the course of the game; listen closely.",
+      "This phrase brings to mind a quirky twist on a classic dish; think outside the coop."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 971,
+    "editor": "Tracy Bennett",
+    "solution": "slime",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something gooey and often found in crafts."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also describe something sticky and stretchy."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with 'time' and is often associated with a certain green substance."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 901,
+    "editor": "Tracy Bennett",
+    "clue": "Home office alternative",
+    "spangram": "COWORKINGSPACE",
+    "themeWords": [
+      "BOOTHS",
+      "DESKS",
+      "LOUNGE",
+      "PANTRY",
+      "PRINTER",
+      "WIFI"
+    ],
+    "startingBoard": [
+      "COWESS",
+      "HSODKI",
+      "TBRPRN",
+      "OOKLTE",
+      "ANIOUR",
+      "PTNEGN",
+      "YRGSPA",
+      "IFIWEC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2645,
+    "sides": [
+      "MIB",
+      "HTE",
+      "AOC",
+      "SZX"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "MATCHBOXES",
+      "SIZE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22278,
+    "centerLetter": "n",
+    "outerLetters": "ciotuy",
+    "pangrams": [
+      "continuity"
+    ],
+    "answers": [
+      "coconut",
+      "cocoon",
+      "coin",
+      "concoct",
+      "concoction",
+      "conic",
+      "cotton",
+      "cottony",
+      "count",
+      "county",
+      "cynic",
+      "icon",
+      "iconic",
+      "into",
+      "intuit",
+      "intuition",
+      "ionic",
+      "ninny",
+      "nonunion",
+      "noon",
+      "notion",
+      "noun",
+      "nuncio",
+      "nutty",
+      "onion",
+      "oniony",
+      "onto",
+      "tinct",
+      "tinny",
+      "tint",
+      "tiny",
+      "tonic",
+      "tony",
+      "toon",
+      "tuition",
+      "tunic",
+      "tycoon",
+      "unction",
+      "uncut",
+      "union",
+      "unit",
+      "unity",
+      "unto"
+    ],
+    "pangramHints": [
+      {
+        "word": "continuity",
+        "hint": "A seamless flow that connects all parts; think of how things keep going."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

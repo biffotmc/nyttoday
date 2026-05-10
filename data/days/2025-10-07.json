@@ -1,0 +1,187 @@
+{
+  "date": "2025-10-07",
+  "fetchedAt": "2026-05-10T20:16:32.828Z",
+  "connections": {
+    "puzzleId": 890,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GOSSIP",
+        "words": [
+          "BUZZ",
+          "DIRT",
+          "DISH",
+          "TALK"
+        ]
+      },
+      {
+        "title": "SEEN AT A WEDDING",
+        "words": [
+          "ALTAR",
+          "BOUQUET",
+          "CAKE",
+          "RING"
+        ]
+      },
+      {
+        "title": "TEAM",
+        "words": [
+          "BUNCH",
+          "CREW",
+          "GROUP",
+          "PACK"
+        ]
+      },
+      {
+        "title": "MUSICALS PLUS STARTING LETTER",
+        "words": [
+          "BRENT",
+          "CHAIR",
+          "FANNIE",
+          "SCATS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Whispers travel fast, but can you catch the sound before it fades?",
+      "A celebration of love brings together more than just vows and promises.",
+      "Strength in numbers, this collective is all about camaraderie.",
+      "A theatrical twist awaits, where letters dance to create a show-stopping act."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1924,
+    "editor": "Tracy Bennett",
+    "solution": "nylon",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a fabric that stretches."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something used in clothing."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This material is often found in activewear."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 751,
+    "editor": "Tracy Bennett",
+    "clue": "Unusual companions",
+    "spangram": "EXOTICPET",
+    "themeWords": [
+      "AXOLOTL",
+      "CHINCHILLA",
+      "GECKO",
+      "PARROT",
+      "PYTHON",
+      "SKUNK"
+    ],
+    "startingBoard": [
+      "NIHETO",
+      "CCPAXL",
+      "HIACNO",
+      "LLIOLT",
+      "KEGTHP",
+      "OCOTAR",
+      "NUSXYR",
+      "KKEPTO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2499,
+    "sides": [
+      "BDX",
+      "HIW",
+      "ANO",
+      "SJG"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JABS",
+      "SHADOWBOXING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26782,
+    "centerLetter": "a",
+    "outerLetters": "fgirty",
+    "pangrams": [
+      "gratify"
+    ],
+    "answers": [
+      "afar",
+      "affair",
+      "affray",
+      "agar",
+      "agita",
+      "airy",
+      "aria",
+      "array",
+      "arty",
+      "atria",
+      "attar",
+      "fair",
+      "fairy",
+      "fart",
+      "fatty",
+      "fiat",
+      "frag",
+      "frat",
+      "fratty",
+      "fray",
+      "friar",
+      "friary",
+      "frittata",
+      "gaff",
+      "gaga",
+      "gait",
+      "graffiti",
+      "graft",
+      "gray",
+      "raffia",
+      "raft",
+      "raga",
+      "ragtag",
+      "raita",
+      "rarity",
+      "ratatat",
+      "ratify",
+      "ratty",
+      "riffraff",
+      "taffy",
+      "taiga",
+      "tariff",
+      "tarry",
+      "tart",
+      "tartar",
+      "tatty",
+      "tiara",
+      "trait",
+      "tray"
+    ],
+    "pangramHints": [
+      {
+        "word": "gratify",
+        "hint": "To please or satisfy, this word has a joyful ring to it."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

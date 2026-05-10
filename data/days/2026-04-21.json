@@ -1,0 +1,154 @@
+{
+  "date": "2026-04-21",
+  "fetchedAt": "2026-05-10T20:29:33.006Z",
+  "connections": {
+    "puzzleId": 1127,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "AMBLE (IN)",
+        "words": [
+          "BREEZE",
+          "MOSEY",
+          "STROLL",
+          "WALTZ"
+        ]
+      },
+      {
+        "title": "BALDERDASH",
+        "words": [
+          "BALONEY",
+          "BILGE",
+          "BULL",
+          "BUNK"
+        ]
+      },
+      {
+        "title": "KINDS OF BAGS",
+        "words": [
+          "CROSSBODY",
+          "HOBO",
+          "MESSENGER",
+          "SADDLE"
+        ]
+      },
+      {
+        "title": "STARTS OF ONE-WORD JAMES BOND MOVIE TITLES",
+        "words": [
+          "GOLD",
+          "MOON",
+          "OCTOPUS",
+          "THUNDER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A gentle walk through the park, where each step is a dance with the wind.",
+      "A playful mix of nonsense, where truth and fiction collide in a delightful mess.",
+      "Carry your essentials in style, from casual to chic, there's a bag for every occasion.",
+      "From precious metals to celestial bodies, the adventure begins with a single word."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2234,
+    "editor": "Tracy Bennett",
+    "solution": "clump",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a cluster or a collection."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a gathering of items."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It often refers to a grouping that might be messy or disorganized."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 951,
+    "editor": "Tracy Bennett",
+    "clue": "Risky business",
+    "spangram": "DAREDEVILS",
+    "themeWords": [
+      "ADVENTUROUS",
+      "BOLD",
+      "COURAGEOUS",
+      "GUTSY",
+      "INTREPID"
+    ],
+    "startingBoard": [
+      "RUNVDS",
+      "OTEATY",
+      "UEDEVU",
+      "SROUIG",
+      "DACRLS",
+      "OEGAOB",
+      "UIETIL",
+      "SDPRND"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2695,
+    "sides": [
+      "BIE",
+      "ACK",
+      "RLP",
+      "DVO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "PELVIC",
+      "CORKBOARD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 14540,
+    "centerLetter": "b",
+    "outerLetters": "cikorw",
+    "pangrams": [
+      "brickwork"
+    ],
+    "answers": [
+      "bocci",
+      "bock",
+      "boob",
+      "booboo",
+      "book",
+      "bookwork",
+      "boor",
+      "boric",
+      "borrow",
+      "bowwow",
+      "brick",
+      "brio",
+      "brook",
+      "brow",
+      "cookbook",
+      "crib",
+      "workbook"
+    ],
+    "pangramHints": [
+      {
+        "word": "brickwork",
+        "hint": "A sturdy structure made of clay, often found in old buildings."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

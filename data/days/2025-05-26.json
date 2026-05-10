@@ -1,0 +1,166 @@
+{
+  "date": "2025-05-26",
+  "fetchedAt": "2026-05-10T20:07:18.068Z",
+  "connections": {
+    "puzzleId": 749,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ITEMS IN A LINEN CLOSET",
+        "words": [
+          "PILLOWCASE",
+          "SHEET",
+          "TOWEL",
+          "WASHCLOTH"
+        ]
+      },
+      {
+        "title": "DIAMETRIC",
+        "words": [
+          "COUNTER",
+          "OPPOSITE",
+          "POLAR",
+          "REVERSE"
+        ]
+      },
+      {
+        "title": "LINGERIE",
+        "words": [
+          "GARTER",
+          "HOSE",
+          "SLIP",
+          "TEDDY"
+        ]
+      },
+      {
+        "title": "CARD GAMES WITH FIRST LETTER CHANGED",
+        "words": [
+          "DIN",
+          "FRIDGE",
+          "GUMMY",
+          "JOKER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Soft and cozy, these are essentials for a restful night. Find comfort in their embrace.",
+      "When two sides meet, they create a balance. What lies across from you might surprise.",
+      "Intimate and delicate, these pieces add a touch of allure. They are often hidden from plain sight.",
+      "A twist on familiar games, where a simple change can lead to unexpected fun."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1906,
+    "editor": "Tracy Bennett",
+    "solution": "drone",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It’s something that flies but isn’t alive."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a buzzing device that can be controlled from afar."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word shares its first letter with a common insect, but it’s not a living creature."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 613,
+    "editor": "Tracy Bennett",
+    "clue": "Body language",
+    "spangram": "GESTURES",
+    "themeWords": [
+      "CURTSEY",
+      "HANDSHAKE",
+      "KOWTOW",
+      "NAMASTE",
+      "SALUTE",
+      "SHRUG"
+    ],
+    "startingBoard": [
+      "EKARTS",
+      "SHUCYE",
+      "DNAKOW",
+      "GEHWOT",
+      "STURES",
+      "ESANGU",
+      "TAEMRH",
+      "ULTSAS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2365,
+    "sides": [
+      "CAO",
+      "SMP",
+      "HUI",
+      "RDQ"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUADS",
+      "SOPHOMORIC"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22334,
+    "centerLetter": "c",
+    "outerLetters": "adhruy",
+    "pangrams": [
+      "archduchy",
+      "churchyard"
+    ],
+    "answers": [
+      "accuracy",
+      "achy",
+      "arch",
+      "caddy",
+      "card",
+      "carry",
+      "chad",
+      "char",
+      "chard",
+      "chary",
+      "church",
+      "churchy",
+      "crud",
+      "cruddy",
+      "curacy",
+      "curd",
+      "curdy",
+      "curry",
+      "dacha",
+      "duchy",
+      "racy",
+      "yuca",
+      "yucca"
+    ],
+    "pangramHints": [
+      {
+        "word": "archduchy",
+        "hint": "Noble and grand, this word has a royal flair; just remember, it's all about the hierarchy."
+      },
+      {
+        "word": "churchyard",
+        "hint": "A peaceful resting place, where stories linger beneath the surface; think of the quiet and the sacred."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

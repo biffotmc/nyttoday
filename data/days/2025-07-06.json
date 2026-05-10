@@ -1,0 +1,183 @@
+{
+  "date": "2025-07-06",
+  "fetchedAt": "2026-05-10T20:10:36.976Z",
+  "connections": {
+    "puzzleId": 797,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FIRED OBJECTS",
+        "words": [
+          "CERAMICS",
+          "CHINA",
+          "POTTERY",
+          "WARE"
+        ]
+      },
+      {
+        "title": "PARTICLE",
+        "words": [
+          "CRUMB",
+          "GRAIN",
+          "MORSEL",
+          "SHRED"
+        ]
+      },
+      {
+        "title": "DRS",
+        "words": [
+          "DRE",
+          "EVIL",
+          "PEPPER",
+          "SEUSS"
+        ]
+      },
+      {
+        "title": "ENDING WITH HOMOPHONES OF PARTS OF THE LEG",
+        "words": [
+          "CRYPTO",
+          "DECAF",
+          "DISNEY",
+          "PRUSSIAN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These creations are often found on display, but handle with care, as they can shatter like dreams.",
+      "Tiny bits that can make a meal or just be a nuisance; they all have their place in the pantry.",
+      "Famous for their quirky tales and whimsical characters, these names might make you chuckle or cringe.",
+      "Think of a digital currency, a popular beverage, a magical kingdom, and a historic empire, all rolled into one!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2386,
+    "editor": "Tracy Bennett",
+    "solution": "atria",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a space in a building."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to a specific architectural feature."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with open areas in structures, especially in classical designs."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 655,
+    "editor": "Tracy Bennett",
+    "clue": "My hero!",
+    "spangram": "SUPERPOWER",
+    "themeWords": [
+      "FLIGHT",
+      "HEALING",
+      "INVISIBILITY",
+      "SPEED",
+      "STRENGTH"
+    ],
+    "startingBoard": [
+      "REGHRN",
+      "TNTEIV",
+      "SPOWSI",
+      "IRLIBI",
+      "GLEIEA",
+      "HFPTHL",
+      "PTEUYI",
+      "SEDSGN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2406,
+    "sides": [
+      "OIB",
+      "EYP",
+      "JLA",
+      "NRZ"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "PRIZE",
+      "ENJOYABLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23165,
+    "centerLetter": "i",
+    "outerLetters": "achmrt",
+    "pangrams": [
+      "matriarch"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "archaic",
+      "arctic",
+      "aria",
+      "armchair",
+      "arthritic",
+      "atria",
+      "attic",
+      "cacti",
+      "cami",
+      "cathartic",
+      "chai",
+      "chair",
+      "chia",
+      "chic",
+      "chica",
+      "chichi",
+      "chit",
+      "chitchat",
+      "circa",
+      "cirri",
+      "citric",
+      "critic",
+      "hair",
+      "hamachi",
+      "hamartia",
+      "hitch",
+      "imam",
+      "itch",
+      "mahimahi",
+      "maim",
+      "mariachi",
+      "mica",
+      "mimic",
+      "mirth",
+      "mitt",
+      "raita",
+      "rich",
+      "tacit",
+      "tactic",
+      "tamari",
+      "tatami",
+      "tiara",
+      "trait",
+      "trim"
+    ],
+    "pangramHints": [
+      {
+        "word": "matriarch",
+        "hint": "A leader of the family, often wise and nurturing; think of a strong female figure."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

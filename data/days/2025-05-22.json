@@ -1,0 +1,183 @@
+{
+  "date": "2025-05-22",
+  "fetchedAt": "2026-05-10T20:07:01.989Z",
+  "connections": {
+    "puzzleId": 753,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FINE PRINT",
+        "words": [
+          "ASTERISK",
+          "CATCH",
+          "CONDITION",
+          "STRINGS"
+        ]
+      },
+      {
+        "title": "CHARACTERS WITH GREEN SKIN",
+        "words": [
+          "ELPHABA",
+          "GRINCH",
+          "HULK",
+          "SHREK"
+        ]
+      },
+      {
+        "title": "FEATURES OF THE NATIONAL MALL IN D.C.",
+        "words": [
+          "CAPITOL",
+          "MALL",
+          "OBELISK",
+          "POOL"
+        ]
+      },
+      {
+        "title": "FAMOUS RIDDLE-GIVERS",
+        "words": [
+          "BRIDGE TROLL",
+          "MAD HATTER",
+          "RIDDLER",
+          "SPHINX"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of contracts, a little mark can change everything. Look for the signs that bind.",
+      "These green figures are not just characters; they carry stories of magic and mischief.",
+      "Explore the iconic sights where history and leisure meet, each a landmark of its own.",
+      "Riddles are their game, and cleverness is their claim to fame. Who dares to ask the questions?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2174,
+    "editor": "Tracy Bennett",
+    "solution": "folio",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a book or a collection of pages."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to documents or records."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with an 'F' and is often associated with written content."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 609,
+    "editor": "Tracy Bennett",
+    "clue": "Keeping an eye on things",
+    "spangram": "TAKECARE",
+    "themeWords": [
+      "CUSTODIAN",
+      "GUARDIAN",
+      "PROTECTOR",
+      "STEWARD",
+      "TRUSTEE"
+    ],
+    "startingBoard": [
+      "ATROTE",
+      "WRAPCR",
+      "ESDKTO",
+      "TNOTET",
+      "ADSCUR",
+      "IUAGST",
+      "CRUEEN",
+      "EARDIA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2361,
+    "sides": [
+      "WGN",
+      "ETB",
+      "KLO",
+      "HAI"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "KNOWABLE",
+      "EIGHT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12324,
+    "centerLetter": "p",
+    "outerLetters": "achlot",
+    "pangrams": [
+      "potlatch"
+    ],
+    "answers": [
+      "alcopop",
+      "alpaca",
+      "alpha",
+      "appall",
+      "atop",
+      "capo",
+      "captcha",
+      "catalpa",
+      "chap",
+      "chop",
+      "clap",
+      "clop",
+      "coop",
+      "coopt",
+      "hoop",
+      "hoopla",
+      "hotpot",
+      "laptop",
+      "lollop",
+      "loop",
+      "opal",
+      "pact",
+      "palapa",
+      "palatal",
+      "pall",
+      "palp",
+      "papa",
+      "papal",
+      "patch",
+      "path",
+      "phat",
+      "photo",
+      "plat",
+      "plop",
+      "plot",
+      "poach",
+      "poll",
+      "polo",
+      "pooch",
+      "pooh",
+      "pool",
+      "poop",
+      "poppa",
+      "potato",
+      "tapa",
+      "topcoat"
+    ],
+    "pangramHints": [
+      {
+        "word": "potlatch",
+        "hint": "A ceremonial feast that involves giving away gifts, hinting at generosity."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

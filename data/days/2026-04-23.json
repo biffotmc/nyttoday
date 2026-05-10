@@ -1,0 +1,198 @@
+{
+  "date": "2026-04-23",
+  "fetchedAt": "2026-05-10T20:29:40.742Z",
+  "connections": {
+    "puzzleId": 1121,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BORDER",
+        "words": [
+          "FLANK",
+          "NEIGHBOR",
+          "SKIRT",
+          "TOUCH"
+        ]
+      },
+      {
+        "title": "KINDS OF FICTION",
+        "words": [
+          "HISTORICAL",
+          "LITERARY",
+          "PULP",
+          "SCIENCE"
+        ]
+      },
+      {
+        "title": "WORDS IN A PLANETARY MNEMONIC",
+        "words": [
+          "EDUCATED",
+          "MOTHER",
+          "MY",
+          "VERY"
+        ]
+      },
+      {
+        "title": "STARTING WITH FOUR-LETTER '80S BANDS",
+        "words": [
+          "ASIAGO",
+          "DEVOTE",
+          "TOTORO",
+          "WHAMMY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you think of edges and limits, what comes to mind? These words dance around the perimeter.",
+      "Stories can take many forms, but these types are often the most captivating. Dive into the narrative!",
+      "Remember a phrase that helps you recall celestial bodies? These words fit right in with that mnemonic.",
+      "The '80s had some memorable bands, and these four-letter names are sure to strike a chord."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1275,
+    "editor": "Tracy Bennett",
+    "solution": "tweet",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A chirpy message often shared online."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's something you might send to your followers."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a short, quick communication that can be seen by many."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 955,
+    "editor": "Tracy Bennett",
+    "clue": "Provinces of the pantheon",
+    "spangram": "DOMAIN",
+    "themeWords": [
+      "HARVEST",
+      "LOVE",
+      "MARRIAGE",
+      "THUNDER",
+      "UNDERWORLD",
+      "WISDOM"
+    ],
+    "startingBoard": [
+      "THWISM",
+      "UDHRDO",
+      "NEAVET",
+      "ROMAIS",
+      "DEVOLN",
+      "URRIGD",
+      "NAMAEL",
+      "DERWOR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2697,
+    "sides": [
+      "NLZ",
+      "MTI",
+      "FRO",
+      "CHU"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "ZIRCONIUM",
+      "MOUTHFUL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22953,
+    "centerLetter": "a",
+    "outerLetters": "delnqu",
+    "pangrams": [
+      "unequaled"
+    ],
+    "answers": [
+      "added",
+      "addend",
+      "addenda",
+      "addle",
+      "addled",
+      "allele",
+      "allude",
+      "alluded",
+      "anal",
+      "annal",
+      "anneal",
+      "annealed",
+      "annual",
+      "annul",
+      "annulled",
+      "aqua",
+      "dale",
+      "dandle",
+      "dandled",
+      "dead",
+      "deaden",
+      "deadened",
+      "deal",
+      "dean",
+      "dual",
+      "elan",
+      "eland",
+      "ennead",
+      "equal",
+      "equaled",
+      "lade",
+      "laded",
+      "laden",
+      "ladle",
+      "ladled",
+      "land",
+      "landed",
+      "lane",
+      "laud",
+      "lauded",
+      "lead",
+      "leaded",
+      "leaden",
+      "lean",
+      "leaned",
+      "luau",
+      "luna",
+      "lunula",
+      "lunulae",
+      "naan",
+      "nada",
+      "nana",
+      "quaalude",
+      "quad",
+      "ulna",
+      "ulnae",
+      "undead",
+      "unequal",
+      "unladen",
+      "unleaded"
+    ],
+    "pangramHints": [
+      {
+        "word": "unequaled",
+        "hint": "A term that signifies unmatched excellence; think of something that stands alone."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

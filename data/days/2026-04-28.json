@@ -1,0 +1,182 @@
+{
+  "date": "2026-04-28",
+  "fetchedAt": "2026-05-10T20:30:00.025Z",
+  "connections": {
+    "puzzleId": 1139,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ENTREATY",
+        "words": [
+          "APPEAL",
+          "BID",
+          "CALL",
+          "REQUEST"
+        ]
+      },
+      {
+        "title": "LAUNDRY DAY VERBS",
+        "words": [
+          "DRY",
+          "FOLD",
+          "SORT",
+          "WASH"
+        ]
+      },
+      {
+        "title": "THINGS THAT COME IN \"BOOKS\"",
+        "words": [
+          "CHECK",
+          "COUPON",
+          "MATCH",
+          "STAMP"
+        ]
+      },
+      {
+        "title": "SUN___",
+        "words": [
+          "DIAL",
+          "FLOWER",
+          "SCREEN",
+          "TAN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you find yourself in a bind, these words might just help you get a favor or two.",
+      "A chore that turns into a ritual; these actions keep your clothes fresh and tidy.",
+      "These items might not be on your reading list, but they can certainly add value to your life.",
+      "A bright star in the sky might inspire these words, which relate to warmth and growth."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1239,
+    "editor": "Tracy Bennett",
+    "solution": "quack",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a sound often associated with a certain bird."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a playful noise that might make you smile."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word embodies a certain quirkiness, often linked to a group of animals."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 959,
+    "editor": "Tracy Bennett",
+    "clue": "Attention, attention!",
+    "spangram": "LIKEAHAWK",
+    "themeWords": [
+      "BEHOLD",
+      "EYEBALL",
+      "MONITOR",
+      "OBSERVE",
+      "WATCH",
+      "WITNESS"
+    ],
+    "startingBoard": [
+      "TADLHE",
+      "CWVEOB",
+      "HERAWK",
+      "BSAHTO",
+      "OKENIR",
+      "LIMOBE",
+      "ITNAEY",
+      "WSSELL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2702,
+    "sides": [
+      "REO",
+      "YST",
+      "KIP",
+      "CNG"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "KETOGENIC",
+      "CRISPY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 13925,
+    "centerLetter": "c",
+    "outerLetters": "eilmnt",
+    "pangrams": [
+      "clementine",
+      "inclement"
+    ],
+    "answers": [
+      "cell",
+      "celli",
+      "cement",
+      "cent",
+      "cite",
+      "clement",
+      "client",
+      "clientele",
+      "clime",
+      "clinic",
+      "eclectic",
+      "elect",
+      "electee",
+      "elicit",
+      "emcee",
+      "emetic",
+      "eminence",
+      "entice",
+      "enticement",
+      "icemen",
+      "icicle",
+      "illicit",
+      "imminence",
+      "incite",
+      "incitement",
+      "incline",
+      "intellect",
+      "lenience",
+      "lice",
+      "licit",
+      "memetic",
+      "mice",
+      "mimetic",
+      "mimic",
+      "mince",
+      "nice",
+      "niece",
+      "tinct",
+      "titmice"
+    ],
+    "pangramHints": [
+      {
+        "word": "clementine",
+        "hint": "A sweet citrus fruit that brings a burst of sunshine."
+      },
+      {
+        "word": "inclement",
+        "hint": "Weather that isn't very friendly; think of storms and rain."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

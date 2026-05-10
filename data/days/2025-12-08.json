@@ -1,0 +1,164 @@
+{
+  "date": "2025-12-08",
+  "fetchedAt": "2026-05-10T20:20:34.017Z",
+  "connections": {
+    "puzzleId": 967,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GOAD, WITH \"ON\"",
+        "words": [
+          "EGG",
+          "PUSH",
+          "SPUR",
+          "URGE"
+        ]
+      },
+      {
+        "title": "FAMOUS STREETS IN LOS ANGELES",
+        "words": [
+          "MULHOLLAND",
+          "RODEO",
+          "SUNSET",
+          "VINE"
+        ]
+      },
+      {
+        "title": "MEMBER OF A DALLAS PRO SPORTS TEAM",
+        "words": [
+          "COWBOY",
+          "MAVERICK",
+          "STAR",
+          "WING"
+        ]
+      },
+      {
+        "title": "EUROPEAN CAPITALS MINUS SECOND-TO-LAST LETTER",
+        "words": [
+          "MINK",
+          "PARS",
+          "ROE",
+          "SOFA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you want to encourage someone, these verbs might come to mind, especially with a little push.",
+      "These iconic avenues are known for their glitz and glam, each with its own star-studded story.",
+      "In the Lone Star State, these athletes wear their pride on their sleeves, representing their teams with flair.",
+      "Take a journey through Europe, but leave out a letter or two; you'll find some surprising destinations."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1306,
+    "editor": "Tracy Bennett",
+    "solution": "gravy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's often served with comfort food."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a sauce that adds richness."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word rhymes with 'brave' and is a staple in many kitchens."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 813,
+    "editor": "Tracy Bennett",
+    "clue": "Grammatically speaking",
+    "spangram": "PARTSOFSPEECH",
+    "themeWords": [
+      "ADJECTIVE",
+      "ARTICLE",
+      "CONJUNCTION",
+      "NOUN",
+      "VERB"
+    ],
+    "startingBoard": [
+      "POUNLE",
+      "ANICAH",
+      "RVETRC",
+      "TBRPEE",
+      "SOFSUJ",
+      "ECTINN",
+      "DJEVCO",
+      "ANOITC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2567,
+    "sides": [
+      "AKO",
+      "TWI",
+      "BHJ",
+      "NSC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BANJOIST",
+      "THWACK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27588,
+    "centerLetter": "a",
+    "outerLetters": "beiptz",
+    "pangrams": [
+      "baptize"
+    ],
+    "answers": [
+      "abate",
+      "abet",
+      "appetite",
+      "appetize",
+      "baba",
+      "babe",
+      "bait",
+      "baize",
+      "bate",
+      "beat",
+      "beta",
+      "papa",
+      "pate",
+      "peat",
+      "pepita",
+      "piazza",
+      "pita",
+      "pitapat",
+      "pizazz",
+      "pizza",
+      "pizzazz",
+      "tapa",
+      "tape",
+      "teat",
+      "tibia",
+      "tibiae",
+      "zeta"
+    ],
+    "pangramHints": [
+      {
+        "word": "baptize",
+        "hint": "A ceremonial act often associated with new beginnings; think of water and faith."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2025-06-16",
+  "fetchedAt": "2026-05-10T20:10:27.832Z",
+  "connections": {
+    "puzzleId": 772,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EXPRESSIONLESS",
+        "words": [
+          "BLANK",
+          "FLAT",
+          "INANIMATE",
+          "WOODEN"
+        ]
+      },
+      {
+        "title": "DRAPERY HANGING ITEMS",
+        "words": [
+          "BRACKET",
+          "CURTAIN",
+          "HOOK",
+          "ROD"
+        ]
+      },
+      {
+        "title": "WHAT A DRINK IS SERVED WITH",
+        "words": [
+          "COASTER",
+          "GARNISH",
+          "GLASS",
+          "STRAW"
+        ]
+      },
+      {
+        "title": "STARTING WITH METHODS OF TRANSPORTATION",
+        "words": [
+          "BUSBOY",
+          "CARBON",
+          "SHIPSHAPE",
+          "TRAINEE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A lack of emotion can be quite telling; these words embody a certain stillness.",
+      "When it comes to adorning your windows, these items play a crucial role in the grand display.",
+      "These companions elevate your sipping experience, adding flair without overwhelming the main event.",
+      "Each of these terms hints at a way to get from point A to point B, but with a twist that’s not quite conventional."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2192,
+    "editor": "Tracy Bennett",
+    "solution": "petty",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something minor or insignificant."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a trivial matter."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It often refers to something that is unimportant or of little value."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 637,
+    "editor": "Tracy Bennett",
+    "clue": "Key notes",
+    "spangram": "PIANOPIECES",
+    "themeWords": [
+      "ETUDE",
+      "MINUET",
+      "NOCTURNE",
+      "PRELUDE",
+      "SONATA",
+      "SUITE"
+    ],
+    "startingBoard": [
+      "DUPIUI",
+      "ETEAST",
+      "RPNTME",
+      "EEOPEI",
+      "DULIUN",
+      "SACEEN",
+      "OTENRU",
+      "NASOCT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2386,
+    "sides": [
+      "EIO",
+      "RPG",
+      "DLN",
+      "VWA"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "OVERLAP",
+      "POWDERING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20368,
+    "centerLetter": "n",
+    "outerLetters": "afiotx",
+    "pangrams": [
+      "fixation"
+    ],
+    "answers": [
+      "anion",
+      "annatto",
+      "annotation",
+      "anoint",
+      "anon",
+      "anti",
+      "antifa",
+      "antitoxin",
+      "attain",
+      "axon",
+      "faint",
+      "finito",
+      "font",
+      "fontina",
+      "infant",
+      "infix",
+      "info",
+      "initiation",
+      "into",
+      "intonation",
+      "naan",
+      "naif",
+      "nana",
+      "natant",
+      "nation",
+      "nonfat",
+      "noon",
+      "notation",
+      "notion",
+      "onion",
+      "onto",
+      "taint",
+      "tannin",
+      "taxation",
+      "taxon",
+      "tint",
+      "titan",
+      "toon",
+      "toxin"
+    ],
+    "pangramHints": [
+      {
+        "word": "fixation",
+        "hint": "A focus that might be hard to shake off; think of what captures your attention."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

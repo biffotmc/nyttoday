@@ -1,0 +1,163 @@
+{
+  "date": "2025-05-12",
+  "fetchedAt": "2026-05-10T20:06:18.918Z",
+  "connections": {
+    "puzzleId": 735,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PLACES TO FIND PAPER MONEY",
+        "words": [
+          "ATM",
+          "CASH REGISTER",
+          "TIP JAR",
+          "WALLET"
+        ]
+      },
+      {
+        "title": "REBOUND",
+        "words": [
+          "BANK",
+          "BOUNCE",
+          "CAROM",
+          "RICOCHET"
+        ]
+      },
+      {
+        "title": "THINGS TRACKED BY WEB ANALYTICS",
+        "words": [
+          "CLICK",
+          "HIT",
+          "PAGE VIEW",
+          "VISIT"
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN DO WITH YOUR LIPS",
+        "words": [
+          "CURL",
+          "PUCKER",
+          "PURSE",
+          "SMACK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Where cash flows and transactions thrive, these spots keep the green alive.",
+      "A swift return is what you seek, where balls and chances take a peek.",
+      "In the digital realm, these metrics reign, tracking your moves like a data train.",
+      "With a twist and a press, your expressions can change, these actions with lips are quite strange."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1802,
+    "editor": "Tracy Bennett",
+    "solution": "bicep",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a muscle that flexes."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with strength training."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word rhymes with 'ice' and is not just a part of the arm."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 598,
+    "editor": "Tracy Bennett",
+    "clue": "A little respect",
+    "spangram": "STREETCRED",
+    "themeWords": [
+      "CHARACTER",
+      "NAME",
+      "REPUTATION",
+      "STANDING",
+      "STATURE"
+    ],
+    "startingBoard": [
+      "RERECD",
+      "UTATHE",
+      "ESTCAR",
+      "MANARC",
+      "STREET",
+      "ERTANG",
+      "PUTDIS",
+      "NOINAT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2351,
+    "sides": [
+      "DVU",
+      "XSN",
+      "YOA",
+      "HRF"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "FOXHOUNDS",
+      "SAVORY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20441,
+    "centerLetter": "b",
+    "outerLetters": "ginoux",
+    "pangrams": [
+      "unboxing"
+    ],
+    "answers": [
+      "binging",
+      "bingo",
+      "binning",
+      "bobbin",
+      "bobbing",
+      "bogging",
+      "boing",
+      "bonbon",
+      "bong",
+      "bongo",
+      "boning",
+      "bonobo",
+      "boob",
+      "booboo",
+      "booing",
+      "boon",
+      "boxing",
+      "bugging",
+      "bung",
+      "bunion",
+      "gibbon",
+      "gibing",
+      "inbox",
+      "noob",
+      "nubbin",
+      "unbox"
+    ],
+    "pangramHints": [
+      {
+        "word": "unboxing",
+        "hint": "A process that reveals what's inside, but don't say the word!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

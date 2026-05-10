@@ -1,0 +1,201 @@
+{
+  "date": "2025-06-29",
+  "fetchedAt": "2026-05-10T20:10:33.442Z",
+  "connections": {
+    "puzzleId": 787,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ICE CREAM TREATS",
+        "words": [
+          "FLOAT",
+          "SHAKE",
+          "SPLIT",
+          "SUNDAE"
+        ]
+      },
+      {
+        "title": "FLINCH",
+        "words": [
+          "BOLT",
+          "JERK",
+          "JUMP",
+          "STARTLE"
+        ]
+      },
+      {
+        "title": "DANCE MOVES",
+        "words": [
+          "CABBAGE PATCH",
+          "FLOSS",
+          "MOONWALK",
+          "ROBOT"
+        ]
+      },
+      {
+        "title": "SEEN IN THE AFTERMATH OF A RAINSTORM",
+        "words": [
+          "EARTHWORM",
+          "MUD",
+          "MUSHROOM",
+          "PUDDLE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A frosty delight, perfect for a hot day, but watch out for the brain freeze!",
+      "A sudden reaction that can leave you feeling startled; it’s all about the surprise!",
+      "Groove to the rhythm with these iconic moves that keep the dance floor alive.",
+      "Nature's way of cleaning up; look closely and you might find a hidden treasure!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1579,
+    "editor": "Tracy Bennett",
+    "solution": "witty",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word describes a clever or humorous remark."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that can make people laugh or think."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It often describes a sharp or quick-witted comment."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 629,
+    "editor": "Tracy Bennett",
+    "clue": "Hue are my sunshine",
+    "spangram": "CHASINGRAINBOWS",
+    "themeWords": [
+      "BLUE",
+      "GREEN",
+      "INDIGO",
+      "ORANGE",
+      "VIOLET",
+      "YELLOW"
+    ],
+    "startingBoard": [
+      "EGNARO",
+      "DNIYLL",
+      "IGSIEO",
+      "OABNNW",
+      "HOUEIG",
+      "CWSLAR",
+      "NERBVI",
+      "EGTELO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2399,
+    "sides": [
+      "NVA",
+      "IHL",
+      "TRD",
+      "OGU"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "HALVING",
+      "GRADUATION"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25773,
+    "centerLetter": "r",
+    "outerLetters": "abginv",
+    "pangrams": [
+      "braving"
+    ],
+    "answers": [
+      "agar",
+      "agrarian",
+      "airbag",
+      "airing",
+      "aria",
+      "arraign",
+      "arraigning",
+      "arranging",
+      "arriving",
+      "barb",
+      "barbarian",
+      "bargain",
+      "bargaining",
+      "barging",
+      "baring",
+      "barn",
+      "barraging",
+      "barring",
+      "birria",
+      "brag",
+      "bragging",
+      "brain",
+      "braining",
+      "bran",
+      "brava",
+      "briar",
+      "bribing",
+      "brig",
+      "bring",
+      "bringing",
+      "brining",
+      "garaging",
+      "garb",
+      "garbing",
+      "grab",
+      "grabbing",
+      "grain",
+      "graining",
+      "gran",
+      "grin",
+      "grinning",
+      "ingrain",
+      "ingraining",
+      "nigiri",
+      "nirvana",
+      "rabbi",
+      "raga",
+      "ragbag",
+      "ragging",
+      "raging",
+      "rain",
+      "raining",
+      "rang",
+      "ranging",
+      "rani",
+      "raring",
+      "ravaging",
+      "raving",
+      "ribbing",
+      "rigging",
+      "ring",
+      "ringing",
+      "virgin"
+    ],
+    "pangramHints": [
+      {
+        "word": "braving",
+        "hint": "A bold act that requires courage; think of facing fears!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

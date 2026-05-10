@@ -1,0 +1,174 @@
+{
+  "date": "2025-12-15",
+  "fetchedAt": "2026-05-10T20:21:00.764Z",
+  "connections": {
+    "puzzleId": 974,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TOURNAMENT ROUNDS",
+        "words": [
+          "FINAL",
+          "QUALIFIER",
+          "QUARTER",
+          "SEMI"
+        ]
+      },
+      {
+        "title": "ENORMOUS",
+        "words": [
+          "BUMPER",
+          "GIANT",
+          "MONSTER",
+          "TITANIC"
+        ]
+      },
+      {
+        "title": "DISREPUTABLE ESTABLISHMENT",
+        "words": [
+          "DIVE",
+          "DUMP",
+          "HOLE",
+          "JOINT"
+        ]
+      },
+      {
+        "title": "WHAT \"C\" MIGHT MEAN",
+        "words": [
+          "CELSIUS",
+          "COLD",
+          "ONE HUNDRED",
+          "SEE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the game of elimination, some rounds lead to glory while others are mere stepping stones.",
+      "When size matters, these giants stand tall, casting shadows over the competition.",
+      "Not all places are created equal; some are known for their dubious charm and questionable reputation.",
+      "The letter C can represent many things, but in this case, it might just chill you to the bone."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1830,
+    "editor": "Tracy Bennett",
+    "solution": "dodgy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that might be considered unreliable."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word often describes something that raises eyebrows or suspicions."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with 'soggy' and suggests a lack of trust."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 749,
+    "editor": "Tracy Bennett",
+    "clue": "Palette episodes",
+    "spangram": "COLORTV",
+    "themeWords": [
+      "ACRES",
+      "BLOODS",
+      "BLUE",
+      "GIRLS",
+      "GOLDEN",
+      "GREEN",
+      "LOTUS",
+      "WHITE"
+    ],
+    "startingBoard": [
+      "EEGHWN",
+      "NRBIDE",
+      "ULTEOL",
+      "ELORTG",
+      "OESSLV",
+      "CRATIR",
+      "OOCUOG",
+      "SDLBSL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2574,
+    "sides": [
+      "YCT",
+      "ANL",
+      "RHD",
+      "POI"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "HYPNOTIC",
+      "CARLOAD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 11588,
+    "centerLetter": "i",
+    "outerLetters": "afgnuw",
+    "pangrams": [
+      "guffawing"
+    ],
+    "answers": [
+      "again",
+      "aging",
+      "angina",
+      "awing",
+      "awning",
+      "fanning",
+      "fawning",
+      "fifing",
+      "fining",
+      "fungi",
+      "gagging",
+      "gain",
+      "gaining",
+      "ganging",
+      "gauging",
+      "gigging",
+      "ginning",
+      "gnawing",
+      "gunning",
+      "iguana",
+      "inning",
+      "nagging",
+      "naif",
+      "wagging",
+      "waging",
+      "waif",
+      "waning",
+      "wigging",
+      "wigwag",
+      "wigwagging",
+      "wing",
+      "winging",
+      "wining",
+      "winning"
+    ],
+    "pangramHints": [
+      {
+        "word": "guffawing",
+        "hint": "A hearty laugh that echoes; think of joy and exuberance."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

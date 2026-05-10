@@ -1,0 +1,170 @@
+{
+  "date": "2025-05-21",
+  "fetchedAt": "2026-05-10T20:06:57.738Z",
+  "connections": {
+    "puzzleId": 754,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PROHIBIT, AS ENTRY",
+        "words": [
+          "BAR",
+          "BLOCK",
+          "DENY",
+          "REFUSE"
+        ]
+      },
+      {
+        "title": "FOLDERS ON A MAC",
+        "words": [
+          "DESKTOP",
+          "MUSIC",
+          "PICTURES",
+          "TRASH"
+        ]
+      },
+      {
+        "title": "MEDICINE FORMATS",
+        "words": [
+          "CREAM",
+          "PATCH",
+          "SPRAY",
+          "TABLET"
+        ]
+      },
+      {
+        "title": "THINGS THAT OPEN LIKE A CLAM",
+        "words": [
+          "CLAM",
+          "COMPACT",
+          "LAPTOP",
+          "WAFFLE IRON"
+        ]
+      }
+    ],
+    "groupHints": [
+      "To gain access, you must navigate a series of obstacles that won't let you through.",
+      "These digital spaces hold your treasures, each a unique collection of memories and sounds.",
+      "In the realm of healing, these formats deliver relief in various ways, each with its own purpose.",
+      "Like a shell that reveals its secrets, these items can be opened to unveil their contents."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1496,
+    "editor": "Tracy Bennett",
+    "solution": "alarm",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that alerts you."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of what you might hear when something needs attention."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can signify a warning or a call to action."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 608,
+    "editor": "Tracy Bennett",
+    "clue": "Three's a crowd",
+    "spangram": "DOUBLETROUBLE",
+    "themeWords": [
+      "COUPLE",
+      "MATCH",
+      "PAIR",
+      "PARTNERS",
+      "TWINS",
+      "TWOSOME"
+    ],
+    "startingBoard": [
+      "PUMOLE",
+      "LOESWB",
+      "DECOTU",
+      "OUBLTO",
+      "SRWTER",
+      "ENHINS",
+      "RTCMRP",
+      "APTAIA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2360,
+    "sides": [
+      "ILC",
+      "FBP",
+      "AMH",
+      "OUS"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FUCHSIA",
+      "APLOMB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 11053,
+    "centerLetter": "t",
+    "outerLetters": "ekmnpu",
+    "pangrams": [
+      "unkempt"
+    ],
+    "answers": [
+      "entente",
+      "kempt",
+      "kente",
+      "kept",
+      "meet",
+      "meetup",
+      "mentee",
+      "mete",
+      "mute",
+      "mutt",
+      "pent",
+      "punt",
+      "puppet",
+      "putt",
+      "teem",
+      "teen",
+      "teepee",
+      "temp",
+      "tempt",
+      "tenement",
+      "tenet",
+      "tent",
+      "tepee",
+      "tune",
+      "tuneup",
+      "tutee",
+      "tutu",
+      "umpteen",
+      "unkept",
+      "unmet",
+      "unmute",
+      "untune"
+    ],
+    "pangramHints": [
+      {
+        "word": "unkempt",
+        "hint": "A state of disarray, often associated with a wild appearance."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

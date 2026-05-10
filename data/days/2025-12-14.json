@@ -1,0 +1,189 @@
+{
+  "date": "2025-12-14",
+  "fetchedAt": "2026-05-10T20:20:56.825Z",
+  "connections": {
+    "puzzleId": 975,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LAY IT ON THICK",
+        "words": [
+          "FAWN",
+          "FLATTER",
+          "GUSH",
+          "PRAISE"
+        ]
+      },
+      {
+        "title": "HANS CHRISTIAN ANDERSEN FIGURES",
+        "words": [
+          "DUCKLING",
+          "EMPEROR",
+          "MERMAID",
+          "PRINCESS"
+        ]
+      },
+      {
+        "title": "SILENT \"L\"",
+        "words": [
+          "CALF",
+          "CHALK",
+          "COLONEL",
+          "WOULD"
+        ]
+      },
+      {
+        "title": "FICTIONAL PIGS",
+        "words": [
+          "BABE",
+          "NAPOLEON",
+          "PIGLET",
+          "PORKY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When compliments flow like a river, you know the game is afoot. Seek the ones who shower affection without restraint.",
+      "In a land of fairy tales, not all characters wear crowns. Some take flight, while others swim in the depths of imagination.",
+      "A letter that whispers but never shouts, lurking in the shadows of words. Can you spot the silent sentinel?",
+      "In the realm of stories, these porcine personalities trot through adventures, each with a tale as rich as their belly."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1692,
+    "editor": "Tracy Bennett",
+    "solution": "swing",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a motion that can be both graceful and energetic."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This action can happen on a playground or during a dance."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a word that captures the essence of movement, often associated with rhythm."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 819,
+    "editor": "Tracy Bennett",
+    "clue": "Pricy pairing",
+    "spangram": "SURFANDTURF",
+    "themeWords": [
+      "CRAB",
+      "LOBSTER",
+      "RIBEYE",
+      "SCALLOP",
+      "SHRIMP",
+      "SIRLOIN"
+    ],
+    "startingBoard": [
+      "SRIBNI",
+      "RUEYEO",
+      "CARIRL",
+      "HIBFSN",
+      "SRMPAD",
+      "LACSTS",
+      "LFRUBT",
+      "OPLOER"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2565,
+    "sides": [
+      "HEU",
+      "BOQ",
+      "SCI",
+      "RAN"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "RHINOCEROS",
+      "SQUAB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18743,
+    "centerLetter": "b",
+    "outerLetters": "aeilnv",
+    "pangrams": [
+      "enviable"
+    ],
+    "answers": [
+      "able",
+      "alibi",
+      "alienable",
+      "available",
+      "baba",
+      "babble",
+      "babe",
+      "babel",
+      "bail",
+      "bale",
+      "baleen",
+      "ball",
+      "banal",
+      "banana",
+      "bane",
+      "bean",
+      "beanball",
+      "beanie",
+      "beeline",
+      "been",
+      "belie",
+      "believable",
+      "believe",
+      "bell",
+      "belle",
+      "bevel",
+      "bible",
+      "biennia",
+      "biennial",
+      "bilabial",
+      "bile",
+      "bill",
+      "billable",
+      "bivalve",
+      "blab",
+      "blin",
+      "blini",
+      "enable",
+      "inalienable",
+      "label",
+      "labia",
+      "labial",
+      "labile",
+      "liable",
+      "libel",
+      "libelee",
+      "livable",
+      "liveable",
+      "nibble",
+      "viable",
+      "vibe"
+    ],
+    "pangramHints": [
+      {
+        "word": "enviable",
+        "hint": "A word that captures the essence of desirability, but remember, it's not just about wanting."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

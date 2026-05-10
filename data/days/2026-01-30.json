@@ -1,0 +1,157 @@
+{
+  "date": "2026-01-30",
+  "fetchedAt": "2026-05-10T20:24:01.480Z",
+  "connections": {
+    "puzzleId": 1021,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "REGION",
+        "words": [
+          "AREA",
+          "CLUSTER",
+          "PATCH",
+          "POCKET"
+        ]
+      },
+      {
+        "title": "GROOMING ITEMS",
+        "words": [
+          "COMB",
+          "COMPACT",
+          "NAIL FILE",
+          "TWEEZERS"
+        ]
+      },
+      {
+        "title": "THINGS WITH ADHESIVE SURFACES",
+        "words": [
+          "BAND-AID",
+          "LINT ROLLER",
+          "STICKER",
+          "TAPE"
+        ]
+      },
+      {
+        "title": "___ HAND",
+        "words": [
+          "HELPING",
+          "MINUTE",
+          "POKER",
+          "UPPER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of geography, these are small territories that can be found in larger landscapes.",
+      "Essential tools for personal care, these items help you look your best, one strand at a time.",
+      "These items stick around when you need them, often found in the craft drawer or first aid kit.",
+      "Think of supportive gestures or time measurements; these expressions can be quite versatile."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1204,
+    "editor": "Tracy Bennett",
+    "solution": "jumbo",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's larger than average."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word might be associated with a large burger."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something that can describe a size, often used in fast food."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 866,
+    "editor": "Tracy Bennett",
+    "clue": "We're not lost ...",
+    "spangram": "FINDYOURWAY",
+    "themeWords": [
+      "ATLAS",
+      "BEACON",
+      "COMPASS",
+      "LANDMARK",
+      "SEXTANT",
+      "STAR"
+    ],
+    "startingBoard": [
+      "OTARFL",
+      "CNSIAN",
+      "AENAMD",
+      "BDAXRK",
+      "YTNTES",
+      "TOURWA",
+      "LAPASY",
+      "SAMOCS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2614,
+    "sides": [
+      "GBA",
+      "HPR",
+      "TUI",
+      "LOC"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BROUGHT",
+      "TOPICAL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19337,
+    "centerLetter": "l",
+    "outerLetters": "ghnoru",
+    "pangrams": [
+      "hourlong"
+    ],
+    "answers": [
+      "ghoul",
+      "glug",
+      "googol",
+      "gull",
+      "hull",
+      "hurl",
+      "logo",
+      "logroll",
+      "loll",
+      "long",
+      "longhorn",
+      "loon",
+      "lull",
+      "lulu",
+      "lung",
+      "null",
+      "oolong",
+      "roll",
+      "unroll"
+    ],
+    "pangramHints": [
+      {
+        "word": "hourlong",
+        "hint": "A lengthy duration that ticks away, filled with every letter in the alphabet."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2025-12-17",
+  "fetchedAt": "2026-05-10T20:21:08.702Z",
+  "connections": {
+    "puzzleId": 956,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "HUMAN-POWERED WATERCRAFT",
+        "words": [
+          "DUGOUT",
+          "KAYAK",
+          "RAFT",
+          "SHELL"
+        ]
+      },
+      {
+        "title": "FLUSH",
+        "words": [
+          "EVEN",
+          "FLAT",
+          "LEVEL",
+          "PLANE"
+        ]
+      },
+      {
+        "title": "HONDA MODELS",
+        "words": [
+          "ACCORD",
+          "CIVIC",
+          "ODYSSEY",
+          "PILOT"
+        ]
+      },
+      {
+        "title": "BIBLICAL FIGURES PLUS STARTING LETTER",
+        "words": [
+          "FLUKE",
+          "LABEL",
+          "MADAM",
+          "TRUTH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These vessels glide over water, powered by the strength of their crew. Think of the simplest forms of aquatic transport.",
+      "When things are in order, they align perfectly. Picture a surface that is smooth and uninterrupted.",
+      "These names are synonymous with reliability on the road. Each represents a journey, a trusted companion.",
+      "From tales of old, these characters teach us lessons, and their initials add an extra twist to their stories."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1420,
+    "editor": "Tracy Bennett",
+    "solution": "grass",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something green that covers the ground."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a common element in parks and gardens."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that can also describe a type of turf."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 821,
+    "editor": "Tracy Bennett",
+    "clue": "Out of line",
+    "spangram": "ALITTLEOFF",
+    "themeWords": [
+      "ASKEW",
+      "ASLANT",
+      "CROOKED",
+      "LOPSIDED",
+      "TILTED",
+      "UNEVEN"
+    ],
+    "startingBoard": [
+      "SAAUED",
+      "KEWLNT",
+      "CRIETL",
+      "KOOTVI",
+      "EDTAEN",
+      "LOPLSL",
+      "DSETNA",
+      "EDIOFF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2572,
+    "sides": [
+      "RVM",
+      "APL",
+      "EGN",
+      "CIU"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "GRUMPIER",
+      "RELEVANCE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21364,
+    "centerLetter": "p",
+    "outerLetters": "adiltu",
+    "pangrams": [
+      "plaudit"
+    ],
+    "answers": [
+      "adapt",
+      "appall",
+      "applaud",
+      "lipid",
+      "paid",
+      "pail",
+      "palapa",
+      "palatal",
+      "palatial",
+      "pall",
+      "pallid",
+      "palp",
+      "papa",
+      "papal",
+      "papilla",
+      "pill",
+      "pipit",
+      "pita",
+      "pitapat",
+      "plaid",
+      "plait",
+      "plat",
+      "puli",
+      "pull",
+      "pulp",
+      "pulpit",
+      "pupa",
+      "pupal",
+      "pupil",
+      "putt",
+      "tapa",
+      "tilapia",
+      "tipi",
+      "tulip",
+      "uplit",
+      "uptilt"
+    ],
+    "pangramHints": [
+      {
+        "word": "plaudit",
+        "hint": "A round of applause, but in a single word; think of appreciation."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

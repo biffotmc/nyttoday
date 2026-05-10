@@ -1,0 +1,201 @@
+{
+  "date": "2026-01-10",
+  "fetchedAt": "2026-05-10T20:22:46.923Z",
+  "connections": {
+    "puzzleId": 999,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "HOLLOW CYLINDERS",
+        "words": [
+          "HOSE",
+          "PIPE",
+          "STRAW",
+          "TUBE"
+        ]
+      },
+      {
+        "title": "SOFTWARE PLATFORMS",
+        "words": [
+          "APP",
+          "DESKTOP",
+          "MOBILE",
+          "WEB"
+        ]
+      },
+      {
+        "title": "TAKE OFF",
+        "words": [
+          "BOOK",
+          "DIP",
+          "JET",
+          "SPLIT"
+        ]
+      },
+      {
+        "title": "UNITS OF MEASURE",
+        "words": [
+          "BAR",
+          "GRAM",
+          "MOLE",
+          "VOLT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These objects can carry liquids or gases, but they aren't always transparent.",
+      "Think of the digital realms where creativity and productivity collide.",
+      "When you need to leave the ground, these actions help you gain altitude.",
+      "Measurements that quantify everything from pressure to energy."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1587,
+    "editor": "Tracy Bennett",
+    "solution": "manic",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A state of excitement or frenzy."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with high energy or enthusiasm."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a lively or chaotic atmosphere."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 845,
+    "editor": "Tracy Bennett",
+    "clue": "If not now, when?",
+    "spangram": "PROCRASTINATOR",
+    "themeWords": [
+      "EVENTUALLY",
+      "LATER",
+      "SHORTLY",
+      "SOON",
+      "TOMORROW"
+    ],
+    "startingBoard": [
+      "OTURAL",
+      "TRNAET",
+      "ASNELY",
+      "NOHOVL",
+      "IRLYOE",
+      "TOTOMS",
+      "SWRRTO",
+      "ARCORP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2579,
+    "sides": [
+      "OTB",
+      "DGI",
+      "MUF",
+      "ENZ"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ZOMBIFIED",
+      "DEBUTING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17695,
+    "centerLetter": "r",
+    "outerLetters": "gimnou",
+    "pangrams": [
+      "mourning",
+      "rumoring",
+      "unmooring"
+    ],
+    "answers": [
+      "gorging",
+      "gorgon",
+      "goring",
+      "grim",
+      "grin",
+      "grinning",
+      "grog",
+      "groin",
+      "groom",
+      "grooming",
+      "guru",
+      "ignoring",
+      "inuring",
+      "inurn",
+      "inurning",
+      "iron",
+      "ironing",
+      "minor",
+      "minoring",
+      "mirin",
+      "miring",
+      "mirror",
+      "mirroring",
+      "moor",
+      "mooring",
+      "morn",
+      "morning",
+      "moron",
+      "mourn",
+      "murmur",
+      "murmuring",
+      "nigiri",
+      "noir",
+      "nori",
+      "norm",
+      "origin",
+      "rigging",
+      "rigor",
+      "rimming",
+      "ring",
+      "ringing",
+      "room",
+      "rooming",
+      "rouging",
+      "ruin",
+      "ruing",
+      "ruining",
+      "rumor",
+      "rung",
+      "running",
+      "unmoor",
+      "unrig",
+      "unrigging",
+      "urging"
+    ],
+    "pangramHints": [
+      {
+        "word": "mourning",
+        "hint": "A deep feeling of loss, often accompanied by sorrow."
+      },
+      {
+        "word": "rumoring",
+        "hint": "Whispers and tales that spread like wildfire."
+      },
+      {
+        "word": "unmooring",
+        "hint": "The act of releasing from a fixed position, often at sea."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

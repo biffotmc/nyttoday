@@ -1,0 +1,212 @@
+{
+  "date": "2025-08-16",
+  "fetchedAt": "2026-05-10T20:12:42.995Z",
+  "connections": {
+    "puzzleId": 836,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INTREPIDITY",
+        "words": [
+          "FORTITUDE",
+          "GRIT",
+          "PLUCK",
+          "RESOLVE"
+        ]
+      },
+      {
+        "title": "RENOVATIONS",
+        "words": [
+          "CONSTRUCTION",
+          "REPAIRS",
+          "UPGRADES",
+          "WORK"
+        ]
+      },
+      {
+        "title": "TROUNCE",
+        "words": [
+          "CREAM",
+          "CRUSH",
+          "ROUT",
+          "SHELLAC"
+        ]
+      },
+      {
+        "title": "KINDS OF SOFT/LIGHTWEIGHT PAPER",
+        "words": [
+          "CREPE",
+          "ROLLING",
+          "TISSUE",
+          "TOILET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Bravery is not the absence of fear, but the mastery of it. Seek the essence of courage in these words.",
+      "Transformations are not just physical; they can breathe new life into the old. Discover the art of change.",
+      "Defeat is merely a stepping stone to victory. Explore the words that embody overwhelming triumph.",
+      "Softness can be surprisingly strong. Delve into the delicate world of lightweight materials."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2348,
+    "editor": "Tracy Bennett",
+    "solution": "matte",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a finish that absorbs light."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s often used in art and design for a smooth look."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a non-reflective surface, often found on paper."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 698,
+    "editor": "Tracy Bennett",
+    "clue": "Think on it!",
+    "spangram": "LEFTBRAIN",
+    "themeWords": [
+      "ANALYSIS",
+      "LANGUAGE",
+      "LOGIC",
+      "NUMBERS",
+      "ORDER",
+      "REASON"
+    ],
+    "startingBoard": [
+      "ELNLSS",
+      "FAAYIL",
+      "TLEGCO",
+      "BAUAIG",
+      "RNGORD",
+      "AERREN",
+      "IBNSSO",
+      "NMUREA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2447,
+    "sides": [
+      "RPI",
+      "WTE",
+      "ADL",
+      "OHM"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "DIMPLE",
+      "EARTHWORM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21543,
+    "centerLetter": "r",
+    "outerLetters": "acginu",
+    "pangrams": [
+      "accruing",
+      "uncaring"
+    ],
+    "answers": [
+      "agar",
+      "agrarian",
+      "airing",
+      "arancini",
+      "arcana",
+      "arcing",
+      "arguing",
+      "aria",
+      "arnica",
+      "arraign",
+      "arraigning",
+      "arranging",
+      "augur",
+      "auguring",
+      "aura",
+      "cairn",
+      "caring",
+      "cigar",
+      "circa",
+      "cirri",
+      "crag",
+      "crania",
+      "craning",
+      "cringing",
+      "curing",
+      "garaging",
+      "gracing",
+      "grain",
+      "graining",
+      "gran",
+      "grin",
+      "grinning",
+      "guar",
+      "guru",
+      "incur",
+      "incurring",
+      "ingrain",
+      "ingraining",
+      "inuring",
+      "inurn",
+      "inurning",
+      "narc",
+      "nigiri",
+      "racing",
+      "raga",
+      "ragging",
+      "raging",
+      "ragu",
+      "rain",
+      "raining",
+      "rang",
+      "ranging",
+      "rani",
+      "raring",
+      "ricin",
+      "ricing",
+      "rigging",
+      "ring",
+      "ringing",
+      "ruin",
+      "ruing",
+      "ruining",
+      "rung",
+      "runic",
+      "running",
+      "unrig",
+      "unrigging",
+      "urging",
+      "uric"
+    ],
+    "pangramHints": [
+      {
+        "word": "accruing",
+        "hint": "A process of gathering over time, often related to growth or accumulation."
+      },
+      {
+        "word": "uncaring",
+        "hint": "A state of indifference, where emotions seem absent or neglected."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

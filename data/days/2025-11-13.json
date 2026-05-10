@@ -1,0 +1,196 @@
+{
+  "date": "2025-11-13",
+  "fetchedAt": "2026-05-10T20:19:00.956Z",
+  "connections": {
+    "puzzleId": 936,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ATTIRE",
+        "words": [
+          "DUDS",
+          "FIT",
+          "GETUP",
+          "THREADS"
+        ]
+      },
+      {
+        "title": "FOAMY THINGS",
+        "words": [
+          "BEER",
+          "FIRE EXTINGUISHER",
+          "SEA",
+          "SHAVING CREAM"
+        ]
+      },
+      {
+        "title": "THINGS THAT USE FILTERS",
+        "words": [
+          "AIR PURIFIER",
+          "CIGARETTE",
+          "COFFEE MAKER",
+          "INSTAGRAM"
+        ]
+      },
+      {
+        "title": "___ OFFICE",
+        "words": [
+          "BOX",
+          "MICROSOFT",
+          "OVAL",
+          "POST"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Fashion statements come in many forms; some are casual, while others are more tailored.",
+      "Bubbles and froth can bring joy or safety; one might quench your thirst while another saves the day.",
+      "From the air we breathe to the photos we share, these items play a crucial role in filtering our experiences.",
+      "A certain location can be quite official, but its name can vary widely depending on context."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2330,
+    "editor": "Tracy Bennett",
+    "solution": "tinge",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A hint of color can change everything."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a subtle shade."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a slight tint, often used in art and design."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 787,
+    "editor": "Tracy Bennett",
+    "clue": "Out, damned spot!",
+    "spangram": "STAINREMOVAL",
+    "themeWords": [
+      "BLEACH",
+      "BLOT",
+      "LAUNDER",
+      "SCRUB",
+      "SOAK",
+      "SPRAY",
+      "STEAM"
+    ],
+    "startingBoard": [
+      "PRRESC",
+      "SANMRU",
+      "YAIOVB",
+      "STKAAL",
+      "LTOSHC",
+      "BOAMAE",
+      "RULALB",
+      "EDNETS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2539,
+    "sides": [
+      "EPR",
+      "TLI",
+      "NXC",
+      "AMV"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "VENTRICLE",
+      "EXEMPLAR"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21172,
+    "centerLetter": "o",
+    "outerLetters": "acdimn",
+    "pangrams": [
+      "nomadic"
+    ],
+    "answers": [
+      "amino",
+      "ammo",
+      "ammonia",
+      "amnio",
+      "anaconda",
+      "anion",
+      "anon",
+      "cacao",
+      "camo",
+      "cannon",
+      "canon",
+      "canonic",
+      "ciao",
+      "cinnamon",
+      "coca",
+      "cocci",
+      "cocoa",
+      "cocoon",
+      "coda",
+      "codon",
+      "coin",
+      "coma",
+      "comic",
+      "comma",
+      "command",
+      "commando",
+      "common",
+      "condo",
+      "condom",
+      "conic",
+      "diamond",
+      "dino",
+      "dodo",
+      "domain",
+      "dominion",
+      "domino",
+      "doodad",
+      "doom",
+      "icon",
+      "iconic",
+      "idiom",
+      "ionic",
+      "mammon",
+      "minion",
+      "moan",
+      "momma",
+      "monad",
+      "mondo",
+      "mono",
+      "monomania",
+      "monomaniac",
+      "mood",
+      "moon",
+      "nomad",
+      "noncom",
+      "noon",
+      "onion"
+    ],
+    "pangramHints": [
+      {
+        "word": "nomadic",
+        "hint": "Wanderers often embody this quality, embracing change and adventure."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

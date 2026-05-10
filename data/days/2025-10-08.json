@@ -1,0 +1,179 @@
+{
+  "date": "2025-10-08",
+  "fetchedAt": "2026-05-10T20:16:35.995Z",
+  "connections": {
+    "puzzleId": 888,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FINEST",
+        "words": [
+          "BEST",
+          "CREAM",
+          "ELITE",
+          "SELECT"
+        ]
+      },
+      {
+        "title": "ROCK MUSIC SUBGENRES",
+        "words": [
+          "ALTERNATIVE",
+          "ARENA",
+          "CLASSIC",
+          "GARAGE"
+        ]
+      },
+      {
+        "title": "PAINT FINISHES",
+        "words": [
+          "EGGSHELL",
+          "GLOSS",
+          "MATTE",
+          "PEARL"
+        ]
+      },
+      {
+        "title": "KINDS OF BEDS",
+        "words": [
+          "FLOWER",
+          "NAIL",
+          "OYSTER",
+          "RIVER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "The cream rises to the top, but what makes it the finest? Think of the best choices in every category.",
+      "This genre rocks hard and varies widely; can you name the styles that make you want to headbang or sway?",
+      "A smooth finish can transform a surface; consider the textures that add character to your walls.",
+      "These cozy spots can cradle you or leave you dreaming; think of the shapes and themes that define comfort."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1292,
+    "editor": "Tracy Bennett",
+    "solution": "annoy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that can get under your skin."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This feeling often leads to irritation."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with a word that means to annoy or bother someone."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 752,
+    "editor": "Tracy Bennett",
+    "clue": "Now, hear this!",
+    "spangram": "SOUNDCHECK",
+    "themeWords": [
+      "BASS",
+      "FEEDBACK",
+      "MIDRANGE",
+      "REVERB",
+      "TREBLE",
+      "VOLUME"
+    ],
+    "startingBoard": [
+      "FESOBR",
+      "EDIMUE",
+      "BADRNV",
+      "CKADRE",
+      "EGNCUE",
+      "SABHLM",
+      "SCEVOL",
+      "KTREBE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2501,
+    "sides": [
+      "IWH",
+      "CSL",
+      "MAO",
+      "NTU"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "COLUMNIST",
+      "THAW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19232,
+    "centerLetter": "n",
+    "outerLetters": "adeuwx",
+    "pangrams": [
+      "unwaxed"
+    ],
+    "answers": [
+      "addend",
+      "addenda",
+      "anew",
+      "annex",
+      "annexed",
+      "dawn",
+      "dawned",
+      "deaden",
+      "deadened",
+      "dean",
+      "denude",
+      "denuded",
+      "dune",
+      "dunned",
+      "ended",
+      "endue",
+      "endued",
+      "ennead",
+      "naan",
+      "nada",
+      "nana",
+      "need",
+      "needed",
+      "nene",
+      "nude",
+      "undead",
+      "undue",
+      "unneeded",
+      "unweaned",
+      "unwed",
+      "unwedded",
+      "unweeded",
+      "wand",
+      "wane",
+      "waned",
+      "wanna",
+      "waxen",
+      "wean",
+      "weaned",
+      "wend",
+      "wended"
+    ],
+    "pangramHints": [
+      {
+        "word": "unwaxed",
+        "hint": "A state of being that might leave your surfaces a bit rough; think of what happens when you skip the shine."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

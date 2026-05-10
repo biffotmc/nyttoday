@@ -1,0 +1,181 @@
+{
+  "date": "2025-06-11",
+  "fetchedAt": "2026-05-10T20:10:26.107Z",
+  "connections": {
+    "puzzleId": 770,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BOAST",
+        "words": [
+          "BLUSTER",
+          "CROW",
+          "SHOW OFF",
+          "STRUT"
+        ]
+      },
+      {
+        "title": "ARC-SHAPED THINGS",
+        "words": [
+          "BANANA",
+          "EYEBROW",
+          "FLIGHT PATH",
+          "RAINBOW"
+        ]
+      },
+      {
+        "title": "CEREAL MASCOTS",
+        "words": [
+          "COUNT",
+          "ELVES",
+          "LEPRECHAUN",
+          "ROOSTER"
+        ]
+      },
+      {
+        "title": "WAYS TO DENOTE A CITATION",
+        "words": [
+          "ASTERISK",
+          "DAGGER",
+          "NUMBER",
+          "PARENS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you flaunt your achievements, you might just be strutting your stuff.",
+      "These curved wonders can brighten up the sky or your breakfast.",
+      "Fabled figures who bring cheer, often found in the pantry or on the box.",
+      "Symbols that guide you through the maze of references, each with its own flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1474,
+    "editor": "Tracy Bennett",
+    "solution": "plaid",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a pattern often seen in fashion."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a design with intersecting lines."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term for a checkered fabric style, often associated with certain styles."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 631,
+    "editor": "Tracy Bennett",
+    "clue": "If you build it ...",
+    "spangram": "ARCHITECTURE",
+    "themeWords": [
+      "BAROQUE",
+      "BRUTALIST",
+      "CLASSICAL",
+      "DECO",
+      "REVIVAL"
+    ],
+    "startingBoard": [
+      "EQOREV",
+      "URTEIV",
+      "AHICTA",
+      "BCDOUL",
+      "ARECRE",
+      "TBCICL",
+      "AURLSA",
+      "LISTAS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2381,
+    "sides": [
+      "SIF",
+      "LAH",
+      "XOM",
+      "EUR"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FARMHOUSE",
+      "ELIXIR"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 11292,
+    "centerLetter": "o",
+    "outerLetters": "acklnu",
+    "pangrams": [
+      "uncloak"
+    ],
+    "answers": [
+      "anon",
+      "cacao",
+      "callaloo",
+      "cannon",
+      "canola",
+      "canon",
+      "cloaca",
+      "cloak",
+      "clock",
+      "clonk",
+      "coal",
+      "coca",
+      "cock",
+      "cocoa",
+      "cocoon",
+      "cola",
+      "colcannon",
+      "colon",
+      "conk",
+      "cook",
+      "cool",
+      "cuckoo",
+      "knock",
+      "knoll",
+      "koala",
+      "koan",
+      "kola",
+      "kook",
+      "llano",
+      "loan",
+      "local",
+      "lock",
+      "loco",
+      "loll",
+      "look",
+      "loon",
+      "nock",
+      "nonlocal",
+      "nook",
+      "noon",
+      "noun",
+      "uncock",
+      "uncool",
+      "unlock"
+    ],
+    "pangramHints": [
+      {
+        "word": "uncloak",
+        "hint": "Reveal something hidden; it's a process of unveiling."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

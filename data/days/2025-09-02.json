@@ -1,0 +1,182 @@
+{
+  "date": "2025-09-02",
+  "fetchedAt": "2026-05-10T20:14:18.369Z",
+  "connections": {
+    "puzzleId": 852,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CURSES",
+        "words": [
+          "EXPLETIVES",
+          "FOUR-LETTER WORDS",
+          "PROFANITY",
+          "SWEARING"
+        ]
+      },
+      {
+        "title": "IN \"A VISIT FROM ST. NICHOLAS\"",
+        "words": [
+          "CHRISTMAS",
+          "HOUSE",
+          "MOUSE",
+          "STIRRING"
+        ]
+      },
+      {
+        "title": "WORN BY EARRING MAGIC KEN",
+        "words": [
+          "EARRING",
+          "MESH SHIRT",
+          "NECKLACE",
+          "PLEATHER VEST"
+        ]
+      },
+      {
+        "title": "STARTING WITH POSSESSIVE DETERMINERS",
+        "words": [
+          "HERRING",
+          "HISTAMINE",
+          "MYSTERY",
+          "OUROBOROS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When frustration strikes, these words may slip out. Choose your expressions wisely!",
+      "A tale of a jolly figure and his nocturnal journey, where magic and cheer intertwine.",
+      "Fashion choices that sparkle and shine, making a statement without saying a word.",
+      "Words that begin with a sense of ownership, hinting at mysteries and creatures of the sea."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 661,
+    "editor": "Tracy Bennett",
+    "solution": "might",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you can do, often associated with potential."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a word that conveys possibility or capability."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often used to express what someone is able to accomplish."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 714,
+    "editor": "Tracy Bennett",
+    "clue": "Things are starting to take shape",
+    "spangram": "GEOMETRYCLASS",
+    "themeWords": [
+      "ANGLE",
+      "AREA",
+      "CIRCLE",
+      "LINE",
+      "PLANE",
+      "POINT",
+      "VOLUME"
+    ],
+    "startingBoard": [
+      "NAGELE",
+      "GEMOIN",
+      "LPETRA",
+      "OTCRAE",
+      "INLYOL",
+      "CIAVMU",
+      "ERSELA",
+      "LCSPEN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2464,
+    "sides": [
+      "IUA",
+      "SML",
+      "PON",
+      "RCV"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "AVARICIOUS",
+      "SUNLAMP"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27753,
+    "centerLetter": "b",
+    "outerLetters": "chklos",
+    "pangrams": [
+      "schoolbook",
+      "schoolbooks"
+    ],
+    "answers": [
+      "blob",
+      "blobs",
+      "bloc",
+      "block",
+      "blocks",
+      "blocs",
+      "bobs",
+      "bock",
+      "bocks",
+      "boho",
+      "boll",
+      "bolls",
+      "bolo",
+      "bolos",
+      "boob",
+      "booboo",
+      "booboos",
+      "boobs",
+      "boohoo",
+      "boohoos",
+      "book",
+      "books",
+      "boos",
+      "bosh",
+      "boss",
+      "cobs",
+      "cookbook",
+      "cookbooks",
+      "hobo",
+      "hobos",
+      "lobo",
+      "lobos",
+      "lobs",
+      "lookbook",
+      "lookbooks",
+      "slob",
+      "slobs",
+      "sobs"
+    ],
+    "pangramHints": [
+      {
+        "word": "schoolbook",
+        "hint": "A literary companion for learning, filled with knowledge."
+      },
+      {
+        "word": "schoolbooks",
+        "hint": "A collection of educational tomes that help shape young minds."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

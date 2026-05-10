@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-18",
+  "fetchedAt": "2026-05-10T20:29:21.213Z",
+  "connections": {
+    "puzzleId": 1114,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LOOK AT WITH AWE",
+        "words": [
+          "GOGGLE",
+          "MARVEL",
+          "STARE",
+          "WONDER"
+        ]
+      },
+      {
+        "title": "BASIC ELECTRICITY TERMS",
+        "words": [
+          "AC",
+          "DC",
+          "POWER",
+          "VOLTAGE"
+        ]
+      },
+      {
+        "title": "UNEXPECTED WINNER",
+        "words": [
+          "DARK HORSE",
+          "LONG SHOT",
+          "SLEEPER",
+          "UNDERDOG"
+        ]
+      },
+      {
+        "title": "STARTING WITH SODA BRANDS",
+        "words": [
+          "CRUSHWORTHY",
+          "FANTAGRAPHICS",
+          "FRESCADE",
+          "PEPSINOGEN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Gaze upon the marvels of life, where eyes widen in astonishment.",
+      "When currents flow, the essence of energy dances in the air.",
+      "In the race of surprises, some contenders rise from the shadows.",
+      "Fizz and pop lead the way to bubbly beginnings."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2385,
+    "editor": "Tracy Bennett",
+    "solution": "toady",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a creature that flatters."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes someone overly eager to please."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter term often used in a negative context for sycophants."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 950,
+    "editor": "Tracy Bennett",
+    "clue": "Not too much",
+    "spangram": "ONTHECHEAP",
+    "themeWords": [
+      "AFFORDABLE",
+      "BARGAIN",
+      "BUDGET",
+      "INEXPENSIVE",
+      "SALE"
+    ],
+    "startingBoard": [
+      "IAONUD",
+      "NRGTBG",
+      "EABHTE",
+      "VICESA",
+      "ESHREL",
+      "PNEODA",
+      "EXAFLB",
+      "INPAFE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2692,
+    "sides": [
+      "NUO",
+      "DET",
+      "VPQ",
+      "RAI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "QUID",
+      "DAVENPORT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27741,
+    "centerLetter": "c",
+    "outerLetters": "ekmoab",
+    "pangrams": [
+      "comeback"
+    ],
+    "answers": [
+      "aback",
+      "acme",
+      "back",
+      "backcomb",
+      "became",
+      "beck",
+      "become",
+      "bocce",
+      "bock",
+      "cacao",
+      "cake",
+      "came",
+      "cameo",
+      "camo",
+      "coca",
+      "cock",
+      "cocoa",
+      "coke",
+      "coma",
+      "comb",
+      "combo",
+      "come",
+      "comma",
+      "cook",
+      "cookbook",
+      "emcee",
+      "mace",
+      "mecca",
+      "mock"
+    ],
+    "pangramHints": [
+      {
+        "word": "comeback",
+        "hint": "A return to form, but don't mention the word!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

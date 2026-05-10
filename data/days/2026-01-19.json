@@ -1,0 +1,169 @@
+{
+  "date": "2026-01-19",
+  "fetchedAt": "2026-05-10T20:23:20.149Z",
+  "connections": {
+    "puzzleId": 1008,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INEXPERIENCED",
+        "words": [
+          "BUDDING",
+          "FRESH",
+          "NAIVE",
+          "NEW"
+        ]
+      },
+      {
+        "title": "🤑",
+        "words": [
+          "BUNDLE",
+          "FORTUNE",
+          "MINT",
+          "WAD"
+        ]
+      },
+      {
+        "title": "MEASURED BY SI UNITS",
+        "words": [
+          "CURRENT",
+          "LENGTH",
+          "MASS",
+          "TIME"
+        ]
+      },
+      {
+        "title": "WORDS AFTER \"QUICK\"",
+        "words": [
+          "FIX",
+          "SAND",
+          "SILVER",
+          "STUDY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Fresh starts and new beginnings are often just a budding idea away.",
+      "Fortunes can be found in unexpected bundles, but watch your wallet!",
+      "Measured in units that define our world, these are the essentials of existence.",
+      "Quick fixes can lead to shiny outcomes, but sometimes they just leave you in the sand."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1380,
+    "editor": "Tracy Bennett",
+    "solution": "waxen",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that can be smooth and shiny."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with a coating or finish."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's related to a texture that can be reflective, often used in crafts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 854,
+    "editor": "Tracy Bennett",
+    "clue": "Shaking things up",
+    "spangram": "LETSROCK",
+    "themeWords": [
+      "QUAKE",
+      "SWAY",
+      "TEETER",
+      "TREMBLE",
+      "VIBRATE",
+      "WAVER",
+      "WOBBLE"
+    ],
+    "startingBoard": [
+      "LWELTE",
+      "EOBBRL",
+      "TREWEB",
+      "VSVASM",
+      "IRAKEW",
+      "BROUQA",
+      "ACTEEY",
+      "TEKETR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2603,
+    "sides": [
+      "ENC",
+      "RHI",
+      "WGK",
+      "ATO"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CHARTER",
+      "REWORKING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 6049,
+    "centerLetter": "d",
+    "outerLetters": "aklorw",
+    "pangrams": [
+      "workload"
+    ],
+    "answers": [
+      "ardor",
+      "award",
+      "awkward",
+      "dark",
+      "dodo",
+      "doll",
+      "dollar",
+      "dolor",
+      "doodad",
+      "door",
+      "dorado",
+      "dork",
+      "draw",
+      "drawl",
+      "droll",
+      "drool",
+      "lard",
+      "load",
+      "lord",
+      "odor",
+      "radar",
+      "road",
+      "roadwork",
+      "rood",
+      "ward",
+      "warlord",
+      "wood",
+      "woodwork",
+      "word",
+      "world"
+    ],
+    "pangramHints": [
+      {
+        "word": "workload",
+        "hint": "A busy day can feel like a heavy burden; just remember to balance it!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

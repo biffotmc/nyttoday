@@ -1,0 +1,198 @@
+{
+  "date": "2025-07-30",
+  "fetchedAt": "2026-05-10T20:11:36.455Z",
+  "connections": {
+    "puzzleId": 817,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INSTRUCT",
+        "words": [
+          "COACH",
+          "DIRECT",
+          "GUIDE",
+          "TRAIN"
+        ]
+      },
+      {
+        "title": "MEANS",
+        "words": [
+          "INSTRUMENT",
+          "MEDIUM",
+          "ORGAN",
+          "VEHICLE"
+        ]
+      },
+      {
+        "title": "STARTING WITH GREEK NUMERICAL PREFIXES",
+        "words": [
+          "DIOXIDE",
+          "MONORAIL",
+          "TETRACYCLINE",
+          "TRIANGLE"
+        ]
+      },
+      {
+        "title": "ANAGRAMS OF MUSICAL INSTRUMENTS",
+        "words": [
+          "ABUT",
+          "BULGE",
+          "GROAN",
+          "VOILA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you need to show the way, these experts will lead you through the maze of knowledge.",
+      "These items can carry you from one point to another, each with its own unique purpose.",
+      "Numbers in Greek can be quite the puzzle, revealing layers of meaning in unexpected places.",
+      "These playful rearrangements of sound bring a new rhythm to familiar tunes."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 844,
+    "editor": "Tracy Bennett",
+    "solution": "assay",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a term often used in testing."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a process that involves examination."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can relate to both science and evaluation."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 681,
+    "editor": "Tracy Bennett",
+    "clue": "You've got that right",
+    "spangram": "CONSTITUTION",
+    "themeWords": [
+      "ASSEMBLY",
+      "COUNSEL",
+      "LIBERTY",
+      "LIFE",
+      "SPEECH",
+      "VOTE"
+    ],
+    "startingBoard": [
+      "LICOPS",
+      "YTFNEH",
+      "ERESEC",
+      "BTITSY",
+      "IUASEL",
+      "LTILMB",
+      "VEOENC",
+      "OTNSUO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2430,
+    "sides": [
+      "UMA",
+      "IFE",
+      "OLY",
+      "RNS"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FAILURES",
+      "SYNONYM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19578,
+    "centerLetter": "c",
+    "outerLetters": "aegnot",
+    "pangrams": [
+      "cognate",
+      "cotangent"
+    ],
+    "answers": [
+      "accent",
+      "acetate",
+      "acetone",
+      "acne",
+      "cacao",
+      "cage",
+      "cancan",
+      "cane",
+      "canna",
+      "cannon",
+      "cannot",
+      "canoe",
+      "canon",
+      "cant",
+      "cantata",
+      "canteen",
+      "canton",
+      "cent",
+      "cetacean",
+      "coat",
+      "coca",
+      "cocoa",
+      "cocoon",
+      "cogent",
+      "cognac",
+      "concatenate",
+      "concoct",
+      "cone",
+      "conga",
+      "congee",
+      "connect",
+      "connote",
+      "contact",
+      "content",
+      "coot",
+      "cote",
+      "cotenant",
+      "cottage",
+      "cotton",
+      "ecotage",
+      "ecotone",
+      "enact",
+      "encage",
+      "neocon",
+      "nonce",
+      "ocean",
+      "octagon",
+      "octane",
+      "octant",
+      "octet",
+      "once",
+      "tacet",
+      "taco",
+      "tact",
+      "toccata"
+    ],
+    "pangramHints": [
+      {
+        "word": "cognate",
+        "hint": "A word that shares a common origin with another; think of linguistic family ties."
+      },
+      {
+        "word": "cotangent",
+        "hint": "A mathematical term that relates to angles; it's all about the ratios."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

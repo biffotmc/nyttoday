@@ -1,0 +1,209 @@
+{
+  "date": "2025-09-28",
+  "fetchedAt": "2026-05-10T20:15:56.937Z",
+  "connections": {
+    "puzzleId": 880,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BACKING",
+        "words": [
+          "AEGIS",
+          "GUARD",
+          "PROTECTION",
+          "SHIELD"
+        ]
+      },
+      {
+        "title": "MALICIOUS SOFTWARE",
+        "words": [
+          "BACKDOOR",
+          "TROJAN HORSE",
+          "VIRUS",
+          "WORM"
+        ]
+      },
+      {
+        "title": "GUM BRANDS",
+        "words": [
+          "EXTRA",
+          "ICE BREAKERS",
+          "ORBIT",
+          "TRIDENT"
+        ]
+      },
+      {
+        "title": "N.F.L. TEAM LOGOS",
+        "words": [
+          "BUFFALO",
+          "FLEUR-DE-LIS",
+          "HORSESHOE",
+          "LIGHTNING BOLT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A protective embrace that stands firm against adversity.",
+      "Beware of the hidden dangers lurking in the shadows.",
+      "A chewy delight that freshens your breath in a snap.",
+      "Symbols of pride and spirit, each one tells a story."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2090,
+    "editor": "Tracy Bennett",
+    "solution": "gooey",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something sticky and sweet."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a texture often found in desserts."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's not quite solid, not quite liquid, but somewhere in between."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 741,
+    "editor": "Tracy Bennett",
+    "clue": "Hit the deck!",
+    "spangram": "INTHECARDS",
+    "themeWords": [
+      "CLUBS",
+      "DIAMONDS",
+      "HEARTS",
+      "JACK",
+      "KING",
+      "QUEEN",
+      "SPADES"
+    ],
+    "startingBoard": [
+      "SBCERS",
+      "ULHATD",
+      "DAPMAI",
+      "ESSONS",
+      "RACEDI",
+      "SDJHTN",
+      "CAQEKG",
+      "KUENIN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2490,
+    "sides": [
+      "WRE",
+      "UZV",
+      "IAT",
+      "XSD"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "TEXTURIZED",
+      "DWARVES"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23288,
+    "centerLetter": "o",
+    "outerLetters": "deintv",
+    "pangrams": [
+      "devotion"
+    ],
+    "answers": [
+      "denote",
+      "denoted",
+      "dentition",
+      "detention",
+      "devoid",
+      "devote",
+      "devoted",
+      "devotee",
+      "dino",
+      "diode",
+      "ditto",
+      "divot",
+      "dodo",
+      "done",
+      "donee",
+      "donned",
+      "dote",
+      "doted",
+      "dotted",
+      "dove",
+      "edition",
+      "endnote",
+      "idiot",
+      "intention",
+      "intentioned",
+      "into",
+      "intone",
+      "intoned",
+      "invention",
+      "iodide",
+      "iodine",
+      "neon",
+      "nodded",
+      "node",
+      "none",
+      "nonet",
+      "nonevent",
+      "noon",
+      "note",
+      "noted",
+      "notion",
+      "odeon",
+      "onion",
+      "onto",
+      "oven",
+      "ovine",
+      "ovoid",
+      "tendon",
+      "tenon",
+      "tenoned",
+      "toed",
+      "tone",
+      "toned",
+      "tonne",
+      "toon",
+      "toonie",
+      "toot",
+      "tooted",
+      "tote",
+      "toted",
+      "veto",
+      "vetoed",
+      "video",
+      "videoed",
+      "void",
+      "voided",
+      "voodoo",
+      "vote",
+      "voted",
+      "votive"
+    ],
+    "pangramHints": [
+      {
+        "word": "devotion",
+        "hint": "A strong feeling that can inspire great actions."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

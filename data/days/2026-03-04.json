@@ -1,0 +1,178 @@
+{
+  "date": "2026-03-04",
+  "fetchedAt": "2026-05-10T20:26:20.054Z",
+  "connections": {
+    "puzzleId": 1081,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PURSUE",
+        "words": [
+          "HOUND",
+          "SHADOW",
+          "TAIL",
+          "TRACK"
+        ]
+      },
+      {
+        "title": "SPORTSMANLIKE",
+        "words": [
+          "FAIR",
+          "HONEST",
+          "SPORTING",
+          "SQUARE"
+        ]
+      },
+      {
+        "title": "CLASSIC KID GIFTS",
+        "words": [
+          "BIKE",
+          "BOOK",
+          "TOY",
+          "VIDEO GAME"
+        ]
+      },
+      {
+        "title": "\"___ GIRL\" TITLES",
+        "words": [
+          "GONE",
+          "GOSSIP",
+          "NEW",
+          "WORKING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Chase the elusive shadows, where the tail leads the way and every step counts.",
+      "In the game of life, fairness reigns supreme; play with honor and keep your integrity intact.",
+      "Gifts that spark joy and adventure, perfect for the young and the young at heart.",
+      "Stories of girls who leave an impression, each title a glimpse into their intriguing journeys."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2105,
+    "editor": "Tracy Bennett",
+    "solution": "theft",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something taken, often in secret."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a crime that involves stealing."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This act is often associated with a sneaky approach."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 903,
+    "editor": "Tracy Bennett",
+    "clue": "Piece of cake",
+    "spangram": "BAKINGAISLE",
+    "themeWords": [
+      "CANDLES",
+      "COCOA",
+      "FLOUR",
+      "FROSTING",
+      "SUGAR",
+      "VANILLA"
+    ],
+    "startingBoard": [
+      "CANGNI",
+      "SLDOST",
+      "EINFRG",
+      "LLAVNA",
+      "AUOIIA",
+      "RLKSOS",
+      "FALOCU",
+      "BECRAG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2647,
+    "sides": [
+      "VCK",
+      "DUR",
+      "WNG",
+      "OEA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "GUANACO",
+      "OVERWORKED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22879,
+    "centerLetter": "g",
+    "outerLetters": "cefint",
+    "pangrams": [
+      "effecting",
+      "infecting"
+    ],
+    "answers": [
+      "citing",
+      "egging",
+      "engine",
+      "enticing",
+      "feign",
+      "feigning",
+      "feinting",
+      "fencing",
+      "feting",
+      "fifing",
+      "fining",
+      "fitting",
+      "gene",
+      "genetic",
+      "genie",
+      "genii",
+      "gent",
+      "getting",
+      "gift",
+      "gifting",
+      "gigging",
+      "ginning",
+      "icing",
+      "ignite",
+      "igniting",
+      "inciting",
+      "inning",
+      "netting",
+      "teeing",
+      "tenting",
+      "tinge",
+      "tingeing",
+      "tinging",
+      "tinning",
+      "tinting"
+    ],
+    "pangramHints": [
+      {
+        "word": "effecting",
+        "hint": "A process that brings about change; think of causing something to happen."
+      },
+      {
+        "word": "infecting",
+        "hint": "To introduce something harmful; often associated with germs or viruses."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

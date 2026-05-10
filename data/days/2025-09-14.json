@@ -1,0 +1,195 @@
+{
+  "date": "2025-09-14",
+  "fetchedAt": "2026-05-10T20:15:04.389Z",
+  "connections": {
+    "puzzleId": 867,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ENTRYWAY",
+        "words": [
+          "DOOR",
+          "GATE",
+          "HATCH",
+          "PORTAL"
+        ]
+      },
+      {
+        "title": "MAP FEATURES",
+        "words": [
+          "COMPASS",
+          "INSET",
+          "KEY",
+          "SCALE"
+        ]
+      },
+      {
+        "title": "SURPASS",
+        "words": [
+          "BEAT",
+          "BEST",
+          "BETTER",
+          "TOP"
+        ]
+      },
+      {
+        "title": "STREETS WITH SYMBOLIC IMPORTANCE",
+        "words": [
+          "DOWNING",
+          "FLEET",
+          "MAIN",
+          "WALL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A threshold to new adventures awaits, where every entrance has its own tale.",
+      "Navigating the landscape requires more than just direction; look deeper for the secrets.",
+      "To rise above, one must not only aim high but also outshine the rest.",
+      "These thoroughfares carry names that echo through history, each telling a story of its own."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1537,
+    "editor": "Tracy Bennett",
+    "solution": "noisy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's often loud and full of chatter."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a term used for raucous sounds."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word describes a lively atmosphere, often associated with commotion."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 734,
+    "editor": "Tracy Bennett",
+    "clue": "Hurry up!",
+    "spangram": "NOTSOFAST",
+    "themeWords": [
+      "LEISURELY",
+      "POKEY",
+      "RELAXED",
+      "SLOW",
+      "SLUGGISH",
+      "STEADY"
+    ],
+    "startingBoard": [
+      "TSSLKP",
+      "EDYOEO",
+      "AHIWYS",
+      "NSGGUL",
+      "LOTSOF",
+      "REIXEA",
+      "EUSADS",
+      "LYRELT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2476,
+    "sides": [
+      "RGH",
+      "CNB",
+      "MEI",
+      "PUA"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BUMP",
+      "PREACHING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15698,
+    "centerLetter": "o",
+    "outerLetters": "adehpt",
+    "pangrams": [
+      "pothead"
+    ],
+    "answers": [
+      "adopt",
+      "adopted",
+      "adoptee",
+      "atop",
+      "depot",
+      "dodo",
+      "doeth",
+      "doodad",
+      "dope",
+      "doped",
+      "dote",
+      "doted",
+      "doth",
+      "dotted",
+      "epode",
+      "hoed",
+      "hood",
+      "hooded",
+      "hoodoo",
+      "hoop",
+      "hooped",
+      "hoot",
+      "hooted",
+      "hope",
+      "hoped",
+      "hopped",
+      "hothead",
+      "hotheaded",
+      "hotpot",
+      "oath",
+      "opted",
+      "peapod",
+      "photo",
+      "poet",
+      "pooh",
+      "poop",
+      "pooped",
+      "pope",
+      "poppa",
+      "popped",
+      "poppet",
+      "potato",
+      "potted",
+      "tattoo",
+      "tattooed",
+      "teapot",
+      "toad",
+      "toed",
+      "toot",
+      "tooted",
+      "tooth",
+      "toothed",
+      "tope",
+      "toped",
+      "topped",
+      "tote",
+      "toted"
+    ],
+    "pangramHints": [
+      {
+        "word": "pothead",
+        "hint": "A quirky term for a certain lifestyle; think of plants and leisure."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

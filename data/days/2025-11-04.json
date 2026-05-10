@@ -1,0 +1,185 @@
+{
+  "date": "2025-11-04",
+  "fetchedAt": "2026-05-10T20:18:23.754Z",
+  "connections": {
+    "puzzleId": 917,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STEER",
+        "words": [
+          "DIRECT",
+          "DRIVE",
+          "GUIDE",
+          "PILOT"
+        ]
+      },
+      {
+        "title": "THIN LAYER",
+        "words": [
+          "COAT",
+          "FILM",
+          "LEAF",
+          "SHEET"
+        ]
+      },
+      {
+        "title": "FILE EXTENSIONS",
+        "words": [
+          "DOC",
+          "MID",
+          "TIFF",
+          "ZIP"
+        ]
+      },
+      {
+        "title": "___ GUITAR",
+        "words": [
+          "AIR",
+          "ELECTRIC",
+          "RHYTHM",
+          "SLIDE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Navigate the waters of guidance with these steering words; they all point in the right direction.",
+      "Think of a delicate touch that can cover and protect; these words are all about layers.",
+      "These words are the keys to digital doors, each with its own unique shape and purpose.",
+      "Strum along with these musical companions; they each play a different role in the harmony of sound."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1120,
+    "editor": "Tracy Bennett",
+    "solution": "venue",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a place where gatherings happen."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a location for events or activities."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a setting for a performance."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 778,
+    "editor": "Tracy Bennett",
+    "clue": "F-I-L-M",
+    "spangram": "FOURLETTERMOVIES",
+    "themeWords": [
+      "BABE",
+      "CARS",
+      "CLUE",
+      "DUNE",
+      "HEAT",
+      "HULK",
+      "JAWS",
+      "MILK"
+    ],
+    "startingBoard": [
+      "SWFOML",
+      "JARUIK",
+      "CALEUD",
+      "ERTTKN",
+      "USERLE",
+      "LCOMUH",
+      "HTVIEB",
+      "EASEAB"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2527,
+    "sides": [
+      "KAG",
+      "IJT",
+      "RHN",
+      "PEC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "JERKIN",
+      "NIGHTCAP"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16236,
+    "centerLetter": "u",
+    "outerLetters": "aceflt",
+    "pangrams": [
+      "effectual",
+      "fluctuate"
+    ],
+    "answers": [
+      "actual",
+      "actuate",
+      "acute",
+      "calculate",
+      "caul",
+      "cellule",
+      "clue",
+      "cuff",
+      "cull",
+      "cult",
+      "cute",
+      "cutlet",
+      "cuttle",
+      "effectuate",
+      "factual",
+      "fateful",
+      "faucet",
+      "fault",
+      "flauta",
+      "flue",
+      "fluff",
+      "flute",
+      "fuel",
+      "full",
+      "lettuce",
+      "luau",
+      "luff",
+      "lull",
+      "lulu",
+      "lute",
+      "luteal",
+      "tactful",
+      "tactual",
+      "taut",
+      "tuffet",
+      "tuft",
+      "tulle",
+      "tutee",
+      "tutu",
+      "ululate"
+    ],
+    "pangramHints": [
+      {
+        "word": "effectual",
+        "hint": "A word that means effective and impactful; think of a positive outcome."
+      },
+      {
+        "word": "fluctuate",
+        "hint": "This word describes changes that rise and fall; consider the ebb and flow."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "date": "2025-06-04",
+  "fetchedAt": "2026-05-10T20:10:21.995Z",
+  "connections": {
+    "puzzleId": 768,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PARTS OF A SONG",
+        "words": [
+          "BRIDGE",
+          "CHORUS",
+          "HOOK",
+          "REFRAIN"
+        ]
+      },
+      {
+        "title": "SUPPORT AUDIBLY",
+        "words": [
+          "CHEER",
+          "CLAP",
+          "ROOT",
+          "WHISTLE"
+        ]
+      },
+      {
+        "title": "THINGS IN AN ENTRYWAY",
+        "words": [
+          "BENCH",
+          "COAT RACK",
+          "CONSOLE",
+          "RUNNER"
+        ]
+      },
+      {
+        "title": "IMAGERY IN MAGRITTE PAINTINGS",
+        "words": [
+          "APPLE",
+          "BOWLER",
+          "CLOUD",
+          "PIPE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of melodies, they hold the structure together, each playing a unique role in the symphony of sound.",
+      "When the crowd roars, these actions echo louder than words, uniting hearts and spirits in a harmonious cheer.",
+      "As you step inside, these elements greet you, setting the tone for the warmth and welcome that lies ahead.",
+      "In the surreal landscapes of a master, these objects float and twist, inviting you to ponder their deeper meanings."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1752,
+    "editor": "Tracy Bennett",
+    "solution": "cease",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of stopping something."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests an end or a pause."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often used in the context of an action coming to a halt."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 624,
+    "editor": "Tracy Bennett",
+    "clue": "Monster quest",
+    "spangram": "CRYPTIDS",
+    "themeWords": [
+      "BIGFOOT",
+      "CRAWLER",
+      "JACKALOPE",
+      "KRAKEN",
+      "MOTHMAN",
+      "YETI"
+    ],
+    "startingBoard": [
+      "MOCKRA",
+      "MHTRNK",
+      "ANYBRE",
+      "CAJPIE",
+      "YKTGWL",
+      "ETAIFA",
+      "ILDORC",
+      "EPOSOT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2374,
+    "sides": [
+      "WFA",
+      "ING",
+      "HDT",
+      "SBE"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WHITEFISH",
+      "HANDBAG"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20613,
+    "centerLetter": "t",
+    "outerLetters": "adehly",
+    "pangrams": [
+      "deathly",
+      "heatedly"
+    ],
+    "answers": [
+      "athlete",
+      "data",
+      "date",
+      "dated",
+      "dealt",
+      "death",
+      "delete",
+      "deleted",
+      "delt",
+      "delta",
+      "elate",
+      "elated",
+      "elatedly",
+      "ethyl",
+      "eyelet",
+      "eyeteeth",
+      "halt",
+      "halted",
+      "hate",
+      "hated",
+      "hath",
+      "hatha",
+      "hatted",
+      "health",
+      "healthy",
+      "heat",
+      "heated",
+      "heath",
+      "late",
+      "lately",
+      "lath",
+      "lathe",
+      "lathed",
+      "latte",
+      "layette",
+      "lethal",
+      "lethally",
+      "tale",
+      "tall",
+      "tally",
+      "tatted",
+      "tattle",
+      "tattled",
+      "tattletale",
+      "tatty",
+      "teal",
+      "teat",
+      "teddy",
+      "teed",
+      "teeth",
+      "teethe",
+      "teethed",
+      "telehealth",
+      "tell",
+      "telltale",
+      "that",
+      "thee",
+      "theta",
+      "they"
+    ],
+    "pangramHints": [
+      {
+        "word": "deathly",
+        "hint": "A word that evokes a sense of finality, filled with a chilling essence."
+      },
+      {
+        "word": "heatedly",
+        "hint": "This term captures the intensity of a passionate discussion, often rising in volume."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

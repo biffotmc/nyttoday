@@ -1,26 +1,220 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f3f1ec;
+  --foreground: #14120f;
+  --surface: #fffcfa;
+  --surface-2: #f0ebe4;
+  --muted: #6b6560;
+  --accent: #b8421c;
+  --accent-soft: rgba(184, 66, 28, 0.12);
+  --border: rgba(20, 18, 15, 0.08);
+  --shadow: 0 1px 2px rgba(20, 18, 15, 0.04), 0 8px 24px rgba(20, 18, 15, 0.06);
+  --hint-warm: #fff9f0;
+  --warn-bg: #fff8e8;
+  --warn-border: #e8d4a8;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-dm-sans);
+  --font-serif: var(--font-newsreader);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #121110;
+    --foreground: #f4f1eb;
+    --surface: #1c1a18;
+    --surface-2: #252220;
+    --muted: #a39e97;
+    --accent: #e8956a;
+    --accent-soft: rgba(232, 149, 106, 0.15);
+    --border: rgba(244, 241, 235, 0.1);
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 0 12px 32px rgba(0, 0, 0, 0.35);
+    --hint-warm: #1f1c19;
+    --warn-bg: #2a2418;
+    --warn-border: #5c4d2e;
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+.font-serif {
+  font-family: var(--font-newsreader), ui-serif, Georgia, serif;
+}
+
+/* Radix Collapsible height animations */
+@keyframes collapsible-down {
+  from {
+    height: 0;
+    opacity: 0.92;
+  }
+  to {
+    height: var(--radix-collapsible-content-height);
+    opacity: 1;
+  }
+}
+
+@keyframes collapsible-up {
+  from {
+    height: var(--radix-collapsible-content-height);
+    opacity: 1;
+  }
+  to {
+    height: 0;
+    opacity: 0.92;
+  }
+}
+
+.collapsible-spoiler[data-state="open"],
+.collapsible-hint[data-state="open"] {
+  animation: collapsible-down 220ms ease-out;
+}
+
+.collapsible-spoiler[data-state="closed"],
+.collapsible-hint[data-state="closed"] {
+  animation: collapsible-up 180ms ease-in;
+}
+
+/*
+ * Connections group panels — real CSS classes (not Tailwind arbitrary utilities pulled
+ * from JS objects). Hard reloads were losing those utilities in some builds, so the
+ * panels fell back to the dark theme page background and looked “black”.
+ */
+.connections-card--yellow {
+  color-scheme: light;
+  background-color: #fffbeb;
+  border-left: 6px solid #f5d200;
+}
+.connections-card--green {
+  color-scheme: light;
+  background-color: #f0fdf4;
+  border-left: 6px solid #7dcc7a;
+}
+.connections-card--blue {
+  color-scheme: light;
+  background-color: #eff6ff;
+  border-left: 6px solid #8fc8f7;
+}
+.connections-card--purple {
+  color-scheme: light;
+  background-color: #faf5ff;
+  border-left: 6px solid #b794f4;
+}
+
+.connections-bar--yellow {
+  background-color: #f5d200;
+}
+.connections-bar--green {
+  background-color: #7dcc7a;
+}
+.connections-bar--blue {
+  background-color: #8fc8f7;
+}
+.connections-bar--purple {
+  background-color: #b794f4;
+}
+
+.connections-title--yellow {
+  color: #522908;
+}
+.connections-title--green {
+  color: #0d2818;
+}
+.connections-title--blue {
+  color: #112656;
+}
+.connections-title--purple {
+  color: #3b0764;
+}
+
+/* Revealed category (e.g. “MUSIC PLAYER BUTTONS”) — never use theme --foreground here;
+ * in dark OS mode --foreground is light cream would wash out on these cards. */
+.connections-category-title {
+  color: #1c1917;
+}
+
+.connections-pill--yellow {
+  background-color: #fde047;
+  color: #713f12;
+  box-shadow: 0 0 0 2px rgba(202, 138, 4, 0.4);
+}
+.connections-pill--green {
+  background-color: #86efac;
+  color: #14532d;
+  box-shadow: 0 0 0 2px rgba(22, 163, 74, 0.35);
+}
+.connections-pill--blue {
+  background-color: #93c5fd;
+  color: #1e3a8a;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.35);
+}
+.connections-pill--purple {
+  background-color: #d8b4fe;
+  color: #4c1d95;
+  box-shadow: 0 0 0 2px rgba(147, 51, 234, 0.35);
+}
+
+/*
+ * Wordle tiles are <button>: Tailwind preflight sets button { background-color: transparent }
+ * in @layer base. Define these inside @layer utilities so cascade beats preflight every time
+ * (same layer ordering Tailwind uses for bg-* utilities). Element prefix bumps specificity.
+ *
+ * Letter Boxed panel uses the same layer so it ships with other utilities reliably.
+ */
+@layer utilities {
+  button.wordle-tile--revealed {
+    border-color: #538d4e;
+    background-color: #6aaa64;
+    color: #fff;
+  }
+
+  button.wordle-tile--hidden {
+    cursor: pointer;
+    border-color: var(--border);
+    background-color: var(--surface-2);
+    color: var(--muted);
+  }
+
+  button.wordle-tile--hidden:hover {
+    background-color: var(--surface);
+  }
+
+  .letter-boxed-board {
+    background-color: #e8a598;
+    box-shadow: var(--shadow);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .letter-boxed-board {
+      background-color: #8f564d;
+    }
+  }
+
+  .letter-boxed-board__letter {
+    font-size: clamp(0.95rem, 4.2vw, 1.75rem);
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: -0.025em;
+    color: #fff;
+    filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.25));
+  }
+
+  .letter-boxed-board__square {
+    aspect-ratio: 1 / 1;
+    width: 100%;
+    min-width: 0;
+    flex-shrink: 0;
+    border: 3px solid #000;
+    background-color: #fff;
+  }
+
+  .letter-boxed-board__max-w {
+    max-width: 272px;
+  }
 }

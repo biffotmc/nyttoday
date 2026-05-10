@@ -1,0 +1,194 @@
+{
+  "date": "2025-06-14",
+  "fetchedAt": "2026-05-10T20:10:27.033Z",
+  "connections": {
+    "puzzleId": 773,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GODDESS",
+        "words": [
+          "DIVA",
+          "ICON",
+          "LEGEND",
+          "QUEEN"
+        ]
+      },
+      {
+        "title": "ELEMENTS OF A CLASSIC “MOM” TATTOO",
+        "words": [
+          "ARROW",
+          "HEART",
+          "MOM",
+          "RIBBON"
+        ]
+      },
+      {
+        "title": "DOGS OF THE SCREEN",
+        "words": [
+          "ASTRO",
+          "BLUE",
+          "HOOCH",
+          "TOTO"
+        ]
+      },
+      {
+        "title": "___ TERRIER",
+        "words": [
+          "BORDER",
+          "BOSTON",
+          "BULL",
+          "RAT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These ladies reign supreme in their own realms, each with a unique flair.",
+      "A tribute to the love and warmth that mothers hold dear, captured in ink.",
+      "Furry friends that have captured hearts on screen, each with their own tale.",
+      "A breed of loyalty and charm, each name hinting at their unique traits."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 692,
+    "editor": "Tracy Bennett",
+    "solution": "ghost",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Something that can haunt or linger."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with the afterlife or mystery."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a spectral presence, often depicted in stories."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 634,
+    "editor": "Tracy Bennett",
+    "clue": "It's a banner day",
+    "spangram": "FLAGSYMBOL",
+    "themeWords": [
+      "CROSS",
+      "CROWN",
+      "MOON",
+      "SHIELD",
+      "STAR",
+      "STRIPE",
+      "TRIANGLE"
+    ],
+    "startingBoard": [
+      "ATOLCO",
+      "RSBMRW",
+      "EPIYLN",
+      "STRSED",
+      "NOOGIH",
+      "TRMASR",
+      "NAILCO",
+      "GLEFSS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2384,
+    "sides": [
+      "AKM",
+      "ULI",
+      "RNS",
+      "POT"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "KIMONOS",
+      "SPIRITUAL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17843,
+    "centerLetter": "o",
+    "outerLetters": "dehmtu",
+    "pangrams": [
+      "mouthed"
+    ],
+    "answers": [
+      "demo",
+      "demoed",
+      "demote",
+      "demoted",
+      "dodo",
+      "doeth",
+      "dome",
+      "domed",
+      "doom",
+      "doomed",
+      "dote",
+      "doted",
+      "doth",
+      "dotted",
+      "emote",
+      "emoted",
+      "hoed",
+      "home",
+      "homed",
+      "hood",
+      "hooded",
+      "hoodoo",
+      "hoot",
+      "hooted",
+      "memo",
+      "method",
+      "mode",
+      "modem",
+      "mood",
+      "mooed",
+      "moot",
+      "mooted",
+      "mote",
+      "motet",
+      "moth",
+      "motto",
+      "moue",
+      "mouth",
+      "odeum",
+      "outdo",
+      "outed",
+      "outmode",
+      "outmoded",
+      "thou",
+      "toed",
+      "tome",
+      "toot",
+      "tooted",
+      "tooth",
+      "toothed",
+      "tote",
+      "toted",
+      "totem",
+      "tout",
+      "touted"
+    ],
+    "pangramHints": [
+      {
+        "word": "mouthed",
+        "hint": "Expressed without sound; a silent declaration."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

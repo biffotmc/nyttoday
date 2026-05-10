@@ -1,0 +1,189 @@
+{
+  "date": "2025-09-26",
+  "fetchedAt": "2026-05-10T20:15:49.847Z",
+  "connections": {
+    "puzzleId": 878,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STIR VIGOROUSLY",
+        "words": [
+          "BEAT",
+          "CREAM",
+          "WHIP",
+          "WHISK"
+        ]
+      },
+      {
+        "title": "HARD TO MAKE OUT",
+        "words": [
+          "DIM",
+          "FAINT",
+          "LIGHT",
+          "PALE"
+        ]
+      },
+      {
+        "title": "KINDS OF BEARS",
+        "words": [
+          "BLACK",
+          "BROWN",
+          "POLAR",
+          "SUN"
+        ]
+      },
+      {
+        "title": "DIRTY ___",
+        "words": [
+          "BLONDE",
+          "POOL",
+          "RICE",
+          "WORD"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Whip up some fun in the kitchen; these words are all about mixing it up!",
+      "When the lights are low, these words might just fade away.",
+      "These furry friends come in various shades, each with its own charm.",
+      "A phrase that could leave you questioning; it’s a bit messy, to say the least."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 809,
+    "editor": "Tracy Bennett",
+    "solution": "dally",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a leisurely pace."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a term often associated with idleness."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can imply a lack of urgency."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 739,
+    "editor": "Tracy Bennett",
+    "clue": "As old as time",
+    "spangram": "GRANDFATHERCLOCK",
+    "themeWords": [
+      "CHIMES",
+      "GEARS",
+      "PENDULUM",
+      "WEIGHTS",
+      "WINDER"
+    ],
+    "startingBoard": [
+      "SGRAEG",
+      "EFDNSA",
+      "IMAEWR",
+      "HCTIGH",
+      "IWHPET",
+      "NOERNS",
+      "DCLCDM",
+      "ERKULU"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2488,
+    "sides": [
+      "KDO",
+      "TBI",
+      "WLC",
+      "AUR"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DUCKTAIL",
+      "LOWBROW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27596,
+    "centerLetter": "a",
+    "outerLetters": "ghlmor",
+    "pangrams": [
+      "hologram"
+    ],
+    "answers": [
+      "aargh",
+      "agar",
+      "agog",
+      "agora",
+      "alarm",
+      "alga",
+      "algal",
+      "aloha",
+      "amalgam",
+      "ammo",
+      "amoral",
+      "armor",
+      "aroma",
+      "gaga",
+      "gala",
+      "gall",
+      "gamma",
+      "glam",
+      "glamor",
+      "goal",
+      "gram",
+      "gramma",
+      "grammar",
+      "halal",
+      "hall",
+      "halo",
+      "haram",
+      "harm",
+      "hoar",
+      "hoorah",
+      "hora",
+      "lama",
+      "largo",
+      "llama",
+      "loam",
+      "logogram",
+      "magma",
+      "mall",
+      "mama",
+      "mamma",
+      "mammal",
+      "mammogram",
+      "marm",
+      "molar",
+      "momma",
+      "moola",
+      "moolah",
+      "moral",
+      "oral",
+      "raga",
+      "roam",
+      "roar"
+    ],
+    "pangramHints": [
+      {
+        "word": "hologram",
+        "hint": "A three-dimensional illusion; it’s not just a flat picture."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

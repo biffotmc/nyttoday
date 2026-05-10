@@ -1,0 +1,207 @@
+{
+  "date": "2025-11-29",
+  "fetchedAt": "2026-05-10T20:19:59.787Z",
+  "connections": {
+    "puzzleId": 950,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ABDOMINAL AREA",
+        "words": [
+          "CORE",
+          "MIDSECTION",
+          "TORSO",
+          "TRUNK"
+        ]
+      },
+      {
+        "title": "REPLACEMENT",
+        "words": [
+          "BACKUP",
+          "COVER",
+          "RELIEF",
+          "SUBSTITUTE"
+        ]
+      },
+      {
+        "title": "PARK STAPLES",
+        "words": [
+          "BENCH",
+          "PIGEON",
+          "STATUE",
+          "TREE"
+        ]
+      },
+      {
+        "title": "BLACKJACK TERMS",
+        "words": [
+          "BUST",
+          "HIT",
+          "SPLIT",
+          "STAND"
+        ]
+      }
+    ],
+    "groupHints": [
+      "At the center of your being, this area holds the key to balance and strength.",
+      "When the original won't do, these alternatives step in to save the day.",
+      "In the great outdoors, these fixtures offer rest and a moment to pause.",
+      "In a game of chance, these terms can change your fate in an instant."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1258,
+    "editor": "Tracy Bennett",
+    "solution": "gruff",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a rough exterior."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a gruff demeanor."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that conveys a certain toughness."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 803,
+    "editor": "Tracy Bennett",
+    "clue": "What a piece of work!",
+    "spangram": "SIMPLEMACHINE",
+    "themeWords": [
+      "AXLE",
+      "LEVER",
+      "PLANE",
+      "PULLEY",
+      "SCREW",
+      "WEDGE",
+      "WHEEL"
+    ],
+    "startingBoard": [
+      "WHSIMP",
+      "EEXLEL",
+      "LAIHCE",
+      "ENREAM",
+      "PWPVEL",
+      "UELSRE",
+      "LYDACW",
+      "LEEGNE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2552,
+    "sides": [
+      "GEN",
+      "BOH",
+      "MYR",
+      "ACT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "YOGA",
+      "ANTECHAMBER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21757,
+    "centerLetter": "i",
+    "outerLetters": "aehlnt",
+    "pangrams": [
+      "annihilate"
+    ],
+    "answers": [
+      "alien",
+      "alienate",
+      "alit",
+      "anthill",
+      "anti",
+      "atilt",
+      "attain",
+      "elite",
+      "entail",
+      "entitle",
+      "hail",
+      "halite",
+      "heinie",
+      "hiatal",
+      "hill",
+      "hilt",
+      "hint",
+      "inane",
+      "inhalant",
+      "inhale",
+      "initial",
+      "initiate",
+      "inlet",
+      "innate",
+      "innie",
+      "intel",
+      "intent",
+      "lain",
+      "lanai",
+      "lenient",
+      "lentil",
+      "lien",
+      "lilt",
+      "line",
+      "lineal",
+      "linen",
+      "linnet",
+      "lint",
+      "lintel",
+      "lite",
+      "lithe",
+      "little",
+      "nail",
+      "nine",
+      "nineteen",
+      "nineteenth",
+      "ninetieth",
+      "ninth",
+      "nite",
+      "tahini",
+      "tail",
+      "taint",
+      "tali",
+      "tallit",
+      "tannin",
+      "thin",
+      "thine",
+      "tile",
+      "till",
+      "tilt",
+      "tilth",
+      "tine",
+      "tint",
+      "titan",
+      "tithe",
+      "titillate",
+      "title",
+      "tittle"
+    ],
+    "pangramHints": [
+      {
+        "word": "annihilate",
+        "hint": "A powerful word that suggests total destruction; think of a force that leaves nothing behind."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

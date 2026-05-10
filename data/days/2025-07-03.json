@@ -1,0 +1,177 @@
+{
+  "date": "2025-07-03",
+  "fetchedAt": "2026-05-10T20:10:35.393Z",
+  "connections": {
+    "puzzleId": 793,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CORRESPONDENCE",
+        "words": [
+          "CONTACT",
+          "DEALINGS",
+          "EXCHANGE",
+          "INTERACTION"
+        ]
+      },
+      {
+        "title": "AIRPORT BOARD INFO",
+        "words": [
+          "ARRIVAL",
+          "DESTINATION",
+          "FLIGHT",
+          "GATE"
+        ]
+      },
+      {
+        "title": "PRO ATHLETE DATA",
+        "words": [
+          "COLLEGE",
+          "NUMBER",
+          "POSITION",
+          "TEAM"
+        ]
+      },
+      {
+        "title": "FARMERS’ THINGS",
+        "words": [
+          "ALMANAC",
+          "INSURANCE",
+          "MARKET",
+          "TAN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you need to stay in touch, these words will help you keep the lines open.",
+      "Traveling far? These terms will guide you through the skies and beyond.",
+      "For those who excel in their fields, these words reflect their journey and identity.",
+      "In the world of agriculture, these items are essential for a fruitful endeavor."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 750,
+    "editor": "Tracy Bennett",
+    "solution": "poppy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a cheerful flower."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with a vibrant color."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that can also refer to a type of plant."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 652,
+    "editor": "Tracy Bennett",
+    "clue": "Beyond vanilla",
+    "spangram": "ICECREAM",
+    "themeWords": [
+      "BROWNIE",
+      "BUTTERSCOTCH",
+      "CHERRY",
+      "COFFEE",
+      "PISTACHIO"
+    ],
+    "startingBoard": [
+      "EHCMPE",
+      "RRAIFE",
+      "OTYESF",
+      "CCRTCO",
+      "SEHCAW",
+      "RTECON",
+      "TCHRBI",
+      "UBIIOE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2403,
+    "sides": [
+      "HCO",
+      "UNV",
+      "LRS",
+      "AWI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "NARWHAL",
+      "LASCIVIOUS"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22544,
+    "centerLetter": "l",
+    "outerLetters": "eimtuv",
+    "pangrams": [
+      "multilevel"
+    ],
+    "answers": [
+      "elite",
+      "evil",
+      "ileum",
+      "ilium",
+      "levee",
+      "level",
+      "lieu",
+      "lilt",
+      "lime",
+      "limit",
+      "lite",
+      "little",
+      "live",
+      "lull",
+      "lulu",
+      "lute",
+      "melee",
+      "melt",
+      "mettle",
+      "mile",
+      "milieu",
+      "mill",
+      "millet",
+      "mule",
+      "mull",
+      "mullet",
+      "tell",
+      "tile",
+      "till",
+      "tilt",
+      "title",
+      "tittle",
+      "tulle",
+      "tumult",
+      "utile",
+      "veil",
+      "vellum",
+      "velum",
+      "velvet",
+      "vile"
+    ],
+    "pangramHints": [
+      {
+        "word": "multilevel",
+        "hint": "A word that suggests complexity and layers, but don't spell it out!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

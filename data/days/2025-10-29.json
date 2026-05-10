@@ -1,0 +1,199 @@
+{
+  "date": "2025-10-29",
+  "fetchedAt": "2026-05-10T20:17:59.811Z",
+  "connections": {
+    "puzzleId": 912,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FORTITUDE",
+        "words": [
+          "BACKBONE",
+          "COURAGE",
+          "HEART",
+          "SPIRIT"
+        ]
+      },
+      {
+        "title": "CHANNEL",
+        "words": [
+          "MEDIUM",
+          "OUTLET",
+          "PLATFORM",
+          "VENUE"
+        ]
+      },
+      {
+        "title": "WORDS STARTING WITH THE “SAY” SOUND",
+        "words": [
+          "SACRUM",
+          "SEITAN",
+          "SEYCHELLES",
+          "SÉANCE"
+        ]
+      },
+      {
+        "title": "THINGS FEATURING LETTERS A THROUGH Z",
+        "words": [
+          "ABECEDARIUM",
+          "COMPUTER KEYBOARD",
+          "OUIJA BOARD",
+          "SCRABBLE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "What gives you strength when the going gets tough? Think of inner resolve and tenacity.",
+      "A conduit for expression, where ideas flow freely. What connects the sender and receiver?",
+      "Words that echo the act of speaking, but with a twist. They begin with a sound that commands attention.",
+      "From the first letter to the last, these items embrace the entire alphabet. Can you name the tools of the trade?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1231,
+    "editor": "Tracy Bennett",
+    "solution": "glare",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that can shine brightly."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe both light and a strong emotion."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that captures both brightness and intensity."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 773,
+    "editor": "Tracy Bennett",
+    "clue": "\"Nevermore!\"",
+    "spangram": "THATSSORAVEN",
+    "themeWords": [
+      "BLACK",
+      "CLEVER",
+      "FEATHERED",
+      "OMNIVOROUS",
+      "WINGED"
+    ],
+    "startingBoard": [
+      "IMOVEL",
+      "VNREGC",
+      "ORSONE",
+      "SOSRID",
+      "UATAVW",
+      "THCKEN",
+      "BAATRE",
+      "LFEHED"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2523,
+    "sides": [
+      "GPT",
+      "HLR",
+      "IAO",
+      "BUD"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "UPHOLD",
+      "DIRTBAG"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24955,
+    "centerLetter": "l",
+    "outerLetters": "cdeinu",
+    "pangrams": [
+      "include",
+      "included"
+    ],
+    "answers": [
+      "cell",
+      "celled",
+      "celli",
+      "cellule",
+      "clinic",
+      "clue",
+      "clued",
+      "cuddle",
+      "cuddled",
+      "cull",
+      "culled",
+      "decline",
+      "declined",
+      "deli",
+      "dell",
+      "delude",
+      "deluded",
+      "diddle",
+      "diddled",
+      "dill",
+      "duel",
+      "dueled",
+      "dull",
+      "dulled",
+      "elide",
+      "elided",
+      "elude",
+      "eluded",
+      "icicle",
+      "idle",
+      "idled",
+      "incline",
+      "inclined",
+      "lede",
+      "lend",
+      "lenience",
+      "leucine",
+      "lice",
+      "lidded",
+      "lied",
+      "lien",
+      "lieu",
+      "line",
+      "lined",
+      "linen",
+      "lucid",
+      "lull",
+      "lulled",
+      "lulu",
+      "lune",
+      "needle",
+      "needled",
+      "nuclei",
+      "nucleic",
+      "null",
+      "uncle",
+      "unlined"
+    ],
+    "pangramHints": [
+      {
+        "word": "include",
+        "hint": "A term that means to contain as part of a whole; think of what you do with guests."
+      },
+      {
+        "word": "included",
+        "hint": "This word suggests that something has been embraced within a larger context."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

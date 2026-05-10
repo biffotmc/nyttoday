@@ -1,0 +1,180 @@
+{
+  "date": "2025-06-26",
+  "fetchedAt": "2026-05-10T20:10:32.396Z",
+  "connections": {
+    "puzzleId": 785,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "COMPONENTS OF A SALAD",
+        "words": [
+          "CHEESE",
+          "DRESSING",
+          "LETTUCE",
+          "PROTEIN"
+        ]
+      },
+      {
+        "title": "KINDS OF MACHINES",
+        "words": [
+          "ENIGMA",
+          "PINBALL",
+          "SEWING",
+          "VENDING"
+        ]
+      },
+      {
+        "title": "LEGAL DRAMAS",
+        "words": [
+          "DAMAGES",
+          "GOLIATH",
+          "MATLOCK",
+          "SUITS"
+        ]
+      },
+      {
+        "title": "ENDING WITH PLAYING CARDS",
+        "words": [
+          "BOJACK",
+          "HAWKING",
+          "LOVELACE",
+          "MCQUEEN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Tossing together a mix of flavors, this blend is a feast for the senses. What’s your favorite crunch?",
+      "These devices can make life easier or just a bit more fun. Think of games and gadgets!",
+      "In the courtroom, drama unfolds like a gripping series. Who will take the stand next?",
+      "From animated tales to real-life legends, these names ring a bell in the realm of cards."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1122,
+    "editor": "Tracy Bennett",
+    "solution": "offer",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might do when you want to present something."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a synonym for 'to provide'."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can imply a proposal or a suggestion."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 644,
+    "editor": "Tracy Bennett",
+    "clue": "Fowl business",
+    "spangram": "GAMEBIRDS",
+    "themeWords": [
+      "GOOSE",
+      "GROUSE",
+      "PARTRIDGE",
+      "PHEASANT",
+      "QUAIL",
+      "TURKEY"
+    ],
+    "startingBoard": [
+      "HPUAIE",
+      "ESBQLS",
+      "AAEIUR",
+      "TNMROG",
+      "GAPADS",
+      "ESOORT",
+      "TRYGIR",
+      "UKEEGD"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2396,
+    "sides": [
+      "KCA",
+      "OZN",
+      "REW",
+      "BHY"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "WORKBENCH",
+      "HAZY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20306,
+    "centerLetter": "a",
+    "outerLetters": "cinorz",
+    "pangrams": [
+      "zirconia"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "acorn",
+      "anion",
+      "anon",
+      "arancini",
+      "arcana",
+      "arco",
+      "aria",
+      "arnica",
+      "cacao",
+      "cairn",
+      "cancan",
+      "canna",
+      "cannon",
+      "canon",
+      "canonic",
+      "carrion",
+      "ciao",
+      "circa",
+      "coca",
+      "cocoa",
+      "corona",
+      "crania",
+      "czar",
+      "czarina",
+      "naan",
+      "nana",
+      "narc",
+      "narco",
+      "niacin",
+      "ocarina",
+      "orca",
+      "raccoon",
+      "rain",
+      "rancor",
+      "rani",
+      "razor",
+      "razz",
+      "roan",
+      "roar",
+      "zinnia"
+    ],
+    "pangramHints": [
+      {
+        "word": "zirconia",
+        "hint": "A gem-like substance, often used in jewelry; think shiny and durable!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2025-07-27",
+  "fetchedAt": "2026-05-10T20:11:24.302Z",
+  "connections": {
+    "puzzleId": 818,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "\"NOTHING TO IT!\"",
+        "words": [
+          "CHILD’S PLAY",
+          "EASY",
+          "NO SWEAT",
+          "PIECE OF CAKE"
+        ]
+      },
+      {
+        "title": "OUTDOOR EVENTS",
+        "words": [
+          "BLOCK PARTY",
+          "FESTIVAL",
+          "PICNIC",
+          "TAILGATE"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"SCHOOL\"",
+        "words": [
+          "ELEMENTARY",
+          "GRADE",
+          "GRAMMAR",
+          "PRIMARY"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH TRICKS",
+        "words": [
+          "CON GAME",
+          "HALLOWEEN",
+          "HEARTS",
+          "MAGIC SHOW"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A breeze for the young and carefree, these phrases suggest simplicity and joy.",
+      "Gather your friends and family for a lively celebration under the sky.",
+      "Found in the classroom, these terms are essential for learning and growth.",
+      "These words conjure images of surprises and illusions, perfect for a festive occasion."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1542,
+    "editor": "Tracy Bennett",
+    "solution": "whole",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a term for completeness."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that encompasses everything."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a whole pizza or the entirety of a concept."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 678,
+    "editor": "Tracy Bennett",
+    "clue": "That's a good look",
+    "spangram": "ANALYSIS",
+    "themeWords": [
+      "EXAMINE",
+      "INSPECT",
+      "SCRUTINIZE",
+      "STUDY",
+      "SURVEY",
+      "WEIGH"
+    ],
+    "startingBoard": [
+      "ISENIS",
+      "GEIAMT",
+      "HRWSXU",
+      "VUYEDY",
+      "ESILNI",
+      "YNAEIT",
+      "SCTNZU",
+      "PEASCR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2427,
+    "sides": [
+      "BUA",
+      "ISH",
+      "TLD",
+      "RGY"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BIRTHDAYS",
+      "SLUG"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9345,
+    "centerLetter": "c",
+    "outerLetters": "agintv",
+    "pangrams": [
+      "activating",
+      "inactivating",
+      "vacating",
+      "vaccinating"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "acing",
+      "acting",
+      "antic",
+      "attic",
+      "cacti",
+      "caging",
+      "cancan",
+      "caning",
+      "canna",
+      "canning",
+      "cant",
+      "cantata",
+      "cantina",
+      "cava",
+      "caving",
+      "citing",
+      "civic",
+      "gigantic",
+      "icing",
+      "incant",
+      "incanting",
+      "inciting",
+      "intact",
+      "niacin",
+      "tacit",
+      "tact",
+      "tactic",
+      "tactician",
+      "tannic",
+      "tinct",
+      "titanic",
+      "vacant"
+    ],
+    "pangramHints": [
+      {
+        "word": "activating",
+        "hint": "A lively action that brings something to life."
+      },
+      {
+        "word": "inactivating",
+        "hint": "The opposite of energizing, it brings things to a standstill."
+      },
+      {
+        "word": "vacating",
+        "hint": "To leave a place behind, often for a new adventure."
+      },
+      {
+        "word": "vaccinating",
+        "hint": "A crucial health measure to prevent illness."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

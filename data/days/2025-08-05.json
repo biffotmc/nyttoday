@@ -1,0 +1,154 @@
+{
+  "date": "2025-08-05",
+  "fetchedAt": "2026-05-10T20:11:58.906Z",
+  "connections": {
+    "puzzleId": 821,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SUBTERRANEAN TRANSIT",
+        "words": [
+          "METRO",
+          "SUBWAY",
+          "TUBE",
+          "UNDERGROUND"
+        ]
+      },
+      {
+        "title": "MAKE INTO SMALLER PIECES WHILE COOKING",
+        "words": [
+          "CUBE",
+          "GRATE",
+          "MINCE",
+          "SLICE"
+        ]
+      },
+      {
+        "title": "USED TO DECORATE A SNOWMAN",
+        "words": [
+          "CARROT",
+          "COAL",
+          "PIPE",
+          "SCARF"
+        ]
+      },
+      {
+        "title": "___ CODE",
+        "words": [
+          "DRESS",
+          "HEALTH",
+          "SECRET",
+          "ZIP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "This mode of transport can take you beneath the bustling streets, where the rush hour never sleeps.",
+      "Chop, shred, or slice; these culinary techniques turn whole into manageable bites.",
+      "A frosty friend needs these items to look dapper in the winter chill.",
+      "A term that can precede various types of codes, hinting at styles or secrets."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 925,
+    "editor": "Tracy Bennett",
+    "solution": "stork",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This bird is known for its long legs and beak."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with springtime and new beginnings."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a four-letter bird that’s often seen near water."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 687,
+    "editor": "Tracy Bennett",
+    "clue": "We have a winner!",
+    "spangram": "LUCKYBREAK",
+    "themeWords": [
+      "BINGO",
+      "DRAWING",
+      "GIVEAWAY",
+      "LOTTERY",
+      "SWEEPSTAKES"
+    ],
+    "startingBoard": [
+      "AWAYGK",
+      "EVINAB",
+      "IWBREI",
+      "GAYGNS",
+      "RDKOEK",
+      "LUCSTA",
+      "YETLPE",
+      "RTOSWE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2436,
+    "sides": [
+      "QXZ",
+      "RPI",
+      "TNA",
+      "EOU"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "TRAPEZE",
+      "EQUINOX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27682,
+    "centerLetter": "n",
+    "outerLetters": "pubikm",
+    "pangrams": [
+      "bumpkin"
+    ],
+    "answers": [
+      "bikini",
+      "bunk",
+      "kink",
+      "mini",
+      "minim",
+      "minimum",
+      "mink",
+      "nimbi",
+      "nubbin",
+      "numb",
+      "pink",
+      "pinup",
+      "pippin",
+      "pumpkin",
+      "punk",
+      "unkink",
+      "unpin"
+    ],
+    "pangramHints": [
+      {
+        "word": "bumpkin",
+        "hint": "A rustic term that might evoke thoughts of rural charm."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

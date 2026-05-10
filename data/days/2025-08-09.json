@@ -1,0 +1,173 @@
+{
+  "date": "2025-08-09",
+  "fetchedAt": "2026-05-10T20:12:14.982Z",
+  "connections": {
+    "puzzleId": 830,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "RESULT",
+        "words": [
+          "FRUIT",
+          "PRODUCT",
+          "RETURN",
+          "YIELD"
+        ]
+      },
+      {
+        "title": "KINDS OF JOKES",
+        "words": [
+          "DAD",
+          "INSIDE",
+          "KNOCK-KNOCK",
+          "PRACTICAL"
+        ]
+      },
+      {
+        "title": "MOVIES FEATURING SUPERNATURAL ROMANCE",
+        "words": [
+          "CASPER",
+          "GHOST",
+          "LET ME IN",
+          "TWILIGHT"
+        ]
+      },
+      {
+        "title": "CORN-Y THINGS",
+        "words": [
+          "MAZE",
+          "MUFFIN",
+          "SILK",
+          "SYRUP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These are all things you might enjoy or gain from, but don’t expect them to be free.",
+      "These types of humor often catch you off guard, making you chuckle or groan.",
+      "In these films, love can transcend the grave, bringing chills and thrills.",
+      "Prepare for some puns and playful twists, as these are sure to make you smile."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2089,
+    "editor": "Tracy Bennett",
+    "solution": "nasal",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something related to your sense of smell."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a part of your face."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s often associated with breathing and can be a descriptor for certain sounds."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 691,
+    "editor": "Tracy Bennett",
+    "clue": "Gastronomic gadgets",
+    "spangram": "KITCHENTOOL",
+    "themeWords": [
+      "CORKSCREW",
+      "MIXER",
+      "SIEVE",
+      "SPATULA",
+      "WHISK",
+      "ZESTER"
+    ],
+    "startingBoard": [
+      "CKITKS",
+      "ROACHI",
+      "SKLHWM",
+      "RCUEXI",
+      "WETSNE",
+      "ZAPTER",
+      "ETOVEI",
+      "SEROLS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2440,
+    "sides": [
+      "SLC",
+      "WIJ",
+      "YGA",
+      "NOK"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "SKYJACKING",
+      "GLOW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24132,
+    "centerLetter": "i",
+    "outerLetters": "abltxy",
+    "pangrams": [
+      "taxability"
+    ],
+    "answers": [
+      "ability",
+      "alibi",
+      "alit",
+      "ataxia",
+      "atilt",
+      "axial",
+      "axially",
+      "axilla",
+      "bail",
+      "bait",
+      "battily",
+      "bialy",
+      "biaxial",
+      "biaxially",
+      "bilabial",
+      "bill",
+      "billy",
+      "illy",
+      "itty",
+      "labia",
+      "labial",
+      "lability",
+      "laity",
+      "laxity",
+      "liability",
+      "lilt",
+      "lily",
+      "tail",
+      "tali",
+      "tallit",
+      "taxi",
+      "tibia",
+      "tibial",
+      "till",
+      "tilt"
+    ],
+    "pangramHints": [
+      {
+        "word": "taxability",
+        "hint": "A quality that can be assessed, but don’t let it weigh you down."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

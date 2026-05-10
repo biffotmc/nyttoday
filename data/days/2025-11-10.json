@@ -1,0 +1,185 @@
+{
+  "date": "2025-11-10",
+  "fetchedAt": "2026-05-10T20:18:49.207Z",
+  "connections": {
+    "puzzleId": 937,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PERCUSSION INSTRUMENTS",
+        "words": [
+          "BELL",
+          "DRUM",
+          "RATTLE",
+          "TRIANGLE"
+        ]
+      },
+      {
+        "title": "SATISFY, AS DEBTS",
+        "words": [
+          "CLEAR",
+          "PAY",
+          "SETTLE",
+          "SQUARE"
+        ]
+      },
+      {
+        "title": "WORDS IN A FAMOUS QUOTE BY CAESAR",
+        "words": [
+          "CAME",
+          "CONQUERED",
+          "I",
+          "SAW"
+        ]
+      },
+      {
+        "title": "LATIN PREPOSITIONS",
+        "words": [
+          "AB",
+          "PRO",
+          "SINE",
+          "SUB"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These instruments might make you want to dance, but don't forget to keep the beat!",
+      "Think of settling scores, but not in a dramatic way. Balance is key!",
+      "Famous for his conquests, this figure had a way with words that still echoes today.",
+      "These little words can change the meaning of a sentence in a big way."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1631,
+    "editor": "Tracy Bennett",
+    "solution": "tabby",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a furry friend with stripes."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a type of cat."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that starts with 't' and ends with 'y'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 784,
+    "editor": "Tracy Bennett",
+    "clue": "A case of the Mondays",
+    "spangram": "OFFICEJOBS",
+    "themeWords": [
+      "ACCOUNTANT",
+      "AIDE",
+      "CLERK",
+      "MANAGER",
+      "RECEPTIONIST"
+    ],
+    "startingBoard": [
+      "COUNTT",
+      "CAKANL",
+      "OFFREC",
+      "ERIANR",
+      "CECMAE",
+      "PIEJOG",
+      "TOAIBS",
+      "NISTDE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2536,
+    "sides": [
+      "SBD",
+      "JRT",
+      "ION",
+      "UYE"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "JUJITSU",
+      "UNDERBODY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18311,
+    "centerLetter": "a",
+    "outerLetters": "ilnopv",
+    "pangrams": [
+      "pavilion"
+    ],
+    "answers": [
+      "aioli",
+      "anal",
+      "anion",
+      "annal",
+      "anon",
+      "anvil",
+      "apian",
+      "appall",
+      "avail",
+      "avian",
+      "lain",
+      "lanai",
+      "lanolin",
+      "lava",
+      "llano",
+      "loan",
+      "naan",
+      "nail",
+      "nana",
+      "naval",
+      "nova",
+      "opal",
+      "oval",
+      "pail",
+      "pain",
+      "palapa",
+      "pall",
+      "palp",
+      "panini",
+      "papa",
+      "papal",
+      "papilla",
+      "papillon",
+      "pavlova",
+      "piano",
+      "pianola",
+      "plain",
+      "plan",
+      "poppa",
+      "vain",
+      "vanilla",
+      "vanillin",
+      "vanpool",
+      "vial",
+      "villa",
+      "villain",
+      "viola",
+      "voila"
+    ],
+    "pangramHints": [
+      {
+        "word": "pavilion",
+        "hint": "A structure often found in gardens or parks, providing shelter."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

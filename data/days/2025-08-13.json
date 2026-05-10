@@ -1,0 +1,192 @@
+{
+  "date": "2025-08-13",
+  "fetchedAt": "2026-05-10T20:12:31.443Z",
+  "connections": {
+    "puzzleId": 833,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CAPTIVATE",
+        "words": [
+          "CHARM",
+          "ENTRANCE",
+          "RIVET",
+          "THRILL"
+        ]
+      },
+      {
+        "title": "EXCERPT",
+        "words": [
+          "CLIP",
+          "EXTRACT",
+          "PASSAGE",
+          "QUOTE"
+        ]
+      },
+      {
+        "title": "MEMBER OF A GIRL GROUP",
+        "words": [
+          "BANGLE",
+          "CHICK",
+          "GO-GO",
+          "SUPREME"
+        ]
+      },
+      {
+        "title": "STAR___",
+        "words": [
+          "BOARD",
+          "FISH",
+          "GATE",
+          "STRUCK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words will pull you in and keep you enchanted, like a spellbinding performance.",
+      "A collection of snippets that captures the essence of something larger, perfect for a literary lover.",
+      "These words represent the essence of a vibrant sisterhood, each with its own unique flair.",
+      "Think of celestial bodies and the moments they create; these words are all about the stars and their impact."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2378,
+    "editor": "Tracy Bennett",
+    "solution": "kefir",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A tangy drink that’s a bit of a health trend."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with probiotics and dairy."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with a 'k' and is known for its unique taste and texture."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 696,
+    "editor": "Tracy Bennett",
+    "clue": "Hitchcock festival",
+    "spangram": "FILMTITLE",
+    "themeWords": [
+      "LIFEBOAT",
+      "NOTORIOUS",
+      "PSYCHO",
+      "ROPE",
+      "TOPAZ",
+      "VERTIGO"
+    ],
+    "startingBoard": [
+      "OPOIFE",
+      "TAZGLB",
+      "ISIPTO",
+      "ROUTSA",
+      "EORYOR",
+      "LOTECP",
+      "TNVHOE",
+      "ITMLIF"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2444,
+    "sides": [
+      "MRJ",
+      "AIP",
+      "YNO",
+      "LUT"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "PLATINUM",
+      "MAJORLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18085,
+    "centerLetter": "o",
+    "outerLetters": "cdenvy",
+    "pangrams": [
+      "conveyed",
+      "convoyed"
+    ],
+    "answers": [
+      "cocoon",
+      "cocooned",
+      "code",
+      "coded",
+      "codon",
+      "coed",
+      "concede",
+      "conceded",
+      "condo",
+      "condone",
+      "condoned",
+      "cone",
+      "coned",
+      "conned",
+      "convene",
+      "convened",
+      "convey",
+      "convoy",
+      "cooed",
+      "cove",
+      "coven",
+      "covey",
+      "deco",
+      "decode",
+      "decoded",
+      "decoy",
+      "decoyed",
+      "dodo",
+      "done",
+      "donee",
+      "donned",
+      "dove",
+      "doyen",
+      "doyenne",
+      "encode",
+      "encoded",
+      "envoy",
+      "neocon",
+      "neon",
+      "nodded",
+      "node",
+      "nonce",
+      "none",
+      "noon",
+      "odeon",
+      "once",
+      "oven",
+      "voodoo",
+      "yond"
+    ],
+    "pangramHints": [
+      {
+        "word": "conveyed",
+        "hint": "A word that means to communicate or make known."
+      },
+      {
+        "word": "convoyed",
+        "hint": "Think of a group traveling together for safety."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "date": "2025-06-19",
+  "fetchedAt": "2026-05-10T20:10:29.406Z",
+  "connections": {
+    "puzzleId": 782,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "COMPONENTS OF ONE’S GRADE",
+        "words": [
+          "ATTENDANCE",
+          "FINAL",
+          "HOMEWORK",
+          "PAPERS"
+        ]
+      },
+      {
+        "title": "MAP APP OPTIONS",
+        "words": [
+          "DESTINATION",
+          "ROUTE",
+          "STARTING POINT",
+          "STOPS"
+        ]
+      },
+      {
+        "title": "CLASSIC TOYS",
+        "words": [
+          "BALL",
+          "BLOCKS",
+          "JACKS",
+          "TRAIN"
+        ]
+      },
+      {
+        "title": "FENCING GEAR",
+        "words": [
+          "FOILS",
+          "GLOVES",
+          "JACKETS",
+          "MASKS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A mix of factors that can elevate or sink your standing in any academic pursuit.",
+      "Navigating the journey from here to there involves more than just a point on the map.",
+      "These timeless treasures have entertained generations, each with its own charm.",
+      "Essential protective gear for a duel of skill, ensuring safety while you engage."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1562,
+    "editor": "Tracy Bennett",
+    "solution": "curio",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a small item that often holds secrets."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that sparks curiosity and wonder."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can refer to a collectible or an unusual object."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 638,
+    "editor": "Tracy Bennett",
+    "clue": "Life is a highway",
+    "spangram": "ROADTRIP",
+    "themeWords": [
+      "AUDIOBOOK",
+      "GAMES",
+      "MOTEL",
+      "PHOTOS",
+      "PLAYLIST",
+      "SCENERY"
+    ],
+    "startingBoard": [
+      "LTPAKO",
+      "EOMIUO",
+      "YARDIB",
+      "LLPTPO",
+      "ISDSOH",
+      "RYTATO",
+      "ECOAME",
+      "NESRGS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2389,
+    "sides": [
+      "EOI",
+      "MCA",
+      "WNH",
+      "BKT"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "KABOB",
+      "BEWITCHMENT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21221,
+    "centerLetter": "o",
+    "outerLetters": "aimrtv",
+    "pangrams": [
+      "motivator"
+    ],
+    "answers": [
+      "ammo",
+      "aorta",
+      "armor",
+      "aroma",
+      "atom",
+      "aviator",
+      "imitator",
+      "iota",
+      "marmot",
+      "mirror",
+      "moat",
+      "momma",
+      "moor",
+      "moot",
+      "moratoria",
+      "mortar",
+      "motor",
+      "motto",
+      "omit",
+      "orator",
+      "oratorio",
+      "ratio",
+      "riot",
+      "roam",
+      "roar",
+      "room",
+      "root",
+      "rotator",
+      "roti",
+      "rotor",
+      "taro",
+      "tarot",
+      "tattoo",
+      "tomato",
+      "tomtit",
+      "toot",
+      "tori",
+      "torii",
+      "toro",
+      "tort",
+      "torta",
+      "traitor",
+      "trattoria",
+      "trio",
+      "trot",
+      "vomit",
+      "vroom"
+    ],
+    "pangramHints": [
+      {
+        "word": "motivator",
+        "hint": "A word that drives action and inspires change."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

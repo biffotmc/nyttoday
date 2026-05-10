@@ -1,0 +1,206 @@
+{
+  "date": "2025-11-01",
+  "fetchedAt": "2026-05-10T20:18:11.162Z",
+  "connections": {
+    "puzzleId": 905,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TAKE TO COURT",
+        "words": [
+          "CHARGE",
+          "FILE",
+          "INDICT",
+          "SUE"
+        ]
+      },
+      {
+        "title": "BLACK",
+        "words": [
+          "INKY",
+          "JET",
+          "PITCH",
+          "RAVEN"
+        ]
+      },
+      {
+        "title": "SECOND IN A FAMOUS REAL-LIFE DUO",
+        "words": [
+          "CHER",
+          "CLYDE",
+          "HARDY",
+          "TELLER"
+        ]
+      },
+      {
+        "title": "RODENTS WHO ARE FIRST IN A CARTOON DUO",
+        "words": [
+          "CHIP",
+          "ITCHY",
+          "PINKY",
+          "ROCKY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the gavel strikes, who will take the stand? Seek the answer in the courtroom.",
+      "In the shadows of the night, these shades are darker than most. What do you call them?",
+      "Fame brought them together, but their stories diverged. Who are these iconic pairs?",
+      "In a world of animated antics, these furry friends lead the charge. Can you name them?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1864,
+    "editor": "Tracy Bennett",
+    "solution": "motel",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A place to rest for weary travelers."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This spot often has a number in its name."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a lodging that rhymes with 'total'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 775,
+    "editor": "Tracy Bennett",
+    "clue": "It's not polite to lick your plate",
+    "spangram": "GOODTASTE",
+    "themeWords": [
+      "DELECTABLE",
+      "DELICIOUS",
+      "FLAVORFUL",
+      "SCRUMPTIOUS"
+    ],
+    "startingBoard": [
+      "DLIGIO",
+      "ECOPTU",
+      "ISOUMS",
+      "OUDRSE",
+      "OVTCLA",
+      "RALABT",
+      "FEFSLC",
+      "LUTDEE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2519,
+    "sides": [
+      "ONP",
+      "EIR",
+      "UAS",
+      "WKC"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PANIC",
+      "COURSEWORK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24812,
+    "centerLetter": "l",
+    "outerLetters": "adehmn",
+    "pangrams": [
+      "manhandle",
+      "manhandled"
+    ],
+    "answers": [
+      "addle",
+      "addled",
+      "allele",
+      "anal",
+      "annal",
+      "anneal",
+      "annealed",
+      "dale",
+      "dandle",
+      "dandled",
+      "deal",
+      "dell",
+      "elan",
+      "eland",
+      "enamel",
+      "enameled",
+      "halal",
+      "hale",
+      "hall",
+      "handheld",
+      "handle",
+      "handled",
+      "headland",
+      "heal",
+      "healed",
+      "heel",
+      "heeled",
+      "held",
+      "hell",
+      "helm",
+      "helmed",
+      "lade",
+      "laded",
+      "laden",
+      "ladle",
+      "ladled",
+      "lama",
+      "lame",
+      "lamed",
+      "land",
+      "landed",
+      "lane",
+      "lead",
+      "leaded",
+      "leaden",
+      "lean",
+      "leaned",
+      "lede",
+      "lemma",
+      "lend",
+      "llama",
+      "male",
+      "mall",
+      "mammal",
+      "mandala",
+      "meal",
+      "medal",
+      "medaled",
+      "meddle",
+      "meddled",
+      "meld",
+      "melded",
+      "melee",
+      "needle",
+      "needled"
+    ],
+    "pangramHints": [
+      {
+        "word": "manhandle",
+        "hint": "A robust action often associated with force."
+      },
+      {
+        "word": "manhandled",
+        "hint": "The past tense of a vigorous encounter."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

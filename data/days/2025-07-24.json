@@ -1,0 +1,187 @@
+{
+  "date": "2025-07-24",
+  "fetchedAt": "2026-05-10T20:11:13.370Z",
+  "connections": {
+    "puzzleId": 809,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "COLOSSAL",
+        "words": [
+          "GIANT",
+          "GREAT",
+          "MAMMOTH",
+          "TITANIC"
+        ]
+      },
+      {
+        "title": "LEAVE QUICKLY",
+        "words": [
+          "BOUNCE",
+          "DIP",
+          "JET",
+          "SPLIT"
+        ]
+      },
+      {
+        "title": "PARTS OF A BASKETBALL HOOP",
+        "words": [
+          "BACKBOARD",
+          "NET",
+          "POLE",
+          "RIM"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF SYNONYMS FOR “NAB”",
+        "words": [
+          "KNICK",
+          "LUTE",
+          "RABE",
+          "STEEL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words tower above the rest, each one a giant in its own right.",
+      "When the clock is ticking, these actions will get you out in a flash.",
+      "Look up and you'll see these essential elements of the game played on the court.",
+      "These pairs sound alike but carry different meanings; can you catch them all?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1509,
+    "editor": "Tracy Bennett",
+    "solution": "quake",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a movement that shakes things up."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that can cause a disturbance."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word describes a sudden and intense event, often geological."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 675,
+    "editor": "Tracy Bennett",
+    "clue": "Back away slowly",
+    "spangram": "WARNING",
+    "themeWords": [
+      "GROWL",
+      "HISS",
+      "HUFF",
+      "RATTLE",
+      "SCREECH",
+      "SNARL",
+      "SPRAY",
+      "STOMP"
+    ],
+    "startingBoard": [
+      "SNGROL",
+      "ALHISW",
+      "RARNIS",
+      "WOTSEN",
+      "MHCERG",
+      "PYFFCS",
+      "ARRAUH",
+      "SPTTLE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2424,
+    "sides": [
+      "YFA",
+      "OTK",
+      "LGW",
+      "RNI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FORKLIFT",
+      "TWANGY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27211,
+    "centerLetter": "l",
+    "outerLetters": "abfiny",
+    "pangrams": [
+      "infallibly"
+    ],
+    "answers": [
+      "ably",
+      "affably",
+      "alfalfa",
+      "alibi",
+      "allay",
+      "ally",
+      "anal",
+      "anally",
+      "annal",
+      "bail",
+      "bailiff",
+      "ball",
+      "banal",
+      "banally",
+      "bialy",
+      "bilabial",
+      "bill",
+      "billy",
+      "blab",
+      "blabby",
+      "blin",
+      "blini",
+      "fail",
+      "fall",
+      "fallibly",
+      "filial",
+      "filially",
+      "fill",
+      "filly",
+      "final",
+      "finally",
+      "finial",
+      "flab",
+      "flabby",
+      "flail",
+      "flan",
+      "flay",
+      "flyby",
+      "illy",
+      "infill",
+      "inlay",
+      "labia",
+      "labial",
+      "lain",
+      "lanai",
+      "lily",
+      "nail"
+    ],
+    "pangramHints": [
+      {
+        "word": "infallibly",
+        "hint": "This word suggests an unerring quality; think of something that never fails."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

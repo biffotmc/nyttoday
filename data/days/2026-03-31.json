@@ -1,0 +1,187 @@
+{
+  "date": "2026-03-31",
+  "fetchedAt": "2026-05-10T20:28:09.699Z",
+  "connections": {
+    "puzzleId": 1103,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SHORTAGE",
+        "words": [
+          "ABSENCE",
+          "CRUNCH",
+          "DEFICIT",
+          "PINCH"
+        ]
+      },
+      {
+        "title": "PARTS OF A PIRATE SHIP",
+        "words": [
+          "CANNON",
+          "CROW'S NEST",
+          "JOLLY ROGER",
+          "PLANK"
+        ]
+      },
+      {
+        "title": "KINDS OF BRAS",
+        "words": [
+          "PLUNGE",
+          "PUSH-UP",
+          "SPORTS",
+          "WIRELESS"
+        ]
+      },
+      {
+        "title": "STARTING WITH BABY ANIMALS",
+        "words": [
+          "CALF RAISE",
+          "CHICK FLICK",
+          "FRY COOK",
+          "KIT KAT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When resources dwindle, a pinch can feel like a mountain. Seek what’s missing.",
+      "On the high seas, lookout points and heavy artillery define the adventure. What’s your ship missing?",
+      "Support comes in many forms, and some are more uplifting than others. Explore the range.",
+      "Tiny creatures grow into big responsibilities. What starts small can lead to delightful surprises."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1235,
+    "editor": "Tracy Bennett",
+    "solution": "swamp",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a murky place where creatures thrive."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a wetland, often home to frogs and other wildlife."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Imagine a muddy area where the water collects, often teeming with life."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 932,
+    "editor": "Tracy Bennett",
+    "clue": "While you were sleeping ...",
+    "spangram": "THETOOTHFAIRY",
+    "themeWords": [
+      "COIN",
+      "EXCHANGE",
+      "NOTE",
+      "PILLOW",
+      "TUTU",
+      "WAND",
+      "WINGS"
+    ],
+    "startingBoard": [
+      "IWTUTU",
+      "NCHNDN",
+      "GXAGEA",
+      "SNEONW",
+      "IOLLTE",
+      "CIOTOY",
+      "TPOHWR",
+      "HETFAI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2674,
+    "sides": [
+      "RNI",
+      "LTE",
+      "YOV",
+      "SPM"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PLOSIVE",
+      "ENORMITY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22698,
+    "centerLetter": "l",
+    "outerLetters": "cdiouy",
+    "pangrams": [
+      "cloudily"
+    ],
+    "answers": [
+      "clod",
+      "cloud",
+      "cloudy",
+      "cloy",
+      "codicil",
+      "coil",
+      "cold",
+      "coldly",
+      "colic",
+      "colloid",
+      "cool",
+      "coolly",
+      "could",
+      "coyly",
+      "cuddly",
+      "cull",
+      "cyclic",
+      "diddly",
+      "dildo",
+      "dill",
+      "dilly",
+      "doily",
+      "doll",
+      "dolly",
+      "dull",
+      "dully",
+      "duly",
+      "icily",
+      "idly",
+      "idol",
+      "idyl",
+      "idyll",
+      "idyllic",
+      "illy",
+      "lily",
+      "loci",
+      "loco",
+      "loll",
+      "loud",
+      "loudly",
+      "lucid",
+      "lucidly",
+      "lull",
+      "lulu",
+      "oculi",
+      "oddly",
+      "oily",
+      "olio"
+    ],
+    "pangramHints": [
+      {
+        "word": "cloudily",
+        "hint": "A state of being that suggests a gray, overcast mood; think of the sky."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "date": "2026-02-10",
+  "fetchedAt": "2026-05-10T20:24:40.945Z",
+  "connections": {
+    "puzzleId": 1037,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EXHIBITION",
+        "words": [
+          "CONVENTION",
+          "EXPOSITION",
+          "FAIR",
+          "SHOW"
+        ]
+      },
+      {
+        "title": "WORDS SPELLING OUT INITIALISMS",
+        "words": [
+          "DEEJAY",
+          "EMCEE",
+          "KAYO",
+          "OKAY"
+        ]
+      },
+      {
+        "title": "DVD BONUS FEATURES",
+        "words": [
+          "COMMENTARY",
+          "INTERVIEW",
+          "OUTTAKES",
+          "TRAILER"
+        ]
+      },
+      {
+        "title": "STARTING WITH PARTS OF A WHEEL",
+        "words": [
+          "HUBBUB",
+          "RIMSHOT",
+          "SPOKESPERSON",
+          "TIRESOME"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Gather 'round for a grand display of creativity and commerce, where the buzz is as lively as the exhibits themselves.",
+      "These lively performers are known for their rhythmic flow and are often found at the forefront of entertainment.",
+      "Dive into the extras that bring a film to life, revealing secrets and stories behind the scenes.",
+      "From the core to the rim, these terms spin a tale of motion and connection, each with its own unique twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2152,
+    "editor": "Tracy Bennett",
+    "solution": "scene",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Look for a place where stories unfold."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word captures a moment in time."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a scene that sets the stage for everything that follows."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 879,
+    "editor": "Tracy Bennett",
+    "clue": "It's on the house",
+    "spangram": "SIDINGMATERIAL",
+    "themeWords": [
+      "BRICK",
+      "COMPOSITE",
+      "STONE",
+      "STUCCO",
+      "VINYL",
+      "WOOD"
+    ],
+    "startingBoard": [
+      "SCCSES",
+      "TUOTNI",
+      "WKVIOD",
+      "OECYNI",
+      "OTIILN",
+      "DOSBRG",
+      "LPMOCM",
+      "AIRETA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2625,
+    "sides": [
+      "ELB",
+      "YAP",
+      "IGD",
+      "ROH"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "GOPHER",
+      "RIBALDRY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22452,
+    "centerLetter": "h",
+    "outerLetters": "binort",
+    "pangrams": [
+      "inhibitor"
+    ],
+    "answers": [
+      "birth",
+      "boho",
+      "boohoo",
+      "booth",
+      "both",
+      "broth",
+      "hint",
+      "hobbit",
+      "hobnob",
+      "hobo",
+      "honor",
+      "hoot",
+      "horn",
+      "horror",
+      "inhibit",
+      "inhibition",
+      "ninth",
+      "north",
+      "rhino",
+      "thin",
+      "thorn",
+      "throb",
+      "tinhorn",
+      "tooth",
+      "troth"
+    ],
+    "pangramHints": [
+      {
+        "word": "inhibitor",
+        "hint": "A barrier to progress, this word holds back the flow."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

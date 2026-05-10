@@ -1,0 +1,215 @@
+{
+  "date": "2026-01-25",
+  "fetchedAt": "2026-05-10T20:23:43.583Z",
+  "connections": {
+    "puzzleId": 1024,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ACT AS A BACKUP",
+        "words": [
+          "COVER",
+          "FILL IN",
+          "SUB",
+          "TEMP"
+        ]
+      },
+      {
+        "title": "PC KEYBOARD KEYS",
+        "words": [
+          "ALT",
+          "ENTER",
+          "MENU",
+          "WINDOWS"
+        ]
+      },
+      {
+        "title": "PASTA SHAPES",
+        "words": [
+          "BOWTIE",
+          "RIBBON",
+          "SHELL",
+          "TUBE"
+        ]
+      },
+      {
+        "title": "SUFFIXES",
+        "words": [
+          "ATE",
+          "DOM",
+          "HOOD",
+          "SHIP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the main act is away, these stand in to keep the show running smoothly.",
+      "These keys are essential for navigating the digital landscape; don't overlook their importance.",
+      "These delightful shapes can twirl and twist, making every bite an adventure.",
+      "These endings can turn a simple word into something more complex and intriguing."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 914,
+    "editor": "Tracy Bennett",
+    "solution": "strut",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a way to support something."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to posture and stability."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with a certain type of structure."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 869,
+    "editor": "Tracy Bennett",
+    "clue": "The straight and narrow",
+    "spangram": "STICKYSITUATION",
+    "themeWords": [
+      "BATON",
+      "CANE",
+      "DOWEL",
+      "PICKET",
+      "POLE",
+      "POST",
+      "STAKE"
+    ],
+    "startingBoard": [
+      "ITDKCI",
+      "SUOETP",
+      "YAWSEK",
+      "KTENTA",
+      "CILOEN",
+      "IOETCA",
+      "TNLAPT",
+      "SPOBOS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2609,
+    "sides": [
+      "VMP",
+      "RJY",
+      "ODH",
+      "EBU"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JUMBO",
+      "OVERHYPED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23666,
+    "centerLetter": "p",
+    "outerLetters": "aciort",
+    "pangrams": [
+      "apricot",
+      "capacitor",
+      "patriotic"
+    ],
+    "answers": [
+      "airport",
+      "apart",
+      "apparat",
+      "atop",
+      "capo",
+      "capri",
+      "captor",
+      "carp",
+      "carpaccio",
+      "carpi",
+      "carport",
+      "coop",
+      "coopt",
+      "corpora",
+      "crap",
+      "crop",
+      "octopi",
+      "optic",
+      "pact",
+      "pair",
+      "papa",
+      "paratroop",
+      "parrot",
+      "part",
+      "partita",
+      "patio",
+      "patriot",
+      "pica",
+      "piccata",
+      "picot",
+      "pipit",
+      "piratic",
+      "pita",
+      "pitapat",
+      "poop",
+      "poor",
+      "poppa",
+      "port",
+      "portico",
+      "portrait",
+      "potato",
+      "prat",
+      "priapic",
+      "prior",
+      "proctor",
+      "prop",
+      "protract",
+      "protractor",
+      "rapport",
+      "rapt",
+      "raptor",
+      "rattrap",
+      "tapa",
+      "tapioca",
+      "tapir",
+      "taproot",
+      "tarp",
+      "tipi",
+      "tiptop",
+      "topcoat",
+      "topic",
+      "torpor",
+      "trap",
+      "trip",
+      "troop",
+      "tropic"
+    ],
+    "pangramHints": [
+      {
+        "word": "apricot",
+        "hint": "A sweet fruit that can brighten your day."
+      },
+      {
+        "word": "capacitor",
+        "hint": "An electronic component that stores energy."
+      },
+      {
+        "word": "patriotic",
+        "hint": "Filled with love for one's country."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "date": "2025-05-11",
+  "fetchedAt": "2026-05-10T20:06:13.651Z",
+  "connections": {
+    "puzzleId": 755,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MAKE HAPPY",
+        "words": [
+          "DELIGHT",
+          "PLEASE",
+          "SUIT",
+          "TICKLE"
+        ]
+      },
+      {
+        "title": "EVADE",
+        "words": [
+          "DODGE",
+          "DUCK",
+          "SHAKE",
+          "SKIRT"
+        ]
+      },
+      {
+        "title": "COMMON VIDEO GAME FEATURES",
+        "words": [
+          "BOSS",
+          "HEALTH",
+          "LEVEL",
+          "POWER-UP"
+        ]
+      },
+      {
+        "title": "MOTHER ___",
+        "words": [
+          "EARTH",
+          "GOOSE",
+          "MAY I",
+          "SUPERIOR"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When joy is your goal, these words will help you reach it, one smile at a time.",
+      "To avoid capture, these actions are your best bet; stay light on your feet!",
+      "In the realm of gaming, these elements are key to victory and survival.",
+      "A maternal figure in various forms, each hinting at a different kind of care."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 637,
+    "editor": "Tracy Bennett",
+    "solution": "dowel",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a slender piece of wood."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something used in furniture making."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with joining two parts together."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 596,
+    "editor": "Tracy Bennett",
+    "clue": "Happy ...",
+    "spangram": "MOTHERSDAY",
+    "themeWords": [
+      "BREAKFAST",
+      "CARDS",
+      "DRAWINGS",
+      "FLOWERS",
+      "HUGS",
+      "PARTY"
+    ],
+    "startingBoard": [
+      "WOMOEB",
+      "ELFTAR",
+      "RSEHKS",
+      "RCRFAT",
+      "DASTYP",
+      "SINDRA",
+      "WRGAHG",
+      "ADSYUS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2350,
+    "sides": [
+      "JTI",
+      "WRH",
+      "UCN",
+      "SAO"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "INJURIOUS",
+      "SWATCH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23379,
+    "centerLetter": "k",
+    "outerLetters": "acdenp",
+    "pangrams": [
+      "kneecapped",
+      "pancaked"
+    ],
+    "answers": [
+      "cake",
+      "caked",
+      "dank",
+      "deck",
+      "decked",
+      "deke",
+      "deked",
+      "eked",
+      "kappa",
+      "keen",
+      "keened",
+      "keep",
+      "knack",
+      "knead",
+      "kneaded",
+      "knee",
+      "kneecap",
+      "kneed",
+      "kneepad",
+      "naked",
+      "nankeen",
+      "neck",
+      "necked",
+      "pack",
+      "packed",
+      "pancake",
+      "peak",
+      "peaked",
+      "peck",
+      "pecked",
+      "peek",
+      "peeked",
+      "peke"
+    ],
+    "pangramHints": [
+      {
+        "word": "kneecapped",
+        "hint": "A term often used in sports, but here it’s a playful twist."
+      },
+      {
+        "word": "pancaked",
+        "hint": "Think of breakfast, but this word has a surprising twist!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

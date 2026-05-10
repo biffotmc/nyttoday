@@ -1,0 +1,195 @@
+{
+  "date": "2026-02-27",
+  "fetchedAt": "2026-05-10T20:25:51.802Z",
+  "connections": {
+    "puzzleId": 1074,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BACKSTABBER",
+        "words": [
+          "JUDAS",
+          "SNAKE",
+          "TRAITOR",
+          "TURNCOAT"
+        ]
+      },
+      {
+        "title": "AURA",
+        "words": [
+          "AIR",
+          "IMPRESSION",
+          "MANNER",
+          "QUALITY"
+        ]
+      },
+      {
+        "title": "KINDS OF CHAIN REACTION \"EFFECTS\"",
+        "words": [
+          "BUTTERFLY",
+          "DOMINO",
+          "RIPPLE",
+          "SNOWBALL"
+        ]
+      },
+      {
+        "title": "___ PRESS",
+        "words": [
+          "BENCH",
+          "DRILL",
+          "FRENCH",
+          "PRINTING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Watch your back, for some wear a friendly mask while plotting their schemes.",
+      "Invisible yet palpable, this essence shapes the way you perceive those around you.",
+      "A small action can set off a series of unexpected events, like a delicate dance of fate.",
+      "Some tools are meant for precision, while others are better suited for the bold and the brave."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1711,
+    "editor": "Tracy Bennett",
+    "solution": "dizzy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A spin that might leave you a bit off balance."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This feeling can come from too much excitement or a sudden surprise."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a state where you might feel lightheaded or unsteady."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 897,
+    "editor": "Tracy Bennett",
+    "clue": "It's a little much",
+    "spangram": "ENOUGHALREADY",
+    "themeWords": [
+      "EXCESS",
+      "GLUT",
+      "OVERKILL",
+      "REDUNDANCY",
+      "SURPLUS"
+    ],
+    "startingBoard": [
+      "EXSELU",
+      "CESNPS",
+      "HGUOSR",
+      "ALREAU",
+      "RKILTD",
+      "ENALUY",
+      "VCDDEL",
+      "OYNURG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2642,
+    "sides": [
+      "ONI",
+      "WGT",
+      "UDP",
+      "RLH"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DOWNRIGHT",
+      "TULIP"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21379,
+    "centerLetter": "p",
+    "outerLetters": "abceil",
+    "pangrams": [
+      "applicable",
+      "clippable"
+    ],
+    "answers": [
+      "alpaca",
+      "apace",
+      "apiece",
+      "appall",
+      "appeal",
+      "appealable",
+      "appellee",
+      "apple",
+      "beep",
+      "bicep",
+      "bleep",
+      "blip",
+      "capable",
+      "cape",
+      "clap",
+      "clip",
+      "epee",
+      "epic",
+      "ipecac",
+      "lapel",
+      "leap",
+      "pace",
+      "paella",
+      "pail",
+      "palace",
+      "palapa",
+      "pale",
+      "pall",
+      "palp",
+      "palpable",
+      "papa",
+      "papal",
+      "papilla",
+      "papillae",
+      "peace",
+      "peaceable",
+      "peal",
+      "pebble",
+      "peel",
+      "peelable",
+      "peep",
+      "pellicle",
+      "pica",
+      "piece",
+      "pile",
+      "pill",
+      "pipe",
+      "place",
+      "plea",
+      "pleb",
+      "plebe",
+      "pliable",
+      "plie"
+    ],
+    "pangramHints": [
+      {
+        "word": "applicable",
+        "hint": "This word suggests something that can be relevant or suitable in a given context."
+      },
+      {
+        "word": "clippable",
+        "hint": "Think of something that can be easily trimmed or removed."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

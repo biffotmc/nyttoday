@@ -1,0 +1,192 @@
+{
+  "date": "2026-05-08",
+  "fetchedAt": "2026-05-10T20:30:38.506Z",
+  "connections": {
+    "puzzleId": 1129,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CANOODLING",
+        "words": [
+          "FIRST BASE",
+          "MAKING OUT",
+          "NECKING",
+          "TONSIL HOCKEY"
+        ]
+      },
+      {
+        "title": "FIVE-SIDED THINGS",
+        "words": [
+          "HOME PLATE",
+          "JEANS BACK POCKET",
+          "SCHOOL CROSSING SIGN",
+          "THE PENTAGON"
+        ]
+      },
+      {
+        "title": "UNEXPECTED PLACES TO BE \"OUT OF\"",
+        "words": [
+          "LEFT FIELD",
+          "NOWHERE",
+          "THE BLUE",
+          "THIN AIR"
+        ]
+      },
+      {
+        "title": "ENDING IN CANDY BRANDS MINUS \"S\"",
+        "words": [
+          "BURGER KING WHOPPER",
+          "FILM NERD",
+          "MEMENTO",
+          "PITCHER'S MOUND"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the lights go down, these activities might just heat up the atmosphere.",
+      "Shapes that defy the norm, each with its own unique angle.",
+      "Sometimes, the best adventures take you to the most surprising spots.",
+      "Sweet endings that leave a lasting impression, minus a little twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1941,
+    "editor": "Tracy Bennett",
+    "solution": "umbra",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A shadowy presence."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with eclipses."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term used in astronomy, hinting at obscurity."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 969,
+    "editor": "Tracy Bennett",
+    "clue": "Garden variety",
+    "spangram": "RUNOFTHEMILL",
+    "themeWords": [
+      "BASIC",
+      "COMMON",
+      "ORDINARY",
+      "PEDESTRIAN",
+      "PROSAIC"
+    ],
+    "startingBoard": [
+      "CRUNIA",
+      "ISBOCS",
+      "SEAFTO",
+      "TDEPHR",
+      "RIAMEP",
+      "RONIOM",
+      "DINLCM",
+      "YRALNO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2712,
+    "sides": [
+      "RAP",
+      "TXL",
+      "OUC",
+      "YED"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "PTERODACTYL",
+      "LUXE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23084,
+    "centerLetter": "c",
+    "outerLetters": "agiloy",
+    "pangrams": [
+      "glaciology",
+      "illogically",
+      "logically"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "acyclic",
+      "cacao",
+      "cagily",
+      "cagy",
+      "calico",
+      "call",
+      "calla",
+      "callaloo",
+      "ciao",
+      "cilia",
+      "clay",
+      "cloaca",
+      "clog",
+      "cloy",
+      "coal",
+      "coca",
+      "cocci",
+      "cocoa",
+      "coil",
+      "cola",
+      "colic",
+      "cool",
+      "coolly",
+      "coyly",
+      "cyclic",
+      "cyclical",
+      "cyclically",
+      "glacial",
+      "glacially",
+      "icily",
+      "iliac",
+      "illogic",
+      "illogical",
+      "lacy",
+      "laic",
+      "laical",
+      "lilac",
+      "local",
+      "locally",
+      "loci",
+      "loco",
+      "logic",
+      "logical"
+    ],
+    "pangramHints": [
+      {
+        "word": "glaciology",
+        "hint": "A study of icy realms; think of the cold."
+      },
+      {
+        "word": "illogically",
+        "hint": "A way of thinking that defies reason; embrace the absurd."
+      },
+      {
+        "word": "logically",
+        "hint": "A methodical approach; clarity in chaos."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

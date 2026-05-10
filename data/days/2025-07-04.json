@@ -1,0 +1,210 @@
+{
+  "date": "2025-07-04",
+  "fetchedAt": "2026-05-10T20:10:36.388Z",
+  "connections": {
+    "puzzleId": 805,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "WHAT “ID” MIGHT REFER TO",
+        "words": [
+          "DRIVER LICENSE",
+          "FREUDIAN CONCEPT",
+          "IDAHO",
+          "RECOGNIZE"
+        ]
+      },
+      {
+        "title": "WHAT “IN” MIGHT REFER TO",
+        "words": [
+          "INCH",
+          "INDIANA",
+          "INSIDE",
+          "TRENDY"
+        ]
+      },
+      {
+        "title": "WHAT “LA” MIGHT REFER TO",
+        "words": [
+          "LANTHANUM",
+          "LOS ANGELES",
+          "LOUISIANA",
+          "MUSICAL NOTE"
+        ]
+      },
+      {
+        "title": "WHAT “OK” MIGHT REFER TO",
+        "words": [
+          "BRITISH MAGAZINE",
+          "GREENLIGHT",
+          "MEDIOCRE",
+          "OKLAHOMA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you think of proof of identity, consider what might be in your wallet or a concept that unravels the mind.",
+      "This could measure something small or refer to a place known for its corn and basketball.",
+      "A place known for its sunny beaches or a metallic element that might make you feel a bit heavy.",
+      "This could be a nod to a publication across the pond or a term for something that’s just okay."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2141,
+    "editor": "Tracy Bennett",
+    "solution": "curve",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about shapes that bend or twist."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with paths or trajectories."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It can describe a line that is not straight, often seen in art or nature."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 653,
+    "editor": "Tracy Bennett",
+    "clue": "Let's have a picnic!",
+    "spangram": "BARBECUE",
+    "themeWords": [
+      "BEANS",
+      "BRATS",
+      "BURGERS",
+      "COLESLAW",
+      "SALAD",
+      "WATERMELON"
+    ],
+    "startingBoard": [
+      "BURBAL",
+      "EGASDA",
+      "RSRNOL",
+      "OCBERE",
+      "LEEATM",
+      "SLBCWN",
+      "AWRUSA",
+      "STAEBE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2404,
+    "sides": [
+      "KHM",
+      "BUO",
+      "EGI",
+      "CTN"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "THUMB",
+      "BECKONING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 14147,
+    "centerLetter": "c",
+    "outerLetters": "efinot",
+    "pangrams": [
+      "coefficient",
+      "confection",
+      "confetti",
+      "infection"
+    ],
+    "answers": [
+      "cent",
+      "cite",
+      "cocci",
+      "cocoon",
+      "coffee",
+      "coffin",
+      "coif",
+      "coin",
+      "conceit",
+      "concoct",
+      "concoction",
+      "cone",
+      "confect",
+      "confine",
+      "confit",
+      "conic",
+      "connect",
+      "connection",
+      "connote",
+      "content",
+      "contention",
+      "continence",
+      "continent",
+      "coot",
+      "cootie",
+      "cote",
+      "cotton",
+      "ecotone",
+      "effect",
+      "efficient",
+      "entice",
+      "fence",
+      "fiction",
+      "foci",
+      "icon",
+      "iconic",
+      "incite",
+      "incontinence",
+      "incontinent",
+      "inefficient",
+      "infect",
+      "innocence",
+      "innocent",
+      "ionic",
+      "neocon",
+      "nice",
+      "nicotine",
+      "niece",
+      "nonce",
+      "nonfiction",
+      "notice",
+      "octet",
+      "office",
+      "once",
+      "tectonic",
+      "tinct",
+      "tonic"
+    ],
+    "pangramHints": [
+      {
+        "word": "coefficient",
+        "hint": "A mathematical term that balances equations without revealing its essence."
+      },
+      {
+        "word": "confection",
+        "hint": "Sweetness wrapped in creativity; think of treats without naming them."
+      },
+      {
+        "word": "confetti",
+        "hint": "A celebration in the air, but don’t let the colors give it away."
+      },
+      {
+        "word": "infection",
+        "hint": "A condition that spreads, but don’t let it get too close."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

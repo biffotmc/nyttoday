@@ -1,0 +1,182 @@
+{
+  "date": "2025-09-30",
+  "fetchedAt": "2026-05-10T20:16:03.756Z",
+  "connections": {
+    "puzzleId": 882,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "UNNATURAL, AS MANNERISMS",
+        "words": [
+          "AWKWARD",
+          "STIFF",
+          "STILTED",
+          "WOODEN"
+        ]
+      },
+      {
+        "title": "WORDS IN A FAMOUS TONGUE TWISTER",
+        "words": [
+          "CHUCK",
+          "COULD",
+          "WOOD",
+          "WOODCHUCK"
+        ]
+      },
+      {
+        "title": "CARTOON BIRDS",
+        "words": [
+          "FOGHORN",
+          "SCROOGE",
+          "WOODSTOCK",
+          "WOODY"
+        ]
+      },
+      {
+        "title": "ENDING WITH NUMBER HOMOPHONES",
+        "words": [
+          "CLASSICS",
+          "CREATE",
+          "GUTHRIE",
+          "THEREFORE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of social faux pas, these terms might just make you cringe.",
+      "A playful challenge of articulation, can you say this without stumbling?",
+      "Feathered friends with a flair for the dramatic, each has a tale to tell.",
+      "Words that sound alike but mean quite different things; a clever twist awaits."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2049,
+    "editor": "Tracy Bennett",
+    "solution": "geese",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a common bird that migrates."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with a gaggle."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a plural form of a bird known for its honking."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 743,
+    "editor": "Tracy Bennett",
+    "clue": "For goodness' sake",
+    "spangram": "VALUES",
+    "themeWords": [
+      "COOPERATION",
+      "DISCIPLINE",
+      "EMPATHY",
+      "HONESTY",
+      "RESPECT"
+    ],
+    "startingBoard": [
+      "RSPEYT",
+      "ETCNES",
+      "HYMEOH",
+      "TAPLAV",
+      "SEUONI",
+      "COIPDS",
+      "POTLIC",
+      "ERAINE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2492,
+    "sides": [
+      "NCE",
+      "IUO",
+      "FLR",
+      "MAX"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "INFOMERCIAL",
+      "LUXE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26635,
+    "centerLetter": "i",
+    "outerLetters": "bcelot",
+    "pangrams": [
+      "collectible"
+    ],
+    "answers": [
+      "belie",
+      "belittle",
+      "bibelot",
+      "bible",
+      "bile",
+      "bill",
+      "billet",
+      "biotic",
+      "bite",
+      "bocci",
+      "boil",
+      "bootie",
+      "celli",
+      "cite",
+      "cocci",
+      "coil",
+      "colic",
+      "collie",
+      "cootie",
+      "eclectic",
+      "elicit",
+      "elite",
+      "icicle",
+      "illicit",
+      "libel",
+      "libelee",
+      "lice",
+      "licit",
+      "lilt",
+      "lite",
+      "little",
+      "loci",
+      "obit",
+      "oleic",
+      "olio",
+      "ollie",
+      "tile",
+      "till",
+      "tilt",
+      "title",
+      "tittle",
+      "toil",
+      "toile",
+      "toilet",
+      "toilette"
+    ],
+    "pangramHints": [
+      {
+        "word": "collectible",
+        "hint": "A term for items that can be gathered, often sought after by enthusiasts."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "date": "2026-02-15",
+  "fetchedAt": "2026-05-10T20:24:59.578Z",
+  "connections": {
+    "puzzleId": 1025,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "REFERENCE BOOKS",
+        "words": [
+          "ATLAS",
+          "DICTIONARY",
+          "ENCYCLOPEDIA",
+          "THESAURUS"
+        ]
+      },
+      {
+        "title": "SOMETHING THAT BRINGS BACK MEMORIES",
+        "words": [
+          "ECHO",
+          "REMINDER",
+          "TRACE",
+          "VESTIGE"
+        ]
+      },
+      {
+        "title": "KINDS OF COMPLEXES",
+        "words": [
+          "ELECTRA",
+          "INFERIORITY",
+          "OEDIPUS",
+          "SUPERIORITY"
+        ]
+      },
+      {
+        "title": "STARTING WITH WAYS TO REACH SOMEONE VIA PHONE",
+        "words": [
+          "BUZZARD",
+          "CALLIOPE",
+          "DIALECT",
+          "RINGMASTER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Maps, words, and knowledge await within these pages; find your way through the labyrinth of information.",
+      "Whispers of the past echo through these objects, each a reminder of moments long gone.",
+      "These psychological puzzles can twist the mind; navigate the intricacies of human emotions.",
+      "To reach out and connect, one must know the right calls to make; tune in to the signals."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1404,
+    "editor": "Tracy Bennett",
+    "solution": "skull",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a bony part of the body."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with the head, it can be a bit hard."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something that protects the brain and is often depicted in art."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 884,
+    "editor": "Tracy Bennett",
+    "clue": "\"Now I get it!\"",
+    "spangram": "SEETHELIGHT",
+    "themeWords": [
+      "APPREHEND",
+      "FATHOM",
+      "GRASP",
+      "REALIZE",
+      "UNDERSTAND"
+    ],
+    "startingBoard": [
+      "SEEAHE",
+      "GRTPEN",
+      "SAHPRD",
+      "PAELRS",
+      "HTFIET",
+      "OMEGDA",
+      "IZEHNN",
+      "LARTUD"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2630,
+    "sides": [
+      "IHU",
+      "EVL",
+      "RBM",
+      "OZA"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "VOLUMIZER",
+      "REHAB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 14449,
+    "centerLetter": "a",
+    "outerLetters": "ghiprt",
+    "pangrams": [
+      "trigraph"
+    ],
+    "answers": [
+      "aargh",
+      "agar",
+      "agita",
+      "airtight",
+      "apart",
+      "apparat",
+      "arhat",
+      "aria",
+      "atria",
+      "attar",
+      "gaga",
+      "gait",
+      "graph",
+      "grappa",
+      "hair",
+      "harp",
+      "hart",
+      "hath",
+      "hatha",
+      "pair",
+      "papa",
+      "paragraph",
+      "paratha",
+      "pariah",
+      "part",
+      "partita",
+      "path",
+      "phat",
+      "pita",
+      "pitapat",
+      "prat",
+      "raga",
+      "ragtag",
+      "raita",
+      "rapt",
+      "ratatat",
+      "rattrap",
+      "taiga",
+      "tapa",
+      "tapir",
+      "tarp",
+      "tart",
+      "tartar",
+      "that",
+      "tiara",
+      "trait",
+      "trap"
+    ],
+    "pangramHints": [
+      {
+        "word": "trigraph",
+        "hint": "A trio of letters that dance together, forming a unique sound."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

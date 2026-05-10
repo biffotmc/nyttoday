@@ -1,0 +1,185 @@
+{
+  "date": "2026-01-22",
+  "fetchedAt": "2026-05-10T20:23:30.963Z",
+  "connections": {
+    "puzzleId": 992,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "WELL-DEFINED, AS AN IMAGE",
+        "words": [
+          "CLEAR",
+          "CRISP",
+          "DISTINCT",
+          "SHARP"
+        ]
+      },
+      {
+        "title": "FRUIT DESSERTS",
+        "words": [
+          "COBBLER",
+          "CRUMBLE",
+          "STRUDEL",
+          "TURNOVER"
+        ]
+      },
+      {
+        "title": "BUNGLE",
+        "words": [
+          "FLUFF",
+          "FUMBLE",
+          "MISS",
+          "TRIP"
+        ]
+      },
+      {
+        "title": "MAGAZINES PLUS A LETTER",
+        "words": [
+          "ELLEN",
+          "SPINY",
+          "TIMER",
+          "USE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the image is just right, you can see every detail. Think of how it stands out.",
+      "Sweet endings that come from the oven, often with a golden crust. What could they be?",
+      "Sometimes things don't go as planned, and you might find yourself in a bit of a mess.",
+      "A mix of glossy pages and a little twist can lead to something unexpected."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 728,
+    "editor": "Tracy Bennett",
+    "solution": "clink",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a sound made when two objects meet."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a small metal object that can also refer to a connection."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a light, sharp sound, often associated with glass."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 860,
+    "editor": "Tracy Bennett",
+    "clue": "Ode to joy",
+    "spangram": "SEVENTHHEAVEN",
+    "themeWords": [
+      "BLISS",
+      "ECSTASY",
+      "ELATION",
+      "EUPHORIA",
+      "RHAPSODY"
+    ],
+    "startingBoard": [
+      "ISSSTN",
+      "BLCASE",
+      "ODEYAV",
+      "SYRHET",
+      "PHTHAI",
+      "AENLOE",
+      "EVAENU",
+      "SIROHP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2606,
+    "sides": [
+      "LUW",
+      "TBN",
+      "SMR",
+      "AOI"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BLOWN",
+      "NASTURTIUM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10626,
+    "centerLetter": "g",
+    "outerLetters": "aemntu",
+    "pangrams": [
+      "augment",
+      "mutagen"
+    ],
+    "answers": [
+      "agate",
+      "agent",
+      "ague",
+      "engage",
+      "engagement",
+      "gaga",
+      "gage",
+      "game",
+      "gamete",
+      "gamma",
+      "gamut",
+      "gang",
+      "gannet",
+      "gate",
+      "gateau",
+      "gauge",
+      "gaunt",
+      "gene",
+      "gent",
+      "gnat",
+      "gunman",
+      "gunmen",
+      "mage",
+      "magenta",
+      "magma",
+      "magnate",
+      "magnet",
+      "magnum",
+      "manage",
+      "management",
+      "manga",
+      "mange",
+      "mega",
+      "mung",
+      "nametag",
+      "negate",
+      "nugget",
+      "nutmeg",
+      "tang",
+      "tangent",
+      "teenage",
+      "unguent",
+      "untag"
+    ],
+    "pangramHints": [
+      {
+        "word": "augment",
+        "hint": "A word that means to increase or enhance; think of adding more."
+      },
+      {
+        "word": "mutagen",
+        "hint": "This term relates to changes at the genetic level; consider the impact of alterations."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

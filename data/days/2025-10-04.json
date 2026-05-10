@@ -1,0 +1,199 @@
+{
+  "date": "2025-10-04",
+  "fetchedAt": "2026-05-10T20:16:20.195Z",
+  "connections": {
+    "puzzleId": 883,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FIX A HOLE IN CLOTHING",
+        "words": [
+          "DARN",
+          "MEND",
+          "PATCH",
+          "STITCH"
+        ]
+      },
+      {
+        "title": "RUSH OF WIND",
+        "words": [
+          "BLAST",
+          "BLOW",
+          "GALE",
+          "GUST"
+        ]
+      },
+      {
+        "title": "ANAGRAMS",
+        "words": [
+          "ARTS",
+          "RATS",
+          "STAR",
+          "TSAR"
+        ]
+      },
+      {
+        "title": "KINDS OF COOKIES",
+        "words": [
+          "FORTUNE",
+          "OATMEAL",
+          "RAINBOW",
+          "SUGAR"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When threads intertwine, a fashion fix is divine.",
+      "Nature's breath can be both gentle and fierce.",
+      "Rearranging letters can lead to new meanings.",
+      "Sweet treats come in various delightful forms."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1037,
+    "editor": "Tracy Bennett",
+    "solution": "relay",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a communication tool."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often associated with passing messages."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a type of race."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 747,
+    "editor": "Tracy Bennett",
+    "clue": "Bring it home",
+    "spangram": "SOUVENIRS",
+    "themeWords": [
+      "JEWELRY",
+      "KEYCHAIN",
+      "MAGNET",
+      "POSTCARD",
+      "SHIRT",
+      "SPOON"
+    ],
+    "startingBoard": [
+      "TCDJWE",
+      "OSAREL",
+      "PRIHSR",
+      "TOUVEY",
+      "SNGAMN",
+      "TESRIN",
+      "NACEOO",
+      "IHYKSP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2496,
+    "sides": [
+      "IRV",
+      "BDC",
+      "NGK",
+      "LAE"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "LINEBACKER",
+      "RAVAGED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26371,
+    "centerLetter": "h",
+    "outerLetters": "acdein",
+    "pangrams": [
+      "chained",
+      "echidna",
+      "enchained",
+      "hacienda"
+    ],
+    "answers": [
+      "ache",
+      "ached",
+      "ahead",
+      "cache",
+      "cached",
+      "chad",
+      "chai",
+      "chain",
+      "chance",
+      "chanced",
+      "chia",
+      "chic",
+      "chica",
+      "chichi",
+      "chide",
+      "chided",
+      "chin",
+      "china",
+      "chinned",
+      "cinch",
+      "cinched",
+      "dacha",
+      "deadhead",
+      "deadheaded",
+      "each",
+      "echinacea",
+      "enchain",
+      "enhance",
+      "enhanced",
+      "hand",
+      "handed",
+      "head",
+      "headache",
+      "headed",
+      "heed",
+      "heeded",
+      "heinie",
+      "hence",
+      "henna",
+      "hennaed",
+      "hidden",
+      "hide",
+      "hind",
+      "inch",
+      "inched",
+      "niche"
+    ],
+    "pangramHints": [
+      {
+        "word": "chained",
+        "hint": "Linking things together, but not in a literal sense."
+      },
+      {
+        "word": "echidna",
+        "hint": "A spiny creature with a unique way of life."
+      },
+      {
+        "word": "enchained",
+        "hint": "Bound in a way that suggests both beauty and restraint."
+      },
+      {
+        "word": "hacienda",
+        "hint": "A grand estate that whispers of warm, sunny days."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

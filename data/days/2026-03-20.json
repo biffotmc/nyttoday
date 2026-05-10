@@ -1,0 +1,193 @@
+{
+  "date": "2026-03-20",
+  "fetchedAt": "2026-05-10T20:27:26.766Z",
+  "connections": {
+    "puzzleId": 1092,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DISTURB",
+        "words": [
+          "ALARM",
+          "CONCERN",
+          "RATTLE",
+          "SHAKE"
+        ]
+      },
+      {
+        "title": "WORDS ON A MONOPOLY BOARD",
+        "words": [
+          "BOARDWALK",
+          "CHANCE",
+          "LUXURY",
+          "PARKING"
+        ]
+      },
+      {
+        "title": "FIGURE IN GREEK MYTH",
+        "words": [
+          "FATE",
+          "FURY",
+          "MUSE",
+          "SIREN"
+        ]
+      },
+      {
+        "title": "EGG ___",
+        "words": [
+          "CARTON",
+          "NOODLE",
+          "ROLL",
+          "TIMER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the unexpected occurs, these words capture your unease.",
+      "In the game of life, these spaces can lead to fortune or misfortune.",
+      "Ancient tales often feature these powerful beings, each with their own role.",
+      "This phrase suggests a playful twist on a common breakfast item."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2377,
+    "editor": "Tracy Bennett",
+    "solution": "oasis",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a serene getaway."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a refreshing spot in a desert."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This place is often sought after for its tranquility and water."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 919,
+    "editor": "Tracy Bennett",
+    "clue": "Spring fever",
+    "spangram": "TWISTANDTURN",
+    "themeWords": [
+      "COIL",
+      "CORKSCREW",
+      "CURLICUE",
+      "GYRE",
+      "HELIX",
+      "SPIRAL"
+    ],
+    "startingBoard": [
+      "LIUTLA",
+      "ORWEDR",
+      "CNRNPI",
+      "UESCAS",
+      "CIKTXI",
+      "RLGRSL",
+      "UYOIHE",
+      "CERCWT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2663,
+    "sides": [
+      "LDK",
+      "ONC",
+      "ERI",
+      "BUT"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "UNBROKEN",
+      "NUCLEOTIDE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24527,
+    "centerLetter": "m",
+    "outerLetters": "acdeht",
+    "pangrams": [
+      "matched"
+    ],
+    "answers": [
+      "academe",
+      "acme",
+      "ahem",
+      "came",
+      "dame",
+      "dammed",
+      "deem",
+      "deemed",
+      "edamame",
+      "edema",
+      "emcee",
+      "emceed",
+      "hamate",
+      "hammed",
+      "heme",
+      "hemmed",
+      "macadam",
+      "mace",
+      "maced",
+      "machete",
+      "madam",
+      "madame",
+      "made",
+      "mahatma",
+      "mama",
+      "mamma",
+      "match",
+      "matcha",
+      "mate",
+      "mated",
+      "math",
+      "matte",
+      "matted",
+      "mead",
+      "meat",
+      "meathead",
+      "mecca",
+      "meet",
+      "meme",
+      "memed",
+      "meta",
+      "metadata",
+      "mete",
+      "meted",
+      "meth",
+      "tame",
+      "tamed",
+      "team",
+      "teamed",
+      "teammate",
+      "teem",
+      "teemed",
+      "them",
+      "theme",
+      "themed"
+    ],
+    "pangramHints": [
+      {
+        "word": "matched",
+        "hint": "A word that signifies being in agreement or correspondence."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

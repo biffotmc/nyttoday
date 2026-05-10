@@ -1,0 +1,176 @@
+{
+  "date": "2026-04-10",
+  "fetchedAt": "2026-05-10T20:28:49.059Z",
+  "connections": {
+    "puzzleId": 1115,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PEPPERS",
+        "words": [
+          "BELL PEPPER",
+          "CAROLINA REAPER",
+          "CHIPOTLE",
+          "PEPPERONCINO"
+        ]
+      },
+      {
+        "title": "THINGS THAT POP UP",
+        "words": [
+          "EJECTOR SEAT",
+          "JACK-IN-THE-BOX",
+          "POP-UP BOOK",
+          "TOASTER"
+        ]
+      },
+      {
+        "title": "DESCRIPTORS FOR SWISS CHEESE",
+        "words": [
+          "FIRM",
+          "HOLEY",
+          "NUTTY",
+          "SWISS"
+        ]
+      },
+      {
+        "title": "BLUE CHARACTERS",
+        "words": [
+          "BLUE",
+          "GENIE",
+          "GONZO",
+          "SONIC"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These vibrant fruits can add a kick to your dish or a pop of color to your plate. Think spicy and sweet!",
+      "When you need a surprise, these contraptions are ready to spring into action, often with a playful twist.",
+      "This cheese is known for its unique texture and flavor, often leaving holes in its reputation.",
+      "These characters are often seen in shades of azure, bringing a splash of color to their adventures."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2728,
+    "editor": "Tracy Bennett",
+    "solution": "carom",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a game of angles."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a billiard move."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with a common word for a type of dance."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 942,
+    "editor": "Tracy Bennett",
+    "clue": "On the sly",
+    "spangram": "LIKEAFOX",
+    "themeWords": [
+      "CANNY",
+      "CRAFTY",
+      "CUNNING",
+      "DEVIOUS",
+      "SHREWD",
+      "SLICK",
+      "WILY"
+    ],
+    "startingBoard": [
+      "LCRSUO",
+      "CIATYI",
+      "NAKFDV",
+      "NEYLEG",
+      "RYAIWN",
+      "EHSFCI",
+      "WCIOUN",
+      "DKLSXN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2684,
+    "sides": [
+      "OUS",
+      "KAZ",
+      "XTR",
+      "WEL"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "WAXWORK",
+      "KLUTZES"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22772,
+    "centerLetter": "n",
+    "outerLetters": "dgioxz",
+    "pangrams": [
+      "oxidizing"
+    ],
+    "answers": [
+      "digging",
+      "ding",
+      "dinging",
+      "dingo",
+      "dining",
+      "dino",
+      "dioxin",
+      "dodging",
+      "dogging",
+      "doing",
+      "dong",
+      "donning",
+      "doxing",
+      "doxxing",
+      "dozing",
+      "gigging",
+      "ginning",
+      "going",
+      "gong",
+      "gonging",
+      "gonzo",
+      "goon",
+      "indigo",
+      "inning",
+      "iodizing",
+      "ionizing",
+      "nixing",
+      "nodding",
+      "noggin",
+      "noon",
+      "ongoing",
+      "onion",
+      "oozing",
+      "zigging",
+      "zing",
+      "zinging",
+      "zoning"
+    ],
+    "pangramHints": [
+      {
+        "word": "oxidizing",
+        "hint": "A process that involves a change, often seen in metals and reactions."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

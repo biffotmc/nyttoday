@@ -1,0 +1,205 @@
+{
+  "date": "2025-06-07",
+  "fetchedAt": "2026-05-10T20:10:23.758Z",
+  "connections": {
+    "puzzleId": 769,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TIPS FOR WORKING OUT SAFELY",
+        "words": [
+          "BREATHE",
+          "HYDRATE",
+          "REST",
+          "STRETCH"
+        ]
+      },
+      {
+        "title": "ESTABLISH",
+        "words": [
+          "FOUND",
+          "INSTITUTE",
+          "LAUNCH",
+          "START"
+        ]
+      },
+      {
+        "title": "DITTY",
+        "words": [
+          "AIR",
+          "NUMBER",
+          "SONG",
+          "STRAIN"
+        ]
+      },
+      {
+        "title": "SPRING ___",
+        "words": [
+          "CHICKEN",
+          "EQUINOX",
+          "FLING",
+          "ONION"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Inhale deeply and drink up, but don’t forget to take a breather and stretch those limbs.",
+      "From the ground up, build your dreams and set them into motion with a strong foundation.",
+      "A melody can lift your spirits; numbers can dance in harmony, but what ties them together?",
+      "When the flowers bloom, what playful activities come to mind? Think of the season's delights."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1955,
+    "editor": "Tracy Bennett",
+    "solution": "reuse",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might do again."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests a second chance or a fresh start."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think about how you might use something once more, but in a different context."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 628,
+    "editor": "Tracy Bennett",
+    "clue": "I am what I am",
+    "spangram": "BEYOURSELF",
+    "themeWords": [
+      "HUMAN",
+      "INDIVIDUAL",
+      "MORTAL",
+      "PERSON",
+      "SOMEONE",
+      "SOUL"
+    ],
+    "startingBoard": [
+      "NIBESM",
+      "AMNYOE",
+      "UDOENO",
+      "HIURLA",
+      "ALVSOT",
+      "UIEOMR",
+      "UDLNSR",
+      "LOSFPE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2377,
+    "sides": [
+      "SIE",
+      "ZTH",
+      "AQN",
+      "BLU"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "HAZELNUTS",
+      "SQUIB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22846,
+    "centerLetter": "c",
+    "outerLetters": "aefilt",
+    "pangrams": [
+      "facelift",
+      "facilitate"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "acetal",
+      "acetate",
+      "acetic",
+      "affect",
+      "afflict",
+      "attic",
+      "cacti",
+      "cafe",
+      "calcite",
+      "calf",
+      "call",
+      "calla",
+      "catcall",
+      "cattail",
+      "cattle",
+      "celiac",
+      "cell",
+      "celli",
+      "cilia",
+      "cite",
+      "cleat",
+      "clef",
+      "cleft",
+      "cliff",
+      "eclat",
+      "eclectic",
+      "efface",
+      "effect",
+      "elect",
+      "electee",
+      "elicit",
+      "face",
+      "facet",
+      "facial",
+      "facile",
+      "fact",
+      "fecal",
+      "fleece",
+      "icefall",
+      "icicle",
+      "iliac",
+      "illicit",
+      "italic",
+      "lace",
+      "lactate",
+      "lacteal",
+      "lactic",
+      "laic",
+      "laical",
+      "lattice",
+      "lice",
+      "licit",
+      "lilac",
+      "tacet",
+      "tacit",
+      "tact",
+      "tactic",
+      "tactical",
+      "tactile",
+      "talc"
+    ],
+    "pangramHints": [
+      {
+        "word": "facelift",
+        "hint": "A transformation that can change appearances dramatically."
+      },
+      {
+        "word": "facilitate",
+        "hint": "To make a process easier; think of helping hands."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "date": "2025-12-23",
+  "fetchedAt": "2026-05-10T20:21:33.001Z",
+  "connections": {
+    "puzzleId": 973,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "VULNERABILITY",
+        "words": [
+          "ACHILLES’ HEEL",
+          "DOWNFALL",
+          "KRYPTONITE",
+          "SOFT SPOT"
+        ]
+      },
+      {
+        "title": "FREUDIAN CONCEPTS",
+        "words": [
+          "FIXATION",
+          "OEDIPUS COMPLEX",
+          "SUPEREGO",
+          "UNCONSCIOUS"
+        ]
+      },
+      {
+        "title": "CHARACTERS IN CAPES",
+        "words": [
+          "DARTH VADER",
+          "DRACULA",
+          "LITTLE RED RIDING HOOD",
+          "SUPERMAN"
+        ]
+      },
+      {
+        "title": "STARTING WITH SLANG FOR SAUSAGE",
+        "words": [
+          "BRATZ",
+          "DOGMA",
+          "FRANKENSTEIN",
+          "LINKLATER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Even the mightiest can have a weak point; find the chink in the armor.",
+      "Dive into the depths of the psyche, where desires and fears intertwine.",
+      "Cloaked in mystery, these figures walk the line between good and evil.",
+      "A meaty twist on names that might make you think twice before you bite."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 972,
+    "editor": "Tracy Bennett",
+    "solution": "glint",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It glimmers but isn't gold."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a flash of light."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also describe a brief moment of brightness."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 827,
+    "editor": "Tracy Bennett",
+    "clue": "Br-r-r-r-r!",
+    "spangram": "NOTSOHOT",
+    "themeWords": [
+      "CHILLY",
+      "COLD",
+      "COOL",
+      "FREEZING",
+      "FRIGID",
+      "GLACIAL",
+      "POLAR"
+    ],
+    "startingBoard": [
+      "HILNEE",
+      "CPLOZR",
+      "LOYTIF",
+      "ARSNFL",
+      "OCOGRO",
+      "LDGHIO",
+      "LCLOGC",
+      "AIATDI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2580,
+    "sides": [
+      "TKA",
+      "RNS",
+      "BLW",
+      "OEP"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PLASTERWORK",
+      "KNOB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22802,
+    "centerLetter": "i",
+    "outerLetters": "cdloty",
+    "pangrams": [
+      "docility"
+    ],
+    "answers": [
+      "city",
+      "cocci",
+      "codicil",
+      "coil",
+      "colic",
+      "colloid",
+      "cyclic",
+      "diddly",
+      "dildo",
+      "dill",
+      "dilly",
+      "ditto",
+      "ditty",
+      "doily",
+      "icily",
+      "idiocy",
+      "idiot",
+      "idiotic",
+      "idly",
+      "idol",
+      "idyl",
+      "idyll",
+      "idyllic",
+      "illicit",
+      "illicitly",
+      "illy",
+      "itty",
+      "licit",
+      "licitly",
+      "lilt",
+      "lily",
+      "loci",
+      "oddity",
+      "oily",
+      "olio",
+      "tidily",
+      "tidy",
+      "till",
+      "tilt",
+      "toil"
+    ],
+    "pangramHints": [
+      {
+        "word": "docility",
+        "hint": "A gentle nature can sometimes lead to a quiet strength."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

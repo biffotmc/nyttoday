@@ -1,0 +1,199 @@
+{
+  "date": "2025-06-20",
+  "fetchedAt": "2026-05-10T20:10:29.783Z",
+  "connections": {
+    "puzzleId": 778,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ITEMS IN A SEWING KIT",
+        "words": [
+          "BUTTON",
+          "NEEDLE",
+          "SCISSORS",
+          "THREAD"
+        ]
+      },
+      {
+        "title": "CAPTURE ON VIDEO",
+        "words": [
+          "FILM",
+          "RECORD",
+          "SHOOT",
+          "TAPE"
+        ]
+      },
+      {
+        "title": "PRO WRESTLING ICONS, WITH “THE”",
+        "words": [
+          "HITMAN",
+          "ROCK",
+          "SNAKE",
+          "UNDERTAKER"
+        ]
+      },
+      {
+        "title": "WAX ___",
+        "words": [
+          "MUSEUM",
+          "PAPER",
+          "POETIC",
+          "SEAL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A little something to hold it all together, sharp and precise.",
+      "Capturing moments, one frame at a time, with a twist.",
+      "Legends of the ring, each with a signature flair.",
+      "A smooth finish, whether in art or on the page."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2329,
+    "editor": "Tracy Bennett",
+    "solution": "taupe",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A muted shade often found in nature."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a color that blends well with earth tones."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This color shares its name with a type of animal."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 360,
+    "editor": "Tracy Bennett",
+    "clue": "Just a dusting",
+    "spangram": "POWDERS",
+    "themeWords": [
+      "BABY",
+      "BAKING",
+      "BLASTING",
+      "CHILI",
+      "COCOA",
+      "ITCHING",
+      "TALCUM"
+    ],
+    "startingBoard": [
+      "OCOLIN",
+      "CYAIGI",
+      "BBCHBK",
+      "AEDWOA",
+      "SRIMTP",
+      "NGTCUA",
+      "IBLHCL",
+      "TSAING"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2390,
+    "sides": [
+      "ZPM",
+      "CYU",
+      "TRA",
+      "IEO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "MYOPIC",
+      "CAUTERIZE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18669,
+    "centerLetter": "p",
+    "outerLetters": "abehlt",
+    "pangrams": [
+      "alphabet"
+    ],
+    "answers": [
+      "aleph",
+      "alpha",
+      "appall",
+      "appeal",
+      "appealable",
+      "appellate",
+      "appellee",
+      "apple",
+      "applet",
+      "beep",
+      "bleep",
+      "epee",
+      "heap",
+      "heeltap",
+      "help",
+      "helpable",
+      "heptathlete",
+      "lapel",
+      "leap",
+      "leapt",
+      "paella",
+      "palapa",
+      "palatable",
+      "palatal",
+      "palate",
+      "pale",
+      "palette",
+      "pall",
+      "pallet",
+      "palp",
+      "palpable",
+      "palpate",
+      "papa",
+      "papal",
+      "pate",
+      "patella",
+      "patellae",
+      "path",
+      "peal",
+      "peat",
+      "pebble",
+      "peel",
+      "peelable",
+      "peep",
+      "pellet",
+      "pelt",
+      "petal",
+      "phat",
+      "plat",
+      "plate",
+      "platelet",
+      "plea",
+      "pleat",
+      "pleb",
+      "plebe",
+      "tapa",
+      "tape",
+      "teepee",
+      "telepath",
+      "tepee"
+    ],
+    "pangramHints": [
+      {
+        "word": "alphabet",
+        "hint": "A complete set, from A to Z, covering all bases."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

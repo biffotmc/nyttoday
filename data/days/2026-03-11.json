@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-11",
+  "fetchedAt": "2026-05-10T20:26:50.596Z",
+  "connections": {
+    "puzzleId": 1084,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STEAL",
+        "words": [
+          "LIFT",
+          "PALM",
+          "PINCH",
+          "POCKET"
+        ]
+      },
+      {
+        "title": "MAKE NICER, WITH \"UP\"",
+        "words": [
+          "DRESS",
+          "JAZZ",
+          "SPIFF",
+          "SPRUCE"
+        ]
+      },
+      {
+        "title": "KINDS OF CONES",
+        "words": [
+          "ICE CREAM",
+          "PINE",
+          "SNOW",
+          "TRAFFIC"
+        ]
+      },
+      {
+        "title": "PRONOUN HOMOPHONES",
+        "words": [
+          "HEE",
+          "MI",
+          "OUI",
+          "YEW"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you want to lighten your load, consider these sneaky tactics.",
+      "Elevate your style with a little extra flair; it's all about the finishing touch.",
+      "These varieties might be sweet or savory, but they all have a point.",
+      "Sounding the same, yet different in meaning; listen closely to these playful words."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2224,
+    "editor": "Tracy Bennett",
+    "solution": "teddy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a cuddly companion."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word often brings comfort and warmth."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that might remind you of childhood toys."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 911,
+    "editor": "Tracy Bennett",
+    "clue": "Survival mode",
+    "spangram": "DEFENSES",
+    "themeWords": [
+      "AGILITY",
+      "ARMOR",
+      "CAMOUFLAGE",
+      "DISTRACTION",
+      "MIMICRY"
+    ],
+    "startingBoard": [
+      "DCAFLA",
+      "AEMUEG",
+      "GIFORO",
+      "LITERM",
+      "OYMINA",
+      "INMIYS",
+      "TACRDE",
+      "CRTSIS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2653,
+    "sides": [
+      "PDI",
+      "YOE",
+      "SZH",
+      "LXN"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "XYLOPHONES",
+      "SIZED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19845,
+    "centerLetter": "n",
+    "outerLetters": "delotw",
+    "pangrams": [
+      "letdown"
+    ],
+    "answers": [
+      "denote",
+      "denoted",
+      "dent",
+      "dented",
+      "detente",
+      "done",
+      "donee",
+      "donned",
+      "down",
+      "downed",
+      "downtown",
+      "ended",
+      "endnote",
+      "endow",
+      "endowed",
+      "entente",
+      "lend",
+      "lent",
+      "lento",
+      "lone",
+      "loon",
+      "lowdown",
+      "need",
+      "needed",
+      "needle",
+      "needled",
+      "nene",
+      "neon",
+      "netted",
+      "nettle",
+      "nettled",
+      "newel",
+      "newt",
+      "newton",
+      "nodded",
+      "node",
+      "noel",
+      "none",
+      "nonet",
+      "noodle",
+      "noodled",
+      "noon",
+      "note",
+      "noted",
+      "odeon",
+      "olden",
+      "onto",
+      "owned",
+      "teen",
+      "tend",
+      "tended",
+      "tendon",
+      "tenet",
+      "tenon",
+      "tenoned",
+      "tent",
+      "tented",
+      "tone",
+      "toned",
+      "tonne",
+      "toon",
+      "town",
+      "tween",
+      "wend",
+      "wended",
+      "went",
+      "wont",
+      "wonton",
+      "wooden",
+      "woolen"
+    ],
+    "pangramHints": [
+      {
+        "word": "letdown",
+        "hint": "A disappointment that might feel heavy; don't let it weigh you down."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

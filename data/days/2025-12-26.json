@@ -1,0 +1,176 @@
+{
+  "date": "2025-12-26",
+  "fetchedAt": "2026-05-10T20:21:47.165Z",
+  "connections": {
+    "puzzleId": 957,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CALIFORNIA-BASED CHARACTER TROPES",
+        "words": [
+          "MOVIE EXEC",
+          "SURFER",
+          "TECH BRO",
+          "VALLEY GIRL"
+        ]
+      },
+      {
+        "title": "COMEDY SUBGENRES",
+        "words": [
+          "BUDDY",
+          "CRINGE",
+          "SCREWBALL",
+          "STONER"
+        ]
+      },
+      {
+        "title": "'70S ROCK BANDS",
+        "words": [
+          "AMERICA",
+          "CHICAGO",
+          "FOREIGNER",
+          "JOURNEY"
+        ]
+      },
+      {
+        "title": "BLACK ___",
+        "words": [
+          "FOREST",
+          "FRIDAY",
+          "PANTHER",
+          "WIDOW"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the land of sun and surf, these personas ride the waves of stereotypes.",
+      "From laughter to awkwardness, these styles of humor keep us chuckling.",
+      "These bands took us on a melodic journey through a vibrant decade.",
+      "Shadows loom large in these tales of darkness and intrigue."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1355,
+    "editor": "Tracy Bennett",
+    "solution": "speed",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something that moves quickly."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a racing term or something that implies haste."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also describe a type of motion often associated with vehicles."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 831,
+    "editor": "Tracy Bennett",
+    "clue": "Please hold",
+    "spangram": "BOXINGDAY",
+    "themeWords": [
+      "BALLOT",
+      "GIFT",
+      "LUNCH",
+      "MATCH",
+      "PIZZA",
+      "SHOE",
+      "TACKLE",
+      "TOOL"
+    ],
+    "startingBoard": [
+      "HCTHCN",
+      "OEAIGU",
+      "HSMFTL",
+      "BOXING",
+      "CKLLOD",
+      "ATETOA",
+      "ALLZAY",
+      "BTOZIP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2585,
+    "sides": [
+      "CNV",
+      "OAI",
+      "RHW",
+      "EPM"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PHENOM",
+      "MICROWAVE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22375,
+    "centerLetter": "n",
+    "outerLetters": "acdejy",
+    "pangrams": [
+      "adjacency"
+    ],
+    "answers": [
+      "acne",
+      "addend",
+      "addenda",
+      "cadence",
+      "cancan",
+      "candy",
+      "cane",
+      "caned",
+      "canna",
+      "canned",
+      "canny",
+      "cayenne",
+      "cyan",
+      "dance",
+      "danced",
+      "dandy",
+      "deaden",
+      "deadened",
+      "dean",
+      "decadence",
+      "decency",
+      "deny",
+      "dyne",
+      "ended",
+      "ennead",
+      "jean",
+      "jenny",
+      "naan",
+      "nada",
+      "nana",
+      "nanny",
+      "need",
+      "needed",
+      "needy",
+      "nene",
+      "yenned"
+    ],
+    "pangramHints": [
+      {
+        "word": "adjacency",
+        "hint": "A term that describes proximity; think of how things relate spatially."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

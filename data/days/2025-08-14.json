@@ -1,0 +1,165 @@
+{
+  "date": "2025-08-14",
+  "fetchedAt": "2026-05-10T20:12:35.165Z",
+  "connections": {
+    "puzzleId": 835,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DERRIERE",
+        "words": [
+          "BACKSIDE",
+          "CABOOSE",
+          "SEAT",
+          "TAIL"
+        ]
+      },
+      {
+        "title": "USED TO HIT A BALL IN SPORTS",
+        "words": [
+          "BAT",
+          "MALLET",
+          "RACKET",
+          "STICK"
+        ]
+      },
+      {
+        "title": "COMPONENTS OF A BRIDE’S ENSEMBLE",
+        "words": [
+          "BOUQUET",
+          "BUSTLE",
+          "TRAIN",
+          "VEIL"
+        ]
+      },
+      {
+        "title": "RHYMING COMPOUND WORDS",
+        "words": [
+          "BACKPACK",
+          "COOKBOOK",
+          "HUBBUB",
+          "NITWIT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of comfort, where one finds a cushiony embrace, these terms take center stage.",
+      "When it's time to swing, these tools help you make contact with the game.",
+      "A celebration of love is incomplete without these essential elements adorning the bride.",
+      "These playful pairs dance in harmony, each word echoing the other in a delightful rhyme."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2346,
+    "editor": "Tracy Bennett",
+    "solution": "knell",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Listen closely; it's a sound that marks an ending."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with a somber event."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a tolling sound that signifies something significant."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 697,
+    "editor": "Tracy Bennett",
+    "clue": "Honest-to-goodness",
+    "spangram": "BONAFIDE",
+    "themeWords": [
+      "AUTHENTIC",
+      "GENUINE",
+      "KOSHER",
+      "LEGITIMATE",
+      "REAL",
+      "TRUE"
+    ],
+    "startingBoard": [
+      "ALBITE",
+      "EROGIT",
+      "NTNEMA",
+      "EIALOS",
+      "THCFKH",
+      "UAGIRE",
+      "EENDTE",
+      "NIUERU"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2445,
+    "sides": [
+      "OUT",
+      "SRE",
+      "BAD",
+      "GCH"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "HEDGEHOGS",
+      "SUBTRACT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18136,
+    "centerLetter": "i",
+    "outerLetters": "abdhrt",
+    "pangrams": [
+      "birdbath"
+    ],
+    "answers": [
+      "aria",
+      "arid",
+      "atria",
+      "bait",
+      "bird",
+      "birria",
+      "birth",
+      "braid",
+      "briar",
+      "dirt",
+      "drib",
+      "habit",
+      "habitat",
+      "hair",
+      "rabbi",
+      "rabbit",
+      "rabid",
+      "radii",
+      "raid",
+      "raita",
+      "ribbit",
+      "third",
+      "tiara",
+      "tibia",
+      "tidbit",
+      "trait",
+      "triad"
+    ],
+    "pangramHints": [
+      {
+        "word": "birdbath",
+        "hint": "A refreshing spot for our feathered friends; think of a splash!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

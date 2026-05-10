@@ -1,0 +1,163 @@
+{
+  "date": "2025-10-22",
+  "fetchedAt": "2026-05-10T20:17:28.158Z",
+  "connections": {
+    "puzzleId": 907,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "UTILITIES",
+        "words": [
+          "ELECTRIC",
+          "GAS",
+          "TELEPHONE",
+          "WATER"
+        ]
+      },
+      {
+        "title": "ADAPT TO FIT ONE'S NEEDS",
+        "words": [
+          "FASHION",
+          "MOLD",
+          "SHAPE",
+          "TAILOR"
+        ]
+      },
+      {
+        "title": "KINDS OF ANTS",
+        "words": [
+          "ARMY",
+          "CARPENTER",
+          "FIRE",
+          "PHARAOH"
+        ]
+      },
+      {
+        "title": "COPY___",
+        "words": [
+          "CAT",
+          "PASTA",
+          "RIGHT",
+          "WRITER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These essentials keep the lights on and the water flowing, but don't forget to pay the bill!",
+      "Transforming something to make it uniquely yours, it's all about personal touch and creativity.",
+      "These tiny soldiers come in various forms, each with their own unique role in the colony.",
+      "Imitation is the sincerest form of flattery, but there's more than one way to replicate."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1192,
+    "editor": "Tracy Bennett",
+    "solution": "stunt",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a daring act."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It involves a bit of risk."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a performance that surprises."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 766,
+    "editor": "Tracy Bennett",
+    "clue": "Catch all",
+    "spangram": "JUNKDRAWER",
+    "themeWords": [
+      "BATTERY",
+      "COIN",
+      "PENCIL",
+      "SHOELACE",
+      "TAPE",
+      "THUMBTACK"
+    ],
+    "startingBoard": [
+      "TERINI",
+      "BTYCLO",
+      "AENEPC",
+      "OLUHTT",
+      "HSAMBA",
+      "JCAPCR",
+      "UETEKE",
+      "NKDRAW"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2514,
+    "sides": [
+      "AYI",
+      "UNX",
+      "QEO",
+      "GDT"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "TAQUITO",
+      "OXYGENATED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25391,
+    "centerLetter": "o",
+    "outerLetters": "cgiltx",
+    "pangrams": [
+      "toxicologic"
+    ],
+    "answers": [
+      "clog",
+      "clot",
+      "cocci",
+      "coil",
+      "colic",
+      "colt",
+      "cool",
+      "coot",
+      "gigolo",
+      "googol",
+      "igloo",
+      "illogic",
+      "loci",
+      "loco",
+      "logic",
+      "logo",
+      "loll",
+      "loot",
+      "lotto",
+      "olio",
+      "toil",
+      "toll",
+      "tool",
+      "toot",
+      "toxic"
+    ],
+    "pangramHints": [
+      {
+        "word": "toxicologic",
+        "hint": "A word that dives deep into the effects of substances; think science!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

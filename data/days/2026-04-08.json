@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-08",
+  "fetchedAt": "2026-05-10T20:28:41.931Z",
+  "connections": {
+    "puzzleId": 1116,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "COHORT MEMBER",
+        "words": [
+          "ASSOCIATE",
+          "COLLEAGUE",
+          "FELLOW",
+          "PEER"
+        ]
+      },
+      {
+        "title": "AESTHETIC",
+        "words": [
+          "DESIGN",
+          "LOOK",
+          "SCHEME",
+          "STYLE"
+        ]
+      },
+      {
+        "title": "KINDS OF BAR APPARATUSES",
+        "words": [
+          "MONKEY",
+          "PARALLEL",
+          "PULL-UP",
+          "UNEVEN"
+        ]
+      },
+      {
+        "title": "EYEWEAR IN THE SINGULAR",
+        "words": [
+          "CONTACT",
+          "GOGGLE",
+          "SHADE",
+          "SPECTACLE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of teamwork, these individuals share the same path, each playing their part in the grand scheme.",
+      "A visual delight awaits, where form meets function in a harmonious blend of creativity.",
+      "Think of fitness and strength, where various forms of elevation challenge the body in unique ways.",
+      "When it comes to protecting your sight, these singular items offer both style and clarity."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2217,
+    "editor": "Tracy Bennett",
+    "solution": "inlet",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a passage or opening."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often found in water-related contexts."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something that allows flow or movement."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 940,
+    "editor": "Tracy Bennett",
+    "clue": "We're going under cover",
+    "spangram": "BEDCLOTHES",
+    "themeWords": [
+      "AFGHAN",
+      "BLANKET",
+      "COMFORTER",
+      "QUILT",
+      "SPREAD",
+      "THROW"
+    ],
+    "startingBoard": [
+      "GHANOW",
+      "FBTHRE",
+      "ALANKT",
+      "DCLOTH",
+      "BESCSE",
+      "ERPOQU",
+      "AFMRIL",
+      "DORTET"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2682,
+    "sides": [
+      "CMI",
+      "LTB",
+      "EAU",
+      "PRK"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BACKLIT",
+      "TEMPURA"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18892,
+    "centerLetter": "t",
+    "outerLetters": "abhino",
+    "pangrams": [
+      "habitation",
+      "inhabitation"
+    ],
+    "answers": [
+      "abbot",
+      "annatto",
+      "annotation",
+      "anoint",
+      "anti",
+      "attain",
+      "baht",
+      "bait",
+      "bath",
+      "baton",
+      "biota",
+      "biotin",
+      "boat",
+      "bonito",
+      "boot",
+      "booth",
+      "both",
+      "habit",
+      "habitat",
+      "hath",
+      "hatha",
+      "hint",
+      "hobbit",
+      "hoot",
+      "inhabit",
+      "inhabitant",
+      "inhibit",
+      "inhibition",
+      "initiation",
+      "into",
+      "intonation",
+      "iota",
+      "nanobot",
+      "natant",
+      "nation",
+      "ninth",
+      "notation",
+      "notion",
+      "oath",
+      "obit",
+      "obtain",
+      "onto",
+      "taboo",
+      "tahini",
+      "taint",
+      "tannin",
+      "tattoo",
+      "than",
+      "that",
+      "thin",
+      "tibia",
+      "tint",
+      "titan",
+      "toon",
+      "toot",
+      "tooth"
+    ],
+    "pangramHints": [
+      {
+        "word": "habitation",
+        "hint": "A place where life thrives, filled with diverse elements."
+      },
+      {
+        "word": "inhabitation",
+        "hint": "The act of living in a space, often bustling with activity."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "date": "2025-07-19",
+  "fetchedAt": "2026-05-10T20:10:54.498Z",
+  "connections": {
+    "puzzleId": 808,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SOURCES OF DRINKING WATER",
+        "words": [
+          "RAIN",
+          "SPRING",
+          "TAP",
+          "WELL"
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN DO WITH A FOOTBALL",
+        "words": [
+          "PASS",
+          "PUNT",
+          "SNAP",
+          "SPIKE"
+        ]
+      },
+      {
+        "title": "SHARP FASTENERS",
+        "words": [
+          "BRAD",
+          "NAIL",
+          "PIN",
+          "TACK"
+        ]
+      },
+      {
+        "title": "STARTS OF TEENAGE MUTANT NINJA TURTLES",
+        "words": [
+          "DON",
+          "LEO",
+          "MIC",
+          "RAP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the skies open up, nature provides a refreshing gift. Seek the source that flows from above.",
+      "In the game of strategy and skill, there are moves that can change the tide. What actions propel the ball forward?",
+      "These tiny tools are essential for holding things together, sharp and ready for action.",
+      "Four heroes, each with a unique flair, share a common bond in their names. Can you name their beginnings?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1547,
+    "editor": "Tracy Bennett",
+    "solution": "sword",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A weapon often associated with knights."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's sharp and can cut through challenges."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something you might wield in a duel."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 669,
+    "editor": "Tracy Bennett",
+    "clue": "Hot enough for ya?",
+    "spangram": "SUMMERWEATHER",
+    "themeWords": [
+      "BALMY",
+      "MUGGY",
+      "SCORCHING",
+      "STICKY",
+      "SWELTERING"
+    ],
+    "startingBoard": [
+      "YLABUS",
+      "MRMMIC",
+      "COETSK",
+      "HCRWGY",
+      "ISMGEN",
+      "NUGYAI",
+      "GEHTLR",
+      "RSWETE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2419,
+    "sides": [
+      "REA",
+      "TYH",
+      "ZCP",
+      "OML"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "PROTOZOA",
+      "ALCHEMY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19259,
+    "centerLetter": "a",
+    "outerLetters": "bcdilo",
+    "pangrams": [
+      "diabolic",
+      "diabolical"
+    ],
+    "answers": [
+      "abaci",
+      "aboil",
+      "acacia",
+      "acai",
+      "acid",
+      "acidic",
+      "adobo",
+      "aioli",
+      "alibi",
+      "baba",
+      "bacilli",
+      "bail",
+      "bald",
+      "ball",
+      "ballad",
+      "baobab",
+      "biblical",
+      "bilabial",
+      "blab",
+      "boba",
+      "bola",
+      "cabal",
+      "cabala",
+      "cacao",
+      "calico",
+      "call",
+      "calla",
+      "callaloo",
+      "ciao",
+      "cicada",
+      "cilia",
+      "clad",
+      "cloaca",
+      "coal",
+      "coca",
+      "cocoa",
+      "coda",
+      "cola",
+      "collab",
+      "diabolo",
+      "dial",
+      "doodad",
+      "iliac",
+      "labia",
+      "labial",
+      "laic",
+      "laical",
+      "laid",
+      "lilac",
+      "load",
+      "local",
+      "oddball"
+    ],
+    "pangramHints": [
+      {
+        "word": "diabolic",
+        "hint": "A word that suggests something wicked or evil, but don't say it outright."
+      },
+      {
+        "word": "diabolical",
+        "hint": "An extended version of wickedness, hinting at something more elaborate."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

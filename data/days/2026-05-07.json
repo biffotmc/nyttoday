@@ -1,0 +1,184 @@
+{
+  "date": "2026-05-07",
+  "fetchedAt": "2026-05-10T20:30:35.232Z",
+  "connections": {
+    "puzzleId": 1146,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FISHING GEAR",
+        "words": [
+          "FLY",
+          "HOOK",
+          "LINE",
+          "NET"
+        ]
+      },
+      {
+        "title": "MULTITUDE",
+        "words": [
+          "DROVE",
+          "HOST",
+          "MASS",
+          "PACK"
+        ]
+      },
+      {
+        "title": "COMMIT A BASKETBALL INFRACTION",
+        "words": [
+          "CARRY",
+          "DOUBLE-DRIBBLE",
+          "GOALTEND",
+          "TRAVEL"
+        ]
+      },
+      {
+        "title": "CONTROLLED WITH UP/DOWN BUTTONS",
+        "words": [
+          "CAR WINDOW",
+          "CHANNEL",
+          "ELEVATOR",
+          "VOLUME"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A fisherman’s best friends can catch more than just attention.",
+      "When a crowd gathers, the numbers can be overwhelming.",
+      "In the game, a misstep can lead to a foul, but only if you’re not careful.",
+      "Navigating through options can be as simple as pressing a button."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 751,
+    "editor": "Tracy Bennett",
+    "solution": "budge",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a gentle push."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s about making a small movement."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can imply a shift in position, often used in everyday contexts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 968,
+    "editor": "Tracy Bennett",
+    "clue": "Go right ahead",
+    "spangram": "GIVETHENOD",
+    "themeWords": [
+      "ALLOW",
+      "APPROVE",
+      "BLESS",
+      "LICENSE",
+      "PERMIT",
+      "SANCTION"
+    ],
+    "startingBoard": [
+      "EVPPDL",
+      "ORAOLO",
+      "MINEAW",
+      "RETHLB",
+      "ASPTSE",
+      "NTESIL",
+      "CIVCEE",
+      "NOIGNS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2711,
+    "sides": [
+      "SHI",
+      "FUR",
+      "YEO",
+      "CLM"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CHROMIUM",
+      "MYSELF"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25952,
+    "centerLetter": "n",
+    "outerLetters": "deimuz",
+    "pangrams": [
+      "immunized"
+    ],
+    "answers": [
+      "denied",
+      "denim",
+      "denizen",
+      "denude",
+      "denuded",
+      "dine",
+      "dined",
+      "dune",
+      "dunned",
+      "emend",
+      "emended",
+      "ended",
+      "endue",
+      "endued",
+      "ennui",
+      "immune",
+      "immunize",
+      "indeed",
+      "indie",
+      "indium",
+      "innie",
+      "mend",
+      "mended",
+      "menu",
+      "mien",
+      "mind",
+      "minded",
+      "mine",
+      "mined",
+      "mini",
+      "minim",
+      "minimize",
+      "minimized",
+      "minimum",
+      "mizzen",
+      "need",
+      "needed",
+      "nene",
+      "nine",
+      "nude",
+      "nudie",
+      "undid",
+      "undimmed",
+      "undue",
+      "unneeded",
+      "zine"
+    ],
+    "pangramHints": [
+      {
+        "word": "immunized",
+        "hint": "A word that suggests protection, but don’t say it outright!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

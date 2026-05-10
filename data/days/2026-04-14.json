@@ -1,0 +1,186 @@
+{
+  "date": "2026-04-14",
+  "fetchedAt": "2026-05-10T20:29:05.459Z",
+  "connections": {
+    "puzzleId": 1123,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "THINGS STORED BY A BROWSER",
+        "words": [
+          "BOOKMARK",
+          "CACHE",
+          "COOKIE",
+          "HISTORY"
+        ]
+      },
+      {
+        "title": "BOXING TERMS",
+        "words": [
+          "BELL",
+          "GLOVES",
+          "RING",
+          "ROUND"
+        ]
+      },
+      {
+        "title": "TILT",
+        "words": [
+          "LEAN",
+          "LIST",
+          "PITCH",
+          "TIP"
+        ]
+      },
+      {
+        "title": "FREE___",
+        "words": [
+          "LANCE",
+          "MASON",
+          "STYLE",
+          "WAY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the digital realm, these little treasures help you remember your favorite spots.",
+      "In the ring, these elements define the game and keep the fighters in check.",
+      "A gentle shift can lead to a whole new perspective; balance is key.",
+      "An open invitation to explore various paths, each with its own flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 714,
+    "editor": "Tracy Bennett",
+    "solution": "cycle",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a common action that repeats."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a circular motion."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with a full turn or a loop."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 946,
+    "editor": "Tracy Bennett",
+    "clue": "It's a little unclear",
+    "spangram": "OUTOFFOCUS",
+    "themeWords": [
+      "BEDIMMED",
+      "BLURRY",
+      "CLOUDY",
+      "FADED",
+      "HAZY",
+      "MUTED",
+      "SOFT"
+    ],
+    "startingBoard": [
+      "OUFBLU",
+      "DETAYR",
+      "TMHODR",
+      "FMAFME",
+      "OIZFUD",
+      "SDYOTY",
+      "BECEOD",
+      "SUDCLU"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2688,
+    "sides": [
+      "XSQ",
+      "MAI",
+      "UCT",
+      "EVY"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "MYSTIQUE",
+      "EXCAVATE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20848,
+    "centerLetter": "b",
+    "outerLetters": "aceily",
+    "pangrams": [
+      "celibacy"
+    ],
+    "answers": [
+      "abaci",
+      "abbacy",
+      "abbey",
+      "able",
+      "ably",
+      "alibi",
+      "baba",
+      "babble",
+      "babe",
+      "babel",
+      "baby",
+      "bacilli",
+      "bail",
+      "bale",
+      "ball",
+      "belay",
+      "belie",
+      "bell",
+      "belle",
+      "belly",
+      "bialy",
+      "bible",
+      "biblical",
+      "biblically",
+      "bicycle",
+      "bilabial",
+      "bile",
+      "bill",
+      "billable",
+      "billy",
+      "blab",
+      "blabby",
+      "cabal",
+      "cabala",
+      "cabbie",
+      "cabby",
+      "cable",
+      "callable",
+      "celeb",
+      "eyeball",
+      "label",
+      "labia",
+      "labial",
+      "labile",
+      "liable",
+      "libel",
+      "libelee"
+    ],
+    "pangramHints": [
+      {
+        "word": "celibacy",
+        "hint": "A state of being that involves restraint, often linked to personal choices."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

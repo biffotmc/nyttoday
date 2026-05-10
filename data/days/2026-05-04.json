@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-04",
+  "fetchedAt": "2026-05-10T20:30:24.276Z",
+  "connections": {
+    "puzzleId": 1142,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TENDER-HEARTED PERSON",
+        "words": [
+          "MARSHMALLOW",
+          "SOFTIE",
+          "SWEETHEART",
+          "TEDDY BEAR"
+        ]
+      },
+      {
+        "title": "PELLET-FILLED THINGS",
+        "words": [
+          "BEANIE BABY",
+          "DESICCANT PACKET",
+          "EYE PILLOW",
+          "HACKY SACK"
+        ]
+      },
+      {
+        "title": "THINGS WITH KNOBS",
+        "words": [
+          "CONTROL PANEL",
+          "ETCH A SKETCH",
+          "RADIO",
+          "STOVE"
+        ]
+      },
+      {
+        "title": "STARTING WITH FAMILIAR NAMES FOR KINDS OF DOGS",
+        "words": [
+          "CHOWDER",
+          "DOODLEBUG",
+          "LABUBU",
+          "PITTER-PATTER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Soft and squishy, these companions bring comfort and warmth, often found in cozy corners.",
+      "These little wonders are filled with surprises, often bringing joy in unexpected ways.",
+      "Twist and turn, these devices help you control your world, making life a bit easier.",
+      "Furry friends inspire these playful names, each one a delightful treat for the ears."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2270,
+    "editor": "Tracy Bennett",
+    "solution": "riser",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that rises."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with elevation."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It can describe someone who is optimistic or a type of lift."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 965,
+    "editor": "Tracy Bennett",
+    "clue": "May the forest be with you",
+    "spangram": "BRANCHOUT",
+    "themeWords": [
+      "ASPEN",
+      "BIRCH",
+      "CEDAR",
+      "CYPRESS",
+      "DOGWOOD",
+      "EUCALYPTUS"
+    ],
+    "startingBoard": [
+      "DNTCED",
+      "OPEUOA",
+      "GSAHRY",
+      "WDCSCP",
+      "OONSER",
+      "HATPYL",
+      "ICRUEA",
+      "BRBSUC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2708,
+    "sides": [
+      "FAT",
+      "IUG",
+      "ODE",
+      "LRM"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "GRADUAL",
+      "LEITMOTIF"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12781,
+    "centerLetter": "l",
+    "outerLetters": "fghity",
+    "pangrams": [
+      "flighty"
+    ],
+    "answers": [
+      "fill",
+      "filly",
+      "filth",
+      "filthily",
+      "filthy",
+      "fitly",
+      "flight",
+      "flit",
+      "giggly",
+      "gill",
+      "gilt",
+      "highlight",
+      "highly",
+      "hill",
+      "hilly",
+      "hilt",
+      "illy",
+      "lift",
+      "light",
+      "lightly",
+      "lilt",
+      "lily",
+      "tightly",
+      "till",
+      "tilt",
+      "tilth"
+    ],
+    "pangramHints": [
+      {
+        "word": "flighty",
+        "hint": "A word that captures a whimsical spirit; think of something that flits about."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

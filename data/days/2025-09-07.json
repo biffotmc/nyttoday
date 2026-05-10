@@ -1,0 +1,194 @@
+{
+  "date": "2025-09-07",
+  "fetchedAt": "2026-05-10T20:14:38.325Z",
+  "connections": {
+    "puzzleId": 863,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GYMNASTICS MOVES",
+        "words": [
+          "AERIAL",
+          "ARABESQUE",
+          "ROUNDOFF",
+          "SPLIT"
+        ]
+      },
+      {
+        "title": "DISNEY PRINCESSES",
+        "words": [
+          "ARIEL",
+          "AURORA",
+          "MERIDA",
+          "TIANA"
+        ]
+      },
+      {
+        "title": "FONTS",
+        "words": [
+          "ARIAL",
+          "GEORGIA",
+          "IMPACT",
+          "VERDANA"
+        ]
+      },
+      {
+        "title": "GEOMETRY ADJECTIVES",
+        "words": [
+          "ANGULAR",
+          "AREAL",
+          "LINEAR",
+          "VOLUMETRIC"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These moves will have you flipping and soaring, but watch your landing!",
+      "Royalty in disguise, each one has a tale that sparkles with magic.",
+      "Fonts that make you feel, some bold and others just a little italic.",
+      "Shapes and forms that describe how things bend and stretch in space."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1803,
+    "editor": "Tracy Bennett",
+    "solution": "tenor",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a musical role."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s often associated with harmony."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is linked to a specific type of singer."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 719,
+    "editor": "Tracy Bennett",
+    "clue": "Coming of age",
+    "spangram": "BARMITZVAH",
+    "themeWords": [
+      "LCHAIM",
+      "PARTY",
+      "RABBI",
+      "SYNAGOGUE",
+      "THIRTEEN",
+      "TORAH"
+    ],
+    "startingBoard": [
+      "BARMTH",
+      "TUEINI",
+      "OGOTER",
+      "RAGZET",
+      "ANYVAH",
+      "HRBSTA",
+      "ABIYRP",
+      "LCHAIM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2469,
+    "sides": [
+      "GOT",
+      "NIU",
+      "YBL",
+      "AJH"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JUBILATION",
+      "NAUGHTY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19411,
+    "centerLetter": "d",
+    "outerLetters": "ginopr",
+    "pangrams": [
+      "drooping",
+      "dropping",
+      "prodding"
+    ],
+    "answers": [
+      "digging",
+      "ding",
+      "dinging",
+      "dingo",
+      "dining",
+      "dino",
+      "dipping",
+      "dodging",
+      "dodo",
+      "dogging",
+      "doggo",
+      "doing",
+      "dong",
+      "donning",
+      "donor",
+      "door",
+      "doping",
+      "drip",
+      "dripping",
+      "droid",
+      "droning",
+      "droop",
+      "drop",
+      "gird",
+      "girding",
+      "good",
+      "grid",
+      "gridiron",
+      "grind",
+      "grinding",
+      "indigo",
+      "indoor",
+      "nodding",
+      "odor",
+      "opioid",
+      "pidgin",
+      "pond",
+      "priding",
+      "prod",
+      "ridding",
+      "ridging",
+      "riding",
+      "rigid",
+      "rind",
+      "rondo",
+      "rood"
+    ],
+    "pangramHints": [
+      {
+        "word": "drooping",
+        "hint": "A word that describes a sad plant's posture."
+      },
+      {
+        "word": "dropping",
+        "hint": "To let something fall, often with a thud."
+      },
+      {
+        "word": "prodding",
+        "hint": "A gentle nudge to get someone moving."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

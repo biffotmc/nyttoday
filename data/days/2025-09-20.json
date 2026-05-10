@@ -1,0 +1,206 @@
+{
+  "date": "2025-09-20",
+  "fetchedAt": "2026-05-10T20:15:27.602Z",
+  "connections": {
+    "puzzleId": 865,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CAR BRANDS",
+        "words": [
+          "DODGE",
+          "FORD",
+          "LINCOLN",
+          "RAM"
+        ]
+      },
+      {
+        "title": "BIT OF SPORTS BAR FARE",
+        "words": [
+          "CHIP",
+          "DIP",
+          "FRY",
+          "WING"
+        ]
+      },
+      {
+        "title": "N.H.L. TEAM MEMBER",
+        "words": [
+          "DUCK",
+          "FLYER",
+          "SENATOR",
+          "STAR"
+        ]
+      },
+      {
+        "title": "SKY___",
+        "words": [
+          "DIVE",
+          "LARK",
+          "ROCKET",
+          "SCRAPER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These four names might take you for a ride, but don't forget to check under the hood.",
+      "A little something to munch on while you cheer for your favorite team.",
+      "These players are known for their speed and agility on the ice.",
+      "Look up! These words take you to new heights, from soaring to scraping."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1424,
+    "editor": "Tracy Bennett",
+    "solution": "defer",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about a word that suggests postponing."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to delay or put off."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that starts with 'd' and ends with 'r'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 732,
+    "editor": "Tracy Bennett",
+    "clue": "Dire straits",
+    "spangram": "INAFIX",
+    "themeWords": [
+      "DILEMMA",
+      "MESS",
+      "MUDDLE",
+      "PICKLE",
+      "PREDICAMENT",
+      "QUANDARY"
+    ],
+    "startingBoard": [
+      "PIELDX",
+      "CKUDIP",
+      "LEMFRT",
+      "INAENE",
+      "AUQDIM",
+      "NMEDCA",
+      "DSSILE",
+      "ARYAMM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2482,
+    "sides": [
+      "GSZ",
+      "WNR",
+      "AMT",
+      "IDO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DRAWSTRING",
+      "GIZMO"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21148,
+    "centerLetter": "a",
+    "outerLetters": "delnyz",
+    "pangrams": [
+      "analyzed"
+    ],
+    "answers": [
+      "added",
+      "addend",
+      "addenda",
+      "addle",
+      "addled",
+      "adze",
+      "allay",
+      "allayed",
+      "allele",
+      "alley",
+      "ally",
+      "anal",
+      "anally",
+      "analyze",
+      "annal",
+      "anneal",
+      "annealed",
+      "azalea",
+      "daddy",
+      "dale",
+      "dally",
+      "dandle",
+      "dandled",
+      "dandy",
+      "daze",
+      "dazed",
+      "dazedly",
+      "dazzle",
+      "dazzled",
+      "dead",
+      "deaden",
+      "deadened",
+      "deadeye",
+      "deadly",
+      "deal",
+      "dean",
+      "delay",
+      "delayed",
+      "dyad",
+      "elan",
+      "eland",
+      "ennead",
+      "lade",
+      "laded",
+      "laden",
+      "ladle",
+      "ladled",
+      "lady",
+      "land",
+      "landed",
+      "landlady",
+      "lane",
+      "laze",
+      "lazed",
+      "lazy",
+      "lead",
+      "leaded",
+      "leaden",
+      "leadenly",
+      "lean",
+      "leaned",
+      "leanly",
+      "naan",
+      "nada",
+      "nana",
+      "nanny",
+      "zany",
+      "zeal"
+    ],
+    "pangramHints": [
+      {
+        "word": "analyzed",
+        "hint": "A word that captures the essence of examination, but don't spell it out."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

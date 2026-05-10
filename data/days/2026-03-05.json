@@ -1,0 +1,169 @@
+{
+  "date": "2026-03-05",
+  "fetchedAt": "2026-05-10T20:26:24.506Z",
+  "connections": {
+    "puzzleId": 1078,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BITS OF HARDWARE",
+        "words": [
+          "BOLT",
+          "NUT",
+          "SCREW",
+          "WASHER"
+        ]
+      },
+      {
+        "title": "PLACES WHERE IDEAS ARE DEVELOPED",
+        "words": [
+          "INCUBATOR",
+          "LAB",
+          "SANDBOX",
+          "TEST BED"
+        ]
+      },
+      {
+        "title": "GO BACK AND FORTH",
+        "words": [
+          "ALTERNATE",
+          "SEESAW",
+          "SWITCH",
+          "TOGGLE"
+        ]
+      },
+      {
+        "title": "WHAT \"SUB\" MIGHT REFER TO",
+        "words": [
+          "BELOW",
+          "HERO",
+          "REPLACEMENT",
+          "SUBMARINE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Fasteners unite in a dance of assembly; can you find the missing link?",
+      "Where creativity meets experimentation, ideas hatch and flourish.",
+      "A playful balance between extremes; which way will you sway?",
+      "Beneath the surface lies a world of possibilities; what lies under?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2017,
+    "editor": "Tracy Bennett",
+    "solution": "sheep",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a fluffy farm animal."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with wool."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a common sight in pastoral settings, often found in flocks."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 904,
+    "editor": "Tracy Bennett",
+    "clue": "That's it?",
+    "spangram": "GEETHANKS",
+    "themeWords": [
+      "MEAGER",
+      "NEGLIGIBLE",
+      "PALTRY",
+      "PIDDLING",
+      "PUNY",
+      "SCANT"
+    ],
+    "startingBoard": [
+      "REGSTN",
+      "GYAECA",
+      "ENMYLA",
+      "EUPRTP",
+      "THANKS",
+      "LILEPG",
+      "GGBILN",
+      "NEIDDI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2649,
+    "sides": [
+      "RWB",
+      "ECT",
+      "LOM",
+      "PIA"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CITABLE",
+      "EMPOWER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22155,
+    "centerLetter": "o",
+    "outerLetters": "acjlru",
+    "pangrams": [
+      "jocular"
+    ],
+    "answers": [
+      "arco",
+      "aurora",
+      "auroral",
+      "cacao",
+      "callaloo",
+      "carol",
+      "cloaca",
+      "coal",
+      "coca",
+      "cocoa",
+      "cola",
+      "collar",
+      "color",
+      "cool",
+      "coral",
+      "corolla",
+      "corral",
+      "croc",
+      "curacao",
+      "juror",
+      "local",
+      "loco",
+      "loll",
+      "occur",
+      "ocular",
+      "oracular",
+      "oral",
+      "orca",
+      "roar",
+      "rococo",
+      "roll"
+    ],
+    "pangramHints": [
+      {
+        "word": "jocular",
+        "hint": "A word that brings smiles and laughter; think of humor."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

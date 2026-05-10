@@ -1,0 +1,209 @@
+{
+  "date": "2025-11-15",
+  "fetchedAt": "2026-05-10T20:19:07.772Z",
+  "connections": {
+    "puzzleId": 935,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ENHANCE THE TASTE OF",
+        "words": [
+          "FLAVOR",
+          "SALT",
+          "SEASON",
+          "SPICE"
+        ]
+      },
+      {
+        "title": "PUNCTUATION MARKS",
+        "words": [
+          "COLON",
+          "DASH",
+          "PERIOD",
+          "SLASH"
+        ]
+      },
+      {
+        "title": "KINDS OF ACTORS",
+        "words": [
+          "CHARACTER",
+          "FILM",
+          "METHOD",
+          "STAGE"
+        ]
+      },
+      {
+        "title": "___ ZONE",
+        "words": [
+          "BUFFER",
+          "COMFORT",
+          "TIME",
+          "TWILIGHT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A dash of this and a sprinkle of that can elevate your culinary creations to new heights.",
+      "These marks help to clarify your thoughts, each serving a unique purpose in the written word.",
+      "These performers embody different personas, each bringing a distinct flair to the stage or screen.",
+      "This phrase evokes a sense of safety and serenity, a space where one can truly relax."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 725,
+    "editor": "Tracy Bennett",
+    "solution": "clung",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might do when holding on."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a word that implies a strong grip."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to something that is tightly held or fastened."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 789,
+    "editor": "Tracy Bennett",
+    "clue": "We can see right through them",
+    "spangram": "EYETOEYE",
+    "themeWords": [
+      "BINOCULARS",
+      "GLASSES",
+      "GOGGLES",
+      "LENSES",
+      "SPECTACLES"
+    ],
+    "startingBoard": [
+      "SEELAR",
+      "SGSYUS",
+      "ALECON",
+      "SESTBI",
+      "NLOCLE",
+      "ESGEAS",
+      "EOYTCE",
+      "LGGESP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2537,
+    "sides": [
+      "XED",
+      "ZPA",
+      "ILS",
+      "OYC"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "CALYPSO",
+      "OXIDIZE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 11867,
+    "centerLetter": "m",
+    "outerLetters": "eginot",
+    "pangrams": [
+      "emoting",
+      "mentioning",
+      "mignonette"
+    ],
+    "answers": [
+      "eminent",
+      "emit",
+      "emitting",
+      "emote",
+      "emotion",
+      "genome",
+      "gimme",
+      "gnome",
+      "imminent",
+      "item",
+      "meet",
+      "meeting",
+      "meme",
+      "memento",
+      "meming",
+      "memo",
+      "mentee",
+      "mention",
+      "mete",
+      "meting",
+      "mien",
+      "mime",
+      "mimeo",
+      "miming",
+      "mine",
+      "mini",
+      "minim",
+      "mining",
+      "minion",
+      "mint",
+      "minting",
+      "mite",
+      "mitt",
+      "mitten",
+      "moment",
+      "mono",
+      "monotone",
+      "monte",
+      "mooing",
+      "moon",
+      "mooning",
+      "moot",
+      "mooting",
+      "mote",
+      "motet",
+      "motion",
+      "motioning",
+      "motto",
+      "nominee",
+      "ointment",
+      "omen",
+      "omit",
+      "omitting",
+      "onetime",
+      "teem",
+      "teeming",
+      "tenement",
+      "time",
+      "timing",
+      "tome",
+      "tomtit",
+      "totem"
+    ],
+    "pangramHints": [
+      {
+        "word": "emoting",
+        "hint": "Expressing feelings can be quite the art; let your heart guide your letters."
+      },
+      {
+        "word": "mentioning",
+        "hint": "Bringing something to light requires a careful touch; think of how you share thoughts."
+      },
+      {
+        "word": "mignonette",
+        "hint": "A delicate flavor often found in culinary delights; savor the letters as you would the taste."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

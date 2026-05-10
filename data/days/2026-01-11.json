@@ -1,0 +1,168 @@
+{
+  "date": "2026-01-11",
+  "fetchedAt": "2026-05-10T20:22:50.275Z",
+  "connections": {
+    "puzzleId": 1001,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GROUP",
+        "words": [
+          "BAND",
+          "CREW",
+          "PACK",
+          "TEAM"
+        ]
+      },
+      {
+        "title": "PLUNGE",
+        "words": [
+          "CRASH",
+          "CRATER",
+          "DROP",
+          "TANK"
+        ]
+      },
+      {
+        "title": "PARTS OF A SINK",
+        "words": [
+          "BASIN",
+          "DRAIN",
+          "FAUCET",
+          "STOPPER"
+        ]
+      },
+      {
+        "title": "EQUESTRIAN GEAR",
+        "words": [
+          "BIT",
+          "CROP",
+          "HALTER",
+          "SADDLE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you unite, you form a formidable force; think of the bonds that tie these together.",
+      "Dive into the depths, but beware of the sudden descent; not all falls are gentle.",
+      "Water flows through these essential elements; each plays a role in the cycle of use.",
+      "In the world of riding, these tools are vital; they guide and control the noble steeds."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1377,
+    "editor": "Tracy Bennett",
+    "solution": "quark",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A fundamental particle, often elusive."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This term is used in physics, often associated with the smallest building blocks."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something that might be found in a collider, not a common household item."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 846,
+    "editor": "Tracy Bennett",
+    "clue": "Yay!!!",
+    "spangram": "THATSGREAT",
+    "themeWords": [
+      "AWESOME",
+      "BOOYAH",
+      "HOORAY",
+      "HUZZAH",
+      "WHOOPEE",
+      "YIPPEE"
+    ],
+    "startingBoard": [
+      "OHTHEW",
+      "OAYAEH",
+      "RHUTPO",
+      "ZZGSOH",
+      "AHRBYA",
+      "EYEOOS",
+      "EIAEOE",
+      "PPTMWA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2589,
+    "sides": [
+      "UWC",
+      "RIB",
+      "MTQ",
+      "EKA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BACKWATER",
+      "REQUIEM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22250,
+    "centerLetter": "p",
+    "outerLetters": "acimno",
+    "pangrams": [
+      "companion"
+    ],
+    "answers": [
+      "apian",
+      "camp",
+      "campo",
+      "canopic",
+      "capo",
+      "capon",
+      "cioppino",
+      "comp",
+      "coop",
+      "minicamp",
+      "nincompoop",
+      "opinion",
+      "pain",
+      "pampa",
+      "panama",
+      "panic",
+      "panini",
+      "papa",
+      "piano",
+      "pica",
+      "picnic",
+      "pimp",
+      "pinion",
+      "pippin",
+      "poinciana",
+      "pomp",
+      "pompano",
+      "pompom",
+      "poop",
+      "poppa"
+    ],
+    "pangramHints": [
+      {
+        "word": "companion",
+        "hint": "A friend who is always by your side, sharing adventures and stories."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

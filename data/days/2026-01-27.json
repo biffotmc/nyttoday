@@ -1,0 +1,203 @@
+{
+  "date": "2026-01-27",
+  "fetchedAt": "2026-05-10T20:23:50.369Z",
+  "connections": {
+    "puzzleId": 1019,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "QUITE THE LAUGH",
+        "words": [
+          "CARD",
+          "CHARACTER",
+          "CUTUP",
+          "JOKER"
+        ]
+      },
+      {
+        "title": "NHL TEAM MEMBER",
+        "words": [
+          "DEVIL",
+          "FLYER",
+          "PENGUIN",
+          "RANGER"
+        ]
+      },
+      {
+        "title": "FIRST WORDS OF ROBIN HOOD CHARACTER NAMES",
+        "words": [
+          "FRIAR",
+          "MAID",
+          "ROBIN",
+          "SHERIFF"
+        ]
+      },
+      {
+        "title": "STARTING WITH BASEBALL GEAR",
+        "words": [
+          "BALLROOM",
+          "BASEMENT",
+          "BATMOBILE",
+          "CAPSTONE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A comedic ensemble where the punchline is just a heartbeat away.",
+      "These athletes glide on ice, but their names might make you think of the wild.",
+      "A band of merry misfits, each with a title that tells a tale.",
+      "When the game is on, the gear takes center stage, but what else could it be?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1710,
+    "editor": "Tracy Bennett",
+    "solution": "dusky",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of twilight and shadows."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word hints at a time of day, often associated with mystery."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It describes a dim light, often seen just before nightfall."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 863,
+    "editor": "Tracy Bennett",
+    "clue": "Canine classics",
+    "spangram": "HEREBOY",
+    "themeWords": [
+      "BANDIT",
+      "BLUE",
+      "BUDDY",
+      "CHAMP",
+      "ROVER",
+      "SCOUT",
+      "SCRUFFY",
+      "SPOT"
+    ],
+    "startingBoard": [
+      "EARTUO",
+      "UHMEVC",
+      "LCPBOS",
+      "BRESOR",
+      "HEYCUY",
+      "BAFRDB",
+      "DNFUTD",
+      "ITSPOY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2611,
+    "sides": [
+      "AOT",
+      "LMB",
+      "GIN",
+      "YRE"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BEAGLE",
+      "ENORMITY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27145,
+    "centerLetter": "i",
+    "outerLetters": "aghlnu",
+    "pangrams": [
+      "hauling",
+      "laughing"
+    ],
+    "answers": [
+      "again",
+      "aging",
+      "ailing",
+      "align",
+      "aligning",
+      "angina",
+      "angling",
+      "annuli",
+      "annulling",
+      "gagging",
+      "gain",
+      "gaining",
+      "galling",
+      "ganging",
+      "ganglia",
+      "gangling",
+      "gauging",
+      "gigging",
+      "giggling",
+      "gill",
+      "gilling",
+      "ginning",
+      "glia",
+      "glugging",
+      "gluing",
+      "gulling",
+      "gunning",
+      "haggling",
+      "hail",
+      "hailing",
+      "hanging",
+      "hangnail",
+      "high",
+      "hill",
+      "hilling",
+      "hinging",
+      "hugging",
+      "hulling",
+      "iguana",
+      "inhaling",
+      "inning",
+      "lagging",
+      "lain",
+      "lanai",
+      "linguini",
+      "lining",
+      "lugging",
+      "luging",
+      "lulling",
+      "lunging",
+      "nagging",
+      "nail",
+      "nailing",
+      "niggling",
+      "nigh",
+      "unhanging",
+      "unhinging",
+      "unilingual"
+    ],
+    "pangramHints": [
+      {
+        "word": "hauling",
+        "hint": "A word that suggests movement, but don't get carried away!"
+      },
+      {
+        "word": "laughing",
+        "hint": "This one brings joy, but don't let the giggles give it away!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

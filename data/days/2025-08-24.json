@@ -1,0 +1,206 @@
+{
+  "date": "2025-08-24",
+  "fetchedAt": "2026-05-10T20:13:44.812Z",
+  "connections": {
+    "puzzleId": 844,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "WINE VESSELS",
+        "words": [
+          "BOTTLE",
+          "CARAFE",
+          "DECANTER",
+          "GLASS"
+        ]
+      },
+      {
+        "title": "RIPPED",
+        "words": [
+          "CLEFT",
+          "RENT",
+          "SPLIT",
+          "TORN"
+        ]
+      },
+      {
+        "title": "KINDS OF SNAKES",
+        "words": [
+          "CORAL",
+          "GARTER",
+          "KING",
+          "RATTLE"
+        ]
+      },
+      {
+        "title": "___ CALL",
+        "words": [
+          "BOOTY",
+          "CLOSE",
+          "COLD",
+          "CURTAIN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These vessels hold something that can make a meal more enjoyable, but be careful not to spill it.",
+      "When something is torn, it might not be the end, but it surely leaves a mark.",
+      "Some of these slither silently, while others are known for their vibrant colors.",
+      "A phrase often used to describe a situation that could go either way, depending on the context."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 980,
+    "editor": "Tracy Bennett",
+    "solution": "spore",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something tiny that can spread."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This can be found in nature and is essential for some plants."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with fungi and can be a part of life cycles."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 708,
+    "editor": "Tracy Bennett",
+    "clue": "Plug your ears",
+    "spangram": "HUBBUB",
+    "themeWords": [
+      "BLASTING",
+      "BOISTEROUS",
+      "BOOMING",
+      "LOUD",
+      "NOISY",
+      "STRIDENT"
+    ],
+    "startingBoard": [
+      "LADUOB",
+      "BSOSIR",
+      "TGLTEO",
+      "INBBSU",
+      "BUIOUH",
+      "YSEDNS",
+      "IMTNIT",
+      "NGOOBR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2455,
+    "sides": [
+      "DUY",
+      "TQO",
+      "RWC",
+      "ABI"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUADRATIC",
+      "COWBOY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27563,
+    "centerLetter": "b",
+    "outerLetters": "ailrty",
+    "pangrams": [
+      "arability",
+      "arbitrarily",
+      "irritability",
+      "irritably",
+      "ratability",
+      "tribally"
+    ],
+    "answers": [
+      "ability",
+      "ably",
+      "airball",
+      "alibi",
+      "arbitrary",
+      "baba",
+      "baby",
+      "bail",
+      "bait",
+      "ball",
+      "barb",
+      "barbarity",
+      "battily",
+      "batty",
+      "bialy",
+      "bilabial",
+      "biliary",
+      "bill",
+      "billy",
+      "birria",
+      "blab",
+      "blabby",
+      "blat",
+      "brat",
+      "bratty",
+      "bray",
+      "briar",
+      "briary",
+      "labia",
+      "labial",
+      "lability",
+      "liability",
+      "library",
+      "rabbi",
+      "rabbit",
+      "ribbit",
+      "ribby",
+      "tabby",
+      "tabla",
+      "tibia",
+      "tibial",
+      "tribal",
+      "trilby"
+    ],
+    "pangramHints": [
+      {
+        "word": "arability",
+        "hint": "A quality that might be tested in various situations."
+      },
+      {
+        "word": "arbitrarily",
+        "hint": "Decisions made without a specific reason can lead to interesting outcomes."
+      },
+      {
+        "word": "irritability",
+        "hint": "A state of being that can arise when one is overwhelmed."
+      },
+      {
+        "word": "irritably",
+        "hint": "An adverb describing a reaction that might not be pleasant."
+      },
+      {
+        "word": "ratability",
+        "hint": "A measure of how something can be evaluated or assessed."
+      },
+      {
+        "word": "tribally",
+        "hint": "Relating to a group that shares common interests or heritage."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

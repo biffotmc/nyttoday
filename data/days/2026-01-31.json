@@ -1,0 +1,174 @@
+{
+  "date": "2026-01-31",
+  "fetchedAt": "2026-05-10T20:24:05.095Z",
+  "connections": {
+    "puzzleId": 1023,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KINDS OF PARTIES",
+        "words": [
+          "BALL",
+          "MIXER",
+          "RECEPTION",
+          "SHOWER"
+        ]
+      },
+      {
+        "title": "WAYS TO APPLY PAINT",
+        "words": [
+          "BRUSH",
+          "PALETTE KNIFE",
+          "ROLLER",
+          "SPRAY CAN"
+        ]
+      },
+      {
+        "title": "Y-SHAPED THINGS",
+        "words": [
+          "SLINGSHOT",
+          "STETHOSCOPE",
+          "TUNING FORK",
+          "WISHBONE"
+        ]
+      },
+      {
+        "title": "WHAT \"SHIFT\" MIGHT REFER TO",
+        "words": [
+          "COMPUTER KEY",
+          "DRESS",
+          "FLUCTUATION",
+          "WORK PERIOD"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Gather your friends and let the good times roll, but don't forget to RSVP to the fun!",
+      "From fine strokes to bold splashes, there are many ways to color your world.",
+      "Look for the shape that can send things flying or help you listen closely.",
+      "Whether it's a time to work or a time to play, there's always a shift in the air."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2073,
+    "editor": "Tracy Bennett",
+    "solution": "allot",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's about sharing or distributing."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of how you might divide something."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word relates to giving parts of a whole."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 867,
+    "editor": "Tracy Bennett",
+    "clue": "It's part of the game",
+    "spangram": "HAVEABALL",
+    "themeWords": [
+      "BASE",
+      "BASKET",
+      "FOOT",
+      "PADDLE",
+      "PICKLE",
+      "RACQUET",
+      "VOLLEY"
+    ],
+    "startingBoard": [
+      "SETPLE",
+      "AOOFIK",
+      "BVEABC",
+      "APDDRA",
+      "HAELAL",
+      "YLLCLE",
+      "EVOQUT",
+      "TEKSAB"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2615,
+    "sides": [
+      "EDO",
+      "HTR",
+      "FKB",
+      "CIA"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CHECKERBOARD",
+      "DRIFT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17185,
+    "centerLetter": "r",
+    "outerLetters": "afilow",
+    "pangrams": [
+      "airflow"
+    ],
+    "answers": [
+      "afar",
+      "affair",
+      "afro",
+      "airfoil",
+      "aria",
+      "aril",
+      "arrow",
+      "fair",
+      "farro",
+      "farrow",
+      "flair",
+      "floor",
+      "flora",
+      "floral",
+      "foofaraw",
+      "fora",
+      "frail",
+      "friar",
+      "frill",
+      "lair",
+      "liar",
+      "lira",
+      "oral",
+      "raffia",
+      "rail",
+      "rial",
+      "riff",
+      "riffraff",
+      "rill",
+      "roar",
+      "roil",
+      "roll",
+      "roof",
+      "wallaroo",
+      "warrior"
+    ],
+    "pangramHints": [
+      {
+        "word": "airflow",
+        "hint": "A gentle breeze can carry whispers; think of movement through the air."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

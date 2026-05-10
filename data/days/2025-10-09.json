@@ -1,0 +1,165 @@
+{
+  "date": "2025-10-09",
+  "fetchedAt": "2026-05-10T20:16:39.397Z",
+  "connections": {
+    "puzzleId": 889,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FANTASY",
+        "words": [
+          "FANCY",
+          "FICTION",
+          "FIGMENT",
+          "INVENTION"
+        ]
+      },
+      {
+        "title": "KINDS OF ROCKS",
+        "words": [
+          "FLINT",
+          "LIMESTONE",
+          "MARBLE",
+          "SLATE"
+        ]
+      },
+      {
+        "title": "NEWS ARTICLE FEATURES",
+        "words": [
+          "CAPTION",
+          "DATELINE",
+          "LEDE",
+          "PHOTO"
+        ]
+      },
+      {
+        "title": "TITLE FIGURES IN CLASSIC VIDEO GAMES",
+        "words": [
+          "GORILLA",
+          "HEDGEHOG",
+          "PLUMBER",
+          "PRINCESS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a realm where imagination reigns, these creations dance between reality and dreams.",
+      "From the depths of the Earth, these solid companions tell tales of time and transformation.",
+      "Every story has its essentials; these elements frame the narrative and catch the eye.",
+      "In pixelated worlds, these characters embark on quests, each with their own unique charm."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 909,
+    "editor": "Tracy Bennett",
+    "solution": "hardy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word suggests resilience."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that endures through challenges."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with strength and durability."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 753,
+    "editor": "Tracy Bennett",
+    "clue": "Just in case",
+    "spangram": "PACKITUP",
+    "themeWords": [
+      "CHARGER",
+      "CLOTHES",
+      "HEADPHONES",
+      "LAPTOP",
+      "TOILETRIES"
+    ],
+    "startingBoard": [
+      "OTPLIT",
+      "LHUETO",
+      "CEATER",
+      "SPLISI",
+      "TPKADP",
+      "OCCEHH",
+      "HARAON",
+      "REGPSE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2504,
+    "sides": [
+      "YEC",
+      "RKI",
+      "OZL",
+      "SHN"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "SYNCHRONIZE",
+      "ELK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21808,
+    "centerLetter": "n",
+    "outerLetters": "ilopru",
+    "pangrams": [
+      "purloin"
+    ],
+    "answers": [
+      "inurn",
+      "iron",
+      "lion",
+      "loin",
+      "loon",
+      "noir",
+      "nonillion",
+      "nonunion",
+      "noon",
+      "nori",
+      "noun",
+      "null",
+      "onion",
+      "opinion",
+      "pillion",
+      "pinion",
+      "pinup",
+      "pippin",
+      "poplin",
+      "porn",
+      "porno",
+      "prion",
+      "pronoun",
+      "ruin",
+      "union",
+      "unpin",
+      "unroll",
+      "upon"
+    ],
+    "pangramHints": [
+      {
+        "word": "purloin",
+        "hint": "A sneaky action often done in the shadows."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

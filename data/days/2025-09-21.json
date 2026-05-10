@@ -1,0 +1,182 @@
+{
+  "date": "2025-09-21",
+  "fetchedAt": "2026-05-10T20:15:31.238Z",
+  "connections": {
+    "puzzleId": 872,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TOUCHSCREEN GESTURES",
+        "words": [
+          "PINCH",
+          "SCROLL",
+          "SWIPE",
+          "TAP"
+        ]
+      },
+      {
+        "title": "RELAX",
+        "words": [
+          "CHILL",
+          "LOAF",
+          "LOUNGE",
+          "VEG"
+        ]
+      },
+      {
+        "title": "RESTAURANT SEATING OPTIONS",
+        "words": [
+          "BAR",
+          "BOOTH",
+          "COUNTER",
+          "TABLE"
+        ]
+      },
+      {
+        "title": "VEGETABLES WITH FIRST LETTER REMOVED",
+        "words": [
+          "ALE",
+          "EEK",
+          "HIVE",
+          "QUASH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When your fingers dance on glass, magic happens; a simple touch can reveal worlds.",
+      "Embrace the stillness, let time drift by; sometimes, doing nothing is the best way to unwind.",
+      "Dining choices can be a game of comfort; where you sit can change the flavor of your experience.",
+      "Take a letter off and see what remains; sometimes a small change makes a big difference in taste."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1911,
+    "editor": "Tracy Bennett",
+    "solution": "coven",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A gathering of mystical beings."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a secret society with a shared purpose."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word conjures images of rituals and spells, often associated with the supernatural."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 733,
+    "editor": "Tracy Bennett",
+    "clue": "Stand by me",
+    "spangram": "SOLIDARITY",
+    "themeWords": [
+      "BOLSTER",
+      "COMFORT",
+      "FORTIFY",
+      "STRENGTHEN",
+      "SUPPORT"
+    ],
+    "startingBoard": [
+      "IFYTOP",
+      "TOFRPU",
+      "RLIRIS",
+      "SODATY",
+      "OBOFNE",
+      "LTRMTH",
+      "SROSGN",
+      "TECTRE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2483,
+    "sides": [
+      "MER",
+      "NUT",
+      "OQI",
+      "DAX"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUOTED",
+      "DOMINATRIX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17303,
+    "centerLetter": "f",
+    "outerLetters": "acinrt",
+    "pangrams": [
+      "antiaircraft",
+      "frantic",
+      "infarct",
+      "infract"
+    ],
+    "answers": [
+      "afar",
+      "affair",
+      "affiant",
+      "aircraft",
+      "antifa",
+      "artifact",
+      "caftan",
+      "craft",
+      "fact",
+      "faint",
+      "fair",
+      "fanatic",
+      "fanfic",
+      "farina",
+      "fart",
+      "fiat",
+      "franc",
+      "frat",
+      "friar",
+      "frittata",
+      "infant",
+      "naif",
+      "raffia",
+      "raft",
+      "riff",
+      "riffraff",
+      "rift",
+      "tariff",
+      "tiff",
+      "traffic"
+    ],
+    "pangramHints": [
+      {
+        "word": "antiaircraft",
+        "hint": "A word that stands strong against the skies, filled with defense."
+      },
+      {
+        "word": "frantic",
+        "hint": "A whirlwind of activity, where calm is nowhere to be found."
+      },
+      {
+        "word": "infarct",
+        "hint": "A medical term that hints at a blockage, often in the heart."
+      },
+      {
+        "word": "infract",
+        "hint": "To break a rule or law, often leading to consequences."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

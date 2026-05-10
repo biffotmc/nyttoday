@@ -1,0 +1,165 @@
+{
+  "date": "2025-12-31",
+  "fetchedAt": "2026-05-10T20:22:06.555Z",
+  "connections": {
+    "puzzleId": 991,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "HAPPY NEW YEAR!",
+        "words": [
+          "BALL DROP",
+          "CHAMPAGNE FLUTE",
+          "FIREWORKS",
+          "NOISEMAKER"
+        ]
+      },
+      {
+        "title": "PLACES WHERE THINGS DISAPPEAR",
+        "words": [
+          "BERMUDA TRIANGLE",
+          "BLACK HOLE",
+          "COUCH CUSHIONS",
+          "DRYER"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH PHILADELPHIA",
+        "words": [
+          "BROTHERLY LOVE",
+          "CHEESESTEAK",
+          "LIBERTY BELL",
+          "ROCKY"
+        ]
+      },
+      {
+        "title": "STARTING WITH BODIES OF WATER",
+        "words": [
+          "BAY LEAF",
+          "CHANNEL SURF",
+          "SEA BASS",
+          "SOUND BARRIER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "As the clock strikes, the sky ignites in color and cheer, while bubbly delights fill the air.",
+      "In the depths of the ocean or the comfort of your home, some things just seem to vanish without a trace.",
+      "A city of brotherly affection, where savory delights and iconic symbols reign supreme.",
+      "From calm bays to roaring seas, these watery wonders can inspire both culinary and scientific feats."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 647,
+    "editor": "Tracy Bennett",
+    "solution": "siren",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A call that echoes through the night."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with alarms or warnings."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a loud, attention-grabbing sound, often used in emergencies."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 836,
+    "editor": "Tracy Bennett",
+    "clue": "One good turn deserves another",
+    "spangram": "ROUNDANDROUND",
+    "themeWords": [
+      "CIRCLE",
+      "ORBIT",
+      "PIROUETTE",
+      "ROTATE",
+      "SPIN",
+      "WHIRL"
+    ],
+    "startingBoard": [
+      "DANDRO",
+      "NCIRCU",
+      "UORLDN",
+      "WLETOR",
+      "HIRIIB",
+      "ATNPSP",
+      "TOUORI",
+      "ERETTE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2575,
+    "sides": [
+      "RDP",
+      "TEG",
+      "SKY",
+      "OLA"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PARTYGOERS",
+      "SPARKLED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22968,
+    "centerLetter": "t",
+    "outerLetters": "acfmou",
+    "pangrams": [
+      "factotum"
+    ],
+    "answers": [
+      "afoot",
+      "atom",
+      "auto",
+      "automat",
+      "automata",
+      "coat",
+      "coot",
+      "cutoff",
+      "cutout",
+      "fact",
+      "foot",
+      "moat",
+      "moot",
+      "motto",
+      "mutt",
+      "taco",
+      "tact",
+      "tattoo",
+      "taut",
+      "toccata",
+      "tofu",
+      "tomato",
+      "tomcat",
+      "toot",
+      "tout",
+      "tuft",
+      "tutu"
+    ],
+    "pangramHints": [
+      {
+        "word": "factotum",
+        "hint": "A versatile helper, this word covers a lot of ground without revealing its essence."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "date": "2026-02-02",
+  "fetchedAt": "2026-05-10T20:24:12.130Z",
+  "connections": {
+    "puzzleId": 1022,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DURATION",
+        "words": [
+          "INTERVAL",
+          "PERIOD",
+          "SPAN",
+          "STRETCH"
+        ]
+      },
+      {
+        "title": "CREDENTIALS FOR ENTRY",
+        "words": [
+          "LANYARD",
+          "PASS",
+          "STAMP",
+          "WRISTBAND"
+        ]
+      },
+      {
+        "title": "MODERN CRIME SERIES PROTAGONISTS",
+        "words": [
+          "BOSCH",
+          "CROSS",
+          "REACHER",
+          "RYAN"
+        ]
+      },
+      {
+        "title": "TREES PLUS A LETTER",
+        "words": [
+          "FAIR",
+          "MARPLE",
+          "POPULAR",
+          "PSALM"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Time is a stretchy concept, but these words can help you measure it.",
+      "To gain access, you might need to wear something or show a mark.",
+      "These characters navigate the murky waters of crime with skill and wit.",
+      "Think of trees, but with a twist—add a little something to their names."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2398,
+    "editor": "Tracy Bennett",
+    "solution": "cigar",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might enjoy after a meal."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This item can be rolled and smoked."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with relaxation and leisure."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 871,
+    "editor": "Tracy Bennett",
+    "clue": "Formidable flock",
+    "spangram": "BIGBIRDS",
+    "themeWords": [
+      "CASSOWARY",
+      "CONDOR",
+      "OSTRICH",
+      "PELICAN",
+      "PENGUIN",
+      "RHEA"
+    ],
+    "startingBoard": [
+      "INRICH",
+      "UOSTAN",
+      "GNBPEC",
+      "PEGILI",
+      "BIARDS",
+      "CWRANO",
+      "AOYEDC",
+      "SSRHOR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2617,
+    "sides": [
+      "YIC",
+      "RFN",
+      "HAO",
+      "DTB"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FAITH",
+      "HYDROCARBON"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27709,
+    "centerLetter": "p",
+    "outerLetters": "yaehin",
+    "pangrams": [
+      "epiphany"
+    ],
+    "answers": [
+      "apian",
+      "apnea",
+      "epee",
+      "happen",
+      "happy",
+      "heap",
+      "hippie",
+      "hippy",
+      "hype",
+      "hyphen",
+      "nape",
+      "neap",
+      "ninepin",
+      "nippy",
+      "paean",
+      "pain",
+      "pane",
+      "panini",
+      "papa",
+      "papaya",
+      "pappy",
+      "payee",
+      "peahen",
+      "peen",
+      "peep",
+      "penne",
+      "penny",
+      "peppy",
+      "pine",
+      "piney",
+      "pinny",
+      "pipe",
+      "pippin",
+      "yappy",
+      "yipe",
+      "yippee",
+      "yippie"
+    ],
+    "pangramHints": [
+      {
+        "word": "epiphany",
+        "hint": "A sudden realization that can change your perspective."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

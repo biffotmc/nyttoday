@@ -1,0 +1,205 @@
+{
+  "date": "2026-04-05",
+  "fetchedAt": "2026-05-10T20:28:30.157Z",
+  "connections": {
+    "puzzleId": 1099,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ATOMIC STRUCTURE TERMS",
+        "words": [
+          "ELECTRON",
+          "NUCLEUS",
+          "ORBIT",
+          "SHELL"
+        ]
+      },
+      {
+        "title": "PARTS OF A SHERLOCK HOLMES COSTUME",
+        "words": [
+          "DEERSTALKER",
+          "MAGNIFYING GLASS",
+          "PIPE",
+          "VIOLIN"
+        ]
+      },
+      {
+        "title": "THINGS TO FLIP",
+        "words": [
+          "COIN",
+          "LIGHT SWITCH",
+          "PANCAKE",
+          "THE BIRD"
+        ]
+      },
+      {
+        "title": "STARTING WITH SYNONYMS FOR \"SLUSH\"",
+        "words": [
+          "GOOGOL",
+          "MUSHROOM",
+          "PASTEURIZE",
+          "PULPIT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of tiny particles, these terms dance around the core of matter.",
+      "A detective's ensemble is incomplete without these iconic accessories.",
+      "Some things are meant to be turned over, while others just need a gentle nudge.",
+      "When it comes to synonyms for a slushy mix, think of numbers and fungi."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1326,
+    "editor": "Tracy Bennett",
+    "solution": "envoy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A messenger of sorts."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word conveys information."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often associated with diplomacy or communication, but not a letter."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 936,
+    "editor": "Tracy Bennett",
+    "clue": "Pouch perfect",
+    "spangram": "MARSUPIALS",
+    "themeWords": [
+      "BILBY",
+      "KANGAROO",
+      "KOALA",
+      "OPOSSUM",
+      "WALLABY",
+      "WOMBAT"
+    ],
+    "startingBoard": [
+      "BATLAB",
+      "MKOAIL",
+      "OSUPIB",
+      "WRORAY",
+      "MAOALS",
+      "SSAGWA",
+      "OUKNLL",
+      "POMYBA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2679,
+    "sides": [
+      "RLC",
+      "MYP",
+      "HXO",
+      "AED"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "DRACHMA",
+      "APOPLEXY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23613,
+    "centerLetter": "a",
+    "outerLetters": "cfilty",
+    "pangrams": [
+      "facility"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "acyclic",
+      "afflict",
+      "alfalfa",
+      "alit",
+      "allay",
+      "ally",
+      "atilt",
+      "attic",
+      "cacti",
+      "calcify",
+      "calf",
+      "call",
+      "calla",
+      "catalytic",
+      "catalytically",
+      "catcall",
+      "cattail",
+      "cattily",
+      "catty",
+      "cilia",
+      "clay",
+      "cyclical",
+      "cyclically",
+      "facial",
+      "facially",
+      "fact",
+      "facticity",
+      "fail",
+      "fall",
+      "fallacy",
+      "fatal",
+      "fatality",
+      "fatally",
+      "fatly",
+      "fatty",
+      "fiat",
+      "filial",
+      "filially",
+      "flail",
+      "flat",
+      "flatly",
+      "flay",
+      "iliac",
+      "italic",
+      "lactic",
+      "lacy",
+      "laic",
+      "laical",
+      "laity",
+      "lilac",
+      "tacit",
+      "tacitly",
+      "tact",
+      "tactic",
+      "tactical",
+      "tactically",
+      "tactility",
+      "taffy",
+      "tail",
+      "talc",
+      "tali",
+      "tall",
+      "tallit",
+      "tally",
+      "tatty"
+    ],
+    "pangramHints": [
+      {
+        "word": "facility",
+        "hint": "A place designed for a specific function; think of convenience."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "date": "2026-04-04",
+  "fetchedAt": "2026-05-10T20:28:25.240Z",
+  "connections": {
+    "puzzleId": 1109,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "\"LET SLEEPING DOGS LIE\"",
+        "words": [
+          "DOGS",
+          "LET",
+          "LIE",
+          "SLEEPING"
+        ]
+      },
+      {
+        "title": "OBSCURE",
+        "words": [
+          "COVER",
+          "MASK",
+          "SCREEN",
+          "SHIELD"
+        ]
+      },
+      {
+        "title": "COASTAL LANDFORMS",
+        "words": [
+          "BLUFF",
+          "CAPE",
+          "POINT",
+          "SPIT"
+        ]
+      },
+      {
+        "title": "___ CAMP",
+        "words": [
+          "BAND",
+          "BASE",
+          "BOOT",
+          "SUMMER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Sometimes it's best to let the furry ones doze in peace; they might just dream of mischief.",
+      "When you want to hide something, think of layers; the more, the merrier.",
+      "Nature's sculptors create stunning views where land meets water; find the edges.",
+      "Summer fun often starts with a gathering, but what do you call the place where it all happens?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 3978,
+    "editor": "Tracy Bennett",
+    "solution": "sandy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a soft, grainy substance often found at the beach."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also describe something that is not solid."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that might remind you of a warm, sunny day by the shore."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 935,
+    "editor": "Tracy Bennett",
+    "clue": "Early risers",
+    "spangram": "SPRINGBLOSSOM",
+    "themeWords": [
+      "CROCUS",
+      "DAFFODIL",
+      "HYACINTH",
+      "SNOWDROP",
+      "TULIP"
+    ],
+    "startingBoard": [
+      "NISSOL",
+      "TCODMI",
+      "HASLAD",
+      "HYNBFO",
+      "POINGF",
+      "ITWRUS",
+      "LUDPCO",
+      "PORSCR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2678,
+    "sides": [
+      "XIR",
+      "CFT",
+      "ENB",
+      "AVO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FIVE",
+      "EXACERBATION"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25185,
+    "centerLetter": "g",
+    "outerLetters": "ablruy",
+    "pangrams": [
+      "arguably",
+      "burglary"
+    ],
+    "answers": [
+      "agar",
+      "alga",
+      "algal",
+      "arugula",
+      "augur",
+      "augury",
+      "baggy",
+      "brag",
+      "braggy",
+      "buggy",
+      "bulgur",
+      "bulgy",
+      "burg",
+      "burglar",
+      "gabby",
+      "gaga",
+      "gala",
+      "gall",
+      "garb",
+      "gayly",
+      "glug",
+      "grab",
+      "grabby",
+      "gray",
+      "grub",
+      "grubby",
+      "guar",
+      "gulag",
+      "gull",
+      "gully",
+      "guru",
+      "laggy",
+      "lallygag",
+      "raga",
+      "ragbag",
+      "ragu",
+      "rugby",
+      "ugly"
+    ],
+    "pangramHints": [
+      {
+        "word": "arguably",
+        "hint": "A word that suggests a point of view, but don't take it too seriously."
+      },
+      {
+        "word": "burglary",
+        "hint": "A term that describes a sneaky crime, but don't let it steal your focus!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

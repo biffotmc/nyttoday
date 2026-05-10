@@ -1,0 +1,174 @@
+{
+  "date": "2025-10-20",
+  "fetchedAt": "2026-05-10T20:17:17.956Z",
+  "connections": {
+    "puzzleId": 909,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "AFFLICTION",
+        "words": [
+          "BUGBEAR",
+          "COMPLEX",
+          "DEMON",
+          "HANG-UP"
+        ]
+      },
+      {
+        "title": "REPRESENTED BY CONSTELLATIONS",
+        "words": [
+          "BIG BEAR",
+          "CENTAUR",
+          "HUNTER",
+          "LYRE"
+        ]
+      },
+      {
+        "title": "PERIODIC TABLE SYMBOLS",
+        "words": [
+          "AS",
+          "BE",
+          "I",
+          "K"
+        ]
+      },
+      {
+        "title": "___CORN",
+        "words": [
+          "A",
+          "CAPRI",
+          "POP",
+          "UNI"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These pesky nuisances can haunt your thoughts and dreams, often lurking in the shadows of your mind.",
+      "Look up at the night sky and you might see these figures, each telling a story of adventure and myth.",
+      "These little symbols pack a punch, representing elements that make up the very fabric of our world.",
+      "Fill in the blank with something that can be sweet or salty, but always brings a smile."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1862,
+    "editor": "Tracy Bennett",
+    "solution": "limbo",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a state of uncertainty or waiting."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a place between two extremes."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with a feeling of being stuck or in limbo."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 764,
+    "editor": "Tracy Bennett",
+    "clue": "“It's in the mail”",
+    "spangram": "CHECKLIST",
+    "themeWords": [
+      "ADDRESS",
+      "AMOUNT",
+      "MEMO",
+      "NUMBER",
+      "ROUTING",
+      "SIGNATURE"
+    ],
+    "startingBoard": [
+      "RESADD",
+      "BMSERU",
+      "UNAMON",
+      "CHECTL",
+      "IGTUKI",
+      "SNARES",
+      "ROUMOT",
+      "GNITEM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2516,
+    "sides": [
+      "NDE",
+      "IOW",
+      "GCL",
+      "KRU"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "WRINKLING",
+      "GEODUCK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25790,
+    "centerLetter": "h",
+    "outerLetters": "deginu",
+    "pangrams": [
+      "unheeding",
+      "unhinged"
+    ],
+    "answers": [
+      "ghee",
+      "hedge",
+      "hedged",
+      "hedging",
+      "heed",
+      "heeded",
+      "heeding",
+      "heinie",
+      "henge",
+      "hidden",
+      "hide",
+      "hiding",
+      "high",
+      "hind",
+      "hinge",
+      "hinged",
+      "hinging",
+      "hued",
+      "huge",
+      "hugged",
+      "hugging",
+      "hung",
+      "neigh",
+      "neighed",
+      "neighing",
+      "nigh",
+      "unheeded",
+      "unhidden",
+      "unhinge",
+      "unhinging",
+      "unhung"
+    ],
+    "pangramHints": [
+      {
+        "word": "unheeding",
+        "hint": "A state of not paying attention, often leading to missed opportunities."
+      },
+      {
+        "word": "unhinged",
+        "hint": "A term that describes a state of being out of control or irrational."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "date": "2026-01-28",
+  "fetchedAt": "2026-05-10T20:23:53.310Z",
+  "connections": {
+    "puzzleId": 1026,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "IMITATION",
+        "words": [
+          "DUMMY",
+          "MOCK",
+          "PRETEND",
+          "SHAM"
+        ]
+      },
+      {
+        "title": "CLEANING SUPPLIES",
+        "words": [
+          "BUCKET",
+          "GLOVES",
+          "RAG",
+          "SOAP"
+        ]
+      },
+      {
+        "title": "COMPONENTS OF A RECORD PLAYER",
+        "words": [
+          "MOTOR",
+          "NEEDLE",
+          "PLATTER",
+          "TONEARM"
+        ]
+      },
+      {
+        "title": "SPARE ___",
+        "words": [
+          "ME",
+          "RIB",
+          "TIME",
+          "TIRE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Sometimes a reflection can be deceiving; look beyond the surface.",
+      "To keep things tidy, gather your essentials and scrub away the mess.",
+      "Every great tune has its parts; remember, it's all about the rhythm.",
+      "What do you need when you're in a pinch? Think of what can help you out."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1442,
+    "editor": "Tracy Bennett",
+    "solution": "cruel",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a word that describes something harsh."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a term that can also mean unkind."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can describe a lack of compassion."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 864,
+    "editor": "Tracy Bennett",
+    "clue": "Zen state",
+    "spangram": "MINDFULNESS",
+    "themeWords": [
+      "BREATHE",
+      "FOCUS",
+      "LISTEN",
+      "MEDITATE",
+      "NOTICE",
+      "RELAX"
+    ],
+    "startingBoard": [
+      "MERTEN",
+      "OILXSL",
+      "CFNAIT",
+      "USEDAH",
+      "TATFEE",
+      "IEMURS",
+      "DONLBS",
+      "TICENE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2612,
+    "sides": [
+      "VCU",
+      "IHD",
+      "APR",
+      "SWO"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "AVOIRDUPOIS",
+      "SCHWA"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22718,
+    "centerLetter": "l",
+    "outerLetters": "aforuv",
+    "pangrams": [
+      "flavorful"
+    ],
+    "answers": [
+      "afoul",
+      "alfalfa",
+      "aloof",
+      "aural",
+      "auroral",
+      "fall",
+      "falloff",
+      "flavor",
+      "floor",
+      "flora",
+      "floral",
+      "flour",
+      "fluff",
+      "foal",
+      "fool",
+      "foul",
+      "full",
+      "furl",
+      "larva",
+      "larval",
+      "lava",
+      "loaf",
+      "loll",
+      "loofa",
+      "luau",
+      "luff",
+      "lull",
+      "lulu",
+      "offal",
+      "oral",
+      "oval",
+      "ovular",
+      "roll",
+      "rural",
+      "uvula",
+      "uvular",
+      "valor",
+      "vulva",
+      "vulval",
+      "vulvar"
+    ],
+    "pangramHints": [
+      {
+        "word": "flavorful",
+        "hint": "A delightful mix that tantalizes the taste buds."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "date": "2025-10-01",
+  "fetchedAt": "2026-05-10T20:16:06.906Z",
+  "connections": {
+    "puzzleId": 881,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FAST-MOVING WATER",
+        "words": [
+          "CATARACT",
+          "CURRENT",
+          "RAPIDS",
+          "WHIRLPOOL"
+        ]
+      },
+      {
+        "title": "CRITICIZE",
+        "words": [
+          "FLAME",
+          "KNOCK",
+          "SKEWER",
+          "SLAM"
+        ]
+      },
+      {
+        "title": "ECHOEY PLACES",
+        "words": [
+          "CANYON",
+          "HALLWAY",
+          "TUNNEL",
+          "ZOOM CALL"
+        ]
+      },
+      {
+        "title": "___ PRIZE",
+        "words": [
+          "BOOBY",
+          "DOOR",
+          "FIRST",
+          "JURY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Where the water rushes, you might find a thrill or a spill.",
+      "To express discontent, some choose to roast or toast.",
+      "In these places, your voice may bounce back, creating a sound that lingers.",
+      "An award that might leave you puzzled, often associated with the unexpected."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 630,
+    "editor": "Tracy Bennett",
+    "solution": "spoil",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that can ruin a plan."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to damage or harm."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often used in the context of food, but can apply to other situations."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 744,
+    "editor": "Tracy Bennett",
+    "clue": "That's got a ring to it!",
+    "spangram": "CIRCUSPERFORMERS",
+    "themeWords": [
+      "ACROBAT",
+      "CLOWN",
+      "CONTORTIONIST",
+      "JUGGLER"
+    ],
+    "startingBoard": [
+      "RCPEME",
+      "IUSRRR",
+      "COAFOS",
+      "CTRCRO",
+      "ONTIWB",
+      "INOONA",
+      "TSJULT",
+      "RELGGC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2493,
+    "sides": [
+      "YIU",
+      "NKT",
+      "FOC",
+      "DES"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "DYSFUNCTION",
+      "NECK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19203,
+    "centerLetter": "f",
+    "outerLetters": "acinot",
+    "pangrams": [
+      "citification",
+      "faction",
+      "notification",
+      "officiant",
+      "officiation"
+    ],
+    "answers": [
+      "affiant",
+      "afoot",
+      "antifa",
+      "caftan",
+      "coffin",
+      "coif",
+      "confit",
+      "fact",
+      "faint",
+      "fanatic",
+      "fanfic",
+      "fiat",
+      "fiction",
+      "finito",
+      "focaccia",
+      "foci",
+      "font",
+      "fontina",
+      "foot",
+      "infant",
+      "info",
+      "naif",
+      "nonfat",
+      "nonfiction",
+      "tiff"
+    ],
+    "pangramHints": [
+      {
+        "word": "citification",
+        "hint": "A process that involves urban development; think of city growth."
+      },
+      {
+        "word": "faction",
+        "hint": "A group with a shared interest, often in politics or organizations."
+      },
+      {
+        "word": "notification",
+        "hint": "A message that alerts you; often seen on devices."
+      },
+      {
+        "word": "officiant",
+        "hint": "The one who conducts a ceremony, often at weddings."
+      },
+      {
+        "word": "officiation",
+        "hint": "The act of performing a formal ceremony."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

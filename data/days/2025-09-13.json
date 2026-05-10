@@ -1,0 +1,186 @@
+{
+  "date": "2025-09-13",
+  "fetchedAt": "2026-05-10T20:15:00.132Z",
+  "connections": {
+    "puzzleId": 855,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "IMPORTANT",
+        "words": [
+          "CRITICAL",
+          "KEY",
+          "MAJOR",
+          "PRINCIPAL"
+        ]
+      },
+      {
+        "title": "INTIMATE AND UNDISCLOSED",
+        "words": [
+          "INNER",
+          "PERSONAL",
+          "PRIVATE",
+          "SECRET"
+        ]
+      },
+      {
+        "title": "GLOBAL CURRENCIES",
+        "words": [
+          "DOLLAR",
+          "POUND",
+          "STERLING",
+          "WON"
+        ]
+      },
+      {
+        "title": "BUFFALO ___",
+        "words": [
+          "BILL",
+          "NICKEL",
+          "SOLDIER",
+          "WING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These terms all signify something of utmost importance, a cornerstone in various contexts.",
+      "Think of words that reveal the essence of one's private life, often kept close to the heart.",
+      "These are the currencies that shape economies across the globe, each with its own tale.",
+      "Complete the phrase with a term that can refer to a currency or a type of soldier."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1254,
+    "editor": "Tracy Bennett",
+    "solution": "nadir",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Look for a word that represents the lowest point."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This term is often used in discussions about peaks and valleys."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with 'hater' and signifies a low point in a situation."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 725,
+    "editor": "Tracy Bennett",
+    "clue": "Better than good",
+    "spangram": "THEYREGREAT",
+    "themeWords": [
+      "APES",
+      "AUNTS",
+      "EXPECTATIONS",
+      "LAKES",
+      "MINDS",
+      "PLAINS"
+    ],
+    "startingBoard": [
+      "THESTA",
+      "EPYNUE",
+      "XERLKS",
+      "TCEGAS",
+      "ATSRMD",
+      "IONEIN",
+      "SPLAEP",
+      "NIATSA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2475,
+    "sides": [
+      "UOW",
+      "ATI",
+      "XLK",
+      "HFN"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "FAUXHAWK",
+      "KILOTON"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18291,
+    "centerLetter": "b",
+    "outerLetters": "acinot",
+    "pangrams": [
+      "anabiotic",
+      "antibiotic",
+      "botanic"
+    ],
+    "answers": [
+      "abaci",
+      "abbot",
+      "abiotic",
+      "baba",
+      "baboon",
+      "bacon",
+      "bait",
+      "banana",
+      "banc",
+      "baobab",
+      "baton",
+      "bionic",
+      "biota",
+      "biotic",
+      "biotin",
+      "boat",
+      "boba",
+      "bobbin",
+      "bobcat",
+      "bocci",
+      "bonbon",
+      "bonito",
+      "bonobo",
+      "boob",
+      "booboo",
+      "boon",
+      "boot",
+      "cabana",
+      "cabin",
+      "ciabatta",
+      "nabob",
+      "nanobot",
+      "noob",
+      "obit",
+      "obtain",
+      "taboo",
+      "tibia",
+      "tobacco"
+    ],
+    "pangramHints": [
+      {
+        "word": "anabiotic",
+        "hint": "A term that suggests something not living, but essential in a certain context."
+      },
+      {
+        "word": "antibiotic",
+        "hint": "This word is often associated with fighting off infections."
+      },
+      {
+        "word": "botanic",
+        "hint": "A word that relates to the study of plants and their life."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "date": "2025-08-12",
+  "fetchedAt": "2026-05-10T20:12:27.843Z",
+  "connections": {
+    "puzzleId": 831,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GROUPS OF TEN",
+        "words": [
+          "BOWLING PINS",
+          "COMMANDMENTS",
+          "DECADE",
+          "FINGERS"
+        ]
+      },
+      {
+        "title": "PLACES WITH LANES",
+        "words": [
+          "BOWLING ALLEY",
+          "HIGHWAY",
+          "SUPERMARKET",
+          "SWIMMING POOL"
+        ]
+      },
+      {
+        "title": "LANDMARKS IN DOWNTOWN NYC",
+        "words": [
+          "BOWLING GREEN",
+          "BROOKLYN BRIDGE",
+          "CITY HALL",
+          "WALL STREET"
+        ]
+      },
+      {
+        "title": "THINGS WITH HOLES",
+        "words": [
+          "BOWLING BALL",
+          "COLANDER",
+          "GOLF COURSE",
+          "SPONGE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Ten fingers can help you count to ten, but can they knock down the pins?",
+      "These lanes are perfect for fun, whether you're rolling strikes or taking a dip.",
+      "In the heart of the city, these iconic spots are a must-see for every visitor.",
+      "From sports to kitchen tools, these items share a common trait that makes them unique."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1429,
+    "editor": "Tracy Bennett",
+    "solution": "nomad",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a wanderer, someone who roams."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests a lifestyle of travel and exploration."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term often associated with those who embrace freedom and adventure."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 695,
+    "editor": "Tracy Bennett",
+    "clue": "Spitting image",
+    "spangram": "COPYTHAT",
+    "themeWords": [
+      "DOUBLE",
+      "DUPLICATE",
+      "FACSIMILE",
+      "LOOKALIKE",
+      "REPLICA"
+    ],
+    "startingBoard": [
+      "OOLUTE",
+      "KEKPDA",
+      "ALILIC",
+      "COPYTH",
+      "ERFELA",
+      "PLACBT",
+      "CIESDU",
+      "ALIMIO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2443,
+    "sides": [
+      "RLW",
+      "NOI",
+      "XBA",
+      "EYT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "OWE",
+      "EXORBITANTLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21288,
+    "centerLetter": "u",
+    "outerLetters": "achort",
+    "pangrams": [
+      "coauthor",
+      "cutthroat"
+    ],
+    "answers": [
+      "actuator",
+      "aura",
+      "aurora",
+      "author",
+      "auto",
+      "autocrat",
+      "church",
+      "churro",
+      "couch",
+      "court",
+      "couth",
+      "crouch",
+      "crutch",
+      "curacao",
+      "curator",
+      "curt",
+      "cutout",
+      "hour",
+      "hurrah",
+      "hurt",
+      "hutch",
+      "occur",
+      "ouch",
+      "outro",
+      "rout",
+      "taut",
+      "thou",
+      "touch",
+      "tour",
+      "tout",
+      "trout",
+      "truth",
+      "tutor",
+      "tutu"
+    ],
+    "pangramHints": [
+      {
+        "word": "coauthor",
+        "hint": "A collaborative creator, but don't name it outright."
+      },
+      {
+        "word": "cutthroat",
+        "hint": "Think fierce competition, but keep it under wraps."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "date": "2026-01-29",
+  "fetchedAt": "2026-05-10T20:23:57.897Z",
+  "connections": {
+    "puzzleId": 1006,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MAKEUP",
+        "words": [
+          "BRONZER",
+          "FOUNDATION",
+          "LINER",
+          "STAIN"
+        ]
+      },
+      {
+        "title": "FEATURED IN GOLDILOCKS AND THE THREE BEARS",
+        "words": [
+          "BEAR",
+          "BED",
+          "GOLDILOCKS",
+          "PORRIDGE"
+        ]
+      },
+      {
+        "title": "ENDING WITH DRINKING VESSELS",
+        "words": [
+          "FIBERGLASS",
+          "SILVERSTEIN",
+          "SMUG",
+          "STUMBLER"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF WORDS MEANING \"BRUTAL\"",
+        "words": [
+          "GOREY",
+          "GRIMM",
+          "GRIZZLY",
+          "SCARRY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A cosmetic palette of hues that can transform any visage, but beware of the heavy-handed artist.",
+      "A trio of bears and a curious girl, where comfort and porridge play pivotal roles in a tale of preference.",
+      "These words may end with something you sip from, but they each carry their own unique weight.",
+      "Sounds that echo the harshness of life, yet they play with meanings that can be quite playful."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2098,
+    "editor": "Tracy Bennett",
+    "solution": "flaky",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that crumbles easily."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word often describes pastries or layers."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's not just about texture; it can also refer to a certain type of behavior."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 865,
+    "editor": "Tracy Bennett",
+    "clue": "Talk of the town",
+    "spangram": "CLAIMTOFAME",
+    "themeWords": [
+      "CELEBRITY",
+      "HERO",
+      "ICON",
+      "PERSONALITY",
+      "SUPERSTAR"
+    ],
+    "startingBoard": [
+      "REPCSU",
+      "OHELEP",
+      "ITRARS",
+      "LYSIAT",
+      "ANOMTR",
+      "TIRAFO",
+      "YEBMIN",
+      "LECECO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2613,
+    "sides": [
+      "UGC",
+      "BHF",
+      "NKA",
+      "ISW"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FIB",
+      "BUSHWHACKING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15687,
+    "centerLetter": "t",
+    "outerLetters": "eghloy",
+    "pangrams": [
+      "theology"
+    ],
+    "answers": [
+      "ethyl",
+      "eyelet",
+      "eyeteeth",
+      "eyetooth",
+      "gelt",
+      "ghetto",
+      "goth",
+      "holt",
+      "hoot",
+      "hotel",
+      "hotly",
+      "loot",
+      "lotto",
+      "otology",
+      "teeth",
+      "teethe",
+      "teleology",
+      "tell",
+      "thee",
+      "they",
+      "toggle",
+      "toll",
+      "tool",
+      "toot",
+      "tooth",
+      "toothy",
+      "tootle",
+      "tote"
+    ],
+    "pangramHints": [
+      {
+        "word": "theology",
+        "hint": "A study that dives deep into the divine, but don't mention its name."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

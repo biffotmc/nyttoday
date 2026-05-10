@@ -1,0 +1,192 @@
+{
+  "date": "2025-06-08",
+  "fetchedAt": "2026-05-10T20:10:24.038Z",
+  "connections": {
+    "puzzleId": 766,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PERSIST",
+        "words": [
+          "HOLD",
+          "LAST",
+          "STAND",
+          "STAY"
+        ]
+      },
+      {
+        "title": "ANIMAL METAPHORS IN ECONOMICS",
+        "words": [
+          "BEAR",
+          "BULL",
+          "DOVE",
+          "HAWK"
+        ]
+      },
+      {
+        "title": "SIDEBAR INFO ON A PERSON’S WIKIPEDIA PAGE",
+        "words": [
+          "BORN",
+          "EDUCATION",
+          "OCCUPATION",
+          "SPOUSE"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF SLANG FOR MONEY",
+        "words": [
+          "BRED",
+          "CACHE",
+          "DOE",
+          "LUTE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "To keep something in place, you might just need to hold on tight. Think about what lasts through time.",
+      "In the wild world of finance, some creatures thrive while others just survive. Which ones are bullish and which are bearish?",
+      "When you look up someone’s life story, what key milestones might you uncover? It all starts with where they came from.",
+      "When cash is scarce, what clever plays on words can you find? Think of what you might hear in a street transaction."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1578,
+    "editor": "Tracy Bennett",
+    "solution": "lease",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might sign for a new apartment."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to renting or allowing someone to use something."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term often associated with agreements and contracts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 627,
+    "editor": "Tracy Bennett",
+    "clue": "On Broadway",
+    "spangram": "ITSSHOWTIME",
+    "themeWords": [
+      "CAST",
+      "COSTUMES",
+      "DANCING",
+      "LIGHTS",
+      "SCORE",
+      "SINGING"
+    ],
+    "startingBoard": [
+      "ITSMES",
+      "GNSUTS",
+      "GIHCOG",
+      "NSOANN",
+      "IEWDCI",
+      "CRTIGH",
+      "AOCMIT",
+      "STSELS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2378,
+    "sides": [
+      "NKS",
+      "CUT",
+      "ARO",
+      "HBL"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BULRUSH",
+      "HACKATHON"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20796,
+    "centerLetter": "o",
+    "outerLetters": "adinpt",
+    "pangrams": [
+      "adaptation",
+      "adoption"
+    ],
+    "answers": [
+      "addition",
+      "adopt",
+      "anion",
+      "annatto",
+      "annotation",
+      "anoint",
+      "anon",
+      "appoint",
+      "atop",
+      "dino",
+      "ditto",
+      "dodo",
+      "donation",
+      "doodad",
+      "idiot",
+      "initiation",
+      "into",
+      "intonation",
+      "iota",
+      "nation",
+      "nonpaid",
+      "noon",
+      "notation",
+      "notion",
+      "onion",
+      "onto",
+      "opinion",
+      "opioid",
+      "option",
+      "patio",
+      "piano",
+      "pinion",
+      "pinot",
+      "pinpoint",
+      "pinto",
+      "piton",
+      "podia",
+      "point",
+      "pond",
+      "pontoon",
+      "poop",
+      "poppa",
+      "potato",
+      "potion",
+      "tattoo",
+      "tiptop",
+      "toad",
+      "toon",
+      "toot"
+    ],
+    "pangramHints": [
+      {
+        "word": "adaptation",
+        "hint": "A change that fits the environment; think of how creatures evolve."
+      },
+      {
+        "word": "adoption",
+        "hint": "Bringing something new into your life; consider how families grow."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

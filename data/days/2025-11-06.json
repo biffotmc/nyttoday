@@ -1,0 +1,173 @@
+{
+  "date": "2025-11-06",
+  "fetchedAt": "2026-05-10T20:18:32.213Z",
+  "connections": {
+    "puzzleId": 929,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "COST",
+        "words": [
+          "AMOUNT",
+          "FIGURE",
+          "PRICE",
+          "VALUE"
+        ]
+      },
+      {
+        "title": "WAYS TO UNLOCK A DEVICE",
+        "words": [
+          "FACE",
+          "FINGERPRINT",
+          "PASSWORD",
+          "PIN"
+        ]
+      },
+      {
+        "title": "PARTS OF A SHIP",
+        "words": [
+          "AFT",
+          "DECK",
+          "FORE",
+          "MAST"
+        ]
+      },
+      {
+        "title": "FEATURES OF A CARTOON CUPID",
+        "words": [
+          "ARROW",
+          "BOW",
+          "DIAPER",
+          "WINGS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When it comes to worth, think beyond just numbers; value is in the eye of the beholder.",
+      "Unlocking secrets can be as simple as a touch or a glance; what’s your key?",
+      "Navigating the waters requires understanding the structure; every part plays a role.",
+      "In the realm of love, this little cherub has tools that are anything but ordinary."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2061,
+    "editor": "Tracy Bennett",
+    "solution": "guise",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's all about appearances."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can change how you see things."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often hidden, it can alter perceptions without revealing itself."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 780,
+    "editor": "Tracy Bennett",
+    "clue": "___ City",
+    "spangram": "NICKNAME",
+    "themeWords": [
+      "EMERALD",
+      "ETERNAL",
+      "GOLDEN",
+      "MAGIC",
+      "MOTOR",
+      "MUSIC",
+      "WINDY"
+    ],
+    "startingBoard": [
+      "EMNERN",
+      "RAEITA",
+      "DLMCEL",
+      "TOKSUM",
+      "ONILDE",
+      "RACOMN",
+      "DIMGCA",
+      "YNWEIG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2530,
+    "sides": [
+      "CJL",
+      "KRY",
+      "TEI",
+      "SOA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "SYSTOLIC",
+      "CRACKERJACK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24379,
+    "centerLetter": "f",
+    "outerLetters": "bdelow",
+    "pangrams": [
+      "bedfellow"
+    ],
+    "answers": [
+      "beef",
+      "beefed",
+      "befell",
+      "boffo",
+      "doff",
+      "doffed",
+      "feeble",
+      "feed",
+      "feel",
+      "fell",
+      "felled",
+      "fellow",
+      "fled",
+      "flee",
+      "flew",
+      "floe",
+      "flood",
+      "flooded",
+      "flow",
+      "flowed",
+      "fobbed",
+      "fold",
+      "folded",
+      "follow",
+      "followed",
+      "food",
+      "fool",
+      "fooled",
+      "fowl",
+      "offed",
+      "wolf",
+      "wolfed",
+      "woof",
+      "woofed"
+    ],
+    "pangramHints": [
+      {
+        "word": "bedfellow",
+        "hint": "A cozy companion that covers all the bases."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

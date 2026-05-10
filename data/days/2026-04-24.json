@@ -1,0 +1,184 @@
+{
+  "date": "2026-04-24",
+  "fetchedAt": "2026-05-10T20:29:44.253Z",
+  "connections": {
+    "puzzleId": 1138,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PIZZA INGREDIENTS",
+        "words": [
+          "CHEESE",
+          "DOUGH",
+          "PEPPERONI",
+          "TOMATO SAUCE"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH OCTOPUSES",
+        "words": [
+          "ARMS",
+          "INK",
+          "INTELLIGENCE",
+          "SUCTION CUPS"
+        ]
+      },
+      {
+        "title": "THEY HAVE BLADES",
+        "words": [
+          "GRASS",
+          "HELICOPTER",
+          "ICE SKATES",
+          "LAWN MOWER"
+        ]
+      },
+      {
+        "title": "WHAT \"CAB\" MIGHT REFER TO",
+        "words": [
+          "CABIN",
+          "CALLOWAY",
+          "RED WINE",
+          "TAXI"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A classic combo that melts hearts and fills bellies, but don't forget the crust!",
+      "These creatures are known for their cleverness and have more than just eight appendages.",
+      "Sharp tools that make the world go round, from gardens to the skies.",
+      "A ride you can hail, but also a cozy retreat or a vintage drink."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1064,
+    "editor": "Tracy Bennett",
+    "solution": "drunk",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word describes a state of being that might lead to poor decisions."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with parties and celebrations, it can alter your mood."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that captures a carefree, tipsy state, often linked to revelry."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 956,
+    "editor": "Tracy Bennett",
+    "clue": "Hullabaloo",
+    "spangram": "LETSGETLOUD",
+    "themeWords": [
+      "BELLOW",
+      "CATERWAUL",
+      "CLAMOR",
+      "HOLLER",
+      "SHOUT",
+      "WHOOP"
+    ],
+    "startingBoard": [
+      "OUTLET",
+      "HSAMOS",
+      "HECLRG",
+      "OLRTEW",
+      "LUOLHL",
+      "DWEBOU",
+      "OLLPOA",
+      "CATERW"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2698,
+    "sides": [
+      "RYF",
+      "KGH",
+      "NTS",
+      "IZE"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "KINGFISHER",
+      "RITZY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17149,
+    "centerLetter": "d",
+    "outerLetters": "abgino",
+    "pangrams": [
+      "abandoning"
+    ],
+    "answers": [
+      "abandon",
+      "abiding",
+      "adagio",
+      "adding",
+      "adobo",
+      "aiding",
+      "badging",
+      "band",
+      "bandaging",
+      "bandana",
+      "bandanna",
+      "banding",
+      "bidding",
+      "biding",
+      "bind",
+      "bindi",
+      "binding",
+      "boding",
+      "bond",
+      "bonding",
+      "dabbing",
+      "dang",
+      "digging",
+      "ding",
+      "dinging",
+      "dingo",
+      "dining",
+      "dino",
+      "dodging",
+      "dodo",
+      "dogging",
+      "doggo",
+      "doing",
+      "dong",
+      "donning",
+      "doodad",
+      "gadding",
+      "goad",
+      "goading",
+      "gonad",
+      "good",
+      "indigo",
+      "nada",
+      "naiad",
+      "nodding",
+      "nonbinding"
+    ],
+    "pangramHints": [
+      {
+        "word": "abandoning",
+        "hint": "A word that suggests leaving something behind, full of movement and change."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

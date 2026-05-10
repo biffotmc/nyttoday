@@ -1,0 +1,190 @@
+{
+  "date": "2025-11-11",
+  "fetchedAt": "2026-05-10T20:18:52.372Z",
+  "connections": {
+    "puzzleId": 927,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MAKEUP",
+        "words": [
+          "BLUSH",
+          "FOUNDATION",
+          "HIGHLIGHTER",
+          "POWDER"
+        ]
+      },
+      {
+        "title": "BREADTH",
+        "words": [
+          "EXTENT",
+          "RANGE",
+          "SCALE",
+          "SCOPE"
+        ]
+      },
+      {
+        "title": "OBJECT USED FOR SUPPORT",
+        "words": [
+          "BASE",
+          "HOLDER",
+          "REST",
+          "STAND"
+        ]
+      },
+      {
+        "title": "ICONS ON AN IPHONE",
+        "words": [
+          "COMPASS",
+          "ENVELOPE",
+          "MUSIC NOTES",
+          "SPEECH BUBBLE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A colorful way to enhance your features, but don’t forget to blend!",
+      "Think of how far something can reach; it’s all about the limits.",
+      "This is what keeps things upright, providing a steady foundation.",
+      "These are the little images that help you navigate your device."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2343,
+    "editor": "Tracy Bennett",
+    "solution": "gizmo",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a gadget that often fits in your hand."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This item is often associated with technology and innovation."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a small device that might have many functions, but not all are essential."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 785,
+    "editor": "Tracy Bennett",
+    "clue": "Aesop's animals",
+    "spangram": "FABLEDPAIR",
+    "themeWords": [
+      "BULL",
+      "CRANE",
+      "GNAT",
+      "HARE",
+      "LION",
+      "MOUSE",
+      "TORTOISE",
+      "WOLF"
+    ],
+    "startingBoard": [
+      "TOFHAR",
+      "TRAMOE",
+      "OIBLUE",
+      "SENECS",
+      "IOTDBR",
+      "LAPLUA",
+      "NLAILN",
+      "GFOWRE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2538,
+    "sides": [
+      "UTH",
+      "PEG",
+      "OIN",
+      "MRC"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "GROUPIE",
+      "ENRICHMENT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22343,
+    "centerLetter": "y",
+    "outerLetters": "adgiln",
+    "pangrams": [
+      "dallying",
+      "dillydallying"
+    ],
+    "answers": [
+      "allay",
+      "allaying",
+      "ally",
+      "allying",
+      "anally",
+      "daddy",
+      "daily",
+      "dally",
+      "dandily",
+      "dandy",
+      "dangly",
+      "daylily",
+      "diddly",
+      "dilly",
+      "dillydally",
+      "dingy",
+      "dyad",
+      "dying",
+      "gaily",
+      "gainly",
+      "gangly",
+      "gayly",
+      "giddily",
+      "giddy",
+      "giggly",
+      "gladly",
+      "idly",
+      "idyl",
+      "idyll",
+      "illy",
+      "inlay",
+      "inlaying",
+      "lady",
+      "laggy",
+      "lallygag",
+      "lallygagging",
+      "landlady",
+      "laying",
+      "lily",
+      "lying",
+      "naggy",
+      "nanny",
+      "nannying",
+      "ninny",
+      "yang"
+    ],
+    "pangramHints": [
+      {
+        "word": "dallying",
+        "hint": "A playful way to waste time, but don’t linger too long!"
+      },
+      {
+        "word": "dillydallying",
+        "hint": "A longer form of procrastination; it’s all about taking your sweet time."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

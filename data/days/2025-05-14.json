@@ -1,0 +1,180 @@
+{
+  "date": "2025-05-14",
+  "fetchedAt": "2026-05-10T20:06:27.964Z",
+  "connections": {
+    "puzzleId": 743,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ABSORB USING CAPILLARY ACTION",
+        "words": [
+          "DRAW",
+          "PULL",
+          "SUCK",
+          "WICK"
+        ]
+      },
+      {
+        "title": "GREEK PREFIXES",
+        "words": [
+          "HYPER",
+          "KILO",
+          "META",
+          "NEO"
+        ]
+      },
+      {
+        "title": "TITULAR ANIMALS OF FILM",
+        "words": [
+          "BABE",
+          "BOLT",
+          "DUMBO",
+          "TED"
+        ]
+      },
+      {
+        "title": "STARTING WITH SILENT LETTERS",
+        "words": [
+          "GNOME",
+          "KNEE",
+          "MNEMONIC",
+          "PSYCHE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When liquid meets a fabric, the magic begins! Think of how nature pulls things in.",
+      "These prefixes may elevate your understanding or simply add a twist to your words.",
+      "Furry friends take the spotlight in these tales; they’re not just animals, they’re stars!",
+      "Silence can be golden, especially when it comes to the first sound of these words."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 833,
+    "editor": "Tracy Bennett",
+    "solution": "bongo",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a rhythmic instrument."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a jungle beat."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It shares its name with a playful animal often found in Africa."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 600,
+    "editor": "Tracy Bennett",
+    "clue": "Boogie woogie woogie",
+    "spangram": "LINEDANCE",
+    "themeWords": [
+      "FOOTLOOSE",
+      "HUSTLE",
+      "LOCOMOTION",
+      "MACARENA",
+      "WOBBLE"
+    ],
+    "startingBoard": [
+      "RCALTL",
+      "EAMIOO",
+      "NANOSO",
+      "ESEFEN",
+      "LTUDIO",
+      "WOHATO",
+      "BBNOLM",
+      "ELCECO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2353,
+    "sides": [
+      "NBW",
+      "LRM",
+      "CTE",
+      "AUH"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BRAWL",
+      "LUNCHMEAT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10153,
+    "centerLetter": "i",
+    "outerLetters": "adehnp",
+    "pangrams": [
+      "pinhead",
+      "pinheaded"
+    ],
+    "answers": [
+      "adenine",
+      "aide",
+      "aided",
+      "aphid",
+      "apian",
+      "denied",
+      "died",
+      "dine",
+      "dined",
+      "dipped",
+      "eddied",
+      "heinie",
+      "hidden",
+      "hide",
+      "hind",
+      "hippie",
+      "idea",
+      "inane",
+      "indeed",
+      "indie",
+      "innie",
+      "naiad",
+      "nannied",
+      "nine",
+      "ninepin",
+      "nipped",
+      "paid",
+      "pain",
+      "pained",
+      "panini",
+      "pied",
+      "pine",
+      "pined",
+      "pinned",
+      "pinniped",
+      "pipe",
+      "piped",
+      "pippin"
+    ],
+    "pangramHints": [
+      {
+        "word": "pinhead",
+        "hint": "A term for a small-minded person, but don’t let that define you!"
+      },
+      {
+        "word": "pinheaded",
+        "hint": "An adjective that describes a narrow-minded view, but it’s quite the mouthful!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

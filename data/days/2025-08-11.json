@@ -1,0 +1,167 @@
+{
+  "date": "2025-08-11",
+  "fetchedAt": "2026-05-10T20:12:24.941Z",
+  "connections": {
+    "puzzleId": 832,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ORDINARY",
+        "words": [
+          "NORMAL",
+          "PLAIN",
+          "STANDARD",
+          "VANILLA"
+        ]
+      },
+      {
+        "title": "ABANDON",
+        "words": [
+          "DESERT",
+          "DUMP",
+          "MAROON",
+          "STRAND"
+        ]
+      },
+      {
+        "title": "SPECS ON CONSUMER PACKAGING",
+        "words": [
+          "COUNT",
+          "MEASURE",
+          "VOLUME",
+          "WEIGHT"
+        ]
+      },
+      {
+        "title": "DARK ___",
+        "words": [
+          "AGES",
+          "CHOCOLATE",
+          "HORSE",
+          "MATTER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When life gives you lemons, sometimes you just want them plain and simple.",
+      "Leaving behind the familiar can lead to unexpected adventures.",
+      "Measuring success isn't always about the numbers; sometimes it’s about the essence.",
+      "In the shadows, there’s a richness that often goes unnoticed."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1096,
+    "editor": "Tracy Bennett",
+    "solution": "south",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a direction that often leads to warmth."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a place where the sun shines brightly."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a part of the compass."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 694,
+    "editor": "Tracy Bennett",
+    "clue": "Find the remainder",
+    "spangram": "LEFTOVERS",
+    "themeWords": [
+      "DREGS",
+      "REMNANT",
+      "RESIDUE",
+      "SOUVENIR",
+      "TRACE",
+      "VESTIGE"
+    ],
+    "startingBoard": [
+      "RESREG",
+      "EURDSR",
+      "SIDETA",
+      "EVIVEC",
+      "STGOVU",
+      "RMETEO",
+      "ENAFNS",
+      "TNLERI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2442,
+    "sides": [
+      "BHI",
+      "OKE",
+      "MGA",
+      "CTN"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "COMEBACK",
+      "KNIGHT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27617,
+    "centerLetter": "d",
+    "outerLetters": "hiloya",
+    "pangrams": [
+      "holiday"
+    ],
+    "answers": [
+      "daddy",
+      "dahlia",
+      "daily",
+      "dally",
+      "daylily",
+      "dial",
+      "diddly",
+      "dildo",
+      "dill",
+      "dilly",
+      "dillydally",
+      "dodo",
+      "doily",
+      "doll",
+      "dolly",
+      "doodad",
+      "dyad",
+      "hold",
+      "hood",
+      "hoodoo",
+      "hyoid",
+      "idly",
+      "idol",
+      "idyl",
+      "idyll",
+      "lady",
+      "laid",
+      "load",
+      "oddly"
+    ],
+    "pangramHints": [
+      {
+        "word": "holiday",
+        "hint": "A day of rest or celebration, often filled with joy."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

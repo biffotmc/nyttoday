@@ -1,0 +1,191 @@
+{
+  "date": "2025-10-11",
+  "fetchedAt": "2026-05-10T20:16:44.914Z",
+  "connections": {
+    "puzzleId": 899,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EQUIPMENT",
+        "words": [
+          "GEAR",
+          "KIT",
+          "STUFF",
+          "TACKLE"
+        ]
+      },
+      {
+        "title": "DRESS IN",
+        "words": [
+          "DON",
+          "PUT ON",
+          "SPORT",
+          "WEAR"
+        ]
+      },
+      {
+        "title": "STREET SUFFIXES",
+        "words": [
+          "ALLEY",
+          "COURT",
+          "LANE",
+          "WAY"
+        ]
+      },
+      {
+        "title": "NICKNAMES THAT HAVE OTHER MEANINGS",
+        "words": [
+          "BILL",
+          "BOB",
+          "PAT",
+          "TOM"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you need to haul your essentials, think of what holds it all together. It's not just about the contents, but the means to carry them.",
+      "To step out in style, consider the actions that transform your appearance. It's all about the choices you make before you leave the house.",
+      "Navigating the urban landscape? These terms help you find your way, adding a touch of character to your journey.",
+      "Sometimes a name can tell a story beyond its surface. These monikers carry weight in more ways than one."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 609,
+    "editor": "Tracy Bennett",
+    "solution": "stack",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a term for a pile or collection."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a platform for loading or storing."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with construction or organization, but don't confuse it with a synonym for a pile."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 755,
+    "editor": "Tracy Bennett",
+    "clue": "That's branding",
+    "spangram": "ICONICLOGOS",
+    "themeWords": [
+      "APPLE",
+      "ARCHES",
+      "BULLSEYE",
+      "PEACOCK",
+      "SHELL",
+      "SWOOSH"
+    ],
+    "startingBoard": [
+      "ICONSH",
+      "PEAIEL",
+      "OCKCSL",
+      "ACELHW",
+      "PPLOSO",
+      "EHGYSO",
+      "SCOEEL",
+      "ARSBUL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2503,
+    "sides": [
+      "IBK",
+      "ELU",
+      "CMT",
+      "PYD"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BUCKETED",
+      "DIMPLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21635,
+    "centerLetter": "m",
+    "outerLetters": "elnotu",
+    "pangrams": [
+      "emolument"
+    ],
+    "answers": [
+      "element",
+      "emote",
+      "lemon",
+      "loom",
+      "lumen",
+      "meet",
+      "melee",
+      "melon",
+      "melt",
+      "meme",
+      "memento",
+      "memo",
+      "mentee",
+      "menu",
+      "mete",
+      "mettle",
+      "mole",
+      "moll",
+      "molt",
+      "molten",
+      "moment",
+      "momentum",
+      "mono",
+      "monotone",
+      "monte",
+      "monument",
+      "moon",
+      "moot",
+      "mote",
+      "motel",
+      "motet",
+      "mottle",
+      "motto",
+      "moue",
+      "mount",
+      "mule",
+      "mull",
+      "mullet",
+      "mute",
+      "mutt",
+      "mutton",
+      "muumuu",
+      "omelet",
+      "omelette",
+      "omen",
+      "teem",
+      "tenement",
+      "tome",
+      "totem",
+      "tumult",
+      "unmet",
+      "unmount",
+      "unmute"
+    ],
+    "pangramHints": [
+      {
+        "word": "emolument",
+        "hint": "A term for compensation that sounds like it could be a fancy meal."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

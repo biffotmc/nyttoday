@@ -1,0 +1,181 @@
+{
+  "date": "2025-08-02",
+  "fetchedAt": "2026-05-10T20:11:48.689Z",
+  "connections": {
+    "puzzleId": 824,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ATTACH WITH ADHESIVE",
+        "words": [
+          "ADHERE",
+          "AFFIX",
+          "GLUE",
+          "STICK"
+        ]
+      },
+      {
+        "title": "POLITE TERMS FOR SEX",
+        "words": [
+          "COMMERCE",
+          "CONGRESS",
+          "INTIMACY",
+          "RELATIONS"
+        ]
+      },
+      {
+        "title": "BOWLING RESULTS",
+        "words": [
+          "FOUL",
+          "SPARE",
+          "SPLIT",
+          "STRIKE"
+        ]
+      },
+      {
+        "title": "CONTRONYMS (WORDS THAT CAN MEAN OPPOSITE THINGS)",
+        "words": [
+          "CLEAVE",
+          "GARNISH",
+          "OVERSIGHT",
+          "SANCTION"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Sticky situations can lead to strong bonds; find the ties that bind.",
+      "When civility meets intimacy, the dance of diplomacy begins.",
+      "In the game of pins, some scores are more elusive than others.",
+      "Words that wear two hats can leave you puzzled; embrace the duality."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2206,
+    "editor": "Tracy Bennett",
+    "solution": "daunt",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that can make you hesitate."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to feeling intimidated or overwhelmed."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with a 'd' and ends with a 't'; it’s about facing challenges."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 683,
+    "editor": "Tracy Bennett",
+    "clue": "Pretty as a picture",
+    "spangram": "PHOTOEDITOR",
+    "themeWords": [
+      "ADJUST",
+      "BLUR",
+      "CROP",
+      "ERASE",
+      "FILTER",
+      "MARKUP",
+      "ROTATE"
+    ],
+    "startingBoard": [
+      "RPKMTA",
+      "EURAOT",
+      "TLIFRE",
+      "OTOEDI",
+      "HLBDAT",
+      "PRUJRO",
+      "PESUST",
+      "ORCARE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2433,
+    "sides": [
+      "BNO",
+      "ECI",
+      "THU",
+      "WDX"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "EXHIBIT",
+      "TOUCHDOWN"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21283,
+    "centerLetter": "p",
+    "outerLetters": "adilry",
+    "pangrams": [
+      "lapidary",
+      "rapidly"
+    ],
+    "answers": [
+      "airplay",
+      "apiary",
+      "appall",
+      "apply",
+      "dippy",
+      "drip",
+      "drippy",
+      "lipid",
+      "lippy",
+      "paddy",
+      "paid",
+      "pail",
+      "pair",
+      "palapa",
+      "pall",
+      "pallid",
+      "pallidly",
+      "palp",
+      "papa",
+      "papal",
+      "papally",
+      "papaya",
+      "papilla",
+      "pappy",
+      "papyri",
+      "parlay",
+      "parry",
+      "payday",
+      "piddly",
+      "pill",
+      "pillar",
+      "plaid",
+      "play",
+      "pray",
+      "rapid",
+      "ripply",
+      "yappy"
+    ],
+    "pangramHints": [
+      {
+        "word": "lapidary",
+        "hint": "A term for a skilled artisan; think of gems and precision."
+      },
+      {
+        "word": "rapidly",
+        "hint": "Speed is key; this word suggests quickness in action."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

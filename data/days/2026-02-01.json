@@ -1,0 +1,221 @@
+{
+  "date": "2026-02-01",
+  "fetchedAt": "2026-05-10T20:24:08.712Z",
+  "connections": {
+    "puzzleId": 1015,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PUBLICIZE",
+        "words": [
+          "BOOST",
+          "HYPE",
+          "PITCH",
+          "PLUG"
+        ]
+      },
+      {
+        "title": "KINDS OF SHOES",
+        "words": [
+          "CLOG",
+          "FLAT",
+          "MULE",
+          "WEDGE"
+        ]
+      },
+      {
+        "title": "ANTHEM",
+        "words": [
+          "BANGER",
+          "BOP",
+          "HEATER",
+          "JAM"
+        ]
+      },
+      {
+        "title": "MUSICAL INSTRUMENTS PLUS STARTING LETTER",
+        "words": [
+          "GLUTE",
+          "MORGAN",
+          "SHARP",
+          "THORN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the spotlight shines, these words take center stage, each amplifying the message in its own way.",
+      "From casual strolls to fancy occasions, these footwear choices have you covered, each with its unique flair.",
+      "These tunes are guaranteed to get you moving; they're the life of the party, each one a hit in its own right.",
+      "In this ensemble of sound, each member brings a unique note, but watch out for the first letter that sets the tone."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 743,
+    "editor": "Tracy Bennett",
+    "solution": "spiny",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that might have spikes."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a creature that can be quite prickly."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that captures a certain sharpness in nature."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 868,
+    "editor": "Tracy Bennett",
+    "clue": "It's a gift",
+    "spangram": "GENEROSITY",
+    "themeWords": [
+      "AWARD",
+      "BONUS",
+      "DONATION",
+      "GRANT",
+      "OFFERING",
+      "PRESENT"
+    ],
+    "startingBoard": [
+      "SUGANO",
+      "BNENTD",
+      "ONTEIA",
+      "GAOROW",
+      "SRSNRA",
+      "EEIDFO",
+      "NRTREF",
+      "TPYING"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2616,
+    "sides": [
+      "JZQ",
+      "AUT",
+      "IEM",
+      "SHR"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUIZMASTER",
+      "RAJAH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22828,
+    "centerLetter": "b",
+    "outerLetters": "agilno",
+    "pangrams": [
+      "ballooning",
+      "billabong"
+    ],
+    "answers": [
+      "aboil",
+      "albino",
+      "alibi",
+      "baaing",
+      "baba",
+      "babbling",
+      "baboon",
+      "bagging",
+      "bail",
+      "bailing",
+      "baling",
+      "ball",
+      "balling",
+      "balloon",
+      "banal",
+      "banana",
+      "bang",
+      "banging",
+      "banning",
+      "baobab",
+      "bilabial",
+      "bill",
+      "billing",
+      "billion",
+      "binging",
+      "bingo",
+      "binning",
+      "blab",
+      "blabbing",
+      "blin",
+      "bling",
+      "blini",
+      "blob",
+      "blobbing",
+      "blog",
+      "blogging",
+      "boba",
+      "bobbin",
+      "bobbing",
+      "bobbling",
+      "bogging",
+      "boggling",
+      "boil",
+      "boiling",
+      "boing",
+      "bola",
+      "boll",
+      "bolo",
+      "bologna",
+      "bonbon",
+      "bong",
+      "bongo",
+      "boning",
+      "bonobo",
+      "boob",
+      "booboo",
+      "boogaloo",
+      "booing",
+      "boon",
+      "gabbing",
+      "gabbling",
+      "gibbon",
+      "gibing",
+      "glib",
+      "glob",
+      "global",
+      "gobbling",
+      "goblin",
+      "labia",
+      "labial",
+      "lobbing",
+      "lobo",
+      "nabbing",
+      "nabob",
+      "nibbling",
+      "noob",
+      "obliging",
+      "oblong"
+    ],
+    "pangramHints": [
+      {
+        "word": "ballooning",
+        "hint": "A playful word that lifts spirits; think of something that floats."
+      },
+      {
+        "word": "billabong",
+        "hint": "A waterway with a twist; imagine a serene spot where nature flows."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "date": "2025-10-28",
+  "fetchedAt": "2026-05-10T20:17:49.221Z",
+  "connections": {
+    "puzzleId": 914,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BANALITY",
+        "words": [
+          "CHESTNUT",
+          "CLICHÉ",
+          "PLATITUDE",
+          "TROPE"
+        ]
+      },
+      {
+        "title": "IN THE KNOW",
+        "words": [
+          "AWARE",
+          "HIP",
+          "SAVVY",
+          "WISE"
+        ]
+      },
+      {
+        "title": "REMOTE CONTROL BUTTONS",
+        "words": [
+          "BACK",
+          "HOME",
+          "MENU",
+          "SELECT"
+        ]
+      },
+      {
+        "title": "ONE-NAMED SINGER PLUS STARTING LETTER",
+        "words": [
+          "GUSHER",
+          "KENYA",
+          "OCHER",
+          "PELVIS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words are often used to describe something that lacks originality, but they can be quite comforting in their familiarity.",
+      "Stay sharp and in the loop with these terms that signify being well-informed and perceptive.",
+      "Think of your remote as you navigate through these essential commands that guide your viewing experience.",
+      "This group features a mix of a famous artist and a hint of geography, all wrapped up in a catchy title."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1418,
+    "editor": "Tracy Bennett",
+    "solution": "holly",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A festive plant often associated with winter celebrations."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word rhymes with 'jolly' and is a common sight during the holidays."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a type of plant that shares its name with a popular name for a girl."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 772,
+    "editor": "Tracy Bennett",
+    "clue": "The write stuff",
+    "spangram": "PENCILMEIN",
+    "themeWords": [
+      "CEDARWOOD",
+      "ERASER",
+      "GRAPHITE",
+      "REFILL",
+      "SHARPENER"
+    ],
+    "startingBoard": [
+      "ARPENS",
+      "PTGCHA",
+      "HIEIRR",
+      "DECLEP",
+      "ARWMNE",
+      "DOOELI",
+      "RSEILF",
+      "EARNRE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2521,
+    "sides": [
+      "MHC",
+      "ZAL",
+      "NYO",
+      "EGT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ECZEMA",
+      "ANTHOLOGY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27647,
+    "centerLetter": "i",
+    "outerLetters": "lnotbh",
+    "pangrams": [
+      "billionth"
+    ],
+    "answers": [
+      "bill",
+      "billion",
+      "biotin",
+      "blin",
+      "blini",
+      "bobbin",
+      "boil",
+      "bonito",
+      "hill",
+      "hilt",
+      "hint",
+      "hobbit",
+      "inhibit",
+      "inhibition",
+      "into",
+      "lilt",
+      "lint",
+      "lion",
+      "litho",
+      "loin",
+      "lotion",
+      "ninth",
+      "nonillion",
+      "notion",
+      "obit",
+      "olio",
+      "onion",
+      "thin",
+      "till",
+      "tilt",
+      "tilth",
+      "tint",
+      "toil"
+    ],
+    "pangramHints": [
+      {
+        "word": "billionth",
+        "hint": "A term that denotes a very small fraction, often used in measurements."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

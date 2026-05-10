@@ -1,0 +1,169 @@
+{
+  "date": "2026-05-14",
+  "fetchedAt": "2026-05-10T20:14:00.932Z",
+  "connections": {
+    "puzzleId": 1147,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PREMONITION",
+        "words": [
+          "GUT FEELING",
+          "HUNCH",
+          "INTUITION",
+          "SIXTH SENSE"
+        ]
+      },
+      {
+        "title": "CELLPHONE MODES",
+        "words": [
+          "DO NOT DISTURB",
+          "RING",
+          "SILENT",
+          "VIBRATE"
+        ]
+      },
+      {
+        "title": "BAD THINGS TO DO IN MODERN DATING",
+        "words": [
+          "BREADCRUMB",
+          "CATFISH",
+          "GHOST",
+          "LOVE BOMB"
+        ]
+      },
+      {
+        "title": "PHRASES WHOSE SECOND WORDS INCLUDE THEIR FIRST WORD",
+        "words": [
+          "AIR CAIRO",
+          "ALL HALLOWS",
+          "ARM WARMER",
+          "THE OTHERS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Trust your instincts; they often whisper truths that logic can't grasp.",
+      "When the world goes silent, what signals do you tune into?",
+      "In the game of hearts, some moves can lead to unexpected exits.",
+      "Words can be playful; sometimes they dance around their own meanings."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1845,
+    "editor": "Tracy Bennett",
+    "solution": "waver",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a gentle sway or fluctuation."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe uncertainty in decisions."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It relates to oscillation, often tied to emotions or choices."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 976,
+    "editor": "Tracy Bennett",
+    "clue": "Men in tights",
+    "spangram": "ROBINHOOD",
+    "themeWords": [
+      "ARCHERY",
+      "DISGUISE",
+      "FOREST",
+      "FRIAR",
+      "OUTLAW",
+      "SHERIFF"
+    ],
+    "startingBoard": [
+      "UOHOOD",
+      "TANRAR",
+      "LWIYEC",
+      "ROBHEH",
+      "FTSFIR",
+      "OSRFSI",
+      "REAEUG",
+      "FRIDIS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2718,
+    "sides": [
+      "NIU",
+      "LEO",
+      "VAY",
+      "TCP"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "PIVOTAL",
+      "LUCENCY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9316,
+    "centerLetter": "i",
+    "outerLetters": "beklmo",
+    "pangrams": [
+      "bookmobile"
+    ],
+    "answers": [
+      "belie",
+      "bible",
+      "bike",
+      "bile",
+      "bilk",
+      "bill",
+      "biome",
+      "boil",
+      "bookie",
+      "imbibe",
+      "immobile",
+      "kibble",
+      "kill",
+      "kilo",
+      "libel",
+      "libelee",
+      "like",
+      "limb",
+      "limbo",
+      "lime",
+      "limo",
+      "mike",
+      "mile",
+      "milk",
+      "mill",
+      "mime",
+      "mimeo",
+      "mobile",
+      "moil",
+      "olio",
+      "ollie"
+    ],
+    "pangramHints": [
+      {
+        "word": "bookmobile",
+        "hint": "A vehicle that carries stories; think of journeys through pages."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

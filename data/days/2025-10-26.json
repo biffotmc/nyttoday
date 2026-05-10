@@ -1,0 +1,211 @@
+{
+  "date": "2025-10-26",
+  "fetchedAt": "2026-05-10T20:17:42.152Z",
+  "connections": {
+    "puzzleId": 910,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KINDS OF INSTRUMENTS",
+        "words": [
+          "BRASS",
+          "PERCUSSION",
+          "STRING",
+          "WIND"
+        ]
+      },
+      {
+        "title": "WORDS IN A FAMOUS MUHAMMAD ALI QUOTE",
+        "words": [
+          "BEE",
+          "BUTTERFLY",
+          "FLOAT",
+          "STING"
+        ]
+      },
+      {
+        "title": "KINDS OF CONTESTS",
+        "words": [
+          "BEAUTY",
+          "POPULARITY",
+          "STARING",
+          "TALENT"
+        ]
+      },
+      {
+        "title": "WORDS WITH DIMINUTIVE SUFFIXES",
+        "words": [
+          "DOGGY",
+          "DROPLET",
+          "KITCHENETTE",
+          "STARLING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These are the sounds that fill the air, from bold brass to gentle strings.",
+      "Float like a butterfly, buzz like a bee; these words dance in a champion's decree.",
+      "From beauty to talent, these contests crown the best; each one a showcase, a true test.",
+      "Tiny additions make these words feel small; from doggy to droplet, they're loved by all."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1925,
+    "editor": "Tracy Bennett",
+    "solution": "plump",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something round and full."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests a plumpness or fullness."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It rhymes with a word for a soft, cushioned seat."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 770,
+    "editor": "Tracy Bennett",
+    "clue": "Fall-ing",
+    "spangram": "AUTUMN",
+    "themeWords": [
+      "CORN",
+      "FOLIAGE",
+      "FOOTBALL",
+      "HARVEST",
+      "ORCHARDS",
+      "PUMPKINS"
+    ],
+    "startingBoard": [
+      "AHCIKP",
+      "RRNCNM",
+      "DOSORU",
+      "SUTUMP",
+      "AFBHAN",
+      "OTAFVR",
+      "OLEOES",
+      "LGAILT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2512,
+    "sides": [
+      "LMO",
+      "SYX",
+      "NET",
+      "IKA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "KLAXONS",
+      "STYMIE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17323,
+    "centerLetter": "m",
+    "outerLetters": "aeinty",
+    "pangrams": [
+      "amenity",
+      "anytime"
+    ],
+    "answers": [
+      "amen",
+      "amity",
+      "anemia",
+      "anima",
+      "animate",
+      "anime",
+      "attainment",
+      "emanate",
+      "eminent",
+      "emit",
+      "enema",
+      "enemy",
+      "enmity",
+      "imam",
+      "imitate",
+      "imminent",
+      "inanimate",
+      "inmate",
+      "intimate",
+      "item",
+      "maim",
+      "main",
+      "maintain",
+      "mama",
+      "mamma",
+      "manatee",
+      "mane",
+      "mania",
+      "manna",
+      "manta",
+      "many",
+      "mate",
+      "matey",
+      "matinee",
+      "matte",
+      "mean",
+      "meanie",
+      "meant",
+      "meantime",
+      "meany",
+      "meat",
+      "meaty",
+      "meet",
+      "meme",
+      "mentee",
+      "meta",
+      "mete",
+      "mien",
+      "mime",
+      "mine",
+      "mini",
+      "minim",
+      "minima",
+      "mint",
+      "minty",
+      "mite",
+      "mitt",
+      "mitten",
+      "myna",
+      "name",
+      "tame",
+      "tatami",
+      "team",
+      "teammate",
+      "teatime",
+      "teem",
+      "tenement",
+      "time"
+    ],
+    "pangramHints": [
+      {
+        "word": "amenity",
+        "hint": "A word that suggests comfort, often found in fine places."
+      },
+      {
+        "word": "anytime",
+        "hint": "A term that implies availability, no matter the hour."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

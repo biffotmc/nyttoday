@@ -1,0 +1,166 @@
+{
+  "date": "2026-03-14",
+  "fetchedAt": "2026-05-10T20:27:02.784Z",
+  "connections": {
+    "puzzleId": 1079,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "HYPNOTIC STATE",
+        "words": [
+          "DREAM",
+          "HAZE",
+          "SPELL",
+          "TRANCE"
+        ]
+      },
+      {
+        "title": "STARTING WITH PREFIXES MEANING \"TWO\"",
+        "words": [
+          "BINARY",
+          "DIOXIDE",
+          "DUOLINGO",
+          "TWILIGHT"
+        ]
+      },
+      {
+        "title": "FICTIONAL INSPECTORS",
+        "words": [
+          "CLOUSEAU",
+          "GADGET",
+          "JAVERT",
+          "MORSE"
+        ]
+      },
+      {
+        "title": "ENDING IN FEMALE ANIMALS",
+        "words": [
+          "HOOTENANNY",
+          "LICHEN",
+          "MOSCOW",
+          "NIGHTMARE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A state where reality blurs and dreams take the lead, but don’t get lost in the fog.",
+      "These words start with a duo, but don’t be fooled, they’re not just for pairs.",
+      "Fictional sleuths with a knack for uncovering the truth, each with their own unique flair.",
+      "These creatures may be female, but their names suggest quite the wild adventure."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1748,
+    "editor": "Tracy Bennett",
+    "solution": "ankle",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a joint that connects."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s something you might twist or sprain."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often associated with movement and stability, but don’t let it trip you up!"
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 910,
+    "editor": "Tracy Bennett",
+    "clue": "A math teacher's favorite dessert",
+    "spangram": "HAPPYPIDAY",
+    "themeWords": [
+      "CRUST",
+      "EDGES",
+      "FILLING",
+      "FRUIT",
+      "GLAZE",
+      "LATTICE",
+      "VENT"
+    ],
+    "startingBoard": [
+      "GDEITE",
+      "EFRUAZ",
+      "SRUSTL",
+      "CPYPIG",
+      "PTNEVD",
+      "LAHYAL",
+      "ILECIA",
+      "FINGTT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2657,
+    "sides": [
+      "ORE",
+      "KTL",
+      "IDG",
+      "NMU"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "KINDLING",
+      "GOURMET"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 14682,
+    "centerLetter": "r",
+    "outerLetters": "bfglou",
+    "pangrams": [
+      "bullfrog"
+    ],
+    "answers": [
+      "blur",
+      "blurb",
+      "boor",
+      "bulgur",
+      "burb",
+      "burg",
+      "burgoo",
+      "burl",
+      "burr",
+      "burro",
+      "floor",
+      "flour",
+      "forgo",
+      "four",
+      "frog",
+      "froufrou",
+      "frug",
+      "furl",
+      "furor",
+      "grog",
+      "grub",
+      "gruff",
+      "guru",
+      "logroll",
+      "roll",
+      "roof",
+      "ruff"
+    ],
+    "pangramHints": [
+      {
+        "word": "bullfrog",
+        "hint": "A lively creature that leaps and croaks, but don’t say its name!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

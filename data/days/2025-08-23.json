@@ -1,0 +1,179 @@
+{
+  "date": "2025-08-23",
+  "fetchedAt": "2026-05-10T20:13:40.618Z",
+  "connections": {
+    "puzzleId": 841,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LIQUIDS YOU PUT INTO CARS",
+        "words": [
+          "BRAKE FLUID",
+          "COOLANT",
+          "FUEL",
+          "OIL"
+        ]
+      },
+      {
+        "title": "ARENA",
+        "words": [
+          "BOWL",
+          "COLISEUM",
+          "HIPPODROME",
+          "STADIUM"
+        ]
+      },
+      {
+        "title": "SKULDUGGERY",
+        "words": [
+          "CHICANERY",
+          "DECEIT",
+          "LEGERDEMAIN",
+          "SUBTERFUGE"
+        ]
+      },
+      {
+        "title": "MODERN INVENTIONS",
+        "words": [
+          "CRYPTO",
+          "PODCAST",
+          "SMARTWATCH",
+          "VAPE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When it comes to stopping, you might want to think beyond just the brakes. What keeps your engine happy and running?",
+      "Think of places where the crowd roars and the action unfolds. These venues are built for excitement!",
+      "A clever twist or a sly maneuver can lead to unexpected outcomes. What tricks do you have up your sleeve?",
+      "Innovation is the name of the game. What modern marvels are changing the way we live and connect?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2122,
+    "editor": "Tracy Bennett",
+    "solution": "union",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's about coming together."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with a group or a collective."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a term that describes a joining or merging of things."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 707,
+    "editor": "Tracy Bennett",
+    "clue": "Rub it in, why don't you?",
+    "spangram": "MOISTURIZERS",
+    "themeWords": [
+      "BALM",
+      "BUTTER",
+      "CREAM",
+      "JELLY",
+      "LOTION",
+      "SALVE",
+      "SERUM"
+    ],
+    "startingBoard": [
+      "MCEMRE",
+      "BLRATU",
+      "ASTUTB",
+      "OIERLT",
+      "MSVIOI",
+      "ALMZNO",
+      "RULERS",
+      "SEYLEJ"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2454,
+    "sides": [
+      "NKU",
+      "RLG",
+      "AOF",
+      "DCY"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DRAGONFLY",
+      "YUCK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10098,
+    "centerLetter": "v",
+    "outerLetters": "deghin",
+    "pangrams": [
+      "inveighed"
+    ],
+    "answers": [
+      "devein",
+      "deveined",
+      "deveining",
+      "dive",
+      "dived",
+      "divide",
+      "divided",
+      "dividend",
+      "dividing",
+      "divine",
+      "divined",
+      "diving",
+      "divining",
+      "divvied",
+      "endive",
+      "envied",
+      "even",
+      "evened",
+      "evening",
+      "give",
+      "given",
+      "giving",
+      "hive",
+      "hived",
+      "hiving",
+      "inveigh",
+      "inveighing",
+      "ivied",
+      "vegged",
+      "veggie",
+      "vegging",
+      "vein",
+      "veined",
+      "veining",
+      "vend",
+      "vended",
+      "vending",
+      "vied",
+      "vine",
+      "vivid"
+    ],
+    "pangramHints": [
+      {
+        "word": "inveighed",
+        "hint": "A strong expression of discontent, but don't let the word slip out!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

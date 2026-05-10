@@ -1,0 +1,192 @@
+{
+  "date": "2026-01-14",
+  "fetchedAt": "2026-05-10T20:23:01.636Z",
+  "connections": {
+    "puzzleId": 1011,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FIXED",
+        "words": [
+          "FAST",
+          "FIRM",
+          "SECURE",
+          "TIGHT"
+        ]
+      },
+      {
+        "title": "RECEIVER OF GOODS OR SERVICES",
+        "words": [
+          "ACCOUNT",
+          "CLIENT",
+          "CONSUMER",
+          "USER"
+        ]
+      },
+      {
+        "title": "STARTING WITH WEATHER CONDITIONS",
+        "words": [
+          "FROSTY",
+          "MISTLETOE",
+          "RAINMAKER",
+          "SNOWMAN"
+        ]
+      },
+      {
+        "title": "SILENT ___",
+        "words": [
+          "AUCTION",
+          "MOVIE",
+          "PARTNER",
+          "TREATMENT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words all suggest a sense of security, but one is a little more flexible than the others.",
+      "Think of individuals who benefit from services, but one of these terms has a more formal ring to it.",
+      "These words evoke different types of chilly weather, but one is a festive plant that brings cheer.",
+      "This phrase often follows the word 'silent', but the last word in this group can also mean a type of auction."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1957,
+    "editor": "Tracy Bennett",
+    "solution": "avoid",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might do to stay away from trouble."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests evasion or staying clear of something."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a common action taken to prevent unwanted encounters or situations."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 849,
+    "editor": "Tracy Bennett",
+    "clue": "\"Oh boy!\"",
+    "spangram": "LETSDOTHIS",
+    "themeWords": [
+      "EAGER",
+      "ENTHUSIASTIC",
+      "EXCITED",
+      "FERVENT",
+      "ZEALOUS"
+    ],
+    "startingBoard": [
+      "EVLEIT",
+      "NRTCDE",
+      "TESXCI",
+      "FDOETS",
+      "ROLTAI",
+      "EUAHES",
+      "GSEINU",
+      "AEZSTH"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2596,
+    "sides": [
+      "KTW",
+      "DIR",
+      "CHO",
+      "NGA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "CRACKDOWN",
+      "NIGHT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20035,
+    "centerLetter": "o",
+    "outerLetters": "abcelp",
+    "pangrams": [
+      "placebo"
+    ],
+    "answers": [
+      "alcopop",
+      "allocable",
+      "aloe",
+      "baobab",
+      "bebop",
+      "blob",
+      "bloc",
+      "bloop",
+      "boba",
+      "bobble",
+      "bocce",
+      "bola",
+      "boll",
+      "bolo",
+      "boob",
+      "booboo",
+      "boop",
+      "cacao",
+      "callaloo",
+      "capo",
+      "cello",
+      "cloaca",
+      "clop",
+      "coal",
+      "cobble",
+      "coca",
+      "cocoa",
+      "cola",
+      "collab",
+      "cool",
+      "coop",
+      "cope",
+      "elope",
+      "lobe",
+      "lobo",
+      "local",
+      "locale",
+      "loco",
+      "loll",
+      "lollop",
+      "loop",
+      "lope",
+      "oboe",
+      "oleo",
+      "opal",
+      "paleo",
+      "people",
+      "plop",
+      "pole",
+      "poll",
+      "polo",
+      "pool",
+      "poop",
+      "pope",
+      "poppa"
+    ],
+    "pangramHints": [
+      {
+        "word": "placebo",
+        "hint": "A term often associated with the power of the mind over the body, but it’s not what it seems."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "date": "2025-07-13",
+  "fetchedAt": "2026-05-10T20:10:40.920Z",
+  "connections": {
+    "puzzleId": 799,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INSULT",
+        "words": [
+          "BURN",
+          "KNOCK",
+          "SLIGHT",
+          "ZING"
+        ]
+      },
+      {
+        "title": "CREDIT CARD INFO",
+        "words": [
+          "EXPIRATION",
+          "NAME",
+          "NUMBER",
+          "ZIP"
+        ]
+      },
+      {
+        "title": "SLANG FOR PRINTED MATTER",
+        "words": [
+          "GLOSSY",
+          "MAG",
+          "RAG",
+          "ZINE"
+        ]
+      },
+      {
+        "title": "WINE NICKNAMES",
+        "words": [
+          "BUBBLY",
+          "CAB",
+          "CHARD",
+          "ZIN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A playful jab that can leave a mark, these terms pack a punch without a fist.",
+      "When the clock runs out, these digits can make or break your shopping spree.",
+      "These terms might just be the pages of your favorite read, each with its own flair.",
+      "Raise a glass to these delightful monikers that make your favorite vintages even more charming."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 740,
+    "editor": "Tracy Bennett",
+    "solution": "gnome",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a mythical creature often found in tales."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This being is small and often associated with gardens."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It shares its name with a popular type of figurine and has a whimsical nature."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 663,
+    "editor": "Tracy Bennett",
+    "clue": "Completely fabricated",
+    "spangram": "TEXTILES",
+    "themeWords": [
+      "COTTON",
+      "LINEN",
+      "POLYESTER",
+      "RAYON",
+      "SILK",
+      "SPANDEX",
+      "WOOL"
+    ],
+    "startingBoard": [
+      "KLNSND",
+      "IOEAXE",
+      "SAYLPL",
+      "RNISWO",
+      "ILOTYO",
+      "NTXLES",
+      "ETCEOT",
+      "NOTPER"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2413,
+    "sides": [
+      "QNC",
+      "UOF",
+      "AWI",
+      "LTE"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUALIFICATION",
+      "NEW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 14547,
+    "centerLetter": "a",
+    "outerLetters": "dgintu",
+    "pangrams": [
+      "auditing",
+      "daunting",
+      "inundating"
+    ],
+    "answers": [
+      "adding",
+      "again",
+      "aging",
+      "agita",
+      "agitating",
+      "aiding",
+      "angina",
+      "anti",
+      "attain",
+      "attaining",
+      "attuning",
+      "audit",
+      "aunt",
+      "dang",
+      "data",
+      "dating",
+      "daunt",
+      "gadding",
+      "gaga",
+      "gagging",
+      "gain",
+      "gaining",
+      "gait",
+      "gang",
+      "ganging",
+      "gating",
+      "gauging",
+      "gaunt",
+      "giant",
+      "gnat",
+      "iguana",
+      "indignant",
+      "initiating",
+      "naan",
+      "nada",
+      "nagging",
+      "naiad",
+      "nana",
+      "natant",
+      "tagging",
+      "taiga",
+      "taint",
+      "tainting",
+      "tang",
+      "tannin",
+      "tanning",
+      "tatting",
+      "taunt",
+      "taunting",
+      "taut",
+      "titan",
+      "tuna",
+      "untag",
+      "untagging"
+    ],
+    "pangramHints": [
+      {
+        "word": "auditing",
+        "hint": "A careful examination, often of finances; keep your eyes peeled."
+      },
+      {
+        "word": "daunting",
+        "hint": "Something that may seem intimidating at first glance; face it bravely."
+      },
+      {
+        "word": "inundating",
+        "hint": "A flood of something overwhelming; prepare for a deluge."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

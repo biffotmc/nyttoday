@@ -1,0 +1,201 @@
+{
+  "date": "2025-07-09",
+  "fetchedAt": "2026-05-10T20:10:38.261Z",
+  "connections": {
+    "puzzleId": 794,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "LOWEST PART",
+        "words": [
+          "BASE",
+          "BOTTOM",
+          "FOOT",
+          "FOUNDATION"
+        ]
+      },
+      {
+        "title": "KINDS OF SOCKS",
+        "words": [
+          "ANKLE",
+          "COMPRESSION",
+          "CREW",
+          "DRESS"
+        ]
+      },
+      {
+        "title": "THINGS YOU DO AT SOMEONE'S FRONT DOOR",
+        "words": [
+          "BUZZ",
+          "KNOCK",
+          "RING",
+          "SHOUT"
+        ]
+      },
+      {
+        "title": "ENDING IN SYNONYMS FOR \"CLIP\"",
+        "words": [
+          "COMPARE",
+          "CONNECTICUT",
+          "PARSNIP",
+          "WALLOP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "The foundation of your structure lies here, where everything begins and ends.",
+      "These foot companions come in various styles, each with its own flair.",
+      "When you want to announce your presence, these actions will surely do the trick.",
+      "These words may finish with a snip, but their meanings can stretch far and wide."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1379,
+    "editor": "Tracy Bennett",
+    "solution": "novel",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a fresh idea or story."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This term often describes something new in literature."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It can also refer to a unique work that stands out."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 659,
+    "editor": "Tracy Bennett",
+    "clue": "Party time!",
+    "spangram": "DECORATIONS",
+    "themeWords": [
+      "BALLOON",
+      "BUNTING",
+      "CONFETTI",
+      "PENNANT",
+      "STREAMER"
+    ],
+    "startingBoard": [
+      "POONED",
+      "ETLCTR",
+      "NNLOSE",
+      "NACARA",
+      "IFOBAM",
+      "TENTEG",
+      "TNIRTN",
+      "SOBUNI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2409,
+    "sides": [
+      "LOA",
+      "INK",
+      "PGR",
+      "EDC"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "DOGNAP",
+      "PICKEREL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25021,
+    "centerLetter": "t",
+    "outerLetters": "adegnv",
+    "pangrams": [
+      "advantage",
+      "advantaged"
+    ],
+    "answers": [
+      "advent",
+      "agate",
+      "agent",
+      "andante",
+      "ante",
+      "anted",
+      "antedate",
+      "antedated",
+      "antenna",
+      "antennae",
+      "attend",
+      "attendant",
+      "attended",
+      "attendee",
+      "data",
+      "date",
+      "dated",
+      "dent",
+      "dented",
+      "detente",
+      "eaten",
+      "entente",
+      "event",
+      "gadget",
+      "gannet",
+      "gate",
+      "gated",
+      "gent",
+      "gnat",
+      "natant",
+      "neat",
+      "neaten",
+      "neatened",
+      "negate",
+      "negated",
+      "netted",
+      "tagged",
+      "tang",
+      "tangent",
+      "tanned",
+      "tatted",
+      "teat",
+      "teed",
+      "teen",
+      "teenage",
+      "teenaged",
+      "tenant",
+      "tend",
+      "tended",
+      "tenet",
+      "tent",
+      "tented",
+      "vantage",
+      "vegetate",
+      "vegetated",
+      "vendetta",
+      "vent",
+      "vented",
+      "vetted"
+    ],
+    "pangramHints": [
+      {
+        "word": "advantage",
+        "hint": "A beneficial position; think of a leg up."
+      },
+      {
+        "word": "advantaged",
+        "hint": "Having the upper hand; consider those who are fortunate."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

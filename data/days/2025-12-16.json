@@ -1,0 +1,205 @@
+{
+  "date": "2025-12-16",
+  "fetchedAt": "2026-05-10T20:21:04.556Z",
+  "connections": {
+    "puzzleId": 943,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DANCES",
+        "words": [
+          "BOLERO",
+          "FOXTROT",
+          "MAMBO",
+          "QUICKSTEP"
+        ]
+      },
+      {
+        "title": "DESCENDANTS",
+        "words": [
+          "BROOD",
+          "FAMILY",
+          "OFFSPRING",
+          "POSTERITY"
+        ]
+      },
+      {
+        "title": "HITCHCOCK MOVIES",
+        "words": [
+          "LIFEBOAT",
+          "ROPE",
+          "SPELLBOUND",
+          "SUSPICION"
+        ]
+      },
+      {
+        "title": "STARTING WITH PERCUSSION INSTRUMENTS",
+        "words": [
+          "BELLHOP",
+          "CHIMERA",
+          "DRUMROLL",
+          "RATTLESNAKE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These rhythmic moves can sweep you off your feet, but don’t forget to keep your partner close.",
+      "A lineage that stretches through time, each generation adding its own unique twist.",
+      "Suspense and surprise are the hallmarks of these cinematic gems, where nothing is as it seems.",
+      "Start your groove with a bang; these words resonate with the heartbeat of music."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1345,
+    "editor": "Tracy Bennett",
+    "solution": "segue",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about a smooth transition."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a term often used in music and conversation."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word starts with an 's' and relates to moving from one thing to another."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 820,
+    "editor": "Tracy Bennett",
+    "clue": "Let me count the ways",
+    "spangram": "HIGHPRAISE",
+    "themeWords": [
+      "BEAUTIFUL",
+      "CHARMING",
+      "FUNNY",
+      "KINDHEARTED",
+      "SMART"
+    ],
+    "startingBoard": [
+      "GYNEKI",
+      "NFNSND",
+      "IMUIHA",
+      "RALAER",
+      "HFURET",
+      "CITPHD",
+      "AMUAGI",
+      "TRSEBH"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2569,
+    "sides": [
+      "AHB",
+      "YIS",
+      "WTR",
+      "XCO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BORSCHT",
+      "TAXIWAY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25714,
+    "centerLetter": "t",
+    "outerLetters": "ahnorw",
+    "pangrams": [
+      "hawthorn"
+    ],
+    "answers": [
+      "annatto",
+      "annotator",
+      "aorta",
+      "arhat",
+      "arrant",
+      "arrowroot",
+      "athwart",
+      "attar",
+      "hart",
+      "hath",
+      "hatha",
+      "hoot",
+      "narrator",
+      "natant",
+      "nonart",
+      "north",
+      "notator",
+      "oath",
+      "onto",
+      "orator",
+      "rant",
+      "ratatat",
+      "rattan",
+      "root",
+      "rotator",
+      "rotor",
+      "tantara",
+      "tantra",
+      "taro",
+      "tarot",
+      "tart",
+      "tartan",
+      "tartar",
+      "tattoo",
+      "than",
+      "that",
+      "thaw",
+      "thorn",
+      "throat",
+      "throw",
+      "thrown",
+      "thwart",
+      "toon",
+      "toot",
+      "tooth",
+      "torah",
+      "torn",
+      "toro",
+      "tort",
+      "torta",
+      "town",
+      "trot",
+      "troth",
+      "want",
+      "wanton",
+      "warrant",
+      "warrantor",
+      "wart",
+      "watt",
+      "what",
+      "whatnot",
+      "wont",
+      "wonton",
+      "woot",
+      "wort",
+      "worth",
+      "wrath",
+      "wroth"
+    ],
+    "pangramHints": [
+      {
+        "word": "hawthorn",
+        "hint": "A thorny shrub that flourishes in various climates; watch for its blooms."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

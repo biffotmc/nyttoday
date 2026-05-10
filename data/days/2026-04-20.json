@@ -1,0 +1,192 @@
+{
+  "date": "2026-04-20",
+  "fetchedAt": "2026-05-10T20:29:29.051Z",
+  "connections": {
+    "puzzleId": 1130,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MASS OF SMOKE",
+        "words": [
+          "BILLOW",
+          "CLOUD",
+          "PLUME",
+          "PUFF"
+        ]
+      },
+      {
+        "title": "FISHING GEAR",
+        "words": [
+          "BAIT",
+          "HOOK",
+          "NET",
+          "ROD"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH BLACK WIDOW SPIDERS",
+        "words": [
+          "CANNIBALISM",
+          "HOURGLASS",
+          "VENOM",
+          "WEB"
+        ]
+      },
+      {
+        "title": "___ MONDAY",
+        "words": [
+          "BLUE",
+          "CYBER",
+          "MANIC",
+          "MEATLESS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the air is thick and the atmosphere is heavy, these words might just float by.",
+      "Every angler knows the essentials, but the real catch is often in the details.",
+      "In the shadowy world of arachnids, danger lurks beneath a delicate facade.",
+      "A day of the week can take on many shades; some are more vibrant than others."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 4545,
+    "editor": "Tracy Bennett",
+    "solution": "weave",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Intertwined threads create a tapestry."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This action can bind things together."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a craft that involves fibers crossing over each other."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 953,
+    "editor": "Tracy Bennett",
+    "clue": "Gloriously glaring!",
+    "spangram": "CATCHTHELIGHT",
+    "themeWords": [
+      "GLEAM",
+      "GLIMMER",
+      "GLINT",
+      "GLISTEN",
+      "GLITTER",
+      "GLOW"
+    ],
+    "startingBoard": [
+      "LGMHGI",
+      "TIATEL",
+      "ESEHRE",
+      "NLHTML",
+      "EGCMIG",
+      "TRTOWG",
+      "LTALTL",
+      "GICGNI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2694,
+    "sides": [
+      "YPS",
+      "WAR",
+      "LNE",
+      "FCO"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FLYERS",
+      "SNOWCAP"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23255,
+    "centerLetter": "l",
+    "outerLetters": "adinty",
+    "pangrams": [
+      "daintily"
+    ],
+    "answers": [
+      "alit",
+      "allay",
+      "ally",
+      "anal",
+      "anally",
+      "annal",
+      "atilt",
+      "daily",
+      "dally",
+      "dandily",
+      "daylily",
+      "daylit",
+      "dial",
+      "diddly",
+      "dill",
+      "dilly",
+      "dillydally",
+      "idly",
+      "idyl",
+      "idyll",
+      "illy",
+      "initial",
+      "initially",
+      "inlaid",
+      "inland",
+      "inlay",
+      "lady",
+      "laid",
+      "lain",
+      "laity",
+      "lanai",
+      "land",
+      "landlady",
+      "lantana",
+      "lilt",
+      "lily",
+      "lint",
+      "linty",
+      "litany",
+      "nail",
+      "natal",
+      "natality",
+      "nattily",
+      "tail",
+      "tali",
+      "tall",
+      "tallit",
+      "tally",
+      "tidal",
+      "tidally",
+      "tidily",
+      "till",
+      "tilt",
+      "tinily"
+    ],
+    "pangramHints": [
+      {
+        "word": "daintily",
+        "hint": "A graceful movement, often associated with delicacy."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

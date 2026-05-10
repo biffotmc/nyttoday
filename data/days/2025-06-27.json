@@ -1,0 +1,160 @@
+{
+  "date": "2025-06-27",
+  "fetchedAt": "2026-05-10T20:10:32.636Z",
+  "connections": {
+    "puzzleId": 786,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "IN FASHION",
+        "words": [
+          "CHIC",
+          "CURRENT",
+          "FRESH",
+          "HAPPENING"
+        ]
+      },
+      {
+        "title": "PARTS OF AN ANGEL COSTUME",
+        "words": [
+          "HALO",
+          "HARP",
+          "ROBE",
+          "WINGS"
+        ]
+      },
+      {
+        "title": "“SESAME STREET” FIGURES",
+        "words": [
+          "BIRD",
+          "COUNT",
+          "GROUCH",
+          "MONSTER"
+        ]
+      },
+      {
+        "title": "___ BROTHERS",
+        "words": [
+          "BLOOD",
+          "BLUES",
+          "CHEMICAL",
+          "MARX"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of style, these terms strut their stuff, each one a statement of its own.",
+      "A celestial ensemble awaits, where each piece adds to the ethereal charm.",
+      "In a neighborhood of whimsy, these characters bring joy and lessons to life.",
+      "A family of varied talents, each member plays a role that’s hard to forget."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1669,
+    "editor": "Tracy Bennett",
+    "solution": "plain",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something simple and unadorned."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word often describes a canvas or a surface."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a common term that can also refer to a lack of decoration."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 656,
+    "editor": "Tracy Bennett",
+    "clue": "Playing dirty",
+    "spangram": "SANDBOXTOYS",
+    "themeWords": [
+      "BUCKET",
+      "FUNNEL",
+      "MOLD",
+      "RAKE",
+      "SHOVEL",
+      "SIFTER",
+      "TRUCK"
+    ],
+    "startingBoard": [
+      "SHFUEL",
+      "LOBNNT",
+      "EVUCKE",
+      "SYOTXO",
+      "ETFARB",
+      "RSIEKD",
+      "OMKRTN",
+      "DLCUSA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2397,
+    "sides": [
+      "IRD",
+      "HTP",
+      "GCA",
+      "MEL"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "GLITCHED",
+      "DAMPER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10011,
+    "centerLetter": "m",
+    "outerLetters": "cdegik",
+    "pangrams": [
+      "gimmicked"
+    ],
+    "answers": [
+      "deem",
+      "deemed",
+      "dime",
+      "dimmed",
+      "emcee",
+      "emceed",
+      "gimme",
+      "gimmick",
+      "medic",
+      "meek",
+      "meme",
+      "memed",
+      "mice",
+      "midge",
+      "midi",
+      "mike",
+      "miked",
+      "mime",
+      "mimed",
+      "mimic",
+      "mimicked"
+    ],
+    "pangramHints": [
+      {
+        "word": "gimmicked",
+        "hint": "A playful twist on a trick, but don’t reveal the secret!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

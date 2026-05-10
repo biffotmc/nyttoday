@@ -1,0 +1,178 @@
+{
+  "date": "2025-07-23",
+  "fetchedAt": "2026-05-10T20:11:10.411Z",
+  "connections": {
+    "puzzleId": 812,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DREAD-INDUCING FIGURES",
+        "words": [
+          "BOGEYMAN",
+          "BUGBEAR",
+          "HOBGOBLIN",
+          "PHANTOM"
+        ]
+      },
+      {
+        "title": "KINDS OF STEAKS",
+        "words": [
+          "CHATEAUBRIAND",
+          "FLATIRON",
+          "PORTERHOUSE",
+          "TOMAHAWK"
+        ]
+      },
+      {
+        "title": "RELATED TO BUYING A HOME",
+        "words": [
+          "APPRAISAL",
+          "ESCROW",
+          "INSURANCE",
+          "MORTGAGE"
+        ]
+      },
+      {
+        "title": "ANIMALS ENDING WITH ANIMALS",
+        "words": [
+          "GEODUCK",
+          "SEAHORSE",
+          "TITMOUSE",
+          "WOMBAT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These creatures lurk in the shadows, waiting to give you a fright. Beware their chilling presence!",
+      "Sizzling cuts that can make any meal a feast. Each has its own unique flavor profile!",
+      "Navigating the world of real estate? These terms are essential for securing your dream abode.",
+      "These unique animals have names that end with other creatures, creating a fun twist in the animal kingdom."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1626,
+    "editor": "Tracy Bennett",
+    "solution": "water",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's essential for life and often found in nature."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This element is commonly associated with hydration."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something you might find in a bottle or a river."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 674,
+    "editor": "Tracy Bennett",
+    "clue": "Chips in",
+    "spangram": "PARTYDIPS",
+    "themeWords": [
+      "FONDUE",
+      "GUACAMOLE",
+      "HUMMUS",
+      "QUESO",
+      "SALSA",
+      "TZATZIKI"
+    ],
+    "startingBoard": [
+      "LSQESO",
+      "AAUCAG",
+      "SPASPU",
+      "AMOLEI",
+      "TRTYDE",
+      "ZHMUFU",
+      "AUMSOD",
+      "TZIKIN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2423,
+    "sides": [
+      "RCI",
+      "LWE",
+      "JZT",
+      "YAD"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "WIZARD",
+      "DEJECTEDLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15035,
+    "centerLetter": "c",
+    "outerLetters": "deituv",
+    "pangrams": [
+      "deductive"
+    ],
+    "answers": [
+      "cede",
+      "ceded",
+      "cite",
+      "cited",
+      "civet",
+      "civic",
+      "cued",
+      "cute",
+      "cutie",
+      "deceit",
+      "deceive",
+      "deceived",
+      "decide",
+      "decided",
+      "deduce",
+      "deduced",
+      "deduct",
+      "deducted",
+      "deice",
+      "deiced",
+      "deicide",
+      "detect",
+      "detected",
+      "detective",
+      "deuce",
+      "device",
+      "dice",
+      "diced",
+      "dietetic",
+      "duct",
+      "ducted",
+      "edict",
+      "educe",
+      "educed",
+      "eidetic",
+      "evict",
+      "evicted",
+      "evictee",
+      "iced",
+      "vice"
+    ],
+    "pangramHints": [
+      {
+        "word": "deductive",
+        "hint": "A method of reasoning that leads to conclusions; think logic!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

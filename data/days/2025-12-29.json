@@ -1,0 +1,200 @@
+{
+  "date": "2025-12-29",
+  "fetchedAt": "2026-05-10T20:21:57.429Z",
+  "connections": {
+    "puzzleId": 959,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TENDENCY",
+        "words": [
+          "COURSE",
+          "DIRECTION",
+          "TIDE",
+          "TREND"
+        ]
+      },
+      {
+        "title": "BIOLOGICAL STRUCTURES",
+        "words": [
+          "CELL",
+          "GENE",
+          "PROTEIN",
+          "TISSUE"
+        ]
+      },
+      {
+        "title": "SUMMER OLYMPIC EVENTS",
+        "words": [
+          "ATHLETICS",
+          "EQUESTRIAN",
+          "SWIMMING",
+          "TRIATHLON"
+        ]
+      },
+      {
+        "title": "CAR BRAND HOMOPHONES",
+        "words": [
+          "INFINITY",
+          "MINNIE",
+          "OPAL",
+          "OUTIE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Follow the flow of change as it ebbs and flows, like the ocean's rhythm.",
+      "Tiny building blocks of life, each playing its part in a grand design.",
+      "Feel the thrill of competition as athletes strive for glory under the sun.",
+      "Words that sound alike but drive in different lanes; can you hear the difference?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1989,
+    "editor": "Tracy Bennett",
+    "solution": "fruit",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something sweet and often found in desserts."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can refer to a category of edible items."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something that grows on trees or vines, often colorful."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 834,
+    "editor": "Tracy Bennett",
+    "clue": "Are you putting me on?",
+    "spangram": "SUITYOURSELF",
+    "themeWords": [
+      "BELT",
+      "CUFFLINKS",
+      "JACKET",
+      "SHIRT",
+      "TROUSERS",
+      "VEST"
+    ],
+    "startingBoard": [
+      "SHTNKS",
+      "ILOUIL",
+      "REYRFF",
+      "TBTSCU",
+      "SUIELF",
+      "JAESST",
+      "KCRUOE",
+      "ETSRTV"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2577,
+    "sides": [
+      "LUA",
+      "RPE",
+      "MXO",
+      "QIG"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUORUM",
+      "MEGAPIXEL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26972,
+    "centerLetter": "b",
+    "outerLetters": "adgiln",
+    "pangrams": [
+      "balding",
+      "blading",
+      "dabbling"
+    ],
+    "answers": [
+      "abiding",
+      "alibi",
+      "baaing",
+      "baba",
+      "babbling",
+      "badging",
+      "bagging",
+      "bail",
+      "bailing",
+      "bald",
+      "baling",
+      "ball",
+      "ballad",
+      "balling",
+      "banal",
+      "banana",
+      "band",
+      "bandaging",
+      "bandana",
+      "bandanna",
+      "banding",
+      "bang",
+      "banging",
+      "banning",
+      "bidding",
+      "biding",
+      "bilabial",
+      "bill",
+      "billing",
+      "bind",
+      "bindi",
+      "binding",
+      "binging",
+      "binning",
+      "blab",
+      "blabbing",
+      "bland",
+      "blin",
+      "blind",
+      "blinding",
+      "bling",
+      "blini",
+      "dabbing",
+      "gabbing",
+      "gabbling",
+      "gibing",
+      "glib",
+      "labia",
+      "labial",
+      "libidinal",
+      "nabbing",
+      "nibbling"
+    ],
+    "pangramHints": [
+      {
+        "word": "balding",
+        "hint": "A state of losing hair, often associated with age."
+      },
+      {
+        "word": "blading",
+        "hint": "A term that can refer to a cutting edge or a smooth glide."
+      },
+      {
+        "word": "dabbling",
+        "hint": "To engage in an activity casually or superficially."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

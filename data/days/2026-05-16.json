@@ -1,0 +1,208 @@
+{
+  "date": "2026-05-16",
+  "fetchedAt": "2026-05-10T20:14:04.935Z",
+  "connections": {
+    "puzzleId": 1149,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GLASSWARE",
+        "words": [
+          "COUPE",
+          "FLUTE",
+          "STEIN",
+          "TUMBLER"
+        ]
+      },
+      {
+        "title": "MESS AROUND (WITH)",
+        "words": [
+          "FIDDLE",
+          "MESS",
+          "PLAY",
+          "TINKER"
+        ]
+      },
+      {
+        "title": "MUSIC PERFORMANCE DIRECTIONS",
+        "words": [
+          "ALLEGRO",
+          "FORTE",
+          "LARGO",
+          "PIANO"
+        ]
+      },
+      {
+        "title": "ENDING IN SYNONYMS FOR \"ASAP\"",
+        "words": [
+          "BASSOON",
+          "BELFAST",
+          "NESQUICK",
+          "THERMOSTAT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Raise your glass to these fine vessels, each with its own unique purpose and style.",
+      "A playful twist on tasks, where creativity meets chaos in delightful ways.",
+      "Follow the tempo and dynamics, as these terms guide the rhythm of a performance.",
+      "Words that signal urgency, each holding a different weight in the race against time."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1423,
+    "editor": "Tracy Bennett",
+    "solution": "mover",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of someone who changes locations frequently."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also describe a person who shifts their position."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with travel or relocation, but not in a permanent sense."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 979,
+    "editor": "Tracy Bennett",
+    "clue": "Bon appétit!",
+    "spangram": "FRENCHBAKERY",
+    "themeWords": [
+      "CROISSANT",
+      "ECLAIR",
+      "MACARON",
+      "MERINGUE",
+      "MOUSSE"
+    ],
+    "startingBoard": [
+      "FRENCH",
+      "MACAMB",
+      "ERONOA",
+      "REURIK",
+      "INGCSE",
+      "ILEASR",
+      "RACTNY",
+      "MOUSSE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2720,
+    "sides": [
+      "MTD",
+      "ARP",
+      "IVE",
+      "KHO"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "VODKA",
+      "AMPHITHEATER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10805,
+    "centerLetter": "a",
+    "outerLetters": "ehnopt",
+    "pangrams": [
+      "pantheon",
+      "phaeton",
+      "phonate"
+    ],
+    "answers": [
+      "aeon",
+      "annatto",
+      "annotate",
+      "anon",
+      "ante",
+      "antenna",
+      "antennae",
+      "apnea",
+      "atone",
+      "atop",
+      "eaten",
+      "ethane",
+      "happen",
+      "hate",
+      "hath",
+      "hatha",
+      "heap",
+      "heat",
+      "heath",
+      "heathen",
+      "henna",
+      "heptane",
+      "naan",
+      "nana",
+      "nape",
+      "natant",
+      "neap",
+      "neat",
+      "neaten",
+      "neath",
+      "neonate",
+      "notate",
+      "oaten",
+      "oath",
+      "paean",
+      "pane",
+      "panettone",
+      "pant",
+      "papa",
+      "pate",
+      "patent",
+      "patentee",
+      "path",
+      "peahen",
+      "peat",
+      "pennant",
+      "pentane",
+      "phat",
+      "poppa",
+      "potato",
+      "potentate",
+      "tapa",
+      "tape",
+      "tattoo",
+      "teapot",
+      "teat",
+      "tenant",
+      "than",
+      "thane",
+      "that",
+      "theta"
+    ],
+    "pangramHints": [
+      {
+        "word": "pantheon",
+        "hint": "A place of many gods, where legends gather."
+      },
+      {
+        "word": "phaeton",
+        "hint": "A chariot that raced through the skies, driven by the sun."
+      },
+      {
+        "word": "phonate",
+        "hint": "To produce sound, especially in the realm of speech."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

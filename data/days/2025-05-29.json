@@ -1,0 +1,187 @@
+{
+  "date": "2025-05-29",
+  "fetchedAt": "2026-05-10T20:07:29.942Z",
+  "connections": {
+    "puzzleId": 736,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SALUTE",
+        "words": [
+          "APPLAUD",
+          "HAIL",
+          "HONOR",
+          "PRAISE"
+        ]
+      },
+      {
+        "title": "SUITABLE",
+        "words": [
+          "APT",
+          "FIT",
+          "PROPER",
+          "RIGHT"
+        ]
+      },
+      {
+        "title": "VERBS FOR FINISHING DONUTS",
+        "words": [
+          "FROST",
+          "GLAZE",
+          "POWDER",
+          "SPRINKLE"
+        ]
+      },
+      {
+        "title": "WHAT “BUFF” MIGHT MEAN",
+        "words": [
+          "ENTHUSIAST",
+          "MUSCULAR",
+          "NUDE",
+          "POLISH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the crowd goes wild, they might show their appreciation in various ways.",
+      "Finding the right fit can be a challenge, but some options are always more appropriate than others.",
+      "Sweetening the deal can come in many forms, especially when it involves a treat that's hard to resist.",
+      "A certain type of person might embody strength, passion, or even a certain level of exposure."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2177,
+    "editor": "Tracy Bennett",
+    "solution": "quash",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a word that means to suppress or put an end to."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word starts with a 'q' and involves controlling something."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a five-letter word that can mean to crush or subdue."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 617,
+    "editor": "Tracy Bennett",
+    "clue": "It's a little buggy",
+    "spangram": "INSECT",
+    "themeWords": [
+      "BUTTERFLY",
+      "DRAGONFLY",
+      "FLEA",
+      "HORNET",
+      "MANTIS",
+      "MOTH",
+      "WASP"
+    ],
+    "startingBoard": [
+      "YFRAPF",
+      "LEWSAL",
+      "TUHTEM",
+      "TNBEOT",
+      "IASDCS",
+      "GYRRNI",
+      "OLOEMT",
+      "NFHTAN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2368,
+    "sides": [
+      "RUN",
+      "YCH",
+      "IMD",
+      "TEO"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "DOCUMENT",
+      "THIRTY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12638,
+    "centerLetter": "m",
+    "outerLetters": "aceipt",
+    "pangrams": [
+      "peacetime"
+    ],
+    "answers": [
+      "acme",
+      "attempt",
+      "came",
+      "cami",
+      "camp",
+      "emaciate",
+      "emcee",
+      "emetic",
+      "emit",
+      "imam",
+      "imitate",
+      "impact",
+      "item",
+      "mace",
+      "maim",
+      "mama",
+      "mamma",
+      "mate",
+      "matte",
+      "meat",
+      "mecca",
+      "meet",
+      "meme",
+      "memetic",
+      "meta",
+      "mete",
+      "mica",
+      "mice",
+      "mime",
+      "mimetic",
+      "mimic",
+      "mite",
+      "mitt",
+      "pampa",
+      "pimp",
+      "tame",
+      "tamp",
+      "tatami",
+      "team",
+      "teammate",
+      "teatime",
+      "teem",
+      "temp",
+      "tempi",
+      "tempt",
+      "time",
+      "timepiece",
+      "titmice"
+    ],
+    "pangramHints": [
+      {
+        "word": "peacetime",
+        "hint": "A period of calm that follows conflict, where harmony reigns."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

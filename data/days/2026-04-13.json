@@ -1,0 +1,165 @@
+{
+  "date": "2026-04-13",
+  "fetchedAt": "2026-05-10T20:29:01.619Z",
+  "connections": {
+    "puzzleId": 1113,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SEEN OUTSIDE A THEATER",
+        "words": [
+          "BOX OFFICE",
+          "MARQUEE",
+          "TICKET LINE",
+          "VELVET ROPE"
+        ]
+      },
+      {
+        "title": "ACCESSORIES FOR A MAGICIAN",
+        "words": [
+          "CAPE",
+          "HANDKERCHIEF",
+          "MAGIC WAND",
+          "RABBIT"
+        ]
+      },
+      {
+        "title": "TV SHOW TITLE SURNAMES",
+        "words": [
+          "HOUSE",
+          "LASSO",
+          "MONTANA",
+          "SOPRANO"
+        ]
+      },
+      {
+        "title": "THEY HAVE CAPS",
+        "words": [
+          "BASEBALL PLAYER",
+          "CAMERA LENS",
+          "MUSHROOM",
+          "PEN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A place where dreams and reality blur, where tickets grant entry to the spectacle.",
+      "Essential items for conjuring wonder, where the unexpected often appears.",
+      "Names that echo through the screen, leaving a lasting impression with each episode.",
+      "Entities that sport headgear, from the diamond to the forest floor."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1740,
+    "editor": "Tracy Bennett",
+    "solution": "elfin",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something small and magical."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s often associated with fantasy and whimsy."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word describes a quality or characteristic often found in folklore."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 945,
+    "editor": "Tracy Bennett",
+    "clue": "While not in use",
+    "spangram": "STORAGESHED",
+    "themeWords": [
+      "BICYCLE",
+      "GRILL",
+      "HOSE",
+      "MOWER",
+      "TOOLS",
+      "WHEELBARROW"
+    ],
+    "startingBoard": [
+      "STOWHE",
+      "TERAEL",
+      "OSOGAB",
+      "OSHERR",
+      "LRLSWO",
+      "EOLHED",
+      "WMICYB",
+      "GRELCI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2687,
+    "sides": [
+      "ILK",
+      "PAH",
+      "SBM",
+      "WUC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WHIPLASH",
+      "HUMPBACK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15925,
+    "centerLetter": "g",
+    "outerLetters": "hortuw",
+    "pangrams": [
+      "outgrowth",
+      "wrought"
+    ],
+    "answers": [
+      "goth",
+      "gout",
+      "grog",
+      "grotto",
+      "grout",
+      "grow",
+      "growth",
+      "guru",
+      "ought",
+      "outgo",
+      "outgrow",
+      "outthought",
+      "rotgut",
+      "rough",
+      "thorough",
+      "though",
+      "thought",
+      "through",
+      "throughout",
+      "thug",
+      "tough",
+      "trough"
+    ],
+    "pangramHints": [
+      {
+        "word": "outgrowth",
+        "hint": "A word that suggests something that emerges or develops."
+      },
+      {
+        "word": "wrought",
+        "hint": "A term often used to describe something shaped or crafted."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

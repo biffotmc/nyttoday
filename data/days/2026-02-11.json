@@ -1,0 +1,164 @@
+{
+  "date": "2026-02-11",
+  "fetchedAt": "2026-05-10T20:24:44.695Z",
+  "connections": {
+    "puzzleId": 1035,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ACT LOVESTRUCK",
+        "words": [
+          "MOON",
+          "PINE",
+          "SWOON",
+          "YEARN"
+        ]
+      },
+      {
+        "title": "EARNINGS",
+        "words": [
+          "GAIN",
+          "NET",
+          "RETURN",
+          "YIELD"
+        ]
+      },
+      {
+        "title": "COMPACT MASS",
+        "words": [
+          "BLOCK",
+          "BRICK",
+          "CAKE",
+          "PUCK"
+        ]
+      },
+      {
+        "title": "ROLLER ___",
+        "words": [
+          "BAG",
+          "COASTER",
+          "DERBY",
+          "RINK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of affection, celestial bodies and nature intertwine, whispering sweet nothings.",
+      "When profits dance in the light, the figures tell tales of success and growth.",
+      "In a world of solid forms, compact creations stand tall, each with its own unique strength.",
+      "A thrilling ride awaits, where wheels spin and excitement flows in every direction."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2119,
+    "editor": "Tracy Bennett",
+    "solution": "vegan",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a lifestyle choice that’s all about plants."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s a five-letter word that often comes up in dietary discussions."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word embodies a way of living that avoids animal products."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 880,
+    "editor": "Tracy Bennett",
+    "clue": "Crack and snack",
+    "spangram": "GONUTS",
+    "themeWords": [
+      "ALMOND",
+      "CASHEW",
+      "FILBERT",
+      "MACADAMIA",
+      "PECAN",
+      "PISTACHIO"
+    ],
+    "startingBoard": [
+      "ILBERT",
+      "NFPMAI",
+      "AEAAAM",
+      "COCUDS",
+      "GSNCTA",
+      "HEAMLN",
+      "IOWTOD",
+      "HCASIP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2626,
+    "sides": [
+      "JET",
+      "HUN",
+      "IQY",
+      "CMO"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUICHE",
+      "ENJOYMENT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25037,
+    "centerLetter": "m",
+    "outerLetters": "efinty",
+    "pangrams": [
+      "femininity"
+    ],
+    "answers": [
+      "eminent",
+      "emit",
+      "enemy",
+      "enmity",
+      "feminine",
+      "femme",
+      "imminent",
+      "item",
+      "meet",
+      "meme",
+      "mentee",
+      "mete",
+      "mien",
+      "miff",
+      "mime",
+      "mine",
+      "mini",
+      "minim",
+      "mint",
+      "minty",
+      "mite",
+      "mitt",
+      "mitten",
+      "teem",
+      "tenement",
+      "time"
+    ],
+    "pangramHints": [
+      {
+        "word": "femininity",
+        "hint": "A word that captures the essence of softness and grace, woven with complexity."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "date": "2026-02-24",
+  "fetchedAt": "2026-05-10T20:25:38.159Z",
+  "connections": {
+    "puzzleId": 1066,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CALCIUM-BASED STRUCTURES",
+        "words": [
+          "BONES",
+          "CORAL",
+          "SHELLS",
+          "TEETH"
+        ]
+      },
+      {
+        "title": "SYMBOLS OF SCOTLAND",
+        "words": [
+          "BAGPIPES",
+          "SCOTTIE",
+          "TARTAN",
+          "THISTLE"
+        ]
+      },
+      {
+        "title": "FAMOUS PLAYWRIGHTS",
+        "words": [
+          "CHEKHOV",
+          "COWARD",
+          "MILLER",
+          "SHAW"
+        ]
+      },
+      {
+        "title": "___ BEAM",
+        "words": [
+          "BALANCE",
+          "JIM",
+          "LASER",
+          "TRACTOR"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These elements are the backbone of life, supporting us in ways we often overlook.",
+      "A melody of heritage, these icons dance through the misty glens of a storied land.",
+      "Crafted words that have stood the test of time, their creators shaped the stage of history.",
+      "A phrase that suggests equilibrium, yet each word carries its own weight in the world."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1069,
+    "editor": "Tracy Bennett",
+    "solution": "buyer",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of someone who purchases."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word rhymes with 'flyer' but starts with a 'b'."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term often associated with transactions and commerce."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 887,
+    "editor": "Tracy Bennett",
+    "clue": "Just for reference",
+    "spangram": "LOOKITUP",
+    "themeWords": [
+      "DICTIONARY",
+      "DIRECTORY",
+      "ENCYCLOPEDIA",
+      "THESAURUS"
+    ],
+    "startingBoard": [
+      "CLOEDP",
+      "EYPIUT",
+      "NCATEH",
+      "YCEISA",
+      "RTRKRU",
+      "OIODSU",
+      "DOIIOR",
+      "LCTNAY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2639,
+    "sides": [
+      "UCY",
+      "TRW",
+      "SHF",
+      "IMA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WITCHCRAFT",
+      "THYMUS"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16211,
+    "centerLetter": "o",
+    "outerLetters": "cfilnt",
+    "pangrams": [
+      "conflict",
+      "infliction"
+    ],
+    "answers": [
+      "clot",
+      "cocci",
+      "cocoon",
+      "coffin",
+      "coif",
+      "coil",
+      "coin",
+      "colic",
+      "colon",
+      "colonic",
+      "colt",
+      "concoct",
+      "concoction",
+      "confit",
+      "conic",
+      "cool",
+      "coot",
+      "cotillion",
+      "cotton",
+      "fiction",
+      "finito",
+      "foci",
+      "foil",
+      "folic",
+      "folio",
+      "font",
+      "fool",
+      "foot",
+      "icon",
+      "iconic",
+      "info",
+      "into",
+      "ionic",
+      "liftoff",
+      "lion",
+      "loci",
+      "loco",
+      "loft",
+      "loin",
+      "loll",
+      "loon",
+      "loot",
+      "lotion",
+      "lotto",
+      "nonfiction",
+      "nonillion",
+      "noon",
+      "notion",
+      "octillion",
+      "olio",
+      "onion",
+      "onto",
+      "tinfoil",
+      "toil",
+      "toll",
+      "tonic",
+      "tool",
+      "toon",
+      "toot"
+    ],
+    "pangramHints": [
+      {
+        "word": "conflict",
+        "hint": "A clash of ideas or forces, often leading to resolution."
+      },
+      {
+        "word": "infliction",
+        "hint": "The act of causing something unpleasant or painful."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

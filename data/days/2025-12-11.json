@@ -1,0 +1,174 @@
+{
+  "date": "2025-12-11",
+  "fetchedAt": "2026-05-10T20:20:44.764Z",
+  "connections": {
+    "puzzleId": 971,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "THINGS SEEN IN A YARD",
+        "words": [
+          "GNOME",
+          "GRILL",
+          "SHED",
+          "SPRINKLER"
+        ]
+      },
+      {
+        "title": "ANAGRAMS",
+        "words": [
+          "ARES",
+          "EARS",
+          "SEAR",
+          "SERA"
+        ]
+      },
+      {
+        "title": "LETTER HOMOPHONES",
+        "words": [
+          "ARE",
+          "ELLE",
+          "QUE",
+          "QUEUE"
+        ]
+      },
+      {
+        "title": "DUST ___",
+        "words": [
+          "BOWL",
+          "BUNNY",
+          "DEVIL",
+          "JACKET"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of outdoor leisure, these items bring both charm and utility to your green space.",
+      "Rearranging these characters will lead you to a familiar sound, echoing in the ears of many.",
+      "These pairs sound alike but dance in different forms; listen closely to their playful tones.",
+      "A playful twist on a common phrase, these items might just bring a smile or a chill."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1683,
+    "editor": "Tracy Bennett",
+    "solution": "guess",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you do when you're uncertain."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This action often involves seeking clarity."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "A common word for making an attempt, often used in games."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 815,
+    "editor": "Tracy Bennett",
+    "clue": "Let me elaborate ...",
+    "spangram": "ANDFURTHERMORE",
+    "themeWords": [
+      "ADDENDUM",
+      "EPILOGUE",
+      "FOOTNOTE",
+      "POSTSCRIPT"
+    ],
+    "startingBoard": [
+      "NDFUON",
+      "AOPRTT",
+      "STSTEO",
+      "CIEHFO",
+      "RPRMEP",
+      "TDNOIE",
+      "UEDRLU",
+      "MDAEOG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2563,
+    "sides": [
+      "IGH",
+      "PLM",
+      "NZA",
+      "UXY"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "PHYLUM",
+      "MAXIMIZING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19511,
+    "centerLetter": "y",
+    "outerLetters": "aelmop",
+    "pangrams": [
+      "maypole"
+    ],
+    "answers": [
+      "allay",
+      "alley",
+      "alloy",
+      "ally",
+      "amply",
+      "amyl",
+      "apply",
+      "eely",
+      "employ",
+      "employee",
+      "lamely",
+      "laypeople",
+      "loamy",
+      "loopy",
+      "loyal",
+      "loyally",
+      "mayo",
+      "mealy",
+      "molly",
+      "mommy",
+      "mopey",
+      "myeloma",
+      "myope",
+      "palely",
+      "palmy",
+      "papally",
+      "papaya",
+      "pappy",
+      "payee",
+      "payola",
+      "peppy",
+      "play",
+      "ploy",
+      "polyp",
+      "poppy",
+      "yappy",
+      "yell",
+      "yelp"
+    ],
+    "pangramHints": [
+      {
+        "word": "maypole",
+        "hint": "A festive structure often associated with spring celebrations; think of ribbons and dancing."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

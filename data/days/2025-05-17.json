@@ -1,0 +1,207 @@
+{
+  "date": "2025-05-17",
+  "fetchedAt": "2026-05-10T20:06:40.318Z",
+  "connections": {
+    "puzzleId": 742,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MEMBER OF A KINGDOM IN TAXONOMY",
+        "words": [
+          "ANIMAL",
+          "BACTERIA",
+          "FUNGUS",
+          "PLANT"
+        ]
+      },
+      {
+        "title": "GRADUATED INSTRUMENTS",
+        "words": [
+          "BEAKER",
+          "PROTRACTOR",
+          "RULER",
+          "SYRINGE"
+        ]
+      },
+      {
+        "title": "KINDS OF PENGUINS",
+        "words": [
+          "CHINSTRAP",
+          "EMPEROR",
+          "KING",
+          "MACARONI"
+        ]
+      },
+      {
+        "title": "“E” THINGS",
+        "words": [
+          "COMMERCE",
+          "MAIL",
+          "SCOOTER",
+          "SIGNATURE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a world where life flourishes, these four categories reign supreme, each a vital thread in the tapestry of existence.",
+      "In the realm of academia, these tools are your trusty companions, guiding you through the maze of measurements and experiments.",
+      "These feathered friends come in various styles, each strutting their unique traits across icy landscapes.",
+      "Words that start with a certain vowel can bring commerce to life, speed up your travel, or even seal a deal."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1299,
+    "editor": "Tracy Bennett",
+    "solution": "grown",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that has developed over time."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to something that has matured or expanded."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a term often associated with progress or advancement."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 604,
+    "editor": "Tracy Bennett",
+    "clue": "She's got game",
+    "spangram": "BASKETBALL",
+    "themeWords": [
+      "DREAM",
+      "FEVER",
+      "LIBERTY",
+      "LYNX",
+      "MERCURY",
+      "STORM",
+      "WINGS"
+    ],
+    "startingBoard": [
+      "TRALLY",
+      "SOMBRE",
+      "VETURM",
+      "ERFECI",
+      "SMKYBL",
+      "NGASTE",
+      "IEAXRL",
+      "WRDBNY"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2356,
+    "sides": [
+      "HUP",
+      "IER",
+      "SAY",
+      "FLG"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FISHEYE",
+      "EARPLUG"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20817,
+    "centerLetter": "l",
+    "outerLetters": "aeintz",
+    "pangrams": [
+      "initialize",
+      "tantalize"
+    ],
+    "answers": [
+      "alien",
+      "alienate",
+      "alit",
+      "allele",
+      "anal",
+      "annal",
+      "anneal",
+      "antenatal",
+      "atilt",
+      "azalea",
+      "elan",
+      "elate",
+      "elite",
+      "entail",
+      "entitle",
+      "initial",
+      "inlet",
+      "intel",
+      "lain",
+      "lanai",
+      "lane",
+      "lantana",
+      "late",
+      "laten",
+      "latent",
+      "latte",
+      "laze",
+      "lean",
+      "leant",
+      "lenient",
+      "lent",
+      "lentil",
+      "lien",
+      "lilt",
+      "line",
+      "lineal",
+      "linen",
+      "linnet",
+      "lint",
+      "lintel",
+      "lite",
+      "little",
+      "nail",
+      "natal",
+      "nettle",
+      "tail",
+      "tale",
+      "talent",
+      "tali",
+      "tall",
+      "tallit",
+      "tattle",
+      "tattletale",
+      "teal",
+      "tell",
+      "telltale",
+      "tile",
+      "till",
+      "tilt",
+      "titillate",
+      "title",
+      "tittle",
+      "zeal"
+    ],
+    "pangramHints": [
+      {
+        "word": "initialize",
+        "hint": "Start something fresh with a mix of letters that’s just right."
+      },
+      {
+        "word": "tantalize",
+        "hint": "A word that teases the senses, inviting curiosity without revealing all."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

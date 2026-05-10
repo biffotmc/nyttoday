@@ -1,0 +1,204 @@
+{
+  "date": "2025-12-27",
+  "fetchedAt": "2026-05-10T20:21:50.386Z",
+  "connections": {
+    "puzzleId": 948,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "AIRLINE CLASSES",
+        "words": [
+          "BUSINESS",
+          "ECONOMY",
+          "FIRST",
+          "PREMIUM"
+        ]
+      },
+      {
+        "title": "ATTRIBUTE",
+        "words": [
+          "CITE",
+          "CREDIT",
+          "NAME",
+          "REFERENCE"
+        ]
+      },
+      {
+        "title": "VOCATION",
+        "words": [
+          "CALLING",
+          "CRAFT",
+          "LINE",
+          "TRADE"
+        ]
+      },
+      {
+        "title": "ENDING WITH ALCOHOLIC BEVERAGES",
+        "words": [
+          "DECIDER",
+          "NAMESAKE",
+          "REPORT",
+          "VILLAGER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the sky of comfort, some seats are more luxurious than others. Which ones take you higher?",
+      "When you need to give credit where it's due, what do you call that acknowledgment?",
+      "In the world of work, some paths are chosen while others are crafted. Which one speaks to you?",
+      "When the night is young and the drinks are flowing, what do you call the ones who tell the tales?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2137,
+    "editor": "Tracy Bennett",
+    "solution": "batch",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might do with ingredients."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a word that suggests grouping or combining."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This term often relates to cooking or preparing something in quantity."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 832,
+    "editor": "Tracy Bennett",
+    "clue": "If you ask me ...",
+    "spangram": "MYTWOCENTS",
+    "themeWords": [
+      "OPINION",
+      "OUTLOOK",
+      "PERSPECTIVE",
+      "TAKE",
+      "VIEWPOINT"
+    ],
+    "startingBoard": [
+      "NOMYKA",
+      "EINTET",
+      "VPIWVT",
+      "IOCOIN",
+      "TCEWEI",
+      "PENOPO",
+      "SRTOLT",
+      "PESKUO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2581,
+    "sides": [
+      "ULH",
+      "AOT",
+      "FDG",
+      "NIR"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FOUGHT",
+      "TRADITIONAL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 17658,
+    "centerLetter": "u",
+    "outerLetters": "aeglnt",
+    "pangrams": [
+      "gauntlet",
+      "ungulate",
+      "untangle"
+    ],
+    "answers": [
+      "ague",
+      "annual",
+      "annul",
+      "attenuate",
+      "attune",
+      "aunt",
+      "gateau",
+      "gauge",
+      "gaunt",
+      "glue",
+      "glug",
+      "glut",
+      "glute",
+      "gluteal",
+      "gluten",
+      "gulag",
+      "gull",
+      "gullet",
+      "language",
+      "league",
+      "luau",
+      "luge",
+      "luggage",
+      "lull",
+      "lulu",
+      "luna",
+      "lunate",
+      "lune",
+      "lunette",
+      "lung",
+      "lunge",
+      "lunula",
+      "lunulae",
+      "lute",
+      "luteal",
+      "nugget",
+      "null",
+      "taunt",
+      "taut",
+      "tauten",
+      "tulle",
+      "tuna",
+      "tune",
+      "tunnel",
+      "tutee",
+      "tutelage",
+      "tutu",
+      "ulna",
+      "ulnae",
+      "ululate",
+      "uneaten",
+      "ungentle",
+      "unglue",
+      "unguent",
+      "unlet",
+      "untag",
+      "untune"
+    ],
+    "pangramHints": [
+      {
+        "word": "gauntlet",
+        "hint": "A challenge awaits, but this word also suggests a protective layer."
+      },
+      {
+        "word": "ungulate",
+        "hint": "Think of hoofed creatures; this term describes a whole group."
+      },
+      {
+        "word": "untangle",
+        "hint": "When things get messy, this action helps restore order."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

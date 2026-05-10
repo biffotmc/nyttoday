@@ -1,0 +1,175 @@
+{
+  "date": "2026-02-18",
+  "fetchedAt": "2026-05-10T20:25:11.693Z",
+  "connections": {
+    "puzzleId": 1064,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "RETRO HAIR DIRECTIVES",
+        "words": [
+          "CRIMP",
+          "CURL",
+          "FEATHER",
+          "TEASE"
+        ]
+      },
+      {
+        "title": "RETRO SLANG FOR COOL",
+        "words": [
+          "BAD",
+          "FLY",
+          "RAD",
+          "WICKED"
+        ]
+      },
+      {
+        "title": "CHICKEN DESCRIPTORS",
+        "words": [
+          "BANTAM",
+          "CRESTED",
+          "FREE-RANGE",
+          "LEGHORN"
+        ]
+      },
+      {
+        "title": "___ CREAM",
+        "words": [
+          "HEAVY",
+          "SHAVING",
+          "SOUR",
+          "TOPICAL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When styling your locks, remember to channel the past with a twist of flair.",
+      "In the realm of coolness, these terms reign supreme, echoing through the ages.",
+      "Feathered friends come in many forms; some strut with pride while others roam free.",
+      "This creamy delight can be heavy, soothing, or just a little bit sour."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1261,
+    "editor": "Tracy Bennett",
+    "solution": "mogul",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a powerful figure in business."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This term can describe someone who has made it big."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often associated with wealth and influence, it's a five-letter word."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 892,
+    "editor": "Tracy Bennett",
+    "clue": "Cold competition",
+    "spangram": "WINTERSPORTS",
+    "themeWords": [
+      "BOBSLED",
+      "CURLING",
+      "HOCKEY",
+      "LUGE",
+      "SNOWBOARDING"
+    ],
+    "startingBoard": [
+      "WIBSLE",
+      "LUNODA",
+      "GHTBRO",
+      "EOEIDB",
+      "KCRNSW",
+      "EYSGNO",
+      "RUCPOT",
+      "LINGRS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2633,
+    "sides": [
+      "YIO",
+      "CAP",
+      "LWE",
+      "DVN"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "ENCYCLOPEDIA",
+      "AVOW"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24415,
+    "centerLetter": "n",
+    "outerLetters": "acdorv",
+    "pangrams": [
+      "cordovan"
+    ],
+    "answers": [
+      "acorn",
+      "adorn",
+      "anaconda",
+      "anon",
+      "arcana",
+      "canard",
+      "cancan",
+      "candor",
+      "canna",
+      "cannon",
+      "canon",
+      "caravan",
+      "cocoon",
+      "codon",
+      "concord",
+      "condo",
+      "condor",
+      "convo",
+      "cordon",
+      "corn",
+      "corona",
+      "croon",
+      "darn",
+      "donor",
+      "naan",
+      "nada",
+      "nana",
+      "narc",
+      "narco",
+      "noon",
+      "nova",
+      "raccoon",
+      "radon",
+      "rancor",
+      "rand",
+      "rando",
+      "roan",
+      "rondo"
+    ],
+    "pangramHints": [
+      {
+        "word": "cordovan",
+        "hint": "A rich hue that hints at elegance; think of fine leather."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

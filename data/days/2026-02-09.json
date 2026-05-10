@@ -1,0 +1,195 @@
+{
+  "date": "2026-02-09",
+  "fetchedAt": "2026-05-10T20:24:36.751Z",
+  "connections": {
+    "puzzleId": 1032,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "USED IN WEAVING",
+        "words": [
+          "LOOM",
+          "NEEDLE",
+          "SCISSORS",
+          "YARN"
+        ]
+      },
+      {
+        "title": "METHOD",
+        "words": [
+          "APPROACH",
+          "MANNER",
+          "STYLE",
+          "WAY"
+        ]
+      },
+      {
+        "title": "KINDS OF PAYMENT FOR AN AUTHOR",
+        "words": [
+          "ADVANCE",
+          "BONUS",
+          "FEE",
+          "ROYALTY"
+        ]
+      },
+      {
+        "title": "DRAW ___",
+        "words": [
+          "NEAR",
+          "POKER",
+          "STRAWS",
+          "THE LINE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the tapestry of life, these tools weave stories together.",
+      "Navigating through choices, each method paints a different path.",
+      "For the scribes and storytellers, these tokens reward their craft.",
+      "To illustrate your point, sometimes you must draw the line."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1871,
+    "editor": "Tracy Bennett",
+    "solution": "cello",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a stringed instrument that often plays in orchestras."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This instrument has a rich, deep sound and is played with a bow."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Its name rhymes with a popular Italian dish, but it's not food!"
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 878,
+    "editor": "Tracy Bennett",
+    "clue": "Frequent flyer",
+    "spangram": "AIRPORTS",
+    "themeWords": [
+      "LUGGAGE",
+      "PASSPORT",
+      "PILOT",
+      "RUNWAY",
+      "SECURITY",
+      "TARMAC"
+    ],
+    "startingBoard": [
+      "RYRIOT",
+      "UAUTPR",
+      "NWCYSS",
+      "SEPOAP",
+      "AIRRTS",
+      "TLGAGE",
+      "AUGPIL",
+      "RMACOT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2624,
+    "sides": [
+      "NPK",
+      "AIT",
+      "GWM",
+      "ERC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WICKET",
+      "TRAMPING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26207,
+    "centerLetter": "t",
+    "outerLetters": "aciklo",
+    "pangrams": [
+      "cocktail"
+    ],
+    "answers": [
+      "alit",
+      "allot",
+      "alto",
+      "atilt",
+      "atoll",
+      "attack",
+      "attic",
+      "cacti",
+      "catcall",
+      "cattail",
+      "clot",
+      "coat",
+      "coati",
+      "coattail",
+      "cockatoo",
+      "coital",
+      "colt",
+      "coot",
+      "illicit",
+      "iota",
+      "italic",
+      "kilt",
+      "lactic",
+      "licit",
+      "lilt",
+      "loot",
+      "lotto",
+      "octal",
+      "tacit",
+      "tack",
+      "taco",
+      "tact",
+      "tactic",
+      "tactical",
+      "tail",
+      "tailcoat",
+      "talc",
+      "tali",
+      "talk",
+      "tall",
+      "tallit",
+      "tattoo",
+      "tick",
+      "ticktock",
+      "tiki",
+      "tikka",
+      "till",
+      "tilt",
+      "toccata",
+      "tock",
+      "toil",
+      "toll",
+      "took",
+      "tool",
+      "toolkit",
+      "toot",
+      "total"
+    ],
+    "pangramHints": [
+      {
+        "word": "cocktail",
+        "hint": "A mixed drink that stirs up a party atmosphere."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

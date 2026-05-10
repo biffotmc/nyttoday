@@ -1,0 +1,201 @@
+{
+  "date": "2025-10-15",
+  "fetchedAt": "2026-05-10T20:17:00.147Z",
+  "connections": {
+    "puzzleId": 898,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "TYPES OF POOLS",
+        "words": [
+          "INFINITY",
+          "KIDDIE",
+          "KIDNEY",
+          "OLYMPIC"
+        ]
+      },
+      {
+        "title": "IN THE NATO PHONETIC ALPHABET",
+        "words": [
+          "BRAVO",
+          "DELTA",
+          "GOLF",
+          "LIMA"
+        ]
+      },
+      {
+        "title": "FORD MODELS",
+        "words": [
+          "BRONCO",
+          "FIESTA",
+          "MUSTANG",
+          "PINTO"
+        ]
+      },
+      {
+        "title": "___ SEAL",
+        "words": [
+          "ELEPHANT",
+          "GREAT",
+          "NAVY",
+          "VACUUM"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Dive into the deep end, where the water's always perfect for a swim.",
+      "Letters that march in line, each one a soldier in the phonetic army.",
+      "American muscle on four wheels, each name a roar of power.",
+      "A large creature known for its size, yet some of its names are quite light."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1581,
+    "editor": "Tracy Bennett",
+    "solution": "spoof",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of trickery or deception."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a false front."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often associated with pranks or misleading appearances."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 759,
+    "editor": "Tracy Bennett",
+    "clue": "Going up?",
+    "spangram": "ELEVATORBUTTONS",
+    "themeWords": [
+      "ALARM",
+      "BASEMENT",
+      "CLOSE",
+      "GROUND",
+      "LOBBY",
+      "OPEN"
+    ],
+    "startingBoard": [
+      "RMRBOP",
+      "ALOUEN",
+      "ADTTOL",
+      "NOATSC",
+      "URVOET",
+      "GBENEN",
+      "OBLSAM",
+      "LYEBSE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2507,
+    "sides": [
+      "RTX",
+      "IOW",
+      "GQL",
+      "AUN"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "QUOTING",
+      "GRAWLIX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26835,
+    "centerLetter": "o",
+    "outerLetters": "ceijnt",
+    "pangrams": [
+      "ejection",
+      "injection"
+    ],
+    "answers": [
+      "cocci",
+      "cocoon",
+      "coin",
+      "conceit",
+      "concoct",
+      "concoction",
+      "cone",
+      "conic",
+      "conjoin",
+      "conjoint",
+      "connect",
+      "connection",
+      "connote",
+      "content",
+      "contention",
+      "continence",
+      "continent",
+      "coot",
+      "cootie",
+      "cote",
+      "cotton",
+      "ecotone",
+      "enjoin",
+      "icon",
+      "iconic",
+      "incontinence",
+      "incontinent",
+      "innocence",
+      "innocent",
+      "intention",
+      "into",
+      "intone",
+      "ionic",
+      "join",
+      "joint",
+      "neocon",
+      "neon",
+      "nicotine",
+      "nonce",
+      "none",
+      "nonet",
+      "noon",
+      "note",
+      "notice",
+      "notion",
+      "octet",
+      "once",
+      "onion",
+      "onto",
+      "tectonic",
+      "tenon",
+      "tone",
+      "tonic",
+      "tonne",
+      "toon",
+      "toonie",
+      "toot",
+      "tote"
+    ],
+    "pangramHints": [
+      {
+        "word": "ejection",
+        "hint": "A sudden removal, often from a seat."
+      },
+      {
+        "word": "injection",
+        "hint": "A method of delivering something into a system."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "date": "2025-10-14",
+  "fetchedAt": "2026-05-10T20:16:56.175Z",
+  "connections": {
+    "puzzleId": 902,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CAPTIVATE",
+        "words": [
+          "ABSORB",
+          "ENGAGE",
+          "HOLD",
+          "OCCUPY"
+        ]
+      },
+      {
+        "title": "SUMMARY",
+        "words": [
+          "BRIEF",
+          "DIGEST",
+          "OUTLINE",
+          "REVIEW"
+        ]
+      },
+      {
+        "title": "HALT",
+        "words": [
+          "CHECK",
+          "CURB",
+          "STAUNCH",
+          "STEM"
+        ]
+      },
+      {
+        "title": "ANIMALS MINUS STARTING LETTER",
+        "words": [
+          "ANTHER",
+          "EASEL",
+          "HARK",
+          "LAMA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "To capture attention, one must weave a spell of interest.",
+      "A concise recap can illuminate the core without the clutter.",
+      "Sometimes, progress must be paused to assess the situation.",
+      "Creatures of the wild can reveal much if you look beyond the surface."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1905,
+    "editor": "Tracy Bennett",
+    "solution": "forum",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a place for discussion."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s a common gathering spot for ideas."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with an 'f' and is often associated with communities."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 757,
+    "editor": "Tracy Bennett",
+    "clue": "This & that",
+    "spangram": "ROCKANDROLL",
+    "themeWords": [
+      "BOULDER",
+      "CRESCENT",
+      "DINNER",
+      "JELLY",
+      "PEBBLE",
+      "STONE"
+    ],
+    "startingBoard": [
+      "BEPOUR",
+      "BEBLEN",
+      "LTODAD",
+      "SNEKRE",
+      "ROCOJL",
+      "NLLDYL",
+      "ENISCT",
+      "RCREEN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2506,
+    "sides": [
+      "GNA",
+      "ERL",
+      "HFI",
+      "DCO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "CHRONOLOGICAL",
+      "LOAFED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20047,
+    "centerLetter": "p",
+    "outerLetters": "gilnty",
+    "pangrams": [
+      "pityingly"
+    ],
+    "answers": [
+      "lipping",
+      "lippy",
+      "nipping",
+      "nippy",
+      "pigging",
+      "piggy",
+      "piling",
+      "pill",
+      "pilling",
+      "ping",
+      "pinging",
+      "pining",
+      "pinning",
+      "pinny",
+      "pint",
+      "piping",
+      "pipit",
+      "pippin",
+      "pitting",
+      "pity",
+      "pitying",
+      "plying",
+      "tipi",
+      "tipping",
+      "tippling",
+      "tippy",
+      "typing",
+      "yipping"
+    ],
+    "pangramHints": [
+      {
+        "word": "pityingly",
+        "hint": "A word that conveys sympathy with a twist of sarcasm."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

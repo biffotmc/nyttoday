@@ -1,0 +1,209 @@
+{
+  "date": "2025-06-05",
+  "fetchedAt": "2026-05-10T20:10:23.095Z",
+  "connections": {
+    "puzzleId": 767,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PRECIPICE",
+        "words": [
+          "BRINK",
+          "CUSP",
+          "EVE",
+          "VERGE"
+        ]
+      },
+      {
+        "title": "PLUMBING EQUIPMENT",
+        "words": [
+          "PIPE",
+          "PLUNGER",
+          "SNAKE",
+          "WRENCH"
+        ]
+      },
+      {
+        "title": "WAYS TO MODIFY A CAR'S EXTERIOR",
+        "words": [
+          "BUMPER",
+          "GRILLE",
+          "RIM",
+          "SPOILER"
+        ]
+      },
+      {
+        "title": "BEST FEMALE ROCK PERFORMANCE GRAMMY WINNERS",
+        "words": [
+          "APPLE",
+          "CROW",
+          "SUMMER",
+          "TURNER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "On the edge of something great, these words are all about the moment just before the leap.",
+      "Tools of the trade for those who tackle clogs and leaks, these items are essential for any DIY enthusiast.",
+      "Transforming a ride into a statement, these elements add flair and function to the automotive scene.",
+      "Voices that rocked the stage, these ladies have left an indelible mark on the music industry."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1138,
+    "editor": "Tracy Bennett",
+    "solution": "datum",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a piece of information."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often used in contexts of science or data."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word has a connection to measurement or a record."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 626,
+    "editor": "Tracy Bennett",
+    "clue": "Mary, Mary, quite ...",
+    "spangram": "GARDEN",
+    "themeWords": [
+      "BELLS",
+      "COCKLESHELLS",
+      "CONTRARY",
+      "MAIDS",
+      "PRETTY",
+      "SILVER"
+    ],
+    "startingBoard": [
+      "ARTNOC",
+      "RYSIRE",
+      "GARDLV",
+      "SLLEEN",
+      "COCMBS",
+      "KLEAID",
+      "EHSYTT",
+      "LLSPRE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2375,
+    "sides": [
+      "TOM",
+      "RXL",
+      "EHP",
+      "VAK"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "VERKLEMPT",
+      "THORAX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15403,
+    "centerLetter": "r",
+    "outerLetters": "aclotu",
+    "pangrams": [
+      "calculator",
+      "coloratura"
+    ],
+    "answers": [
+      "accrual",
+      "actor",
+      "actuator",
+      "allocator",
+      "altar",
+      "aorta",
+      "aortal",
+      "arco",
+      "attar",
+      "attract",
+      "attractor",
+      "aura",
+      "aural",
+      "aurora",
+      "auroral",
+      "autocrat",
+      "carat",
+      "carol",
+      "carrot",
+      "cart",
+      "cataract",
+      "collar",
+      "color",
+      "coral",
+      "corolla",
+      "corral",
+      "court",
+      "croc",
+      "cultural",
+      "curacao",
+      "curator",
+      "curl",
+      "curt",
+      "locator",
+      "occur",
+      "ocular",
+      "oracular",
+      "oral",
+      "orator",
+      "orca",
+      "outro",
+      "ratatat",
+      "roar",
+      "rococo",
+      "roll",
+      "rollout",
+      "root",
+      "rotator",
+      "rotor",
+      "rout",
+      "rural",
+      "taro",
+      "tarot",
+      "tart",
+      "tartar",
+      "toro",
+      "tort",
+      "torta",
+      "tour",
+      "tract",
+      "tractor",
+      "troll",
+      "trot",
+      "trout",
+      "tutor",
+      "ultra"
+    ],
+    "pangramHints": [
+      {
+        "word": "calculator",
+        "hint": "A device that helps with numbers, but don't say its name!"
+      },
+      {
+        "word": "coloratura",
+        "hint": "A term that sings of high notes and intricate melodies, but keep it under wraps!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

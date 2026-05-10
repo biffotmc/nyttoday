@@ -1,0 +1,173 @@
+{
+  "date": "2025-09-19",
+  "fetchedAt": "2026-05-10T20:15:24.265Z",
+  "connections": {
+    "puzzleId": 866,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "EVALUATE",
+        "words": [
+          "GRADE",
+          "RANK",
+          "RATE",
+          "SCORE"
+        ]
+      },
+      {
+        "title": "EXHIBIT NERVOUSNESS",
+        "words": [
+          "BLUSH",
+          "FIDGET",
+          "PACE",
+          "SWEAT"
+        ]
+      },
+      {
+        "title": "THINGS THAT CAN RUN, ANNOYINGLY",
+        "words": [
+          "DYE",
+          "MASCARA",
+          "NOSE",
+          "STOCKINGS"
+        ]
+      },
+      {
+        "title": "PAPER ___",
+        "words": [
+          "CLIP",
+          "TIGER",
+          "TOWEL",
+          "TRAIL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When assessing performance, think of the marks that define success.",
+      "A telltale sign of anxiety can be found in the body’s subtle movements.",
+      "These pesky items can cause a mess, often when you least expect it.",
+      "A common phrase that completes a familiar phrase, often found in offices."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 848,
+    "editor": "Tracy Bennett",
+    "solution": "later",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a term related to time."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word suggests something that comes after."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that might describe a future moment."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 731,
+    "editor": "Tracy Bennett",
+    "clue": "Pour it on",
+    "spangram": "NONDAIRYMILK",
+    "themeWords": [
+      "ALMOND",
+      "CASHEW",
+      "COCONUT",
+      "FLAX",
+      "MACADAMIA",
+      "RICE"
+    ],
+    "startingBoard": [
+      "HEWLAM",
+      "SXAFCA",
+      "ACDAID",
+      "NONERA",
+      "CRICYM",
+      "OMONMI",
+      "CTLDIA",
+      "ONUALK"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2481,
+    "sides": [
+      "IAO",
+      "YHV",
+      "RUE",
+      "NTG"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "VINEGARY",
+      "YOUTH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24993,
+    "centerLetter": "e",
+    "outerLetters": "ghilop",
+    "pangrams": [
+      "logophile"
+    ],
+    "answers": [
+      "elope",
+      "epee",
+      "epilog",
+      "gelee",
+      "ghee",
+      "giggle",
+      "glee",
+      "goggle",
+      "google",
+      "heel",
+      "hell",
+      "hellhole",
+      "hello",
+      "help",
+      "hippie",
+      "hole",
+      "hope",
+      "liege",
+      "loge",
+      "loophole",
+      "lope",
+      "ogee",
+      "ogle",
+      "oleo",
+      "ollie",
+      "peel",
+      "peep",
+      "peephole",
+      "people",
+      "piehole",
+      "pile",
+      "pipe",
+      "plie",
+      "pole",
+      "pope"
+    ],
+    "pangramHints": [
+      {
+        "word": "logophile",
+        "hint": "A lover of words, this term captures a passion for language."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

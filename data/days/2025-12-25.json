@@ -1,0 +1,163 @@
+{
+  "date": "2025-12-25",
+  "fetchedAt": "2026-05-10T20:21:44.013Z",
+  "connections": {
+    "puzzleId": 988,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ORNATE, AS PROSE",
+        "words": [
+          "EXCESSIVE",
+          "FLOWERY",
+          "MELODRAMATIC",
+          "PURPLE"
+        ]
+      },
+      {
+        "title": "CREATE",
+        "words": [
+          "COIN",
+          "FASHION",
+          "HATCH",
+          "MAKE UP"
+        ]
+      },
+      {
+        "title": "THINGS WITH STEMS",
+        "words": [
+          "CHERRY",
+          "FLOWER",
+          "MUSICAL NOTE",
+          "WINE GLASS"
+        ]
+      },
+      {
+        "title": "COMPRISED OF SOLFEGE (DO-RE-MI)",
+        "words": [
+          "LAREDO",
+          "MIRE",
+          "RETIRE",
+          "SOLTI"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When words become a canvas, expect a masterpiece that dazzles and distracts.",
+      "From imagination to reality, these actions shape the world around us.",
+      "Nature's beauty comes in various forms, each with a delicate touch.",
+      "A musical journey awaits, where notes and names intertwine in harmony."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1526,
+    "editor": "Tracy Bennett",
+    "solution": "prism",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a colorful concept."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of light and how it bends."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This term is often associated with a spectrum."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 830,
+    "editor": "Tracy Bennett",
+    "clue": "Caroler's count",
+    "spangram": "CHRISTMASDAYS",
+    "themeWords": [
+      "DRUMMERS",
+      "LADIES",
+      "LORDS",
+      "MAIDS",
+      "PIPERS",
+      "SWANS"
+    ],
+    "startingBoard": [
+      "RMRDYS",
+      "SEMUSA",
+      "CHIADS",
+      "SRMSMR",
+      "DASSTE",
+      "IEDAWP",
+      "LOILAI",
+      "SDRNSP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2582,
+    "sides": [
+      "XMA",
+      "STO",
+      "BLE",
+      "INR"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ABALONE",
+      "EXTREMISM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27676,
+    "centerLetter": "n",
+    "outerLetters": "opxehi",
+    "pangrams": [
+      "phoenix"
+    ],
+    "answers": [
+      "heinie",
+      "hone",
+      "innie",
+      "nene",
+      "neon",
+      "nine",
+      "ninepin",
+      "none",
+      "noon",
+      "nope",
+      "onion",
+      "open",
+      "opine",
+      "opinion",
+      "oxen",
+      "peen",
+      "penne",
+      "peon",
+      "phone",
+      "phono",
+      "pine",
+      "pinion",
+      "pippin",
+      "pone",
+      "xenon"
+    ],
+    "pangramHints": [
+      {
+        "word": "phoenix",
+        "hint": "A mythical bird that rises from its ashes; think rebirth."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

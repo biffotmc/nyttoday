@@ -1,0 +1,181 @@
+{
+  "date": "2025-08-06",
+  "fetchedAt": "2026-05-10T20:12:03.097Z",
+  "connections": {
+    "puzzleId": 825,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ACCESSORY WITH A POINTY FASTENER",
+        "words": [
+          "BADGE",
+          "BROOCH",
+          "BUTTON",
+          "PIN"
+        ]
+      },
+      {
+        "title": "TEASE",
+        "words": [
+          "BAIT",
+          "NEEDLE",
+          "RAG",
+          "RIB"
+        ]
+      },
+      {
+        "title": "BOXING PUNCHES",
+        "words": [
+          "CROSS",
+          "HOOK",
+          "JAB",
+          "UPPERCUT"
+        ]
+      },
+      {
+        "title": "MUSCLE NICKNAMES PLUS “S”",
+        "words": [
+          "SHAMMY",
+          "SPEC",
+          "SQUAD",
+          "STRAP"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A shiny adornment that can be fastened with a sharp twist, often worn with pride.",
+      "A playful jab designed to provoke a reaction, often leaving a mark.",
+      "A flurry of strikes that can leave an opponent dazed, each with its own flair.",
+      "A collection of muscle monikers that flex their might, all ending with a twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 583,
+    "editor": "Tracy Bennett",
+    "solution": "groan",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A sound of discontent."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often heard when things go awry."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Expressing displeasure, it rhymes with 'loan'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 688,
+    "editor": "Tracy Bennett",
+    "clue": "Paint me a picture",
+    "spangram": "STILLLIFE",
+    "themeWords": [
+      "BOOK",
+      "FRUIT",
+      "GUITAR",
+      "JEWELRY",
+      "PITCHER",
+      "SUNFLOWERS"
+    ],
+    "startingBoard": [
+      "JWSGTA",
+      "EETUIR",
+      "LPIOOK",
+      "RILBSR",
+      "YTLLSE",
+      "CRFIUW",
+      "HUIFNO",
+      "ERTEFL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2437,
+    "sides": [
+      "SDU",
+      "AMB",
+      "RLP",
+      "CTO"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CLUMPS",
+      "STARBOARD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26594,
+    "centerLetter": "t",
+    "outerLetters": "abejmn",
+    "pangrams": [
+      "enjambment"
+    ],
+    "answers": [
+      "abate",
+      "abatement",
+      "abet",
+      "abetment",
+      "ante",
+      "antenna",
+      "antennae",
+      "bantam",
+      "bate",
+      "battement",
+      "batten",
+      "beat",
+      "beaten",
+      "beet",
+      "bent",
+      "beta",
+      "eaten",
+      "emanate",
+      "entente",
+      "jete",
+      "manatee",
+      "manta",
+      "mate",
+      "matte",
+      "meant",
+      "meat",
+      "meet",
+      "mentee",
+      "meta",
+      "mete",
+      "natant",
+      "neat",
+      "neaten",
+      "tame",
+      "team",
+      "teammate",
+      "teat",
+      "teem",
+      "teen",
+      "tenant",
+      "tenement",
+      "tenet",
+      "tent"
+    ],
+    "pangramHints": [
+      {
+        "word": "enjambment",
+        "hint": "A poetic term that flows over lines, never quite contained."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

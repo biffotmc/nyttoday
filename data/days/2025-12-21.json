@@ -1,0 +1,186 @@
+{
+  "date": "2025-12-21",
+  "fetchedAt": "2026-05-10T20:21:25.180Z",
+  "connections": {
+    "puzzleId": 976,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FEATURES OF A TEAPOT",
+        "words": [
+          "HANDLE",
+          "LID",
+          "SPOUT",
+          "STRAINER"
+        ]
+      },
+      {
+        "title": "LIBRARY SECTIONS",
+        "words": [
+          "CIRCULATION",
+          "PERIODICALS",
+          "REFERENCE",
+          "STACKS"
+        ]
+      },
+      {
+        "title": "ARISE",
+        "words": [
+          "EMERGE",
+          "FLOW",
+          "ISSUE",
+          "RESULT"
+        ]
+      },
+      {
+        "title": "___DROP",
+        "words": [
+          "AIR",
+          "EAVES",
+          "GUM",
+          "RAIN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A cozy companion for your brew, it boasts a handle and a spout, but don’t forget its cap.",
+      "Where knowledge flows and stories grow, you’ll find sections that circulate and reference the past.",
+      "From the depths of stillness, things rise and flow, revealing outcomes that were once hidden.",
+      "A phrase that starts with a drop, it can mean the sky's tears or a sticky substance from trees."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1388,
+    "editor": "Tracy Bennett",
+    "solution": "quilt",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something soft and warm, often found on a bed."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This item is made of layers and often features a patchwork design."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a cozy cover that can be both decorative and functional, often associated with warmth."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 825,
+    "editor": "Tracy Bennett",
+    "clue": "Big bad wolf",
+    "spangram": "THREELITTLEPIGS",
+    "themeWords": [
+      "BLOW",
+      "BRICKS",
+      "DOWN",
+      "HUFF",
+      "PUFF",
+      "STICKS",
+      "STRAW"
+    ],
+    "startingBoard": [
+      "FHLEPU",
+      "FUIEFF",
+      "LTTRHT",
+      "EPIGSB",
+      "IOLBIR",
+      "CTWDCS",
+      "KSOWAK",
+      "SNWSTR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2573,
+    "sides": [
+      "RSN",
+      "ZUV",
+      "GHT",
+      "IDO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "SHVITZING",
+      "GOURD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24141,
+    "centerLetter": "t",
+    "outerLetters": "abcklo",
+    "pangrams": [
+      "backlot",
+      "bootblack"
+    ],
+    "answers": [
+      "abbot",
+      "allot",
+      "alto",
+      "atoll",
+      "attack",
+      "backtalk",
+      "ballot",
+      "blat",
+      "bloat",
+      "blot",
+      "blotto",
+      "boat",
+      "bobcat",
+      "bolt",
+      "boot",
+      "catcall",
+      "clot",
+      "coat",
+      "cobalt",
+      "cockatoo",
+      "colt",
+      "coot",
+      "loot",
+      "lotto",
+      "octal",
+      "tabla",
+      "taboo",
+      "tack",
+      "taco",
+      "tact",
+      "talc",
+      "talk",
+      "tall",
+      "tattoo",
+      "tobacco",
+      "toccata",
+      "tock",
+      "toll",
+      "took",
+      "tool",
+      "toot",
+      "total"
+    ],
+    "pangramHints": [
+      {
+        "word": "backlot",
+        "hint": "A hidden space behind the scenes, often bustling with activity."
+      },
+      {
+        "word": "bootblack",
+        "hint": "A profession that shines shoes to perfection, often seen in bustling streets."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

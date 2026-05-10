@@ -1,0 +1,192 @@
+{
+  "date": "2026-01-07",
+  "fetchedAt": "2026-05-10T20:22:35.979Z",
+  "connections": {
+    "puzzleId": 996,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DOPPELGÄNGER",
+        "words": [
+          "CLONE",
+          "DOUBLE",
+          "MIRROR",
+          "RINGER"
+        ]
+      },
+      {
+        "title": "PORTION",
+        "words": [
+          "CONCERN",
+          "INTEREST",
+          "SHARE",
+          "STAKE"
+        ]
+      },
+      {
+        "title": "COMMON FLAG SYMBOLS",
+        "words": [
+          "CRESCENT",
+          "CROSS",
+          "STAR",
+          "STRIPE"
+        ]
+      },
+      {
+        "title": "PRESSED USING A PRESS",
+        "words": [
+          "CIDER",
+          "GARLIC",
+          "TROUSERS",
+          "WINE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A reflection of oneself can be found in many forms, but beware, not all are what they seem.",
+      "When it comes to dividing up what matters, some take a little, while others take a lot.",
+      "Flags may wave high, but their meanings run deeper than their colors and shapes.",
+      "Some things need a little pressure to reveal their true essence, whether it's a drink or a wardrobe."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2057,
+    "editor": "Tracy Bennett",
+    "solution": "pecan",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a nut that often finds its way into pies."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This nut shares its name with a type of tree."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word, starting with 'p' and often associated with Southern desserts."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 842,
+    "editor": "Tracy Bennett",
+    "clue": "Open wide",
+    "spangram": "DENTISTSOFFICE",
+    "themeWords": [
+      "DRILL",
+      "FLOSS",
+      "FLUORIDE",
+      "MIRROR",
+      "TOOTHBRUSH"
+    ],
+    "startingBoard": [
+      "ISTFLO",
+      "TMSDRS",
+      "NIOILS",
+      "ERFFIL",
+      "DRORCE",
+      "DEHTOO",
+      "IULBRT",
+      "ROFHSU"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2594,
+    "sides": [
+      "IHY",
+      "SAO",
+      "VUC",
+      "BTL"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "OBVIOUSLY",
+      "YACHT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27707,
+    "centerLetter": "p",
+    "outerLetters": "udelmn",
+    "pangrams": [
+      "pendulum"
+    ],
+    "answers": [
+      "deep",
+      "deepen",
+      "deepened",
+      "depend",
+      "depended",
+      "dump",
+      "dumped",
+      "dupe",
+      "duped",
+      "duple",
+      "epee",
+      "lump",
+      "lumped",
+      "peddle",
+      "peddled",
+      "peed",
+      "peel",
+      "peeled",
+      "peen",
+      "peep",
+      "peeped",
+      "pend",
+      "pended",
+      "penmen",
+      "penne",
+      "penned",
+      "peplum",
+      "pepped",
+      "pled",
+      "plenum",
+      "plum",
+      "plume",
+      "plumed",
+      "plump",
+      "plumped",
+      "puddle",
+      "puddled",
+      "pule",
+      "puled",
+      "pull",
+      "pulled",
+      "pulp",
+      "pulped",
+      "pummel",
+      "pummeled",
+      "pump",
+      "pumped",
+      "punned",
+      "umped",
+      "unpeeled",
+      "unpen",
+      "unpenned",
+      "upend",
+      "upended",
+      "upped"
+    ],
+    "pangramHints": [
+      {
+        "word": "pendulum",
+        "hint": "A swinging timekeeper that dances between moments."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

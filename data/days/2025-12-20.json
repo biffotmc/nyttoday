@@ -1,0 +1,214 @@
+{
+  "date": "2025-12-20",
+  "fetchedAt": "2026-05-10T20:21:19.895Z",
+  "connections": {
+    "puzzleId": 949,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CONTAINERS",
+        "words": [
+          "BUCKET",
+          "CAN",
+          "DRUM",
+          "TIN"
+        ]
+      },
+      {
+        "title": "LAUNDRY SERVICES",
+        "words": [
+          "DRY",
+          "FOLD",
+          "PRESS",
+          "WASH"
+        ]
+      },
+      {
+        "title": "BRITISH BANDS FORMED IN THE 1970S, WITH \"THE\"",
+        "words": [
+          "CLASH",
+          "CURE",
+          "DAMNED",
+          "FALL"
+        ]
+      },
+      {
+        "title": "ROCK ___",
+        "words": [
+          "BOTTOM",
+          "LOBSTER",
+          "MUSIC",
+          "SALT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These vessels hold more than just water; they can carry memories and moments.",
+      "When clothes need a makeover, these actions bring them back to life, one step at a time.",
+      "In the realm of music, these iconic groups made waves, each with a unique sound that still resonates.",
+      "A phrase that evokes imagery of culinary delights and the essence of sound, but with a twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1974,
+    "editor": "Tracy Bennett",
+    "solution": "white",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of the color of snow."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also describe purity or innocence."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a common color, often associated with light and clarity."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 824,
+    "editor": "Tracy Bennett",
+    "clue": "All the trimmings",
+    "spangram": "CHRISTMASTREE",
+    "themeWords": [
+      "ANGEL",
+      "LIGHTS",
+      "ORNAMENT",
+      "RIBBON",
+      "STAR",
+      "TINSEL"
+    ],
+    "startingBoard": [
+      "TANRTS",
+      "NMRIOA",
+      "EHILSR",
+      "CGSAMT",
+      "HONTEA",
+      "TBRLGN",
+      "SBETSL",
+      "RIEINE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2568,
+    "sides": [
+      "CRA",
+      "LNT",
+      "KME",
+      "GHO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "THERMAL",
+      "LONGNECK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27080,
+    "centerLetter": "g",
+    "outerLetters": "adelmn",
+    "pangrams": [
+      "mangled"
+    ],
+    "answers": [
+      "adage",
+      "aged",
+      "agenda",
+      "agleam",
+      "alga",
+      "algae",
+      "algal",
+      "allege",
+      "alleged",
+      "amalgam",
+      "angel",
+      "angle",
+      "angled",
+      "damage",
+      "damaged",
+      "dang",
+      "dangle",
+      "dangled",
+      "eagle",
+      "eagled",
+      "edge",
+      "edged",
+      "egad",
+      "egged",
+      "endgame",
+      "engage",
+      "engaged",
+      "gadded",
+      "gaga",
+      "gage",
+      "gagged",
+      "gaggle",
+      "gala",
+      "galangal",
+      "gale",
+      "gall",
+      "galled",
+      "game",
+      "gamed",
+      "gamma",
+      "gang",
+      "ganged",
+      "gangland",
+      "geld",
+      "gelded",
+      "gelee",
+      "gelled",
+      "gene",
+      "glad",
+      "gladden",
+      "gladdened",
+      "glade",
+      "glam",
+      "gland",
+      "gleam",
+      "gleamed",
+      "glean",
+      "gleaned",
+      "glee",
+      "glen",
+      "lagged",
+      "ledge",
+      "legal",
+      "legend",
+      "legged",
+      "mage",
+      "magma",
+      "manage",
+      "managed",
+      "manga",
+      "mange",
+      "mangle",
+      "mega",
+      "megadeal",
+      "melange",
+      "nagged"
+    ],
+    "pangramHints": [
+      {
+        "word": "mangled",
+        "hint": "A jumbled mess, but with a twist of creativity; think of what happens when things get twisted."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

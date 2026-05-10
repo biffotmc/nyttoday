@@ -1,0 +1,178 @@
+{
+  "date": "2026-01-04",
+  "fetchedAt": "2026-05-10T20:22:23.855Z",
+  "connections": {
+    "puzzleId": 977,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PAPER PUBLICATION",
+        "words": [
+          "COPY",
+          "EDITION",
+          "ISSUE",
+          "PRINT"
+        ]
+      },
+      {
+        "title": "SPOOL",
+        "words": [
+          "COIL",
+          "CRANK",
+          "REEL",
+          "WIND"
+        ]
+      },
+      {
+        "title": "THINGS A DEFENSIVE FOOTBALL PLAYER DOES",
+        "words": [
+          "BLITZ",
+          "BLOCK",
+          "SACK",
+          "TACKLE"
+        ]
+      },
+      {
+        "title": "SYNONYMS FOR BUTT PLUS STARTING LETTER",
+        "words": [
+          "DREAR",
+          "ETAIL",
+          "GRUMP",
+          "SCAN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of knowledge, these items often find their way into the hands of eager readers, each with its own unique flair.",
+      "Twisting and turning, these items are known for their ability to hold things together, often found in workshops or on the go.",
+      "When the pressure is on, these actions are crucial for keeping the opposition at bay, embodying strength and strategy.",
+      "A playful twist on the rear, these words dance around the idea of gloom and the start of something new."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1327,
+    "editor": "Tracy Bennett",
+    "solution": "posse",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a group that travels together."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This term often refers to a crew or gang."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a term used for a close-knit group, often in a social context."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 839,
+    "editor": "Tracy Bennett",
+    "clue": "I just know ...",
+    "spangram": "SIXTHSENSE",
+    "themeWords": [
+      "CLAIRVOYANT",
+      "MEDIUM",
+      "ORACLE",
+      "PSYCHIC",
+      "TELEPATH"
+    ],
+    "startingBoard": [
+      "SHICTH",
+      "DICAPE",
+      "EIXYLE",
+      "MCUTST",
+      "RALMHP",
+      "OERICS",
+      "NTVALE",
+      "AYOESN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2590,
+    "sides": [
+      "TSF",
+      "OHK",
+      "UIC",
+      "LNE"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "INFECTIOUS",
+      "SCHLOCK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21524,
+    "centerLetter": "f",
+    "outerLetters": "ailmry",
+    "pangrams": [
+      "familiarly"
+    ],
+    "answers": [
+      "afar",
+      "affair",
+      "affirm",
+      "affray",
+      "alfalfa",
+      "fail",
+      "fair",
+      "fairly",
+      "fairy",
+      "fall",
+      "familial",
+      "familiar",
+      "family",
+      "farm",
+      "filial",
+      "filially",
+      "fill",
+      "filly",
+      "film",
+      "filmy",
+      "firm",
+      "firmly",
+      "flail",
+      "flair",
+      "flay",
+      "flimflam",
+      "frail",
+      "frailly",
+      "fray",
+      "friar",
+      "friary",
+      "frill",
+      "frilly",
+      "iffy",
+      "mafia",
+      "mayfly",
+      "miff",
+      "raffia",
+      "ramify",
+      "riff",
+      "riffraff"
+    ],
+    "pangramHints": [
+      {
+        "word": "familiarly",
+        "hint": "A word that suggests a friendly or informal manner, without revealing its essence."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "date": "2025-08-19",
+  "fetchedAt": "2026-05-10T20:12:53.955Z",
+  "connections": {
+    "puzzleId": 839,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "QUITE THE TALKER",
+        "words": [
+          "BLABBERMOUTH",
+          "CHATTERBOX",
+          "PRATTLER",
+          "WINDBAG"
+        ]
+      },
+      {
+        "title": "FORTIFIED WINES",
+        "words": [
+          "MARSALA",
+          "PORT",
+          "SHERRY",
+          "VERMOUTH"
+        ]
+      },
+      {
+        "title": "___ ROCK",
+        "words": [
+          "CLASSIC",
+          "LITTLE",
+          "PLYMOUTH",
+          "THE"
+        ]
+      },
+      {
+        "title": "STARTING WITH WAYS TO MOVE QUICKLY",
+        "words": [
+          "DARTMOUTH",
+          "DASHBOARD",
+          "FLYWHEEL",
+          "RUSHMORE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When conversations go on and on, these folks are usually at the center of it all.",
+      "These liquid treasures are often sipped slowly, each drop a fortified delight.",
+      "An iconic term that can precede a type of music or a geographic gem.",
+      "Speed is their game, and they know how to get from point A to B in style."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1323,
+    "editor": "Tracy Bennett",
+    "solution": "rowdy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a lively gathering."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes a boisterous atmosphere."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Often associated with raucous behavior, it starts with 'r'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 702,
+    "editor": "Tracy Bennett",
+    "clue": "Dash it!",
+    "spangram": "HYPHENATED",
+    "themeWords": [
+      "HOCUSPOCUS",
+      "HOITYTOITY",
+      "PELLMELL",
+      "WILLYNILLY"
+    ],
+    "startingBoard": [
+      "IYPOCS",
+      "NLLSUU",
+      "YLICOH",
+      "LPHWTE",
+      "HYENAD",
+      "TOIEPL",
+      "YYTLLE",
+      "TIOHLM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2450,
+    "sides": [
+      "SYM",
+      "OPX",
+      "JIE",
+      "CFL"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JOCOSE",
+      "EXEMPLIFY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25274,
+    "centerLetter": "o",
+    "outerLetters": "eimntz",
+    "pangrams": [
+      "mezzotint",
+      "monetize",
+      "timezone"
+    ],
+    "answers": [
+      "emote",
+      "emotion",
+      "intention",
+      "into",
+      "intone",
+      "ionize",
+      "memento",
+      "memo",
+      "mention",
+      "mezzo",
+      "mimeo",
+      "minion",
+      "moment",
+      "mono",
+      "monotone",
+      "monte",
+      "moon",
+      "moot",
+      "mote",
+      "motet",
+      "motion",
+      "motto",
+      "neon",
+      "nominee",
+      "none",
+      "nonet",
+      "noon",
+      "note",
+      "notion",
+      "ointment",
+      "omen",
+      "omit",
+      "onetime",
+      "onion",
+      "onto",
+      "ooze",
+      "ozone",
+      "tenon",
+      "tome",
+      "tomtit",
+      "tone",
+      "tonne",
+      "toon",
+      "toonie",
+      "toot",
+      "tote",
+      "totem",
+      "zone",
+      "zoom"
+    ],
+    "pangramHints": [
+      {
+        "word": "mezzotint",
+        "hint": "A technique that adds depth to images, but don't reveal the name."
+      },
+      {
+        "word": "monetize",
+        "hint": "Turning ideas into cash, but keep the term under wraps."
+      },
+      {
+        "word": "timezone",
+        "hint": "A concept that helps us keep track of the hours, but don’t say it outright."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

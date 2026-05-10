@@ -1,0 +1,202 @@
+{
+  "date": "2025-05-25",
+  "fetchedAt": "2026-05-10T20:07:14.738Z",
+  "connections": {
+    "puzzleId": 750,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PLAYING CARDS",
+        "words": [
+          "ACE",
+          "JACK",
+          "KING",
+          "QUEEN"
+        ]
+      },
+      {
+        "title": "DOPPELGÄNGER",
+        "words": [
+          "CLONE",
+          "DOUBLE",
+          "RINGER",
+          "TWIN"
+        ]
+      },
+      {
+        "title": "EAR PIERCING SITES",
+        "words": [
+          "CONCH",
+          "HELIX",
+          "LOBE",
+          "ROOK"
+        ]
+      },
+      {
+        "title": "___ MAIL",
+        "words": [
+          "CHAIN",
+          "ELECTRONIC",
+          "JUNK",
+          "SNAIL"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a game of chance, these figures hold the highest stakes and the most royal of titles.",
+      "Mirror images can be tricky; these pairs often walk the same path but with unique twists.",
+      "Adorn your ears with these fashionable features, each offering a distinct style and flair.",
+      "This form of correspondence can vary greatly in speed and method; some are quick, while others take their time."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2344,
+    "editor": "Tracy Bennett",
+    "solution": "grift",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It involves a clever trick."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a scheme that’s not quite honest."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with deceitful dealings."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 612,
+    "editor": "Tracy Bennett",
+    "clue": "Get out the dust buster!",
+    "spangram": "SPRINGCLEANING",
+    "themeWords": [
+      "DECLUTTER",
+      "DONATE",
+      "LABEL",
+      "REORGANIZE",
+      "SELL"
+    ],
+    "startingBoard": [
+      "ETDIES",
+      "AORUNL",
+      "NPLTGL",
+      "SLCETC",
+      "BAERLA",
+      "GEDENG",
+      "NLAIRR",
+      "INEZOE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2364,
+    "sides": [
+      "TNI",
+      "PRC",
+      "HOK",
+      "LWA"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "PATCHWORK",
+      "KILN"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26387,
+    "centerLetter": "n",
+    "outerLetters": "abelop",
+    "pangrams": [
+      "beanpole",
+      "openable"
+    ],
+    "answers": [
+      "abalone",
+      "aeon",
+      "alone",
+      "anal",
+      "annal",
+      "anneal",
+      "anon",
+      "apnea",
+      "baboon",
+      "baleen",
+      "balloon",
+      "banal",
+      "banana",
+      "bane",
+      "bean",
+      "beanball",
+      "been",
+      "bonbon",
+      "bone",
+      "bonobo",
+      "boon",
+      "ebon",
+      "elan",
+      "enable",
+      "ennoble",
+      "lane",
+      "lean",
+      "llano",
+      "loan",
+      "loanable",
+      "lone",
+      "loon",
+      "naan",
+      "nabob",
+      "nana",
+      "nape",
+      "napoleon",
+      "neap",
+      "nene",
+      "neon",
+      "noble",
+      "noel",
+      "none",
+      "noob",
+      "noon",
+      "nope",
+      "open",
+      "paean",
+      "pane",
+      "panel",
+      "peen",
+      "penal",
+      "penne",
+      "peon",
+      "plan",
+      "plane",
+      "plena",
+      "poblano",
+      "pollen",
+      "pone"
+    ],
+    "pangramHints": [
+      {
+        "word": "beanpole",
+        "hint": "A tall, slender figure often found in gardens."
+      },
+      {
+        "word": "openable",
+        "hint": "This word describes something that can be easily accessed."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

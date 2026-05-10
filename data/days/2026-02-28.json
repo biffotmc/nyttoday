@@ -1,0 +1,175 @@
+{
+  "date": "2026-02-28",
+  "fetchedAt": "2026-05-10T20:26:02.228Z",
+  "connections": {
+    "puzzleId": 1036,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CRAVING",
+        "words": [
+          "DESIRE",
+          "ITCH",
+          "THIRST",
+          "URGE"
+        ]
+      },
+      {
+        "title": "JOBS THAT INVOLVE TRAVELING",
+        "words": [
+          "CRUISE DIRECTOR",
+          "PILOT",
+          "ROADIE",
+          "SALESMAN"
+        ]
+      },
+      {
+        "title": "NAME HOMOPHONES",
+        "words": [
+          "EARNEST",
+          "KNEEL",
+          "RUSTLE",
+          "TAILOR"
+        ]
+      },
+      {
+        "title": "ASTRONOMICAL TERMS PLUS A LETTER",
+        "words": [
+          "COMETH",
+          "NOVAK",
+          "START",
+          "SUNG"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the heart wants what it wants, it can't help but shout out loud.",
+      "Wanderlust calls to those who seek adventure beyond the horizon.",
+      "Sounds alike but meanings diverge; listen closely to the echoes.",
+      "Celestial wonders await, but don't forget to add a little twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2359,
+    "editor": "Tracy Bennett",
+    "solution": "hydra",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A multi-headed creature from mythology."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with regeneration."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a beast that can grow back its heads when cut off."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 898,
+    "editor": "Tracy Bennett",
+    "clue": "Dressing up",
+    "spangram": "GLAMOROUS",
+    "themeWords": [
+      "CUFFLINKS",
+      "DIAMONDS",
+      "GOWN",
+      "HEELS",
+      "NECKTIE",
+      "TUXEDO"
+    ],
+    "startingBoard": [
+      "OGSKIL",
+      "HDLNFF",
+      "ESEACU",
+      "ELEXMS",
+      "ECNUOD",
+      "ITKTRN",
+      "OWNOOM",
+      "GSUDIA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2643,
+    "sides": [
+      "TDH",
+      "IAO",
+      "NZP",
+      "XRS"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "HAZARDS",
+      "SAXOPHONIST"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25080,
+    "centerLetter": "i",
+    "outerLetters": "dehklo",
+    "pangrams": [
+      "likelihood"
+    ],
+    "answers": [
+      "deli",
+      "diddle",
+      "diddled",
+      "died",
+      "dike",
+      "dildo",
+      "dill",
+      "diode",
+      "dollied",
+      "eddied",
+      "elide",
+      "elided",
+      "hide",
+      "hike",
+      "hiked",
+      "hill",
+      "hilled",
+      "hoodie",
+      "idle",
+      "idled",
+      "idol",
+      "iodide",
+      "keloid",
+      "kidded",
+      "kiddie",
+      "kiddo",
+      "kill",
+      "killed",
+      "kilo",
+      "lidded",
+      "lied",
+      "like",
+      "liked",
+      "oiled",
+      "oldie",
+      "olio",
+      "ollie"
+    ],
+    "pangramHints": [
+      {
+        "word": "likelihood",
+        "hint": "A term often used in probability; think of chances."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

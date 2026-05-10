@@ -1,0 +1,187 @@
+{
+  "date": "2026-03-28",
+  "fetchedAt": "2026-05-10T20:27:59.165Z",
+  "connections": {
+    "puzzleId": 1108,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STEP ONTO, AS A VEHICLE",
+        "words": [
+          "BOARD",
+          "EMBARK",
+          "ENTER",
+          "MOUNT"
+        ]
+      },
+      {
+        "title": "QUANTITIES IN MECHANICS",
+        "words": [
+          "ACCELERATION",
+          "FORCE",
+          "MASS",
+          "MOMENTUM"
+        ]
+      },
+      {
+        "title": "TEXTBOOK IMAGES",
+        "words": [
+          "FIGURE",
+          "ILLUSTRATION",
+          "PICTURE",
+          "PLATE"
+        ]
+      },
+      {
+        "title": "___ PLANT",
+        "words": [
+          "FACE",
+          "PITCHER",
+          "POWER",
+          "ROBERT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you want to hop aboard, what do you do? Think of the action that gets you inside.",
+      "In the realm of physics, these terms describe how things move and interact. Can you feel the force?",
+      "These are the visuals that accompany knowledge. They bring concepts to life in a way words alone cannot.",
+      "A botanical term that could also describe a face or a specific type of pitcher. What links them all?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1197,
+    "editor": "Tracy Bennett",
+    "solution": "afoot",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's related to being on the move."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a word that suggests being in action."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word often describes something that is underway or in progress."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 929,
+    "editor": "Tracy Bennett",
+    "clue": "Just write",
+    "spangram": "CORRESPONDENCE",
+    "themeWords": [
+      "EMAIL",
+      "LETTER",
+      "MEMO",
+      "MISSIVE",
+      "POSTCARD",
+      "TEXT"
+    ],
+    "startingBoard": [
+      "EMMSIV",
+      "AILISE",
+      "CORRES",
+      "ETXETP",
+      "CNEDNO",
+      "PALETT",
+      "OCRORE",
+      "STDMEM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2671,
+    "sides": [
+      "RCT",
+      "PLH",
+      "EIB",
+      "YWO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WITH",
+      "HYPERBOLIC"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15890,
+    "centerLetter": "n",
+    "outerLetters": "abekmt",
+    "pangrams": [
+      "embankment"
+    ],
+    "answers": [
+      "abatement",
+      "abetment",
+      "amen",
+      "ante",
+      "antenna",
+      "antennae",
+      "banana",
+      "bane",
+      "bank",
+      "bantam",
+      "battement",
+      "batten",
+      "bean",
+      "beaten",
+      "been",
+      "bent",
+      "betaken",
+      "eaten",
+      "emanate",
+      "embank",
+      "enema",
+      "entente",
+      "katana",
+      "keen",
+      "kente",
+      "knee",
+      "manatee",
+      "mane",
+      "manna",
+      "manta",
+      "mean",
+      "meant",
+      "mentee",
+      "naan",
+      "name",
+      "nana",
+      "nankeen",
+      "natant",
+      "neat",
+      "neaten",
+      "nene",
+      "taken",
+      "tank",
+      "tanka",
+      "teen",
+      "tenant",
+      "tenement",
+      "tenet",
+      "tent"
+    ],
+    "pangramHints": [
+      {
+        "word": "embankment",
+        "hint": "A structure that holds back water or earth. Think of where rivers meet land."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

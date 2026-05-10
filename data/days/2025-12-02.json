@@ -1,0 +1,190 @@
+{
+  "date": "2025-12-02",
+  "fetchedAt": "2026-05-10T20:20:11.737Z",
+  "connections": {
+    "puzzleId": 944,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "APPROXIMATE",
+        "words": [
+          "BALLPARK",
+          "BROAD",
+          "GENERAL",
+          "ROUGH"
+        ]
+      },
+      {
+        "title": "MILD OATHS",
+        "words": [
+          "FRICK",
+          "FUDGE",
+          "SHOOT",
+          "SUGAR"
+        ]
+      },
+      {
+        "title": "MLB PLAYER",
+        "words": [
+          "ANGEL",
+          "MET",
+          "RAY",
+          "ROYAL"
+        ]
+      },
+      {
+        "title": "FAMILY MEMBER NICKNAME PLUS A LETTER",
+        "words": [
+          "BROW",
+          "DADA",
+          "MOMA",
+          "SISI"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A range of estimates, where precision takes a backseat to the big picture.",
+      "Expressions of surprise that dance on the edge of politeness.",
+      "A quartet of teams, each with its own flair, playing the game under the sun.",
+      "A playful mix of kinship and a little extra, adding a twist to familiar terms."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1617,
+    "editor": "Tracy Bennett",
+    "solution": "cacti",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a plant that thrives in dry places."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is plural and has a spiky appearance."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that shares a habitat with succulents."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 806,
+    "editor": "Tracy Bennett",
+    "clue": "On the web",
+    "spangram": "SPIDERS",
+    "themeWords": [
+      "HOUSE",
+      "HUNTSMAN",
+      "JUMPING",
+      "RECLUSE",
+      "TARANTULA",
+      "WIDOW"
+    ],
+    "startingBoard": [
+      "MUJERN",
+      "IPSETA",
+      "NUCULR",
+      "GLDAAT",
+      "SPIERS",
+      "IHUANE",
+      "DWNMHS",
+      "OWTSOU"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2559,
+    "sides": [
+      "FYO",
+      "DLI",
+      "GHA",
+      "ECN"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "FLYING",
+      "GEOCACHED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26877,
+    "centerLetter": "c",
+    "outerLetters": "adehkl",
+    "pangrams": [
+      "chalked"
+    ],
+    "answers": [
+      "accede",
+      "acceded",
+      "aced",
+      "ache",
+      "ached",
+      "alack",
+      "cache",
+      "cached",
+      "cackle",
+      "cackled",
+      "cake",
+      "caked",
+      "call",
+      "calla",
+      "called",
+      "cede",
+      "ceded",
+      "cell",
+      "celled",
+      "chad",
+      "chalk",
+      "challah",
+      "check",
+      "checked",
+      "cheek",
+      "clack",
+      "clacked",
+      "clad",
+      "clade",
+      "dacha",
+      "decade",
+      "decal",
+      "deck",
+      "decked",
+      "deckle",
+      "each",
+      "hack",
+      "hacked",
+      "hackle",
+      "headache",
+      "heck",
+      "heckle",
+      "heckled",
+      "lace",
+      "laced",
+      "lack",
+      "lacked",
+      "leach",
+      "leached",
+      "lech",
+      "leech",
+      "leeched"
+    ],
+    "pangramHints": [
+      {
+        "word": "chalked",
+        "hint": "A word that captures the act of marking with a soft substance."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

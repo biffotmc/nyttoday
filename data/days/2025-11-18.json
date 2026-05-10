@@ -1,0 +1,172 @@
+{
+  "date": "2025-11-18",
+  "fetchedAt": "2026-05-10T20:19:19.308Z",
+  "connections": {
+    "puzzleId": 934,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FUNNY PERSON",
+        "words": [
+          "CLOWN",
+          "JOKER",
+          "LAUGH",
+          "RIOT"
+        ]
+      },
+      {
+        "title": "KINDS OF TOMATOES",
+        "words": [
+          "CHERRY",
+          "GRAPE",
+          "PLUM",
+          "ROMA"
+        ]
+      },
+      {
+        "title": "BEST ACTRESS OSCAR WINNERS",
+        "words": [
+          "BERRY",
+          "MADISON",
+          "STONE",
+          "SWANK"
+        ]
+      },
+      {
+        "title": "ENDING IN SYNONYMS FOR \"LOCATION\"",
+        "words": [
+          "COMMONPLACE",
+          "NEEDLEPOINT",
+          "PARASITE",
+          "SUNSPOT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These jesters bring joy and laughter, but beware of their tricks!",
+      "Tiny delights that burst with flavor, perfect for snacking!",
+      "These talented ladies have graced the stage and taken home the gold.",
+      "Words that finish with a sense of place, each with its own unique twist."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1693,
+    "editor": "Tracy Bennett",
+    "solution": "opine",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about expressing a thought or opinion."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a word often used in discussions or debates."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word involves sharing your perspective, often starting with 'o'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 792,
+    "editor": "Tracy Bennett",
+    "clue": "All mixed up",
+    "spangram": "OUTOFORDER",
+    "themeWords": [
+      "CHAOTIC",
+      "JUMBLED",
+      "MUDDLED",
+      "SCRAMBLED",
+      "SHUFFLED"
+    ],
+    "startingBoard": [
+      "MBLAML",
+      "UEDRBE",
+      "JORSCD",
+      "TFCDER",
+      "UOHATI",
+      "OFFODC",
+      "ELUMDE",
+      "DHSUDL"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2541,
+    "sides": [
+      "GTA",
+      "SXC",
+      "OUI",
+      "JNR"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JARGONISTIC",
+      "CRUX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23132,
+    "centerLetter": "m",
+    "outerLetters": "acikor",
+    "pangrams": [
+      "microcrack"
+    ],
+    "answers": [
+      "ammo",
+      "amok",
+      "armor",
+      "aroma",
+      "cami",
+      "camo",
+      "carom",
+      "coma",
+      "comic",
+      "comma",
+      "cram",
+      "imam",
+      "karma",
+      "karmic",
+      "korma",
+      "macro",
+      "maim",
+      "maki",
+      "mako",
+      "mama",
+      "mamma",
+      "maraca",
+      "mark",
+      "marm",
+      "mica",
+      "micro",
+      "mimic",
+      "mirror",
+      "mock",
+      "momma",
+      "moor",
+      "morocco",
+      "roam",
+      "romcom",
+      "room"
+    ],
+    "pangramHints": [
+      {
+        "word": "microcrack",
+        "hint": "A tiny fracture that might go unnoticed but can cause big issues."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

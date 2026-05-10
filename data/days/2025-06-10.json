@@ -1,0 +1,167 @@
+{
+  "date": "2025-06-10",
+  "fetchedAt": "2026-05-10T20:10:25.099Z",
+  "connections": {
+    "puzzleId": 771,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ARBITRATE",
+        "words": [
+          "CHAIR",
+          "JUDGE",
+          "MEDIATE",
+          "MODERATE"
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN INSERT IN A DOCUMENT",
+        "words": [
+          "CHART",
+          "IMAGE",
+          "TABLE",
+          "TEXT BOX"
+        ]
+      },
+      {
+        "title": "'80S SLANG",
+        "words": [
+          "CHILL",
+          "PSYCH",
+          "RADICAL",
+          "WORD"
+        ]
+      },
+      {
+        "title": "___ DUTY",
+        "words": [
+          "CIVIC",
+          "CUSTOMS",
+          "HEAVY",
+          "JURY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of decision-making, these roles often wear the gavel with grace.",
+      "Visual aids can transform a blank page into a masterpiece; what will you choose to add?",
+      "Catchphrases from the past that still echo in our conversations today.",
+      "Responsibilities that come with a badge or a summons, often weighing heavy on the shoulders."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1777,
+    "editor": "Tracy Bennett",
+    "solution": "taffy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A chewy treat often associated with fairs."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This sweet confection can stretch and pull."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a sticky delight, often found in colorful wrappers."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 632,
+    "editor": "Tracy Bennett",
+    "clue": "Mind your manners",
+    "spangram": "BEPOLITE",
+    "themeWords": [
+      "APOLOGIZE",
+      "CONSIDER",
+      "LISTEN",
+      "RESPECT",
+      "SHARE",
+      "THANK"
+    ],
+    "startingBoard": [
+      "THBSER",
+      "ENAEPE",
+      "TSNPTC",
+      "IKOHRE",
+      "LALSAC",
+      "ZEPION",
+      "GIOTSR",
+      "OLEIDE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2380,
+    "sides": [
+      "DIM",
+      "CET",
+      "GAL",
+      "BOP"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "DOGMATIC",
+      "CAPABLE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24604,
+    "centerLetter": "t",
+    "outerLetters": "egilmz",
+    "pangrams": [
+      "legitimize"
+    ],
+    "answers": [
+      "elite",
+      "emit",
+      "gelt",
+      "gilt",
+      "gimlet",
+      "glitz",
+      "item",
+      "itemize",
+      "legit",
+      "lilt",
+      "limit",
+      "lite",
+      "little",
+      "meet",
+      "melt",
+      "mete",
+      "mettle",
+      "millet",
+      "mite",
+      "mitt",
+      "teem",
+      "tell",
+      "tile",
+      "till",
+      "tilt",
+      "time",
+      "title",
+      "tittle",
+      "ziti"
+    ],
+    "pangramHints": [
+      {
+        "word": "legitimize",
+        "hint": "A word that grants authenticity, but don't say it aloud!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

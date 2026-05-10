@@ -1,0 +1,168 @@
+{
+  "date": "2025-10-21",
+  "fetchedAt": "2026-05-10T20:17:24.812Z",
+  "connections": {
+    "puzzleId": 903,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PLAYING CARDS",
+        "words": [
+          "ACES",
+          "JACKS",
+          "KINGS",
+          "QUEENS"
+        ]
+      },
+      {
+        "title": "TAKES ON",
+        "words": [
+          "ADDRESSES",
+          "DOES",
+          "HANDLES",
+          "TACKLES"
+        ]
+      },
+      {
+        "title": "N.B.A. TEAMS",
+        "words": [
+          "BUCKS",
+          "BULLS",
+          "HORNETS",
+          "SPURS"
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN CONTROL WITH REMOTES",
+        "words": [
+          "DRONES",
+          "GARAGE DOORS",
+          "TELEVISIONS",
+          "WIIS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a game of chance, these royalty figures hold the key to victory.",
+      "When situations arise, these actions step in to take charge.",
+      "These teams are known for their fierce competition on the hardwood.",
+      "From the couch to the sky, these gadgets bring convenience to your fingertips."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1373,
+    "editor": "Tracy Bennett",
+    "solution": "detox",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about a process of cleansing."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word relates to health and renewal."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with a fresh start, especially after indulgence."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 765,
+    "editor": "Tracy Bennett",
+    "clue": "Banding together",
+    "spangram": "LIVECONCERT",
+    "themeWords": [
+      "ENCORE",
+      "HEADLINER",
+      "MERCHANDISE",
+      "OPENER",
+      "STAGE"
+    ],
+    "startingBoard": [
+      "PENAGE",
+      "OERTSO",
+      "LIVECN",
+      "EMTREC",
+      "RCREAD",
+      "AHCOEL",
+      "NDNHIR",
+      "ESIENE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2513,
+    "sides": [
+      "HUT",
+      "AOJ",
+      "CER",
+      "LIG"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "JUGULAR",
+      "RICOCHET"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22488,
+    "centerLetter": "y",
+    "outerLetters": "dehmno",
+    "pangrams": [
+      "honeymooned"
+    ],
+    "answers": [
+      "demonym",
+      "deny",
+      "doomy",
+      "doyen",
+      "doyenne",
+      "dyed",
+      "dyne",
+      "eddy",
+      "enemy",
+      "eyed",
+      "homey",
+      "homonym",
+      "homonymy",
+      "honey",
+      "honeyed",
+      "honeymoon",
+      "hooey",
+      "hymen",
+      "hymn",
+      "mommy",
+      "money",
+      "moneyed",
+      "moneymen",
+      "mononym",
+      "moody",
+      "moony",
+      "needy",
+      "yenned",
+      "yeomen",
+      "yond",
+      "yoohoo"
+    ],
+    "pangramHints": [
+      {
+        "word": "honeymooned",
+        "hint": "A joyous occasion marked by travel and love, but don't say it outright!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "date": "2025-12-07",
+  "fetchedAt": "2026-05-10T20:20:29.862Z",
+  "connections": {
+    "puzzleId": 968,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MOVE AT BREAKNECK SPEED",
+        "words": [
+          "BARREL",
+          "BOLT",
+          "HURTLE",
+          "TEAR"
+        ]
+      },
+      {
+        "title": "ORGAN MEATS",
+        "words": [
+          "GIZZARD",
+          "HEART",
+          "TONGUE",
+          "TRIPE"
+        ]
+      },
+      {
+        "title": "WOODWORKING JOINT TERMS",
+        "words": [
+          "DADO",
+          "DOVETAIL",
+          "MITRE",
+          "MORTISE"
+        ]
+      },
+      {
+        "title": "EL ___",
+        "words": [
+          "CAPITAN",
+          "DORADO",
+          "GRECO",
+          "PASO"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When velocity becomes a thrill, these words take you on a wild ride.",
+      "Delicacies from the inside, these terms might make your stomach turn.",
+      "Craftsmanship at its finest, these terms join pieces together seamlessly.",
+      "A nod to the Spanish, these words take you on a journey through culture."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1430,
+    "editor": "Tracy Bennett",
+    "solution": "flute",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A musical instrument that can be quite airy."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It shares its name with a common term for a long, thin object."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of something that can be played or used to create melodies."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 818,
+    "editor": "Tracy Bennett",
+    "clue": "You're styling!",
+    "spangram": "BEAUTYSALON",
+    "themeWords": [
+      "BRAIDING",
+      "EXTENSIONS",
+      "FACIAL",
+      "HAIRCUT",
+      "WAXING"
+    ],
+    "startingBoard": [
+      "IATESO",
+      "CLXNIN",
+      "AFAETS",
+      "BEIUGY",
+      "GATRNS",
+      "NHUCIA",
+      "IAWIDL",
+      "XBRANO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2560,
+    "sides": [
+      "SCE",
+      "KWY",
+      "IHT",
+      "LMN"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CHEMIST",
+      "TWINKLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23180,
+    "centerLetter": "l",
+    "outerLetters": "ghinrt",
+    "pangrams": [
+      "thrilling"
+    ],
+    "answers": [
+      "giggling",
+      "gill",
+      "gilling",
+      "gilt",
+      "girl",
+      "glint",
+      "glinting",
+      "grill",
+      "grilling",
+      "highlight",
+      "highlighting",
+      "hill",
+      "hilling",
+      "hilt",
+      "light",
+      "lighting",
+      "lightning",
+      "lilt",
+      "lilting",
+      "lining",
+      "lint",
+      "niggling",
+      "nightlight",
+      "riling",
+      "rill",
+      "thrill",
+      "tiling",
+      "till",
+      "tilling",
+      "tilt",
+      "tilth",
+      "tilting",
+      "tingling",
+      "titling",
+      "trill",
+      "trilling"
+    ],
+    "pangramHints": [
+      {
+        "word": "thrilling",
+        "hint": "An exhilarating experience, often full of excitement."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

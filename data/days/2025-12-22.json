@@ -1,0 +1,201 @@
+{
+  "date": "2025-12-22",
+  "fetchedAt": "2026-05-10T20:21:29.525Z",
+  "connections": {
+    "puzzleId": 951,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INFLUX",
+        "words": [
+          "RASH",
+          "RUSH",
+          "SURGE",
+          "WAVE"
+        ]
+      },
+      {
+        "title": "SUBSEQUENT",
+        "words": [
+          "COMING",
+          "FOLLOWING",
+          "FUTURE",
+          "LATER"
+        ]
+      },
+      {
+        "title": "KINDS OF CARDS",
+        "words": [
+          "BUSINESS",
+          "GREETING",
+          "MEMBERSHIP",
+          "PLAYING"
+        ]
+      },
+      {
+        "title": "COLORS MINUS LAST LETTER",
+        "words": [
+          "BROW",
+          "CYA",
+          "PIN",
+          "WHIT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A surge of excitement can be felt when the tide rises, bringing with it unexpected treasures.",
+      "The future is just around the corner, always following in the footsteps of the present.",
+      "Cards can open doors to connections, whether for business or a friendly game night.",
+      "Colors can change their tune when you trim a letter, revealing new shades of meaning."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1213,
+    "editor": "Tracy Bennett",
+    "solution": "conch",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a shell that makes a sound."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with the ocean."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with 'c' and ends with 'h', and it's not just a snack."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 826,
+    "editor": "Tracy Bennett",
+    "clue": "Pass it along",
+    "spangram": "REGIFTING",
+    "themeWords": [
+      "BOOK",
+      "CANDLE",
+      "EARRINGS",
+      "GADGET",
+      "LOTION",
+      "SCARF",
+      "WINE"
+    ],
+    "startingBoard": [
+      "OBTEGA",
+      "ODEWDG",
+      "KNLING",
+      "RARAEN",
+      "ECFCSI",
+      "NGIFTA",
+      "OOLRRE",
+      "ITINGS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2578,
+    "sides": [
+      "SAI",
+      "JML",
+      "CRY",
+      "BFT"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JAMBALAYA",
+      "ARTIFACTS"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15085,
+    "centerLetter": "u",
+    "outerLetters": "cdekln",
+    "pangrams": [
+      "clunked",
+      "knuckled"
+    ],
+    "answers": [
+      "cellule",
+      "cluck",
+      "clucked",
+      "clue",
+      "clued",
+      "clunk",
+      "cuddle",
+      "cuddled",
+      "cued",
+      "cuke",
+      "cull",
+      "culled",
+      "deduce",
+      "deduced",
+      "delude",
+      "deluded",
+      "denude",
+      "denuded",
+      "deuce",
+      "duck",
+      "ducked",
+      "dude",
+      "duel",
+      "dueled",
+      "duke",
+      "duked",
+      "dull",
+      "dulled",
+      "dunce",
+      "dune",
+      "dunk",
+      "dunked",
+      "dunned",
+      "educe",
+      "educed",
+      "elude",
+      "eluded",
+      "endue",
+      "endued",
+      "knuckle",
+      "kudu",
+      "luck",
+      "lucked",
+      "lull",
+      "lulled",
+      "lulu",
+      "lune",
+      "lunk",
+      "nude",
+      "nuke",
+      "nuked",
+      "null",
+      "ukulele",
+      "unceded",
+      "uncle",
+      "undue",
+      "unneeded"
+    ],
+    "pangramHints": [
+      {
+        "word": "clunked",
+        "hint": "A noisy action that might happen when you drop something heavy."
+      },
+      {
+        "word": "knuckled",
+        "hint": "To bend your fingers in a certain way, often associated with a gesture."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "date": "2026-02-25",
+  "fetchedAt": "2026-05-10T20:25:41.740Z",
+  "connections": {
+    "puzzleId": 1076,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CARE FOR",
+        "words": [
+          "BABY",
+          "FOSTER",
+          "MOTHER",
+          "NURSE"
+        ]
+      },
+      {
+        "title": "ELEMENTARY",
+        "words": [
+          "BASIC",
+          "KEY",
+          "PRIMARY",
+          "PRINCIPAL"
+        ]
+      },
+      {
+        "title": "JAMESES",
+        "words": [
+          "BROWN",
+          "COOK",
+          "DEAN",
+          "HARDEN"
+        ]
+      },
+      {
+        "title": "ENDING IN FAMILY WORDS",
+        "words": [
+          "ALKALINE",
+          "DECLAN",
+          "DIATRIBE",
+          "NAPKIN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Nurturing is an art, whether it's a tiny tot or a caring hand. What connects them all?",
+      "Foundations are essential, whether in education or structure. What do these have in common?",
+      "Famous names in sports often share more than just a last name. Can you spot the link?",
+      "Words that wrap up a tale or describe a kinship. What ties these endings together?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2327,
+    "editor": "Tracy Bennett",
+    "solution": "shred",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might do to paper."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of what happens to a document when you want to reduce it to pieces."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This action can also mean to break down into smaller parts, often used in cooking or crafting."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 895,
+    "editor": "Tracy Bennett",
+    "clue": "That's really out there!",
+    "spangram": "SPACECRAFT",
+    "themeWords": [
+      "LANDER",
+      "MODULE",
+      "ORBITER",
+      "PROBE",
+      "ROVER",
+      "SATELLITE"
+    ],
+    "startingBoard": [
+      "REDNTE",
+      "TASAIR",
+      "ELELBR",
+      "LITDEO",
+      "PMOULF",
+      "SACRAT",
+      "ROECEB",
+      "VERPRO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2640,
+    "sides": [
+      "JCY",
+      "DEO",
+      "URA",
+      "NKB"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "JOCUND",
+      "DAYBREAK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12170,
+    "centerLetter": "w",
+    "outerLetters": "adkory",
+    "pangrams": [
+      "daywork",
+      "workaday",
+      "workday",
+      "yardwork"
+    ],
+    "answers": [
+      "arrow",
+      "award",
+      "away",
+      "awkward",
+      "awry",
+      "doorway",
+      "dowdy",
+      "dowry",
+      "draw",
+      "roadway",
+      "roadwork",
+      "rowdy",
+      "ward",
+      "wary",
+      "wayward",
+      "wood",
+      "woodwork",
+      "woody",
+      "word",
+      "wordy",
+      "work",
+      "worry",
+      "yarrow"
+    ],
+    "pangramHints": [
+      {
+        "word": "daywork",
+        "hint": "A daily grind that keeps you busy; think of tasks that fill your hours."
+      },
+      {
+        "word": "workaday",
+        "hint": "Commonplace and routine, this word describes the everyday hustle."
+      },
+      {
+        "word": "workday",
+        "hint": "The time spent laboring, often in an office or a field."
+      },
+      {
+        "word": "yardwork",
+        "hint": "Tasks that beautify your outdoor space; think of trimming and planting."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

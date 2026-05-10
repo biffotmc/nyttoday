@@ -1,0 +1,169 @@
+{
+  "date": "2025-06-09",
+  "fetchedAt": "2026-05-10T20:10:24.538Z",
+  "connections": {
+    "puzzleId": 764,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KEYBOARD SHORTCUT COMMANDS",
+        "words": [
+          "PASTE",
+          "PRINT",
+          "QUIT",
+          "SAVE"
+        ]
+      },
+      {
+        "title": "SECURE IN ADVANCE",
+        "words": [
+          "BOOK",
+          "ORDER",
+          "REQUEST",
+          "RESERVE"
+        ]
+      },
+      {
+        "title": "CRIME ORGANIZATION",
+        "words": [
+          "CREW",
+          "FAMILY",
+          "RING",
+          "SYNDICATE"
+        ]
+      },
+      {
+        "title": "SPELLING BEE RANKS MINUS A LETTER",
+        "words": [
+          "GENUS",
+          "GOO",
+          "MAZING",
+          "SLID"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These commands can save you from endless clicks, but use them wisely or risk losing your work!",
+      "Planning ahead is key; secure your spot before it’s too late!",
+      "In the shadows, they operate with loyalty and secrecy, bound by a code.",
+      "These ranks may seem incomplete, but they still hold their own in the competition."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1897,
+    "editor": "Tracy Bennett",
+    "solution": "board",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that holds your notes."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This is often found in a classroom or office."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s a flat surface you can write on or display things."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 647,
+    "editor": "Tracy Bennett",
+    "clue": "What you see isn't what you get",
+    "spangram": "FALSEFRONT",
+    "themeWords": [
+      "CAMOUFLAGE",
+      "CLOAK",
+      "COVER",
+      "DISGUISE",
+      "FACADE",
+      "MASK"
+    ],
+    "startingBoard": [
+      "KSALLC",
+      "AFCASO",
+      "MFOMEA",
+      "ELUFKS",
+      "GARDIG",
+      "ACOSIU",
+      "DANEOV",
+      "EFTCER"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2379,
+    "sides": [
+      "WUD",
+      "IKE",
+      "ASQ",
+      "LMT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "SIDEWALK",
+      "KUMQUAT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25020,
+    "centerLetter": "b",
+    "outerLetters": "ahilty",
+    "pangrams": [
+      "habitability"
+    ],
+    "answers": [
+      "ability",
+      "ably",
+      "alibi",
+      "baba",
+      "baby",
+      "baht",
+      "bail",
+      "bait",
+      "ball",
+      "bath",
+      "battily",
+      "batty",
+      "bialy",
+      "bilabial",
+      "bill",
+      "billy",
+      "blab",
+      "blabby",
+      "blah",
+      "blat",
+      "habit",
+      "habitat",
+      "hillbilly",
+      "labia",
+      "labial",
+      "lability",
+      "liability",
+      "tabby",
+      "tabla",
+      "tibia",
+      "tibial"
+    ],
+    "pangramHints": [
+      {
+        "word": "habitability",
+        "hint": "A quality that describes how suitable a place is for living."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

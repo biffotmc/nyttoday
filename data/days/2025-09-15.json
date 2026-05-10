@@ -1,0 +1,169 @@
+{
+  "date": "2025-09-15",
+  "fetchedAt": "2026-05-10T20:15:08.228Z",
+  "connections": {
+    "puzzleId": 868,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FLOORING OPTIONS",
+        "words": [
+          "CARPET",
+          "LAMINATE",
+          "TILE",
+          "WOOD"
+        ]
+      },
+      {
+        "title": "BEACHY AREA",
+        "words": [
+          "BANK",
+          "COAST",
+          "SHORE",
+          "STRAND"
+        ]
+      },
+      {
+        "title": "ROMANTIC VIBE",
+        "words": [
+          "CHEMISTRY",
+          "CONNECTION",
+          "FIREWORKS",
+          "SPARK"
+        ]
+      },
+      {
+        "title": "MEMBER OF A CLASSIC BACKING BAND",
+        "words": [
+          "BANSHEE",
+          "HEARTBREAKER",
+          "PIP",
+          "WAILER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When it comes to comfort underfoot, think soft, shiny, and solid; each option has its own charm.",
+      "Picture the gentle lapping of waves and the warm sun on your skin; these places are where land meets sea.",
+      "Love is in the air, igniting sparks and creating connections that feel electric.",
+      "In the world of music, some legends are known for their haunting sounds and emotional depth; they leave a lasting impression."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1236,
+    "editor": "Tracy Bennett",
+    "solution": "along",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you do when you move from one place to another."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a word that suggests a path or direction."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also imply a relationship or connection between things."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 727,
+    "editor": "Tracy Bennett",
+    "clue": "For a fortune",
+    "spangram": "TAROTCARDS",
+    "themeWords": [
+      "DEVIL",
+      "EMPRESS",
+      "FOOL",
+      "LOVERS",
+      "MAGICIAN",
+      "MOON",
+      "STAR"
+    ],
+    "startingBoard": [
+      "FOOTON",
+      "IVLAOM",
+      "LEDRES",
+      "TACOMS",
+      "SRATPE",
+      "LORNMR",
+      "SVDACA",
+      "RESIIG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2477,
+    "sides": [
+      "TIA",
+      "HRL",
+      "GEC",
+      "MWP"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "PAPERWEIGHT",
+      "TRICAMERAL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 24069,
+    "centerLetter": "w",
+    "outerLetters": "acdeht",
+    "pangrams": [
+      "watched"
+    ],
+    "answers": [
+      "awed",
+      "cawed",
+      "chaw",
+      "chew",
+      "chewed",
+      "hawed",
+      "heehaw",
+      "heehawed",
+      "hewed",
+      "thaw",
+      "thawed",
+      "twee",
+      "tweed",
+      "tweet",
+      "tweeted",
+      "wadded",
+      "wade",
+      "waded",
+      "watch",
+      "watt",
+      "wedded",
+      "weed",
+      "weeded",
+      "wetted",
+      "what",
+      "wheat",
+      "whee",
+      "whet",
+      "whetted",
+      "whew"
+    ],
+    "pangramHints": [
+      {
+        "word": "watched",
+        "hint": "A term often used when observing something closely; think of the moments that captivate your attention."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

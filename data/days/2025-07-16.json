@@ -1,0 +1,175 @@
+{
+  "date": "2025-07-16",
+  "fetchedAt": "2026-05-10T20:10:43.242Z",
+  "connections": {
+    "puzzleId": 804,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "PARTS OF A COLLEGE CAMPUS",
+        "words": [
+          "CAFETERIA",
+          "DORM",
+          "LIBRARY",
+          "QUAD"
+        ]
+      },
+      {
+        "title": "EXAGGERATED, AS A PERFORMANCE",
+        "words": [
+          "CAMP",
+          "DRAMATIC",
+          "HAMMY",
+          "OVERDONE"
+        ]
+      },
+      {
+        "title": "CLOSE IN ON",
+        "words": [
+          "CORNER",
+          "SURROUND",
+          "TRAP",
+          "TREE"
+        ]
+      },
+      {
+        "title": "STARTS OF GREEK LETTERS",
+        "words": [
+          "BET",
+          "DELT",
+          "LAMB",
+          "THE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Where students gather to eat, rest, and study, each corner offers a different vibe.",
+      "Some might say they’re hamming it up, others just enjoy the show.",
+      "Like a hunter stalking prey, these words suggest a tightening grip.",
+      "The beginning of something grand, these symbols set the stage for the rest."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2324,
+    "editor": "Tracy Bennett",
+    "solution": "nervy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a word that describes someone bold or brash."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also imply a certain audacity."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It’s often used to describe someone who is unafraid to take risks."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 666,
+    "editor": "Tracy Bennett",
+    "clue": "Tech accessories",
+    "spangram": "TABLET",
+    "themeWords": [
+      "CASE",
+      "CHARGER",
+      "FOLIO",
+      "KEYBOARD",
+      "SPEAKER",
+      "STAND",
+      "STYLUS"
+    ],
+    "startingBoard": [
+      "EAKTSC",
+      "PEALIA",
+      "SRNOOS",
+      "TDLFAE",
+      "AEBBET",
+      "ROCYGK",
+      "UDTHRE",
+      "SLYSAR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2416,
+    "sides": [
+      "EKR",
+      "WTI",
+      "OLA",
+      "NCB"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "BROWBEATEN",
+      "NIBLICK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23601,
+    "centerLetter": "h",
+    "outerLetters": "ceginw",
+    "pangrams": [
+      "chewing"
+    ],
+    "answers": [
+      "chew",
+      "chic",
+      "chichi",
+      "chin",
+      "chinning",
+      "cinch",
+      "cinching",
+      "ghee",
+      "heinie",
+      "hence",
+      "henge",
+      "hewing",
+      "hewn",
+      "high",
+      "hinge",
+      "hinging",
+      "inch",
+      "inching",
+      "neigh",
+      "neighing",
+      "niche",
+      "nigh",
+      "weigh",
+      "weighing",
+      "wench",
+      "whee",
+      "when",
+      "whence",
+      "whew",
+      "which",
+      "whine",
+      "whinge",
+      "whingeing",
+      "whinging",
+      "whining",
+      "winch"
+    ],
+    "pangramHints": [
+      {
+        "word": "chewing",
+        "hint": "A common action involving food, but don't let your mouth spill the beans!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

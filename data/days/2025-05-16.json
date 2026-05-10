@@ -1,0 +1,177 @@
+{
+  "date": "2025-05-16",
+  "fetchedAt": "2026-05-10T20:06:36.848Z",
+  "connections": {
+    "puzzleId": 744,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KINDS OF PLANTS",
+        "words": [
+          "HERB",
+          "SHRUB",
+          "TREE",
+          "VINE"
+        ]
+      },
+      {
+        "title": "DISCONTINUE",
+        "words": [
+          "DISSOLVE",
+          "END",
+          "SCRAP",
+          "SUNSET"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH BULLS",
+        "words": [
+          "MICHAEL JORDAN",
+          "RODEO",
+          "TAURUS",
+          "WALL STREET"
+        ]
+      },
+      {
+        "title": "ENDING WITH BUILDING MATERIALS",
+        "words": [
+          "HOLLYWOOD",
+          "HOURGLASS",
+          "KUBRICK",
+          "NEUROPLASTIC"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These green companions come in various forms, from the tiniest to the tallest. Can you name them all?",
+      "When something comes to a close, it might just fade away or be put on the shelf. What do you call that?",
+      "This trio has ties to the arena and the stock market, but one stands out as a legend. Who could it be?",
+      "These words all share a common ending that evokes construction and structure. What could it be?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2070,
+    "editor": "Tracy Bennett",
+    "solution": "fifth",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a number that comes after four."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of a term often used in a ranking or sequence."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a position in a line or order."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 602,
+    "editor": "Tracy Bennett",
+    "clue": "To a degree",
+    "spangram": "GRADUATION",
+    "themeWords": [
+      "DIPLOMA",
+      "GOWN",
+      "PHOTO",
+      "PROCESSION",
+      "SPEECH",
+      "TASSEL"
+    ],
+    "startingBoard": [
+      "DHEPSN",
+      "ICEIOP",
+      "PLOTRL",
+      "AMUAOE",
+      "PHDCSG",
+      "OOAESO",
+      "TRSNAW",
+      "GSIOTN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2355,
+    "sides": [
+      "QOI",
+      "EMS",
+      "UCT",
+      "NHV"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "MOCHI",
+      "INQUISITIVE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16268,
+    "centerLetter": "p",
+    "outerLetters": "beilow",
+    "pangrams": [
+      "blowpipe"
+    ],
+    "answers": [
+      "bebop",
+      "beep",
+      "bleep",
+      "blip",
+      "bloop",
+      "boop",
+      "elope",
+      "epee",
+      "lipo",
+      "lollipop",
+      "lollop",
+      "loop",
+      "lope",
+      "pebble",
+      "peel",
+      "peep",
+      "peewee",
+      "people",
+      "pewee",
+      "pile",
+      "pill",
+      "pillow",
+      "pipe",
+      "pleb",
+      "plebe",
+      "plie",
+      "plop",
+      "plow",
+      "pole",
+      "polio",
+      "poll",
+      "polo",
+      "pool",
+      "poop",
+      "pope",
+      "powwow",
+      "weep",
+      "weepie",
+      "wipe"
+    ],
+    "pangramHints": [
+      {
+        "word": "blowpipe",
+        "hint": "A tool for directing air, often used in glassmaking. Don't say the word!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

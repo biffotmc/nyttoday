@@ -1,0 +1,195 @@
+{
+  "date": "2026-02-16",
+  "fetchedAt": "2026-05-10T20:25:03.630Z",
+  "connections": {
+    "puzzleId": 1039,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KNEE-SLAPPER",
+        "words": [
+          "HOOT",
+          "LAUGH",
+          "RIOT",
+          "SCREAM"
+        ]
+      },
+      {
+        "title": "HOMOPHONES",
+        "words": [
+          "DO",
+          "DOE",
+          "DOH",
+          "DOUGH"
+        ]
+      },
+      {
+        "title": "SOUNDS A CHICKEN MAKES",
+        "words": [
+          "BUCK",
+          "CACKLE",
+          "CLUCK",
+          "SQUAWK"
+        ]
+      },
+      {
+        "title": "STRESS RESPONSES",
+        "words": [
+          "FAWN",
+          "FIGHT",
+          "FLIGHT",
+          "FREEZE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words will have you in stitches, but don't forget to keep your sides intact!",
+      "Sounds the same but dances differently; can you hear the subtle differences?",
+      "Cluck, cackle, and squawk your way through this feathered riddle!",
+      "When the pressure's on, how do you react? Choose your path wisely!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2155,
+    "editor": "Tracy Bennett",
+    "solution": "roost",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This place is where birds settle down for the night."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a cozy spot, often associated with comfort and safety."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a term that describes a resting place for our feathered friends."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 891,
+    "editor": "Tracy Bennett",
+    "clue": "The cutting edge",
+    "spangram": "FIGURESKATING",
+    "themeWords": [
+      "COMBO",
+      "CROSSOVER",
+      "JUMP",
+      "LIFT",
+      "LOOP",
+      "SPIN",
+      "THROW"
+    ],
+    "startingBoard": [
+      "OSVEMP",
+      "RSORUI",
+      "CURJPN",
+      "GOOETS",
+      "ILPSFW",
+      "OFKIRO",
+      "BOALHT",
+      "MCTING"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2631,
+    "sides": [
+      "RST",
+      "QAI",
+      "NXE",
+      "OUG"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "AXING",
+      "GROTESQUE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21537,
+    "centerLetter": "a",
+    "outerLetters": "bckmor",
+    "pangrams": [
+      "backroom"
+    ],
+    "answers": [
+      "aback",
+      "ammo",
+      "amok",
+      "arbor",
+      "arco",
+      "armor",
+      "aroma",
+      "baba",
+      "babka",
+      "back",
+      "backcomb",
+      "bamboo",
+      "baobab",
+      "barb",
+      "barback",
+      "barbacoa",
+      "bark",
+      "barrack",
+      "barroom",
+      "boar",
+      "boba",
+      "bookmark",
+      "bookrack",
+      "cacao",
+      "camo",
+      "carb",
+      "carob",
+      "carom",
+      "cobra",
+      "coca",
+      "cocoa",
+      "coma",
+      "comma",
+      "crab",
+      "crack",
+      "cram",
+      "croak",
+      "kabob",
+      "kaboom",
+      "karma",
+      "korma",
+      "macro",
+      "mako",
+      "mama",
+      "mamba",
+      "mambo",
+      "mamma",
+      "maraca",
+      "mark",
+      "marm",
+      "momma",
+      "okra",
+      "orca",
+      "rack",
+      "roam",
+      "roar"
+    ],
+    "pangramHints": [
+      {
+        "word": "backroom",
+        "hint": "A hidden space where secrets might be exchanged."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

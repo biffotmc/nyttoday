@@ -1,0 +1,182 @@
+{
+  "date": "2025-11-05",
+  "fetchedAt": "2026-05-10T20:18:28.296Z",
+  "connections": {
+    "puzzleId": 922,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "MAKE A HASH OF",
+        "words": [
+          "BLOW",
+          "BOTCH",
+          "BUTCHER",
+          "SPOIL"
+        ]
+      },
+      {
+        "title": "WEAPONS IN THE GAME CLUE",
+        "words": [
+          "CANDLESTICK",
+          "KNIFE",
+          "ROPE",
+          "WRENCH"
+        ]
+      },
+      {
+        "title": "ICONIC SOUL SINGERS",
+        "words": [
+          "BAKER",
+          "FLACK",
+          "FRANKLIN",
+          "KNIGHT"
+        ]
+      },
+      {
+        "title": "RAIN___",
+        "words": [
+          "BOW",
+          "COAT",
+          "FOREST",
+          "MAKER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When things go awry, these words might come to mind; they all share a knack for mishaps.",
+      "In a game of deduction, these tools can lead to a dramatic reveal; each one plays a part in the mystery.",
+      "These voices have shaped the sound of a generation; their names resonate with soulful melodies.",
+      "Think of things that can shield you from the elements; they all have a connection to precipitation."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1208,
+    "editor": "Tracy Bennett",
+    "solution": "short",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might do when you're in a hurry."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with size or duration."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a common term for something brief or concise."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 779,
+    "editor": "Tracy Bennett",
+    "clue": "The butterfly effect",
+    "spangram": "MONARCHS",
+    "themeWords": [
+      "CATERPILLAR",
+      "CHRYSALIS",
+      "HATCH",
+      "MIGRATE",
+      "MILKWEED"
+    ],
+    "startingBoard": [
+      "HRALRA",
+      "CYSICL",
+      "LIMSAL",
+      "KWARTI",
+      "DENCEP",
+      "EOHMHR",
+      "MAGIES",
+      "TCHRAT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2526,
+    "sides": [
+      "ZCS",
+      "IUO",
+      "KQA",
+      "TEN"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "CONQUEST",
+      "TZATZIKI"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23211,
+    "centerLetter": "n",
+    "outerLetters": "amotuy",
+    "pangrams": [
+      "autonomy"
+    ],
+    "answers": [
+      "amount",
+      "anatomy",
+      "annatto",
+      "annoy",
+      "anon",
+      "antonym",
+      "antonymy",
+      "aunt",
+      "aunty",
+      "automaton",
+      "autumn",
+      "mammon",
+      "manna",
+      "manta",
+      "many",
+      "moan",
+      "mono",
+      "mononym",
+      "monotony",
+      "moon",
+      "moony",
+      "mount",
+      "mutant",
+      "mutton",
+      "myna",
+      "naan",
+      "nana",
+      "nanny",
+      "natant",
+      "natty",
+      "noon",
+      "noun",
+      "nutty",
+      "onto",
+      "ottoman",
+      "outman",
+      "tantamount",
+      "taunt",
+      "tony",
+      "toon",
+      "tuna",
+      "unman",
+      "unmount",
+      "unto",
+      "yuan"
+    ],
+    "pangramHints": [
+      {
+        "word": "autonomy",
+        "hint": "A state of self-governance; think independence without naming it."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

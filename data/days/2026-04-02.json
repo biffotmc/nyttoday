@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-02",
+  "fetchedAt": "2026-05-10T20:28:17.320Z",
+  "connections": {
+    "puzzleId": 1106,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SUPPORT",
+        "words": [
+          "BACK",
+          "CHAMPION",
+          "ENDORSE",
+          "SECOND"
+        ]
+      },
+      {
+        "title": "OPPORTUNITY",
+        "words": [
+          "CHANCE",
+          "MOMENT",
+          "OPENING",
+          "WINDOW"
+        ]
+      },
+      {
+        "title": "MALE ANIMALS",
+        "words": [
+          "BUCK",
+          "DRAKE",
+          "DRONE",
+          "STALLION"
+        ]
+      },
+      {
+        "title": "ENDS OF LIQUOR BRANDS",
+        "words": [
+          "CARDI",
+          "EATER",
+          "MESON",
+          "MIGOS"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you stand behind someone, you might just be their biggest fan. What do you call that support?",
+      "When the stars align, a moment presents itself. Are you ready to seize it?",
+      "In the wild, these fellows strut their stuff, each with their own flair. What do you call them?",
+      "When it comes to drinks, some names are quite the mix. What do you think connects them?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1425,
+    "editor": "Tracy Bennett",
+    "solution": "sober",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a state of clarity."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's often associated with being free from intoxication."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also describe a clear mind, often sought after."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 933,
+    "editor": "Tracy Bennett",
+    "clue": "On track",
+    "spangram": "HORSERACING",
+    "themeWords": [
+      "AGENT",
+      "BETTOR",
+      "BOOKIE",
+      "JOCKEY",
+      "TIPSTER",
+      "TRAINER"
+    ],
+    "startingBoard": [
+      "ORTNEG",
+      "TGNICA",
+      "BTEKJA",
+      "HEYCOR",
+      "TORSEI",
+      "AROKTP",
+      "NIOIST",
+      "REBERE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2676,
+    "sides": [
+      "BNQ",
+      "RYJ",
+      "UIE",
+      "OAM"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JOURNEYMEN",
+      "NIQAB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18415,
+    "centerLetter": "o",
+    "outerLetters": "aimnty",
+    "pangrams": [
+      "anonymity",
+      "antimony"
+    ],
+    "answers": [
+      "amino",
+      "ammo",
+      "ammonia",
+      "amnio",
+      "anatomy",
+      "animation",
+      "anion",
+      "annatto",
+      "annotation",
+      "annoy",
+      "anoint",
+      "anon",
+      "antonym",
+      "antonymy",
+      "atom",
+      "imitation",
+      "initiation",
+      "intimation",
+      "into",
+      "intonation",
+      "iota",
+      "mammon",
+      "mayo",
+      "minion",
+      "moan",
+      "moat",
+      "momma",
+      "mommy",
+      "mono",
+      "monomania",
+      "mononym",
+      "monotony",
+      "moon",
+      "moony",
+      "moot",
+      "motion",
+      "motto",
+      "nation",
+      "nomination",
+      "noon",
+      "notation",
+      "notion",
+      "oaty",
+      "omit",
+      "onion",
+      "oniony",
+      "onto",
+      "ottoman",
+      "tattoo",
+      "tomato",
+      "tomtit",
+      "tony",
+      "toon",
+      "toot"
+    ],
+    "pangramHints": [
+      {
+        "word": "anonymity",
+        "hint": "A state of being unknown; think of masks and shadows."
+      },
+      {
+        "word": "antimony",
+        "hint": "A chemical element that might be found in a curious blend."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

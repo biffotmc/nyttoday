@@ -1,0 +1,174 @@
+{
+  "date": "2025-09-22",
+  "fetchedAt": "2026-05-10T20:15:36.513Z",
+  "connections": {
+    "puzzleId": 873,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BASIC GEOMETRIC CALCULATIONS",
+        "words": [
+          "AREA",
+          "LENGTH",
+          "PERIMETER",
+          "VOLUME"
+        ]
+      },
+      {
+        "title": "BLACK-AND-WHITE THINGS",
+        "words": [
+          "CROSSWORD",
+          "DOMINO",
+          "ORCA",
+          "OREO"
+        ]
+      },
+      {
+        "title": "LAS VEGAS CASINO HOTELS",
+        "words": [
+          "ARIA",
+          "ENCORE",
+          "EXCALIBUR",
+          "LUXOR"
+        ]
+      },
+      {
+        "title": "WORDS THAT SOUND LIKE PLURAL LETTERS",
+        "words": [
+          "ARS",
+          "AYES",
+          "EASE",
+          "OWES"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Shapes and sizes, oh my! Calculate the space and length with ease.",
+      "In monochrome we play, from puzzles to treats, find the common thread.",
+      "A city of lights, where luck and luxury meet, discover the names behind the glitz.",
+      "Letters that echo, but not quite the same; listen closely to the sounds they proclaim."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1006,
+    "editor": "Tracy Bennett",
+    "solution": "quill",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a writing tool."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This tool can leave a mark, often associated with feathers."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word, often used in the context of writing or drawing."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 735,
+    "editor": "Tracy Bennett",
+    "clue": "Find an opening",
+    "spangram": "MINDTHEGAP",
+    "themeWords": [
+      "ALCOVE",
+      "CRANNY",
+      "CREVICE",
+      "NICHE",
+      "NOOK",
+      "PIGEONHOLE"
+    ],
+    "startingBoard": [
+      "ALOKAP",
+      "CNOEGC",
+      "OVTHRY",
+      "ENDANN",
+      "MICOLE",
+      "ERIHNE",
+      "CENCOG",
+      "IVEHIP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2484,
+    "sides": [
+      "NTW",
+      "APE",
+      "BJI",
+      "RCO"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "BRAINPOWER",
+      "REJECT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9320,
+    "centerLetter": "d",
+    "outerLetters": "ghinot",
+    "pangrams": [
+      "goodnight",
+      "hotdogging"
+    ],
+    "answers": [
+      "dhoti",
+      "digging",
+      "digit",
+      "ding",
+      "dinging",
+      "dingo",
+      "dining",
+      "dino",
+      "dint",
+      "ditto",
+      "dodging",
+      "dodo",
+      "dogging",
+      "doggo",
+      "doing",
+      "dong",
+      "donning",
+      "doth",
+      "doting",
+      "dotting",
+      "good",
+      "hiding",
+      "hind",
+      "hood",
+      "hooding",
+      "hoodoo",
+      "hotdog",
+      "idiot",
+      "indigo",
+      "nodding",
+      "tiding"
+    ],
+    "pangramHints": [
+      {
+        "word": "goodnight",
+        "hint": "A comforting farewell, but don't say it too soon."
+      },
+      {
+        "word": "hotdogging",
+        "hint": "A playful activity that might involve some flair; keep it light!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

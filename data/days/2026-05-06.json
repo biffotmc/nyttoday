@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-06",
+  "fetchedAt": "2026-05-10T20:30:31.441Z",
+  "connections": {
+    "puzzleId": 1027,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FOUND IN A CASINO",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "WAYS TO FASTEN THINGS",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "SEEN IN A BOWLING ALLEY",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "title": "FLAG DESIGNS",
+        "words": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the realm of chance, where fortunes are won and lost, think of items that can change your luck.",
+      "Consider the tools of the trade that hold things together, but not always in the way you might expect.",
+      "Picture the vibrant atmosphere of strikes and spares, where certain items are as essential as the game itself.",
+      "Colors and shapes that wave proudly, each telling a story of its own, beckoning with their unique designs."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1960,
+    "editor": "Tracy Bennett",
+    "solution": "liken",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "This word relates to perception and similarity."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of how you might describe something by comparing it to another."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also refer to a way of seeing or understanding something in relation to another."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 967,
+    "editor": "Tracy Bennett",
+    "clue": "Get-up-and-go!",
+    "spangram": "RISEANDSHINE",
+    "themeWords": [
+      "ASCEND",
+      "CLIMB",
+      "RADIATE",
+      "SHIMMER",
+      "SOAR",
+      "SPARKLE"
+    ],
+    "startingBoard": [
+      "RENDBE",
+      "ACSMAN",
+      "OAIENI",
+      "SLSKDH",
+      "CIARLS",
+      "RISPRE",
+      "HSMTDA",
+      "REMEAI"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2710,
+    "sides": [
+      "KOB",
+      "LNA",
+      "CYW",
+      "URI"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "UNIBROW",
+      "WACKILY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23175,
+    "centerLetter": "a",
+    "outerLetters": "ilrtuv",
+    "pangrams": [
+      "virtual"
+    ],
+    "answers": [
+      "alit",
+      "alluvial",
+      "altar",
+      "aria",
+      "aril",
+      "arrival",
+      "atilt",
+      "atria",
+      "atrial",
+      "attar",
+      "aura",
+      "aural",
+      "avail",
+      "avatar",
+      "lair",
+      "lariat",
+      "larva",
+      "larval",
+      "lava",
+      "liar",
+      "lira",
+      "luau",
+      "rail",
+      "raita",
+      "ratatat",
+      "rattail",
+      "rial",
+      "ritual",
+      "rival",
+      "rural",
+      "tail",
+      "tali",
+      "tall",
+      "tallit",
+      "tart",
+      "tartar",
+      "taut",
+      "tiara",
+      "titular",
+      "trail",
+      "trait",
+      "travail",
+      "trial",
+      "trivia",
+      "trivial",
+      "ultra",
+      "uvula",
+      "uvular",
+      "vault",
+      "vial",
+      "villa",
+      "viral",
+      "vital",
+      "vulva",
+      "vulval",
+      "vulvar"
+    ],
+    "pangramHints": [
+      {
+        "word": "virtual",
+        "hint": "A word that embodies the essence of the digital realm; think of something that exists in essence rather than in reality."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

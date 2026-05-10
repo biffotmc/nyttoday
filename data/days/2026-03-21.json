@@ -1,0 +1,185 @@
+{
+  "date": "2026-03-21",
+  "fetchedAt": "2026-05-10T20:27:30.203Z",
+  "connections": {
+    "puzzleId": 1098,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "DIRECT",
+        "words": [
+          "BLUNT",
+          "FRANK",
+          "PLAIN",
+          "STRAIGHT"
+        ]
+      },
+      {
+        "title": "TARGET",
+        "words": [
+          "GOAL",
+          "MARK",
+          "OBJECT",
+          "POINT"
+        ]
+      },
+      {
+        "title": "CHECKERS TERMS",
+        "words": [
+          "CAPTURE",
+          "CROWN",
+          "JUMP",
+          "KING"
+        ]
+      },
+      {
+        "title": "20TH CENTURY AMERICAN POETS",
+        "words": [
+          "BISHOP",
+          "FROST",
+          "POUND",
+          "RICH"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words all cut through the noise with clarity and honesty.",
+      "Aim for precision; these terms are all about hitting the mark.",
+      "In this game, strategy is key; think about how to outmaneuver your opponent.",
+      "These literary figures shaped a century with their profound words and unique voices."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 597,
+    "editor": "Tracy Bennett",
+    "solution": "slick",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It’s smooth and shiny."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of something that glides effortlessly."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word suggests a polished surface, often associated with style."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 920,
+    "editor": "Tracy Bennett",
+    "clue": "Sniff sniff",
+    "spangram": "ONTHENOSE",
+    "themeWords": [
+      "BEAK",
+      "HONKER",
+      "MUZZLE",
+      "PROBOSCIS",
+      "SCHNOZZLE",
+      "SNOUT"
+    ],
+    "startingBoard": [
+      "ZOSOHO",
+      "ZNCNRN",
+      "LHMTEK",
+      "EUHAES",
+      "ZEKBCI",
+      "ZNOPSO",
+      "LETSRB",
+      "SNOUEO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2664,
+    "sides": [
+      "RTA",
+      "JUI",
+      "DEX",
+      "NMP"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "PANJANDRUM",
+      "MIXTURE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 15512,
+    "centerLetter": "e",
+    "outerLetters": "ilnpuv",
+    "pangrams": [
+      "vulpine"
+    ],
+    "answers": [
+      "eleven",
+      "enliven",
+      "ennui",
+      "epee",
+      "even",
+      "evil",
+      "innie",
+      "levee",
+      "level",
+      "lien",
+      "lieu",
+      "line",
+      "linen",
+      "lineup",
+      "live",
+      "liven",
+      "lune",
+      "lupine",
+      "nene",
+      "nine",
+      "ninepin",
+      "nipple",
+      "peel",
+      "peen",
+      "peep",
+      "peeve",
+      "penile",
+      "penne",
+      "pile",
+      "pileup",
+      "pine",
+      "pipe",
+      "pipeline",
+      "plie",
+      "pule",
+      "uneven",
+      "unlevel",
+      "unpen",
+      "unpile",
+      "unveil",
+      "veep",
+      "veil",
+      "vein",
+      "venue",
+      "venule",
+      "vile",
+      "vine"
+    ],
+    "pangramHints": [
+      {
+        "word": "vulpine",
+        "hint": "A word that captures the essence of a clever creature, often associated with cunning."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "date": "2025-06-28",
+  "fetchedAt": "2026-05-10T20:10:33.156Z",
+  "connections": {
+    "puzzleId": 790,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "THINGS A DOG CAN FETCH",
+        "words": [
+          "BALL",
+          "BONE",
+          "FRISBEE",
+          "STICK"
+        ]
+      },
+      {
+        "title": "GREAT MANY",
+        "words": [
+          "DROVE",
+          "HOST",
+          "LOAD",
+          "SCORE"
+        ]
+      },
+      {
+        "title": "POSSIBLE RESULTS OF A TRAFFIC VIOLATION",
+        "words": [
+          "BOOT",
+          "POINTS",
+          "TICKET",
+          "TOW"
+        ]
+      },
+      {
+        "title": "INDUSTRIAL REVOLUTION INVENTORS",
+        "words": [
+          "BELL",
+          "DIESEL",
+          "SINGER",
+          "WATT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you throw it, they’ll bring it back, but only if it’s not too heavy or too soft.",
+      "A multitude can be gathered, but not all at once; they come in waves, like a crowd.",
+      "When the rules are broken, these may come into play, and not everyone will be happy about it.",
+      "Innovators of the past who sparked change, their names still resonate in the world of machines."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1577,
+    "editor": "Tracy Bennett",
+    "solution": "stump",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a part of a tree, but not the trunk."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of what you might do if you were stuck."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also mean to hinder progress."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 646,
+    "editor": "Tracy Bennett",
+    "clue": "... not included",
+    "spangram": "BATTERIESREQUIRED",
+    "themeWords": [
+      "CAMERA",
+      "CLOCK",
+      "FLASHLIGHT",
+      "REMOTE",
+      "TOYS"
+    ],
+    "startingBoard": [
+      "DERAYO",
+      "UICRST",
+      "QEAELC",
+      "SRMOIL",
+      "EICHGH",
+      "ERKTSR",
+      "TTFLAE",
+      "BAETOM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2398,
+    "sides": [
+      "EOK",
+      "UAR",
+      "LCB",
+      "MPJ"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "OPAL",
+      "LUMBERJACK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20585,
+    "centerLetter": "o",
+    "outerLetters": "aglnpy",
+    "pangrams": [
+      "nonapology",
+      "polygonal"
+    ],
+    "answers": [
+      "agog",
+      "agony",
+      "alloy",
+      "along",
+      "analog",
+      "analogy",
+      "annoy",
+      "anon",
+      "apology",
+      "gallon",
+      "gallop",
+      "galop",
+      "gloop",
+      "gloopy",
+      "glop",
+      "gloppy",
+      "goal",
+      "goggly",
+      "golly",
+      "gong",
+      "gonna",
+      "googly",
+      "googol",
+      "goon",
+      "goony",
+      "goop",
+      "goopy",
+      "lagoon",
+      "llano",
+      "loan",
+      "logo",
+      "logy",
+      "loll",
+      "lollop",
+      "lollygag",
+      "long",
+      "longan",
+      "loon",
+      "loony",
+      "loop",
+      "loopy",
+      "loyal",
+      "loyally",
+      "nonagon",
+      "nonagonal",
+      "noon",
+      "nylon",
+      "onlay",
+      "only",
+      "oolong",
+      "opal",
+      "panoply",
+      "payola",
+      "plop",
+      "ploy",
+      "pogo",
+      "poll",
+      "polo",
+      "polygon",
+      "polyp",
+      "pong",
+      "pony",
+      "pool",
+      "poop",
+      "poppa",
+      "poppy",
+      "pylon",
+      "yoga"
+    ],
+    "pangramHints": [
+      {
+        "word": "nonapology",
+        "hint": "An excuse that doesn’t quite cut it; think of a lack of regret."
+      },
+      {
+        "word": "polygonal",
+        "hint": "Shapes with many sides, but not all are equal; think geometry."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

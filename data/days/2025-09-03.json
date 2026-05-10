@@ -1,0 +1,200 @@
+{
+  "date": "2025-09-03",
+  "fetchedAt": "2026-05-10T20:14:22.310Z",
+  "connections": {
+    "puzzleId": 854,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BEGINNING",
+        "words": [
+          "BIRTH",
+          "DAWN",
+          "GENESIS",
+          "START"
+        ]
+      },
+      {
+        "title": "JOIN",
+        "words": [
+          "BOND",
+          "COMBINE",
+          "FUSE",
+          "WED"
+        ]
+      },
+      {
+        "title": "TV-RELATED ABBREVIATIONS IN THE '80S",
+        "words": [
+          "ALF",
+          "MTV",
+          "NES",
+          "VHS"
+        ]
+      },
+      {
+        "title": "MAY___",
+        "words": [
+          "DAY",
+          "FLOWER",
+          "FLY",
+          "POLE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A fresh start awaits, where beginnings bloom and new chapters unfold.",
+      "When two become one, magic happens; think of ties that bind.",
+      "In a world of pixels and nostalgia, remember the icons that shaped our screens.",
+      "A month of blossoms and celebrations, where the spirit of nature thrives."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1262,
+    "editor": "Tracy Bennett",
+    "solution": "fetch",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you do to obtain something."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This action often involves seeking or retrieving."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a common action when you want to get something from someone or somewhere."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 715,
+    "editor": "Tracy Bennett",
+    "clue": "That's so sweet!",
+    "spangram": "SUGARY",
+    "themeWords": [
+      "BROWN",
+      "CUBE",
+      "GRANULATED",
+      "INVERT",
+      "POWDERED",
+      "TURBINADO"
+    ],
+    "startingBoard": [
+      "BETUOD",
+      "UCRIAP",
+      "DRBDNO",
+      "EUEAWY",
+      "SIGNRB",
+      "GNTWRD",
+      "RVEROE",
+      "ANULAT"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2465,
+    "sides": [
+      "WYE",
+      "DOB",
+      "CRA",
+      "HUL"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "DEBAUCHERY",
+      "YOWL"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10386,
+    "centerLetter": "g",
+    "outerLetters": "anortu",
+    "pangrams": [
+      "argonaut",
+      "guarantor",
+      "orangutan"
+    ],
+    "answers": [
+      "agar",
+      "agog",
+      "agora",
+      "angora",
+      "argon",
+      "argot",
+      "arrogant",
+      "augur",
+      "gaga",
+      "gang",
+      "gargantuan",
+      "gator",
+      "gaunt",
+      "gnat",
+      "goat",
+      "gong",
+      "gonna",
+      "goon",
+      "gorgon",
+      "gotta",
+      "gout",
+      "gran",
+      "grant",
+      "grantor",
+      "groan",
+      "groat",
+      "grog",
+      "grotto",
+      "grout",
+      "grunt",
+      "guano",
+      "guar",
+      "guru",
+      "nonagon",
+      "nougat",
+      "orang",
+      "organ",
+      "outgo",
+      "outgun",
+      "raga",
+      "ragout",
+      "ragtag",
+      "ragu",
+      "rang",
+      "rotgut",
+      "rung",
+      "tang",
+      "tango",
+      "tarragon",
+      "toga",
+      "tong",
+      "untag"
+    ],
+    "pangramHints": [
+      {
+        "word": "argonaut",
+        "hint": "A mythical voyager, seeking treasures of the past."
+      },
+      {
+        "word": "guarantor",
+        "hint": "A promise of support, standing firm in assurance."
+      },
+      {
+        "word": "orangutan",
+        "hint": "A wise creature of the jungle, swinging through the trees."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

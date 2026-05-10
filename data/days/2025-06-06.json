@@ -1,0 +1,185 @@
+{
+  "date": "2025-06-06",
+  "fetchedAt": "2026-05-10T20:10:22.177Z",
+  "connections": {
+    "puzzleId": 763,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "NEWSPAPER JOBS",
+        "words": [
+          "COLUMNIST",
+          "EDITOR",
+          "PHOTOGRAPHER",
+          "REPORTER"
+        ]
+      },
+      {
+        "title": "EVERYDAY",
+        "words": [
+          "COMMON",
+          "REGULAR",
+          "ROUTINE",
+          "STANDARD"
+        ]
+      },
+      {
+        "title": "WHAT “CON” MIGHT MEAN",
+        "words": [
+          "CONVENTION",
+          "CRIMINAL",
+          "DRAWBACK",
+          "SWINDLE"
+        ]
+      },
+      {
+        "title": "ENDING WITH KINDS OF DOGS",
+        "words": [
+          "NEWSHOUND",
+          "SHADOWBOXER",
+          "SNICKERDOODLE",
+          "TRENDSETTER"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In the world of print, these roles shape the narrative, each with a unique lens on reality.",
+      "These terms describe the mundane, yet they form the backbone of our daily lives.",
+      "Each of these words carries a twist, revealing a hidden side to what they represent.",
+      "These terms finish with a playful twist, each one a breed of canine creativity."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 660,
+    "editor": "Tracy Bennett",
+    "solution": "edify",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a word that means to enlighten or improve."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often used in educational contexts."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with 'e' and ends with 'y', focusing on personal growth."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 630,
+    "editor": "Tracy Bennett",
+    "clue": "String's attached",
+    "spangram": "YOYOTRICK",
+    "themeWords": [
+      "BREAKAWAY",
+      "ELEVATOR",
+      "PINWHEEL",
+      "SEASICK",
+      "SLEEPER"
+    ],
+    "startingBoard": [
+      "RBKNWH",
+      "EACIPE",
+      "KYITLE",
+      "AARAOR",
+      "RWTVLE",
+      "EPOEKC",
+      "EEYYAI",
+      "LSOSES"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2376,
+    "sides": [
+      "FMH",
+      "TDE",
+      "ICL",
+      "YSU"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "MISCHIEF",
+      "FLUIDITY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 18647,
+    "centerLetter": "w",
+    "outerLetters": "agilno",
+    "pangrams": [
+      "allowing",
+      "wallowing"
+    ],
+    "answers": [
+      "aglow",
+      "allow",
+      "awing",
+      "awning",
+      "glow",
+      "glowing",
+      "gnaw",
+      "gnawing",
+      "gown",
+      "gowning",
+      "lawn",
+      "lowing",
+      "owing",
+      "owning",
+      "wagging",
+      "waggling",
+      "waging",
+      "wagon",
+      "wail",
+      "wailing",
+      "wall",
+      "walling",
+      "wallow",
+      "wangling",
+      "waning",
+      "wanna",
+      "wigging",
+      "wiggling",
+      "wigwag",
+      "wigwagging",
+      "will",
+      "willing",
+      "willow",
+      "wing",
+      "winging",
+      "wining",
+      "winning",
+      "winnow",
+      "winnowing",
+      "wino",
+      "wooing",
+      "wool",
+      "wowing"
+    ],
+    "pangramHints": [
+      {
+        "word": "allowing",
+        "hint": "A term that suggests permission, often used in a context of acceptance."
+      },
+      {
+        "word": "wallowing",
+        "hint": "This word evokes a sense of indulgence, often in a state of comfort."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

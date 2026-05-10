@@ -1,0 +1,198 @@
+{
+  "date": "2025-12-06",
+  "fetchedAt": "2026-05-10T20:20:25.927Z",
+  "connections": {
+    "puzzleId": 964,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "NORM",
+        "words": [
+          "AVERAGE",
+          "MEAN",
+          "PAR",
+          "STANDARD"
+        ]
+      },
+      {
+        "title": "MOLLIFY",
+        "words": [
+          "COOL",
+          "MODERATE",
+          "SETTLE",
+          "TEMPER"
+        ]
+      },
+      {
+        "title": "MEMBER OF A TITULAR GROUP IN AN ANIMATION FRANCHISE",
+        "words": [
+          "CAR",
+          "INCREDIBLE",
+          "MINION",
+          "MONSTER"
+        ]
+      },
+      {
+        "title": "STARTING WITH HERPETOFAUNA",
+        "words": [
+          "ADDERALL",
+          "MONITORSHIP",
+          "NEWTON",
+          "TOADY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a world of averages, find the common ground where all things meet.",
+      "To soothe the savage beast, one must find the perfect balance.",
+      "In a realm of animated chaos, some vehicles are simply more than they seem.",
+      "Creeping and crawling, these creatures lead to a world of unexpected beginnings."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1276,
+    "editor": "Tracy Bennett",
+    "solution": "waist",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think about what you wear to keep things in check."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often associated with a part of the body."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's something that can be found in the middle of your outfit."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 810,
+    "editor": "Tracy Bennett",
+    "clue": "Tolkien's world",
+    "spangram": "MIDDLEEARTH",
+    "themeWords": [
+      "DWARF",
+      "FOREST",
+      "HOBBIT",
+      "QUEST",
+      "RING",
+      "SHIRE",
+      "WIZARD"
+    ],
+    "startingBoard": [
+      "ZARDHT",
+      "IFETOI",
+      "WORSBB",
+      "MIDDLE",
+      "HTRAEH",
+      "QRFRSI",
+      "UAWIER",
+      "ESTDNG"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2556,
+    "sides": [
+      "IVN",
+      "GEC",
+      "RAO",
+      "HLZ"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ZILCH",
+      "HANGOVER"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25209,
+    "centerLetter": "o",
+    "outerLetters": "acrtuy",
+    "pangrams": [
+      "autocracy",
+      "carryout"
+    ],
+    "answers": [
+      "actor",
+      "actuator",
+      "aorta",
+      "arco",
+      "arroyo",
+      "attractor",
+      "aurora",
+      "auto",
+      "autocrat",
+      "cacao",
+      "carrot",
+      "coat",
+      "coca",
+      "cocoa",
+      "coot",
+      "court",
+      "croc",
+      "curacao",
+      "curator",
+      "cutout",
+      "oaty",
+      "occur",
+      "orator",
+      "oratory",
+      "orca",
+      "outcry",
+      "outro",
+      "roar",
+      "rococo",
+      "root",
+      "rotary",
+      "rotator",
+      "rotatory",
+      "rotor",
+      "rout",
+      "taco",
+      "taro",
+      "tarot",
+      "tattoo",
+      "toccata",
+      "toot",
+      "toro",
+      "tort",
+      "torta",
+      "tour",
+      "tout",
+      "tractor",
+      "trot",
+      "trout",
+      "troy",
+      "tryout",
+      "tutor",
+      "tyro",
+      "your"
+    ],
+    "pangramHints": [
+      {
+        "word": "autocracy",
+        "hint": "A rule by few, where power is concentrated; think governance."
+      },
+      {
+        "word": "carryout",
+        "hint": "When food travels, it often comes in a bag; consider the convenience."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

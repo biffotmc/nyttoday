@@ -1,0 +1,176 @@
+{
+  "date": "2025-07-15",
+  "fetchedAt": "2026-05-10T20:10:41.072Z",
+  "connections": {
+    "puzzleId": 802,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GYMNASTICS APPARATUS",
+        "words": [
+          "BARS",
+          "BEAM",
+          "RINGS",
+          "VAULT"
+        ]
+      },
+      {
+        "title": "FORCE TO LEAVE",
+        "words": [
+          "BOOT",
+          "BOUNCE",
+          "EJECT",
+          "REMOVE"
+        ]
+      },
+      {
+        "title": "HORROR MOVIES FROM 2022",
+        "words": [
+          "NOPE",
+          "PEARL",
+          "SCREAM",
+          "SMILE"
+        ]
+      },
+      {
+        "title": "HORSE___",
+        "words": [
+          "FEATHERS",
+          "PLAY",
+          "POWER",
+          "SHOE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These items help you flip, twist, and soar through the air, but don't forget your balance!",
+      "When it's time to go, these actions might give you a little push in the right direction.",
+      "Creepy tales from last year that kept audiences on the edge of their seats, lurking in the shadows.",
+      "This phrase might conjure images of a majestic steed, adorned with colorful plumes and ready to race."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1646,
+    "editor": "Tracy Bennett",
+    "solution": "foist",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a word that involves deception or trickery."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe an action that involves imposing something on someone."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with 'f' and relates to making someone accept something they might not want."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 665,
+    "editor": "Tracy Bennett",
+    "clue": "Come one, come all!",
+    "spangram": "COUNTYFAIRS",
+    "themeWords": [
+      "GAMES",
+      "LIVESTOCK",
+      "MUSIC",
+      "PRIZES",
+      "RIDES",
+      "VENDORS"
+    ],
+    "startingBoard": [
+      "LICSDI",
+      "SVOECR",
+      "REUNMI",
+      "ODSTUS",
+      "NETYFS",
+      "ESVOAE",
+      "IZCRIM",
+      "RPKSGA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2415,
+    "sides": [
+      "KCU",
+      "IGQ",
+      "NEW",
+      "SJA"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JUICES",
+      "SQUAWKING"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9912,
+    "centerLetter": "m",
+    "outerLetters": "abceho",
+    "pangrams": [
+      "beachcomb"
+    ],
+    "answers": [
+      "acme",
+      "ahem",
+      "ameba",
+      "amebae",
+      "ammo",
+      "amoeba",
+      "amoebae",
+      "bamboo",
+      "beam",
+      "became",
+      "become",
+      "bomb",
+      "bombe",
+      "boom",
+      "came",
+      "cameo",
+      "camo",
+      "chemo",
+      "coma",
+      "comb",
+      "combo",
+      "come",
+      "comma",
+      "emcee",
+      "heme",
+      "home",
+      "mace",
+      "macho",
+      "mama",
+      "mamba",
+      "mambo",
+      "mamma",
+      "mecca",
+      "meme",
+      "memo",
+      "mocha",
+      "momma",
+      "mooch"
+    ],
+    "pangramHints": [
+      {
+        "word": "beachcomb",
+        "hint": "A quest for treasures along the shore; search carefully!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

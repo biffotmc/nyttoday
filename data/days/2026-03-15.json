@@ -1,0 +1,203 @@
+{
+  "date": "2026-03-15",
+  "fetchedAt": "2026-05-10T20:27:06.610Z",
+  "connections": {
+    "puzzleId": 1089,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GREEDILY CONTROL",
+        "words": [
+          "BOGART",
+          "CORNER",
+          "HOG",
+          "MONOPOLIZE"
+        ]
+      },
+      {
+        "title": "TOOTHED WHEELS",
+        "words": [
+          "COG",
+          "GEAR",
+          "PINION",
+          "SPROCKET"
+        ]
+      },
+      {
+        "title": "PORTMANTEAUX",
+        "words": [
+          "BLOG",
+          "MOTEL",
+          "SMOG",
+          "SPORK"
+        ]
+      },
+      {
+        "title": "BULL___",
+        "words": [
+          "DOG",
+          "DOZE",
+          "FROG",
+          "HORN"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you take more than your fair share, you might find yourself in a tight spot.",
+      "These interlocking pieces work together, but beware of the friction they can cause.",
+      "Words that blend together, creating something new and unexpected.",
+      "A group of creatures that can be quite the show, each with its own unique flair."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 3257,
+    "editor": "Tracy Bennett",
+    "solution": "grade",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a measure of accomplishment."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "You might find this in a classroom or on a report card."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a term that reflects a level of achievement, often associated with education."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 909,
+    "editor": "Tracy Bennett",
+    "clue": "Best of all",
+    "spangram": "ACADEMYAWARD",
+    "themeWords": [
+      "ACTOR",
+      "ACTRESS",
+      "DIRECTOR",
+      "PICTURE",
+      "SONG",
+      "SOUND"
+    ],
+    "startingBoard": [
+      "IRECTR",
+      "CDMYOD",
+      "ATEASN",
+      "RODWOU",
+      "ACAARD",
+      "TURESS",
+      "ICNGTE",
+      "POSACR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2658,
+    "sides": [
+      "AQE",
+      "ZST",
+      "URC",
+      "INB"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "ZEBRA",
+      "ACQUIESCENT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22288,
+    "centerLetter": "l",
+    "outerLetters": "acdiry",
+    "pangrams": [
+      "acridly",
+      "radically"
+    ],
+    "answers": [
+      "acidly",
+      "acrylic",
+      "acyclic",
+      "airily",
+      "allay",
+      "ally",
+      "aril",
+      "call",
+      "calla",
+      "carryall",
+      "cilia",
+      "clad",
+      "clay",
+      "cyclic",
+      "cyclical",
+      "cyclically",
+      "daily",
+      "dally",
+      "daylily",
+      "dial",
+      "diddly",
+      "dill",
+      "dilly",
+      "dillydally",
+      "drill",
+      "dryly",
+      "icily",
+      "idly",
+      "idyl",
+      "idyll",
+      "idyllic",
+      "idyllically",
+      "iliac",
+      "illy",
+      "lacy",
+      "lady",
+      "laic",
+      "laical",
+      "laid",
+      "lair",
+      "lard",
+      "liar",
+      "lilac",
+      "lily",
+      "lira",
+      "lyric",
+      "lyrical",
+      "lyrically",
+      "racial",
+      "racially",
+      "racily",
+      "radial",
+      "radially",
+      "radical",
+      "rail",
+      "railcar",
+      "rally",
+      "rial",
+      "rill",
+      "riyal"
+    ],
+    "pangramHints": [
+      {
+        "word": "acridly",
+        "hint": "A sharp and biting manner, but don't say it out loud."
+      },
+      {
+        "word": "radically",
+        "hint": "A transformation that goes to the core; hint at the essence without naming it."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

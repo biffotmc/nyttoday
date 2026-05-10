@@ -1,0 +1,207 @@
+{
+  "date": "2025-05-23",
+  "fetchedAt": "2026-05-10T20:07:07.089Z",
+  "connections": {
+    "puzzleId": 752,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "QUITE THE PARTY",
+        "words": [
+          "BASH",
+          "BLAST",
+          "BLOWOUT",
+          "RAVE"
+        ]
+      },
+      {
+        "title": "ONE’S CONSTITUTION",
+        "words": [
+          "CHARACTER",
+          "FIBER",
+          "MAKEUP",
+          "NATURE"
+        ]
+      },
+      {
+        "title": "BRITISH IMPERIAL UNITS OF WEIGHT",
+        "words": [
+          "DRAM",
+          "OUNCE",
+          "POUND",
+          "STONE"
+        ]
+      },
+      {
+        "title": "WHAT “CAT’S EYE” CAN BE USED TO DESCRIBE",
+        "words": [
+          "EYELINER",
+          "GLASSES",
+          "MARBLE",
+          "NEBULA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the night is young and the music is loud, gather your friends for a lively celebration.",
+      "The essence of who you are can be found in the threads that weave your life together.",
+      "In a world of measures, some weigh heavier than others; can you guess the scale?",
+      "A lens through which we see the world can take many forms, some more colorful than others."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1302,
+    "editor": "Tracy Bennett",
+    "solution": "shuck",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's something you might do to corn."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This action involves removing something from its outer layer."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that rhymes with 'luck' and involves peeling."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 614,
+    "editor": "Tracy Bennett",
+    "clue": "The musical fruit",
+    "spangram": "BEANSALAD",
+    "themeWords": [
+      "BLACK",
+      "CANNELLINI",
+      "FAVA",
+      "GREEN",
+      "KIDNEY",
+      "NAVY",
+      "PINTO"
+    ],
+    "startingBoard": [
+      "ERBCAN",
+      "EKGENN",
+      "NIAEII",
+      "EYDNLL",
+      "ANSYVN",
+      "CLBAOA",
+      "KVLPIT",
+      "AAFADN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2362,
+    "sides": [
+      "RKX",
+      "NCH",
+      "MUA",
+      "POY"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "MOCKUP",
+      "PHARYNX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23148,
+    "centerLetter": "o",
+    "outerLetters": "degily",
+    "pangrams": [
+      "ideology"
+    ],
+    "answers": [
+      "dildo",
+      "diode",
+      "dodge",
+      "dodged",
+      "dodgy",
+      "dodo",
+      "doge",
+      "dogged",
+      "doggedly",
+      "doggie",
+      "doggo",
+      "doggy",
+      "dogie",
+      "dogleg",
+      "doglegged",
+      "doily",
+      "dole",
+      "doled",
+      "doll",
+      "dolled",
+      "dollied",
+      "dolly",
+      "doodle",
+      "doodled",
+      "geode",
+      "geoid",
+      "geology",
+      "gigolo",
+      "godly",
+      "goggle",
+      "goggled",
+      "goggly",
+      "gold",
+      "golly",
+      "good",
+      "goodie",
+      "goodly",
+      "goody",
+      "gooey",
+      "google",
+      "googled",
+      "googly",
+      "googol",
+      "idol",
+      "igloo",
+      "iodide",
+      "lode",
+      "lodge",
+      "lodged",
+      "loge",
+      "logged",
+      "logo",
+      "logy",
+      "loll",
+      "lolled",
+      "oddly",
+      "ogee",
+      "ogle",
+      "ogled",
+      "oiled",
+      "oily",
+      "oldie",
+      "oleo",
+      "olio",
+      "ollie",
+      "yodel",
+      "yodeled",
+      "yogi"
+    ],
+    "pangramHints": [
+      {
+        "word": "ideology",
+        "hint": "A belief system that shapes perspectives; think of how ideas evolve."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

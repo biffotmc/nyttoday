@@ -1,0 +1,168 @@
+{
+  "date": "2025-08-20",
+  "fetchedAt": "2026-05-10T20:12:58.147Z",
+  "connections": {
+    "puzzleId": 837,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BLACK-AND-WHITE THINGS",
+        "words": [
+          "DOMINO",
+          "PIANO KEYS",
+          "YIN-YANG SYMBOL",
+          "ZEBRA"
+        ]
+      },
+      {
+        "title": "PAIRS OF RODS",
+        "words": [
+          "CHOPSTICKS",
+          "CLAVES",
+          "KNITTING NEEDLES",
+          "SKI POLES"
+        ]
+      },
+      {
+        "title": "THINGS THAT ROTATE ABOUT A VERTICAL AXIS",
+        "words": [
+          "BARBER POLE",
+          "CAROUSEL",
+          "CEILING FAN",
+          "LAZY SUSAN"
+        ]
+      },
+      {
+        "title": "RODS THAT CURVE AT ONE END",
+        "words": [
+          "CANDY CANE",
+          "CROCHET HOOK",
+          "CROOK",
+          "CROWBAR"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a world of monochrome, find the playful contrasts that dance together.",
+      "Two sticks that unite in culinary delight, or perhaps in rhythmic harmony.",
+      "Observe the spinning wonders that bring joy and motion to our lives.",
+      "Curved and crafty, these rods have a twist that makes them unique."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 783,
+    "editor": "Tracy Bennett",
+    "solution": "llama",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a friendly creature often found in the Andes."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This animal is known for its wool and is sometimes mistaken for a small camel."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a five-letter word that starts with 'l' and is often associated with South American farms."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 671,
+    "editor": "Tracy Bennett",
+    "clue": "Mint condition",
+    "spangram": "GLOBALCURRENCY",
+    "themeWords": [
+      "DOLLAR",
+      "EURO",
+      "KWANZA",
+      "PESO",
+      "POUND",
+      "RAND",
+      "RUPEE"
+    ],
+    "startingBoard": [
+      "EPRGLO",
+      "NEUPUB",
+      "DUOERA",
+      "AKAROL",
+      "ZWLODC",
+      "NALRRU",
+      "OEPEDN",
+      "SYCNRA"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2451,
+    "sides": [
+      "EHU",
+      "RVO",
+      "MJB",
+      "TAI"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "VERMOUTH",
+      "HIJAB"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 26988,
+    "centerLetter": "l",
+    "outerLetters": "akotuw",
+    "pangrams": [
+      "walkout"
+    ],
+    "answers": [
+      "allot",
+      "allow",
+      "alto",
+      "atoll",
+      "koala",
+      "kola",
+      "loll",
+      "look",
+      "lookout",
+      "loot",
+      "lotto",
+      "lout",
+      "luau",
+      "lull",
+      "lulu",
+      "outlaw",
+      "outlook",
+      "outtalk",
+      "talk",
+      "tall",
+      "tallow",
+      "toll",
+      "tool",
+      "total",
+      "walk",
+      "wall",
+      "wallow",
+      "waul",
+      "wool"
+    ],
+    "pangramHints": [
+      {
+        "word": "walkout",
+        "hint": "A sudden departure, often with a statement; think of a bold exit."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

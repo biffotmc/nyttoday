@@ -1,0 +1,174 @@
+{
+  "date": "2026-01-23",
+  "fetchedAt": "2026-05-10T20:23:36.928Z",
+  "connections": {
+    "puzzleId": 1007,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "FACIAL FEATURES",
+        "words": [
+          "CHEEK",
+          "EYE",
+          "LIP",
+          "TEMPLE"
+        ]
+      },
+      {
+        "title": "KINDS OF PARKING",
+        "words": [
+          "GARAGE",
+          "METER",
+          "STREET",
+          "VALET"
+        ]
+      },
+      {
+        "title": "IMPERIAL UNITS",
+        "words": [
+          "ACRE",
+          "BUSHEL",
+          "FOOT",
+          "STONE"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"LIGHT\"",
+        "words": [
+          "FLOOD",
+          "LIME",
+          "PILOT",
+          "TRAFFIC"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These are the features that help you express emotions without saying a word.",
+      "Think about where you might leave your car, but with a twist on convenience.",
+      "Units of measurement that might make you feel like a giant or a farmer.",
+      "These words can illuminate your path, each casting a different kind of glow."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1843,
+    "editor": "Tracy Bennett",
+    "solution": "baron",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Noble and regal, this title has a rich history."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often associated with aristocracy, this word has five letters."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of someone who might own a castle or a large estate."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 858,
+    "editor": "Tracy Bennett",
+    "clue": "None the wiser",
+    "spangram": "BORNYESTERDAY",
+    "themeWords": [
+      "ARTLESS",
+      "CALLOW",
+      "CREDULOUS",
+      "GULLIBLE",
+      "NAIVE"
+    ],
+    "startingBoard": [
+      "USTEAI",
+      "LOSRNV",
+      "DUEDEO",
+      "REYAWL",
+      "SCNYCL",
+      "SARGBA",
+      "EROUIL",
+      "LTBLLE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2607,
+    "sides": [
+      "SQI",
+      "RLN",
+      "ETY",
+      "FKU"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FREQUENTLY",
+      "YIKES"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23003,
+    "centerLetter": "k",
+    "outerLetters": "bcdelo",
+    "pangrams": [
+      "blocked"
+    ],
+    "answers": [
+      "beck",
+      "bedeck",
+      "bedecked",
+      "block",
+      "bloke",
+      "bock",
+      "book",
+      "booked",
+      "cellblock",
+      "clock",
+      "clocked",
+      "cock",
+      "cocked",
+      "cockle",
+      "coke",
+      "coldcock",
+      "coldcocked",
+      "cook",
+      "cookbook",
+      "cooked",
+      "deck",
+      "decked",
+      "deckle",
+      "deke",
+      "deked",
+      "dock",
+      "docked",
+      "eked",
+      "keel",
+      "keeled",
+      "kook",
+      "leek",
+      "lock",
+      "locked",
+      "look",
+      "lookbook",
+      "looked"
+    ],
+    "pangramHints": [
+      {
+        "word": "blocked",
+        "hint": "A term that suggests something is obstructed, but remember to keep it a secret!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

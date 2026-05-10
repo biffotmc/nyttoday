@@ -1,0 +1,162 @@
+{
+  "date": "2025-09-18",
+  "fetchedAt": "2026-05-10T20:15:20.651Z",
+  "connections": {
+    "puzzleId": 870,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INTO IT",
+        "words": [
+          "DOWN",
+          "EAGER",
+          "GAME",
+          "WILLING"
+        ]
+      },
+      {
+        "title": "FURNISH",
+        "words": [
+          "EQUIP",
+          "OUTFIT",
+          "PREPARE",
+          "READY"
+        ]
+      },
+      {
+        "title": "ORGS WITH STARS IN THEIR LOGOS",
+        "words": [
+          "N.F.L.",
+          "NASA",
+          "PARAMOUNT",
+          "SUBARU"
+        ]
+      },
+      {
+        "title": "HOMOPHONES OF GENESIS FIGURES",
+        "words": [
+          "ABLE",
+          "CANE",
+          "EAVE",
+          "NOAA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you're really into something, you might find yourself feeling this way, especially when it comes to activities or choices.",
+      "To make a space functional, one must ensure it is equipped with the right tools and accessories.",
+      "These organizations are known for their iconic symbols, often shining bright in the public eye.",
+      "Words that sound alike can lead to interesting interpretations, especially when they relate to notable stories."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1030,
+    "editor": "Tracy Bennett",
+    "solution": "knife",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's a tool often found in kitchens."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This object is sharp and can slice through things."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a utensil that can be used for cutting, often paired with a fork."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 730,
+    "editor": "Tracy Bennett",
+    "clue": "Practice makes perfect",
+    "spangram": "PIANOLESSONS",
+    "themeWords": [
+      "CHORD",
+      "RECITAL",
+      "SCALE",
+      "TECHNIQUE",
+      "THEORY",
+      "TUNE"
+    ],
+    "startingBoard": [
+      "EAPIHC",
+      "LCSADO",
+      "TNONER",
+      "UELTCH",
+      "HEESNI",
+      "TOLSOQ",
+      "RAIRNU",
+      "YTCESE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2480,
+    "sides": [
+      "AOS",
+      "BLU",
+      "WTN",
+      "JEH"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "JAWBONES",
+      "SLEUTH"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21498,
+    "centerLetter": "v",
+    "outerLetters": "aginrt",
+    "pangrams": [
+      "aggravating",
+      "gravitating"
+    ],
+    "answers": [
+      "arriving",
+      "avatar",
+      "avian",
+      "aviating",
+      "giving",
+      "invariant",
+      "inviting",
+      "navigating",
+      "nirvana",
+      "ravaging",
+      "raving",
+      "titivating",
+      "trivia",
+      "vagina",
+      "vagrant",
+      "vain",
+      "variant",
+      "virgin",
+      "vitiating"
+    ],
+    "pangramHints": [
+      {
+        "word": "aggravating",
+        "hint": "A word that means causing annoyance or frustration, often used to describe a situation."
+      },
+      {
+        "word": "gravitating",
+        "hint": "This term describes the action of being drawn toward something, often used in a metaphorical sense."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2025-06-15",
+  "fetchedAt": "2026-05-10T20:10:27.586Z",
+  "connections": {
+    "puzzleId": 757,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "SLANG FOR COFFEE",
+        "words": [
+          "BREW",
+          "JAVA",
+          "MUD",
+          "ROCKET FUEL"
+        ]
+      },
+      {
+        "title": "\"AW, HECK!\"",
+        "words": [
+          "BLAST",
+          "CRUD",
+          "CURSES",
+          "FUDGE"
+        ]
+      },
+      {
+        "title": "CONSIDERATIONS FOR MOVIE RATINGS",
+        "words": [
+          "ACTION",
+          "LANGUAGE",
+          "NUDITY",
+          "SMOKING"
+        ]
+      },
+      {
+        "title": "WHAT “POP” MIGHT MEAN",
+        "words": [
+          "BURST",
+          "FATHER",
+          "POPULAR",
+          "SODA"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A morning ritual for many, this brew can energize your day or keep you up at night.",
+      "When things go wrong, this expression captures the frustration perfectly.",
+      "Before you hit play, consider what might be shown on screen—some things are better left to the imagination.",
+      "This word can refer to a fizzy drink or a family figure, depending on the context."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2024,
+    "editor": "Tracy Bennett",
+    "solution": "quail",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a bird that’s often associated with a certain kind of hunt."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also refer to a timid or shy person."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It starts with a 'q' and ends with an 'l', often found in the wild."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 636,
+    "editor": "Tracy Bennett",
+    "clue": "Here's to him!",
+    "spangram": "FATHERSDAY",
+    "themeWords": [
+      "CHALUPA",
+      "CRAWDAD",
+      "PAPARAZZI",
+      "POPCORN",
+      "POPSICLE"
+    ],
+    "startingBoard": [
+      "ARCPAP",
+      "WDZARA",
+      "ADZICH",
+      "ATHALA",
+      "FPEPUY",
+      "PORSDA",
+      "SEOCPO",
+      "ICLRNP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2385,
+    "sides": [
+      "IBE",
+      "LDW",
+      "OAV",
+      "RNU"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "WOLVERINE",
+      "EARBUD"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12644,
+    "centerLetter": "l",
+    "outerLetters": "abchin",
+    "pangrams": [
+      "bacchanalia",
+      "bacchanalian"
+    ],
+    "answers": [
+      "alibi",
+      "anal",
+      "annal",
+      "bacchanal",
+      "bacilli",
+      "bail",
+      "ball",
+      "banal",
+      "biblical",
+      "bilabial",
+      "bill",
+      "blab",
+      "blah",
+      "blanch",
+      "blin",
+      "blini",
+      "cabal",
+      "cabala",
+      "call",
+      "calla",
+      "canal",
+      "cannibal",
+      "challah",
+      "chili",
+      "chill",
+      "chinchilla",
+      "cilia",
+      "clan",
+      "clinch",
+      "clinic",
+      "clinical",
+      "clinician",
+      "hail",
+      "halal",
+      "hall",
+      "hill",
+      "iliac",
+      "labia",
+      "labial",
+      "laic",
+      "laical",
+      "lain",
+      "lanai",
+      "lilac",
+      "nail"
+    ],
+    "pangramHints": [
+      {
+        "word": "bacchanalia",
+        "hint": "A wild celebration, often with plenty of revelry and excess."
+      },
+      {
+        "word": "bacchanalian",
+        "hint": "Describing something related to a festival of indulgence and merriment."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

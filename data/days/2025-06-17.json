@@ -1,0 +1,166 @@
+{
+  "date": "2025-06-17",
+  "fetchedAt": "2026-05-10T20:10:28.202Z",
+  "connections": {
+    "puzzleId": 774,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "THINGS TO BOOK FOR A VACATION",
+        "words": [
+          "CAR",
+          "FLIGHT",
+          "HOTEL",
+          "TOUR"
+        ]
+      },
+      {
+        "title": "METTLE",
+        "words": [
+          "FIGHT",
+          "GRIT",
+          "RESOLVE",
+          "SPIRIT"
+        ]
+      },
+      {
+        "title": "BAD THINGS FOR A WEBSITE TO DO",
+        "words": [
+          "FREEZE",
+          "GLITCH",
+          "QUIT",
+          "TIMEOUT"
+        ]
+      },
+      {
+        "title": "FIGURES IN CLASSIC DISNEY ANIMATED FILMS",
+        "words": [
+          "ELEPHANT",
+          "FAWN",
+          "MARIONETTE",
+          "MOUSE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When planning your escape, don't forget the wheels, the sky, the place to rest, and a guided adventure.",
+      "In the face of challenges, some rise with a punch, while others show their true colors and strength.",
+      "Beware of the digital gremlins that can cause havoc; they might freeze your progress or lead you to a dead end.",
+      "From the jungle to the forest, these beloved characters bring magic to life, each with their own charm."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1158,
+    "editor": "Tracy Bennett",
+    "solution": "prank",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a playful trick."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can bring laughter or mischief."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with a joke or a light-hearted trick."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 625,
+    "editor": "Tracy Bennett",
+    "clue": "Make it work",
+    "spangram": "FIGUREOUT",
+    "themeWords": [
+      "CONTRIVE",
+      "ENGINEER",
+      "FINAGLE",
+      "FINESSE",
+      "NEGOTIATE"
+    ],
+    "startingBoard": [
+      "ANIFSE",
+      "GTRISE",
+      "LENVFN",
+      "FIGOEI",
+      "OTUCUT",
+      "GIREOR",
+      "EAGINE",
+      "NETNEE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2387,
+    "sides": [
+      "AKY",
+      "JTB",
+      "SIL",
+      "UOF"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "JUSTIFIABLY",
+      "YOLK"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 16978,
+    "centerLetter": "m",
+    "outerLetters": "afinry",
+    "pangrams": [
+      "infirmary"
+    ],
+    "answers": [
+      "affirm",
+      "airman",
+      "anima",
+      "army",
+      "farm",
+      "firm",
+      "imam",
+      "infamy",
+      "infirm",
+      "mafia",
+      "maim",
+      "main",
+      "mama",
+      "mamma",
+      "mammary",
+      "mania",
+      "manna",
+      "many",
+      "marina",
+      "marinara",
+      "marm",
+      "marry",
+      "miff",
+      "mini",
+      "minim",
+      "minima",
+      "mirin",
+      "myna",
+      "ramify"
+    ],
+    "pangramHints": [
+      {
+        "word": "infirmary",
+        "hint": "A place for healing, where ailments are addressed, but don't say the name!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "date": "2025-06-25",
+  "fetchedAt": "2026-05-10T20:10:31.781Z",
+  "connections": {
+    "puzzleId": 780,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KINDS OF CHEESES",
+        "words": [
+          "BLUE",
+          "GOAT",
+          "JACK",
+          "SWISS"
+        ]
+      },
+      {
+        "title": "BEVERAGE SELF-SERVICE ITEMS",
+        "words": [
+          "CUP",
+          "LID",
+          "NAPKIN",
+          "STRAW"
+        ]
+      },
+      {
+        "title": "WOODWORKING HAND TOOLS",
+        "words": [
+          "CHISEL",
+          "PLANE",
+          "RASP",
+          "SAW"
+        ]
+      },
+      {
+        "title": "BIRDS MINUS LAST LETTER",
+        "words": [
+          "CRAN",
+          "FLAMING",
+          "HERO",
+          "RAVE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These dairy delights can be sharp, creamy, or crumbly; they add flavor to any platter.",
+      "Sip and savor your favorite drink with these essential accompaniments for a self-serve experience.",
+      "Craftsmanship is key with these essential items; each plays a role in shaping wood into art.",
+      "These feathered friends are known for their songs, but their names lose a note if you take a step back."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1256,
+    "editor": "Tracy Bennett",
+    "solution": "comfy",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a cozy place."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes something that feels good to be in."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often associated with relaxation and comfort."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 643,
+    "editor": "Tracy Bennett",
+    "clue": "Worth the splurge",
+    "spangram": "LUXURYGOODS",
+    "themeWords": [
+      "CONVERTIBLE",
+      "HANDBAG",
+      "JEWELRY",
+      "PERFUME",
+      "WATCH"
+    ],
+    "startingBoard": [
+      "JWELCH",
+      "ELGAUT",
+      "RYBDXA",
+      "FUENUW",
+      "REMAHR",
+      "POOGYE",
+      "SDVEIL",
+      "CONRTB"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2395,
+    "sides": [
+      "FOE",
+      "ZRG",
+      "NSU",
+      "IYL"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "ZINGY",
+      "YOURSELF"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 10454,
+    "centerLetter": "f",
+    "outerLetters": "beilno",
+    "pangrams": [
+      "nonbelief"
+    ],
+    "answers": [
+      "beef",
+      "befell",
+      "belief",
+      "biff",
+      "boffo",
+      "elfin",
+      "enfeeble",
+      "feeble",
+      "feel",
+      "feline",
+      "fell",
+      "felon",
+      "fennel",
+      "fief",
+      "fife",
+      "file",
+      "fill",
+      "fine",
+      "flee",
+      "floe",
+      "foible",
+      "foil",
+      "folio",
+      "fool",
+      "infill",
+      "info",
+      "life",
+      "lifeline",
+      "offline"
+    ],
+    "pangramHints": [
+      {
+        "word": "nonbelief",
+        "hint": "A state of doubt that can be quite profound; think of what you might question."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

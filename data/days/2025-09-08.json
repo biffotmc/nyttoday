@@ -1,0 +1,175 @@
+{
+  "date": "2025-09-08",
+  "fetchedAt": "2026-05-10T20:14:41.628Z",
+  "connections": {
+    "puzzleId": 858,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "NONSENSE",
+        "words": [
+          "BALONEY",
+          "BULL",
+          "BUNK",
+          "RUBBISH"
+        ]
+      },
+      {
+        "title": "INCREASE, WITH \"UP\"",
+        "words": [
+          "CRANK",
+          "HIKE",
+          "JACK",
+          "RAISE"
+        ]
+      },
+      {
+        "title": "FICTIONAL SPIES",
+        "words": [
+          "ARCHER",
+          "HUNT",
+          "PEEL",
+          "POWERS"
+        ]
+      },
+      {
+        "title": "CAT___",
+        "words": [
+          "FISH",
+          "NAP",
+          "TAIL",
+          "WALK"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A playful mix of tall tales and absurdity, where the truth takes a backseat.",
+      "Elevate your expectations; this collection is all about rising to the occasion.",
+      "Undercover antics and secretive missions abound in this covert crew's adventures.",
+      "Feline fun awaits, but these aren't your typical cat tales."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2188,
+    "editor": "Tracy Bennett",
+    "solution": "chirp",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a sound made by a small bird."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's a chirpy word that captures a joyful noise."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word can also describe a lively conversation or a playful interaction."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 720,
+    "editor": "Tracy Bennett",
+    "clue": "One for the Trekkies",
+    "spangram": "STARSHIPS",
+    "themeWords": [
+      "DISCOVERY",
+      "ENTERPRISE",
+      "INTREPID",
+      "TITAN",
+      "VOYAGER"
+    ],
+    "startingBoard": [
+      "TINTEI",
+      "TNEESR",
+      "ATARRP",
+      "SOYASH",
+      "VREGPI",
+      "SCISDI",
+      "IOYNTP",
+      "DVERRE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2470,
+    "sides": [
+      "ALT",
+      "BHY",
+      "CIO",
+      "DNR"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "DITCH",
+      "HONORABLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20836,
+    "centerLetter": "a",
+    "outerLetters": "ghlmpu",
+    "pangrams": [
+      "galumph"
+    ],
+    "answers": [
+      "alga",
+      "algal",
+      "alpha",
+      "alum",
+      "amalgam",
+      "appall",
+      "gaga",
+      "gala",
+      "gall",
+      "gamma",
+      "glam",
+      "gulag",
+      "halal",
+      "hall",
+      "haul",
+      "hula",
+      "lama",
+      "lamp",
+      "laugh",
+      "llama",
+      "luau",
+      "magma",
+      "mall",
+      "mama",
+      "mamma",
+      "mammal",
+      "maul",
+      "mullah",
+      "palapa",
+      "pall",
+      "palm",
+      "palp",
+      "pampa",
+      "papa",
+      "papal",
+      "puma",
+      "pupa",
+      "pupal"
+    ],
+    "pangramHints": [
+      {
+        "word": "galumph",
+        "hint": "A whimsical way to describe a heavy, clumsy movement; think of a playful giant."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

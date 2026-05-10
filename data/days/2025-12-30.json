@@ -1,0 +1,202 @@
+{
+  "date": "2025-12-30",
+  "fetchedAt": "2026-05-10T20:22:01.216Z",
+  "connections": {
+    "puzzleId": 994,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "INTENTION",
+        "words": [
+          "AIM",
+          "GOAL",
+          "OBJECT",
+          "POINT"
+        ]
+      },
+      {
+        "title": "MEASURING DEVICES",
+        "words": [
+          "CLOCK",
+          "COMPASS",
+          "RULER",
+          "SCALE"
+        ]
+      },
+      {
+        "title": "PARTS OF A FLIGHT",
+        "words": [
+          "CLIMB",
+          "TAKEOFF",
+          "TAXI",
+          "TOUCHDOWN"
+        ]
+      },
+      {
+        "title": "BIKE ACCESSORIES",
+        "words": [
+          "BASKET",
+          "BELL",
+          "RACK",
+          "REFLECTOR"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Set your sights high, but don't forget to adjust your aim along the way.",
+      "Time and direction are key, but can you find your way without a map?",
+      "Every journey has its stages; can you navigate the ascent to success?",
+      "Accessorize your ride, but remember: safety shines the brightest."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1489,
+    "editor": "Tracy Bennett",
+    "solution": "decor",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of something that adds charm to a space."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Often found in homes, it can brighten up a room."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is related to embellishment, but it's not a piece of furniture."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 835,
+    "editor": "Tracy Bennett",
+    "clue": "2025 Top Twenty",
+    "spangram": "HITSONGS",
+    "themeWords": [
+      "ABRACADABRA",
+      "DAISIES",
+      "GOLDEN",
+      "MANCHILD",
+      "ORDINARY"
+    ],
+    "startingBoard": [
+      "HABRAS",
+      "MIDIED",
+      "RATASA",
+      "AYNSCI",
+      "NORCOA",
+      "IDHNRG",
+      "DIGBLO",
+      "LSANED"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2591,
+    "sides": [
+      "RAG",
+      "HLT",
+      "OEI",
+      "PYC"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "CALIPH",
+      "HERPETOLOGY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27649,
+    "centerLetter": "i",
+    "outerLetters": "lopdeg",
+    "pangrams": [
+      "dogpile",
+      "dogpiled"
+    ],
+    "answers": [
+      "deli",
+      "diddle",
+      "diddled",
+      "died",
+      "dildo",
+      "dill",
+      "diode",
+      "diploid",
+      "dipole",
+      "dipped",
+      "doggie",
+      "dogie",
+      "dollied",
+      "eddied",
+      "elide",
+      "elided",
+      "epilog",
+      "gelid",
+      "geoid",
+      "gigged",
+      "giggle",
+      "giggled",
+      "gigolo",
+      "gild",
+      "gilded",
+      "gill",
+      "gilled",
+      "glide",
+      "glided",
+      "goodie",
+      "idle",
+      "idled",
+      "idol",
+      "igloo",
+      "iodide",
+      "lidded",
+      "lied",
+      "liege",
+      "lipid",
+      "lipo",
+      "lipped",
+      "lollipop",
+      "oiled",
+      "oldie",
+      "olio",
+      "ollie",
+      "opioid",
+      "piddle",
+      "piddled",
+      "pied",
+      "pigged",
+      "pile",
+      "piled",
+      "pill",
+      "pilled",
+      "pipe",
+      "piped",
+      "plie",
+      "plied",
+      "polio"
+    ],
+    "pangramHints": [
+      {
+        "word": "dogpile",
+        "hint": "A playful gathering, but watch your step!"
+      },
+      {
+        "word": "dogpiled",
+        "hint": "When the fun gets overwhelming, it can be quite a tumble!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

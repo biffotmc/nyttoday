@@ -1,0 +1,200 @@
+{
+  "date": "2025-11-03",
+  "fetchedAt": "2026-05-10T20:18:19.535Z",
+  "connections": {
+    "puzzleId": 913,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "THINGS THAT ARE RED",
+        "words": [
+          "CLOWN NOSE",
+          "FIRE ENGINE",
+          "MARASCHINO CHERRY",
+          "STOP SIGN"
+        ]
+      },
+      {
+        "title": "THINGS FILLED WITH AIR",
+        "words": [
+          "BALLOON ANIMAL",
+          "BOUNCY CASTLE",
+          "WATER WINGS",
+          "WHOOPEE CUSHION"
+        ]
+      },
+      {
+        "title": "THINGS WITH A LOT OF PIECES",
+        "words": [
+          "JIGSAW PUZZLE",
+          "LEGO SET",
+          "LITE-BRITE",
+          "PICK-UP STICKS"
+        ]
+      },
+      {
+        "title": "ENDING WITH ANIMALS",
+        "words": [
+          "DARK HORSE",
+          "FUNKY CHICKEN",
+          "JUMBO SHRIMP",
+          "SEA MONKEY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A vibrant hue often seen in festive settings, these items are hard to miss when they're around.",
+      "Inflatable fun takes center stage here, bringing joy and laughter to any gathering.",
+      "Complex creations await, where every piece plays a role in the grand design.",
+      "These phrases might be a bit odd, but they all share a common ending that’s sure to amuse."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 684,
+    "editor": "Tracy Bennett",
+    "solution": "awoke",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A state of being that comes after sleep."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe a fresh start or a new day."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It begins with a vowel and relates to awakening or coming to consciousness."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 777,
+    "editor": "Tracy Bennett",
+    "clue": "Wee wee wee!",
+    "spangram": "THISLITTLEPIGGY",
+    "themeWords": [
+      "BEEF",
+      "HOME",
+      "MARKET",
+      "NONE",
+      "ROAST",
+      "STAYED",
+      "WENT"
+    ],
+    "startingBoard": [
+      "WKETED",
+      "ERAYHE",
+      "NATOMY",
+      "TMSIGG",
+      "LEPRON",
+      "THTEAO",
+      "TIFESN",
+      "ILSBTE"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2531,
+    "sides": [
+      "DLI",
+      "MAU",
+      "RNT",
+      "BOF"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FIBULA",
+      "ADMIRATION"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 25144,
+    "centerLetter": "n",
+    "outerLetters": "deopux",
+    "pangrams": [
+      "expound",
+      "expounded"
+    ],
+    "answers": [
+      "deepen",
+      "deepened",
+      "denude",
+      "denuded",
+      "depend",
+      "depended",
+      "done",
+      "donee",
+      "donned",
+      "dune",
+      "dunned",
+      "dunno",
+      "ended",
+      "endue",
+      "endued",
+      "expend",
+      "expended",
+      "need",
+      "needed",
+      "nene",
+      "neon",
+      "nodded",
+      "node",
+      "none",
+      "noon",
+      "nope",
+      "noun",
+      "nude",
+      "odeon",
+      "open",
+      "opened",
+      "oxen",
+      "peen",
+      "pend",
+      "pended",
+      "penne",
+      "penned",
+      "peon",
+      "pond",
+      "pone",
+      "pound",
+      "pounded",
+      "punned",
+      "udon",
+      "undo",
+      "undone",
+      "undue",
+      "unneeded",
+      "unopen",
+      "unopened",
+      "unpen",
+      "unpenned",
+      "upend",
+      "upended",
+      "upon",
+      "xenon"
+    ],
+    "pangramHints": [
+      {
+        "word": "expound",
+        "hint": "A word that means to explain in detail; think of a lecture."
+      },
+      {
+        "word": "expounded",
+        "hint": "The past tense of a word that means to elaborate; often used in discussions."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

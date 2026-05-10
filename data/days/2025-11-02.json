@@ -1,0 +1,166 @@
+{
+  "date": "2025-11-02",
+  "fetchedAt": "2026-05-10T20:18:15.683Z",
+  "connections": {
+    "puzzleId": 923,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "GOODS TO BE TRANSPORTED",
+        "words": [
+          "CARGO",
+          "FREIGHT",
+          "HAUL",
+          "LOAD"
+        ]
+      },
+      {
+        "title": "LIGHT BROWN SHADES",
+        "words": [
+          "CAMEL",
+          "FAWN",
+          "KHAKI",
+          "TAN"
+        ]
+      },
+      {
+        "title": "SHOW SIGNS OF PHYSICAL EXERTION",
+        "words": [
+          "CRAMP",
+          "PANT",
+          "REDDEN",
+          "SWEAT"
+        ]
+      },
+      {
+        "title": "STARTS OF ZODIAC SIGNS",
+        "words": [
+          "AQUA",
+          "CAPRI",
+          "GEM",
+          "SAG"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the journey calls, these items are ready to roll; they carry the weight of adventure.",
+      "These earthy tones evoke warmth and comfort, perfect for a cozy retreat.",
+      "When the body works hard, these reactions are your telltale signs of effort.",
+      "The cosmos begins here, with these celestial symbols marking the start of something new."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 747,
+    "editor": "Tracy Bennett",
+    "solution": "rabid",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a wild animal that can be quite aggressive."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word describes an intense state, often associated with a certain behavior."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "The word can also describe a fervent intensity, often used in a figurative sense."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 776,
+    "editor": "Tracy Bennett",
+    "clue": "Go the distance",
+    "spangram": "MARATHON",
+    "themeWords": [
+      "FINISH",
+      "HYDRATION",
+      "PACE",
+      "RUNNER",
+      "START",
+      "TIMEKEEPER"
+    ],
+    "startingBoard": [
+      "STRNCA",
+      "TAOIEP",
+      "UHTMEP",
+      "RNTERE",
+      "NERAKE",
+      "HYIORF",
+      "DTNAIS",
+      "RAMNIH"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2525,
+    "sides": [
+      "DLR",
+      "AEO",
+      "VWI",
+      "FPT"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "FAVORITED",
+      "DEWLAP"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 21103,
+    "centerLetter": "t",
+    "outerLetters": "efgiop",
+    "pangrams": [
+      "pettifog"
+    ],
+    "answers": [
+      "effete",
+      "feet",
+      "fete",
+      "foot",
+      "footie",
+      "gift",
+      "petit",
+      "petite",
+      "pfft",
+      "pipet",
+      "pipette",
+      "pipit",
+      "poet",
+      "poppet",
+      "potpie",
+      "teepee",
+      "teff",
+      "tepee",
+      "tiff",
+      "tipi",
+      "tipoff",
+      "tippet",
+      "tiptoe",
+      "tiptop",
+      "toffee",
+      "toot",
+      "tope",
+      "tote"
+    ],
+    "pangramHints": [
+      {
+        "word": "pettifog",
+        "hint": "A term for minor legal disputes, but don’t get lost in the details!"
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

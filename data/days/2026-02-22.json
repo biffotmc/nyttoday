@@ -1,0 +1,179 @@
+{
+  "date": "2026-02-22",
+  "fetchedAt": "2026-05-10T20:25:31.028Z",
+  "connections": {
+    "puzzleId": 1070,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "ONE WHO DOESN'T FIT IN",
+        "words": [
+          "BLACK SHEEP",
+          "MISFIT",
+          "OUTCAST",
+          "REJECT"
+        ]
+      },
+      {
+        "title": "DESCRIPTORS FOR GRAYING HAIR",
+        "words": [
+          "DISTINGUISHED",
+          "FLECKED",
+          "SALT-AND-PEPPER",
+          "SILVER"
+        ]
+      },
+      {
+        "title": "CLASSIC COMIC STRIPS",
+        "words": [
+          "BLONDIE",
+          "BLOOM COUNTY",
+          "PEANUTS",
+          "THE FAR SIDE"
+        ]
+      },
+      {
+        "title": "ASSOCIATED WITH THEODORE ROOSEVELT",
+        "words": [
+          "BIG STICK",
+          "BULL MOOSE",
+          "ROUGH RIDERS",
+          "TEDDY BEAR"
+        ]
+      }
+    ],
+    "groupHints": [
+      "In a world of conformity, these individuals wear their uniqueness like a badge of honor.",
+      "As time passes, these terms reflect a transformation that many embrace with grace.",
+      "These beloved characters have tickled our funny bones through the ages, each with their own charm.",
+      "This group embodies the spirit of adventure and leadership, leaving a legacy that resonates."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2184,
+    "editor": "Tracy Bennett",
+    "solution": "guava",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a tropical fruit that's often mistaken for a berry."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This fruit is known for its sweet and slightly tart flavor."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's often found in smoothies and desserts, and its name starts with a 'g'."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 893,
+    "editor": "Tracy Bennett",
+    "clue": "Olympics wrap-up",
+    "spangram": "CLOSINGCEREMONY",
+    "themeWords": [
+      "ANTHEM",
+      "ATHLETE",
+      "FLAG",
+      "FLAME",
+      "MEDAL",
+      "PARADE"
+    ],
+    "startingBoard": [
+      "ECERET",
+      "MLGMAH",
+      "AFNOLT",
+      "DEINEE",
+      "GASYEM",
+      "ARODAL",
+      "LALTHE",
+      "FPCANM"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2637,
+    "sides": [
+      "ENO",
+      "RUD",
+      "TAI",
+      "VKH"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "KINDHEARTED",
+      "DEVOUT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 22758,
+    "centerLetter": "l",
+    "outerLetters": "giknru",
+    "pangrams": [
+      "lurking"
+    ],
+    "answers": [
+      "giggling",
+      "gill",
+      "gilling",
+      "girl",
+      "glug",
+      "glugging",
+      "gluing",
+      "grill",
+      "grilling",
+      "gull",
+      "gulling",
+      "gurgling",
+      "inkling",
+      "kill",
+      "killing",
+      "kiln",
+      "knurl",
+      "krill",
+      "liking",
+      "linguini",
+      "lining",
+      "link",
+      "linking",
+      "lugging",
+      "luging",
+      "lull",
+      "lulling",
+      "lulu",
+      "lung",
+      "lunging",
+      "lunk",
+      "luring",
+      "lurk",
+      "niggling",
+      "null",
+      "riling",
+      "rill",
+      "ruling",
+      "unliking",
+      "unlink",
+      "unlinking"
+    ],
+    "pangramHints": [
+      {
+        "word": "lurking",
+        "hint": "A shadowy presence, often seen but rarely caught."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

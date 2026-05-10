@@ -1,0 +1,185 @@
+{
+  "date": "2026-02-03",
+  "fetchedAt": "2026-05-10T20:24:14.829Z",
+  "connections": {
+    "puzzleId": 1020,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CUT INTO PIECES",
+        "words": [
+          "CUBE",
+          "DICE",
+          "HASH",
+          "MINCE"
+        ]
+      },
+      {
+        "title": "PROVIDE WITH A PLACE TO STAY",
+        "words": [
+          "BOARD",
+          "HOUSE",
+          "LODGE",
+          "QUARTER"
+        ]
+      },
+      {
+        "title": "KINDS OF GOLF CLUBS",
+        "words": [
+          "IRON",
+          "PUTTER",
+          "WEDGE",
+          "WOOD"
+        ]
+      },
+      {
+        "title": "MEMORY ___",
+        "words": [
+          "CARD",
+          "FOAM",
+          "HOLE",
+          "LANE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Slice through the cube of possibilities; each piece holds a secret.",
+      "Wherever you lay your head, comfort and shelter await.",
+      "On the green, these tools guide your swing; each has its charm.",
+      "In the realm of recollection, these paths lead to forgotten treasures."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1763,
+    "editor": "Tracy Bennett",
+    "solution": "weigh",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's about balance and measurement."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "Think of how you might assess something's heaviness."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word relates to the act of determining how heavy something is."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 872,
+    "editor": "Tracy Bennett",
+    "clue": "On key",
+    "spangram": "SYMBOL",
+    "themeWords": [
+      "ASTERISK",
+      "BRACKET",
+      "CARET",
+      "HASHTAG",
+      "TILDE",
+      "UNDERSCORE"
+    ],
+    "startingBoard": [
+      "TSAHAS",
+      "EKTRBH",
+      "RSIAGT",
+      "ILDCAL",
+      "SETKOR",
+      "DYEBOE",
+      "NEMCEA",
+      "URSTRC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2618,
+    "sides": [
+      "AIS",
+      "HGX",
+      "ERQ",
+      "TMU"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "HEXAGRAM",
+      "MESQUITE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23710,
+    "centerLetter": "r",
+    "outerLetters": "acdimt",
+    "pangrams": [
+      "dramatic"
+    ],
+    "answers": [
+      "acrid",
+      "arcadia",
+      "arctic",
+      "aria",
+      "arid",
+      "armada",
+      "atria",
+      "attar",
+      "attract",
+      "carat",
+      "card",
+      "cardiac",
+      "cart",
+      "cataract",
+      "circa",
+      "cirri",
+      "citric",
+      "cram",
+      "critic",
+      "dart",
+      "diacritic",
+      "dirt",
+      "dram",
+      "drama",
+      "drat",
+      "maraca",
+      "marm",
+      "mart",
+      "midair",
+      "radar",
+      "radii",
+      "raid",
+      "raita",
+      "ramada",
+      "ratatat",
+      "tamari",
+      "tarmac",
+      "tarmacadam",
+      "tart",
+      "tartar",
+      "tiara",
+      "tract",
+      "trait",
+      "tram",
+      "tramcar",
+      "triad",
+      "trim"
+    ],
+    "pangramHints": [
+      {
+        "word": "dramatic",
+        "hint": "A performance that captures the essence of emotion; think of the stage."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

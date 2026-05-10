@@ -1,0 +1,192 @@
+{
+  "date": "2025-06-03",
+  "fetchedAt": "2026-05-10T20:10:21.204Z",
+  "connections": {
+    "puzzleId": 738,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "BE OSTENTATIOUS",
+        "words": [
+          "GRANDSTAND",
+          "POSTURE",
+          "SHOWBOAT",
+          "SWAGGER"
+        ]
+      },
+      {
+        "title": "COPACETIC",
+        "words": [
+          "FINE",
+          "HUNKY-DORY",
+          "OK",
+          "SWELL"
+        ]
+      },
+      {
+        "title": "KINDS OF BRACELETS",
+        "words": [
+          "CHARM",
+          "FRIENDSHIP",
+          "ID",
+          "TENNIS"
+        ]
+      },
+      {
+        "title": "THINGS YOU CAN PRACTICE",
+        "words": [
+          "LAW",
+          "MEDICINE",
+          "SELF-CARE",
+          "WITCHCRAFT"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When the spotlight shines, some take it to another level, flaunting their flair with flair.",
+      "Everything's just peachy, and all's well in this harmonious realm.",
+      "Adornments come in various forms, each telling a story of connection and sentiment.",
+      "From the courtroom to the cauldron, practice makes perfect in these diverse disciplines."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1628,
+    "editor": "Tracy Bennett",
+    "solution": "admin",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of someone in charge."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This role often involves decision-making."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a position of authority, often associated with governance."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 623,
+    "editor": "Tracy Bennett",
+    "clue": "That's proprietary!",
+    "spangram": "TRADEMARKED",
+    "themeWords": [
+      "CHAPSTICK",
+      "JACUZZI",
+      "KLEENEX",
+      "POPSICLE",
+      "VELCRO"
+    ],
+    "startingBoard": [
+      "NEXACI",
+      "ELKJUZ",
+      "EDEMAZ",
+      "RAITRK",
+      "TICSPE",
+      "SCKACD",
+      "PLVHLC",
+      "OPEEOR"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2373,
+    "sides": [
+      "DPA",
+      "MIL",
+      "NTC",
+      "ROU"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "DIPLOMATIC",
+      "CRANIUM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 9692,
+    "centerLetter": "u",
+    "outerLetters": "agilmn",
+    "pangrams": [
+      "mauling",
+      "mulligan"
+    ],
+    "answers": [
+      "allium",
+      "alum",
+      "alumina",
+      "aluminum",
+      "alumna",
+      "alumni",
+      "annual",
+      "annul",
+      "annuli",
+      "annulling",
+      "gallium",
+      "gauging",
+      "glug",
+      "glugging",
+      "gluing",
+      "glum",
+      "gulag",
+      "gull",
+      "gulling",
+      "gumming",
+      "gunman",
+      "gunning",
+      "iguana",
+      "ilium",
+      "linguini",
+      "luau",
+      "lugging",
+      "luging",
+      "lull",
+      "lulling",
+      "lulu",
+      "luna",
+      "lung",
+      "lunging",
+      "lunula",
+      "magnum",
+      "manual",
+      "maul",
+      "minimum",
+      "mugging",
+      "mull",
+      "mulling",
+      "mung",
+      "muumuu",
+      "null",
+      "ulna",
+      "umami",
+      "unilingual",
+      "unman",
+      "unmanning"
+    ],
+    "pangramHints": [
+      {
+        "word": "mauling",
+        "hint": "A fierce encounter, but remember, no need to name it."
+      },
+      {
+        "word": "mulligan",
+        "hint": "In games, a second chance is always welcome, but keep it under wraps."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

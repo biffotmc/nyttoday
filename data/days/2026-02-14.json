@@ -1,0 +1,201 @@
+{
+  "date": "2026-02-14",
+  "fetchedAt": "2026-05-10T20:24:56.422Z",
+  "connections": {
+    "puzzleId": 1033,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "UPTICK",
+        "words": [
+          "HIKE",
+          "JUMP",
+          "RISE",
+          "SPIKE"
+        ]
+      },
+      {
+        "title": "PROTUBERANCE",
+        "words": [
+          "BUMP",
+          "HUMP",
+          "LUMP",
+          "MOUND"
+        ]
+      },
+      {
+        "title": "TOM HANKS ROLES",
+        "words": [
+          "GUMP",
+          "PHILLIPS",
+          "SULLY",
+          "WOODY"
+        ]
+      },
+      {
+        "title": "WORDS BEFORE \"MINT\"",
+        "words": [
+          "BREATH",
+          "JUNIOR",
+          "PEPPER",
+          "SPEAR"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When things are on the rise, you might find yourself soaring to new heights.",
+      "A little extra on top can make all the difference; think of what stands tall.",
+      "This actor has brought a variety of characters to life, some with a unique twist.",
+      "Before you add flavor, consider what might come before the refreshing touch."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 846,
+    "editor": "Tracy Bennett",
+    "solution": "bloom",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of nature's renewal."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It’s something that flourishes."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word captures the essence of growth and vitality."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 883,
+    "editor": "Tracy Bennett",
+    "clue": "XOXOXO",
+    "spangram": "HUGSANDKISSES",
+    "themeWords": [
+      "CUDDLE",
+      "EMBRACE",
+      "PECK",
+      "SMACK",
+      "SMOOCH",
+      "SNUGGLE"
+    ],
+    "startingBoard": [
+      "SGLEHK",
+      "NGSGUC",
+      "UEANMA",
+      "EMKDSK",
+      "CBISCE",
+      "ARCSPH",
+      "DDUECM",
+      "LESOOS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2629,
+    "sides": [
+      "ORK",
+      "PTC",
+      "AFD",
+      "LIE"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "APERITIF",
+      "FLOCKED"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19721,
+    "centerLetter": "m",
+    "outerLetters": "abegin",
+    "pangrams": [
+      "beaming"
+    ],
+    "answers": [
+      "aiming",
+      "ameba",
+      "amebae",
+      "amen",
+      "anemia",
+      "anima",
+      "anime",
+      "bagman",
+      "bagmen",
+      "beam",
+      "begem",
+      "begemming",
+      "enema",
+      "enigma",
+      "game",
+      "gamin",
+      "gamine",
+      "gaming",
+      "gamma",
+      "gimme",
+      "iamb",
+      "iambi",
+      "image",
+      "imagine",
+      "imaging",
+      "imagining",
+      "imam",
+      "imbibe",
+      "imbibing",
+      "mage",
+      "magi",
+      "magma",
+      "maim",
+      "maiming",
+      "main",
+      "mama",
+      "mamba",
+      "mamma",
+      "manage",
+      "managing",
+      "mane",
+      "manga",
+      "mange",
+      "mania",
+      "manna",
+      "manning",
+      "mean",
+      "meanie",
+      "meaning",
+      "mega",
+      "meme",
+      "meming",
+      "mien",
+      "mime",
+      "miming",
+      "mine",
+      "mini",
+      "minim",
+      "minima",
+      "mining",
+      "name",
+      "naming",
+      "nimbi"
+    ],
+    "pangramHints": [
+      {
+        "word": "beaming",
+        "hint": "A bright display; think of light and joy."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

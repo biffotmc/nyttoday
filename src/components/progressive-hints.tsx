@@ -2,6 +2,7 @@
 
 import * as Collapsible from "@radix-ui/react-collapsible";
 import { useState } from "react";
+import posthog from "posthog-js";
 import type { ProgressiveStep } from "@/lib/types";
 import { cn } from "@/lib/cn";
 
@@ -85,7 +86,10 @@ export function ProgressiveHints({ hints }: { hints: ProgressiveStep[] }) {
         {revealed < total && (
           <button
             type="button"
-            onClick={() => setRevealed((r) => r + 1)}
+            onClick={() => {
+              setRevealed((r) => r + 1);
+              posthog.capture("hint_revealed", { hint_number: revealed + 1, total_hints: total });
+            }}
             className="rounded-xl bg-[var(--accent)] px-5 py-2.5 text-sm font-semibold text-white shadow-sm outline-none transition hover:brightness-95 focus-visible:ring-2 focus-visible:ring-[var(--accent)]/50 focus-visible:ring-offset-2 active:brightness-90"
           >
             {revealed === 0 ? "Reveal hint 1" : `Reveal hint ${revealed + 1}`}
@@ -94,7 +98,10 @@ export function ProgressiveHints({ hints }: { hints: ProgressiveStep[] }) {
         {revealed < total && (
           <button
             type="button"
-            onClick={() => setRevealed(total)}
+            onClick={() => {
+              setRevealed(total);
+              posthog.capture("all_hints_revealed", { total_hints: total, hints_already_shown: revealed });
+            }}
             className="rounded-xl border border-[var(--border)] bg-[var(--surface)] px-5 py-2.5 text-sm font-medium text-[var(--foreground)] outline-none transition hover:bg-[var(--surface-2)] focus-visible:ring-2 focus-visible:ring-[var(--accent)]/40 focus-visible:ring-offset-2"
           >
             Show all hints

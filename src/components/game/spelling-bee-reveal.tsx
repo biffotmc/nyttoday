@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo } from "react";
+import posthog from "posthog-js";
 import type { SpellingBeePangramHint } from "@/lib/types";
 import { cn } from "@/lib/cn";
 
@@ -39,6 +40,7 @@ export function SpellingBeeReveal({
       n[i] = { ...n[i], hint: true };
       return n;
     });
+    posthog.capture("spelling_bee_pangram_hint_revealed", { pangram_index: i });
   }, []);
 
   const revealWord = useCallback((i: number) => {
@@ -47,6 +49,7 @@ export function SpellingBeeReveal({
       n[i] = { ...n[i], word: true };
       return n;
     });
+    posthog.capture("spelling_bee_pangram_word_revealed", { pangram_index: i });
   }, []);
 
   return (
@@ -114,7 +117,10 @@ export function SpellingBeeReveal({
         {!othersShown ? (
           <button
             type="button"
-            onClick={() => setOthersShown(true)}
+            onClick={() => {
+              setOthersShown(true);
+              posthog.capture("spelling_bee_other_words_revealed", { word_count: otherWords.length });
+            }}
             className="mt-4 rounded-xl border border-[var(--border)] bg-[var(--surface)] px-4 py-2.5 text-sm font-semibold outline-none hover:bg-[var(--surface-2)]"
           >
             Tap to reveal all other words

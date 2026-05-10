@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
+import posthog from "posthog-js";
 import { cn } from "@/lib/cn";
 
 export function StrandsSpangramReveal({
@@ -22,7 +23,11 @@ export function StrandsSpangramReveal({
   }, [revealed, onRevealCountChange]);
 
   const revealNext = useCallback(() => {
-    setRevealed((n) => Math.min(n + 1, letters.length));
+    setRevealed((n) => {
+      const next = Math.min(n + 1, letters.length);
+      posthog.capture("strands_spangram_letter_revealed", { letter_index: next - 1, total_letters: letters.length });
+      return next;
+    });
   }, [letters.length]);
 
   const onTileClick = useCallback(

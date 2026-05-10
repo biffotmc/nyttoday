@@ -2,6 +2,7 @@
 
 import * as Collapsible from "@radix-ui/react-collapsible";
 import type { ReactNode } from "react";
+import posthog from "posthog-js";
 import { cn } from "@/lib/cn";
 
 export function SpoilerPanel({
@@ -23,7 +24,12 @@ export function SpoilerPanel({
   );
 
   return (
-    <Collapsible.Root className={surface}>
+    <Collapsible.Root
+      className={surface}
+      onOpenChange={(open) => {
+        if (open) posthog.capture("spoiler_panel_opened", { title, eyebrow });
+      }}
+    >
       <Collapsible.Trigger
         className={cn(
           "group flex w-full cursor-pointer items-center justify-between gap-3 px-5 py-4 text-left font-semibold text-[var(--foreground)]",

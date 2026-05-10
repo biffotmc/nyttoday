@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback } from "react";
+import posthog from "posthog-js";
 import { CONNECTIONS_GROUP_STYLES } from "@/lib/connections-colors";
 import { cn } from "@/lib/cn";
 
@@ -38,6 +39,7 @@ export function ConnectionsReveal({
       n[gi] = { ...n[gi], hint: true };
       return n;
     });
+    posthog.capture("connections_hint_revealed", { group_index: gi });
   }, []);
 
   const setTitle = useCallback((gi: number) => {
@@ -46,6 +48,7 @@ export function ConnectionsReveal({
       n[gi] = { ...n[gi], title: true };
       return n;
     });
+    posthog.capture("connections_title_revealed", { group_index: gi });
   }, []);
 
   const setWord = useCallback((gi: number, wi: number) => {
@@ -56,6 +59,7 @@ export function ConnectionsReveal({
       n[gi] = { ...n[gi], words };
       return n;
     });
+    posthog.capture("connections_word_revealed", { group_index: gi, word_index: wi });
   }, []);
 
   return (

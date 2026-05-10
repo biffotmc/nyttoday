@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback } from "react";
+import posthog from "posthog-js";
 import type { ProgressiveStep } from "@/lib/types";
 import { WORDLE_HINTS_BLURB } from "@/lib/ui-copy";
 import { cn } from "@/lib/cn";
@@ -17,10 +18,20 @@ export function WordleRevealFlow({
   const [hintStep, setHintStep] = useState(0);
   const [letterRevealed, setLetterRevealed] = useState(0);
 
-  const nextHint = useCallback(() => setHintStep((s) => Math.min(s + 1, sorted.length)), [sorted.length]);
+  const nextHint = useCallback(() => {
+    setHintStep((s) => {
+      const next = Math.min(s + 1, sorted.length);
+      posthog.capture("wordle_hint_revealed", { hint_number: next, total_hints: sorted.length });
+      return next;
+    });
+  }, [sorted.length]);
 
   const revealNextLetter = useCallback(() => {
-    setLetterRevealed((n) => Math.min(n + 1, letters.length));
+    setLetterRevealed((n) => {
+      const next = Math.min(n + 1, letters.length);
+      posthog.capture("wordle_letter_revealed", { letter_index: next - 1, total_letters: letters.length });
+      return next;
+    });
   }, [letters.length]);
 
   const onLetterClick = useCallback(

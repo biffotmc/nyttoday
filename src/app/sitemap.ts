@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { listAvailableDates } from "@/lib/data";
 import { gameTodayVanityPath } from "@/lib/game-vanity-paths";
+import { calendarDateInTimeZone } from "@/lib/today";
 import { getSiteUrl } from "@/lib/site-url";
 import { GAME_SLUGS } from "@/lib/types";
 
@@ -9,7 +10,9 @@ export const revalidate = 3600;
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const base = getSiteUrl();
-  const dates = await listAvailableDates();
+  const dates = (await listAvailableDates()).filter(
+    (d) => d <= calendarDateInTimeZone("America/New_York"),
+  );
   const now = new Date();
   const out: MetadataRoute.Sitemap = [
     { url: `${base}/`, lastModified: now, changeFrequency: "daily", priority: 1 },

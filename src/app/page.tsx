@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { HomeRecentDates } from "@/components/home-recent-dates";
 import { GAME_LABEL, GAME_SLUGS, type GameSlug } from "@/lib/types";
 import { gameTodayVanityPath } from "@/lib/game-vanity-paths";
 import { latestDate, listAvailableDates } from "@/lib/data";
@@ -77,28 +78,7 @@ export default async function Home() {
         )}
       </section>
 
-      {recent.length > 0 && (
-        <section>
-          <h2 className="font-serif text-2xl font-semibold text-[var(--foreground)]">
-            Recent dates
-          </h2>
-          <p className="mt-1 text-sm text-[var(--muted)]">
-            Pick a calendar day for Connections—hints on every page.
-          </p>
-          <ul className="mt-4 flex flex-wrap gap-2">
-            {recent.map((d) => (
-              <li key={d}>
-                <Link
-                  href={`/games/connections/${d}`}
-                  className="inline-flex rounded-full border border-[var(--border)] bg-[var(--surface)] px-4 py-2 text-sm font-medium shadow-sm transition hover:border-[var(--accent)]/50 hover:bg-[var(--hint-warm)]"
-                >
-                  {d}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
+      {recent.length > 0 ? <HomeRecentDates dates={recent} /> : null}
 
       <section>
         <h2 className="font-serif text-2xl font-semibold">All games</h2>

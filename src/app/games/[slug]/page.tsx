@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { ArchiveDateList } from "@/components/archive-date-list";
 import { GAME_LABEL, GAME_SLUGS, type GameSlug } from "@/lib/types";
 import { listAvailableDates } from "@/lib/data";
 import { absoluteUrl } from "@/lib/site-url";
@@ -61,18 +62,7 @@ export default async function GameHubPage({ params }: Props) {
           show up in this list.
         </p>
       ) : (
-        <ul className="grid gap-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-          {sorted.map((d) => (
-            <li key={d}>
-              <Link
-                href={`/games/${slug}/${d}`}
-                className="flex items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--surface)] py-3 text-sm font-semibold shadow-sm transition hover:border-[var(--accent)]/45 hover:bg-[var(--hint-warm)]"
-              >
-                {d}
-              </Link>
-            </li>
-          ))}
-        </ul>
+        <ArchiveDateList slug={slug as GameSlug} datesNewestFirst={sorted} />
       )}
     </div>
   );

@@ -3,7 +3,7 @@ import { absoluteUrl } from "@/lib/site-url";
 import { GAME_LABEL, type GameSlug } from "@/lib/types";
 import { formatDisplayDate } from "@/lib/format-date";
 import { gameTodayVanityPath } from "@/lib/game-vanity-paths";
-import { getLatestBundleDate } from "@/lib/today";
+import { getTodayBundleDate } from "@/lib/today";
 
 export function datedGameMetadata(slug: GameSlug, dateIso: string): Metadata {
   const label = GAME_LABEL[slug];
@@ -73,7 +73,7 @@ export function todaysShortPathMetadata(slug: GameSlug, resolvedDateIso: string)
 }
 
 async function latestOrEmptyMeta(slug: GameSlug): Promise<Metadata> {
-  const resolved = await getLatestBundleDate();
+  const resolved = await getTodayBundleDate();
   if (!resolved) return { title: GAME_LABEL[slug] };
   return todayVanityMetadata(slug, resolved);
 }
@@ -83,13 +83,13 @@ export async function vanityRouteMetadata(slug: GameSlug): Promise<Metadata> {
 }
 
 export async function gamesTodayRouteMetadata(slug: GameSlug): Promise<Metadata> {
-  const resolved = await getLatestBundleDate();
+  const resolved = await getTodayBundleDate();
   if (!resolved) return { title: GAME_LABEL[slug] };
   return gamesTodayPathMetadata(slug, resolved);
 }
 
 export async function todaysShortRouteMetadata(slug: GameSlug): Promise<Metadata> {
-  const resolved = await getLatestBundleDate();
+  const resolved = await getTodayBundleDate();
   if (!resolved) return { title: GAME_LABEL[slug] };
   return todaysShortPathMetadata(slug, resolved);
 }

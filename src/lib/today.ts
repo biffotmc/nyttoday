@@ -1,7 +1,12 @@
 import { listAvailableDates } from "@/lib/data";
 
 /** NYT dailies flip at midnight Eastern. */
-const PUZZLE_TIMEZONE = "America/New_York";
+export const PUZZLE_TIMEZONE = "America/New_York";
+
+/** Calendar `YYYY-MM-DD` for the current NYT puzzle day (Eastern). */
+export function puzzleCalendarToday(instant: Date = new Date()): string {
+  return calendarDateInTimeZone(PUZZLE_TIMEZONE, instant);
+}
 
 export function calendarDateInTimeZone(
   timeZone: string,
@@ -31,7 +36,7 @@ export async function getTodayBundleDate(): Promise<string | null> {
   const available = await listAvailableDates();
   if (!available.length) return null;
 
-  const calendarToday = calendarDateInTimeZone(PUZZLE_TIMEZONE);
+  const calendarToday = puzzleCalendarToday();
 
   const set = new Set(available);
   if (set.has(calendarToday)) return calendarToday;

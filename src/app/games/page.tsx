@@ -22,16 +22,7 @@ export default function GamesIndexPage() {
         <h1 className="font-serif text-3xl font-semibold sm:text-4xl">Archive</h1>
         <p className="mt-3 max-w-xl text-[var(--muted)]">
           Choose a game, then a calendar date. Each page starts with hints and keeps full
-          answers tucked away until you open them. For inspiration, see sites like{" "}
-          <a
-            className="font-medium text-[var(--accent)] underline-offset-2 hover:underline"
-            href="https://word.tips/connections-hints-today/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Word Tips
-          </a>
-          .
+          answers tucked away until you open them.
         </p>
       </div>
 

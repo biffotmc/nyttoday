@@ -1,9 +1,11 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { GameLogo } from "@/components/game-logo";
 import { HomeRecentDates } from "@/components/home-recent-dates";
 import { GAME_LABEL, GAME_SLUGS, type GameSlug } from "@/lib/types";
 import { gameTodayVanityPath } from "@/lib/game-vanity-paths";
-import { latestDate, listAvailableDates } from "@/lib/data";
+import { listAvailableDates } from "@/lib/data";
+import { puzzleCalendarToday } from "@/lib/today";
 import { absoluteUrl } from "@/lib/site-url";
 
 const blurbs: Record<GameSlug, string> = {
@@ -12,14 +14,6 @@ const blurbs: Record<GameSlug, string> = {
   strands: "Find the theme and spangram on the woven board, with nudges when you want them.",
   "letter-boxed": "Use letters from the sides of the square—see the solution when you’re ready.",
   "spelling-bee": "See pangram hints and full word lists only when you choose.",
-};
-
-const emoji: Record<GameSlug, string> = {
-  connections: "🔗",
-  wordle: "🟩",
-  strands: "🧵",
-  "letter-boxed": "🔠",
-  "spelling-bee": "🐝",
 };
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -40,7 +34,7 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function Home() {
   const dates = await listAvailableDates();
   const recent = dates.slice(-7).reverse();
-  const last = latestDate(dates);
+  const todayLabel = puzzleCalendarToday();
 
   return (
     <div className="space-y-14">
@@ -53,20 +47,20 @@ export default async function Home() {
           Daily puzzle helpers
         </p>
         <h1 className="mt-3 max-w-2xl font-serif text-4xl font-semibold leading-[1.08] tracking-tight sm:text-5xl">
-          Hints &amp; answers for your favorite NYT-style games
+          Hints &amp; answers for your favorite NYT games
         </h1>
         <p className="mt-4 max-w-xl text-lg leading-relaxed text-[var(--muted)]">
           Hints first, answers when you ask for them—so you can enjoy the solve without
           tripping over spoilers.
         </p>
-        {recent.length > 0 && last && (
+        {recent.length > 0 && (
           <div className="mt-8 flex flex-wrap items-center gap-3">
             <span className="text-sm font-medium text-[var(--muted)]">Try it:</span>
             <Link
               href={gameTodayVanityPath("connections")}
               className="rounded-full bg-[var(--accent)] px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:brightness-95"
             >
-              Today’s Connections ({last})
+              Today’s Connections ({todayLabel})
             </Link>
             <Link
               href="/games"
@@ -87,15 +81,15 @@ export default async function Home() {
         </p>
         <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {GAME_SLUGS.map((slug) => {
-            const href = last ? gameTodayVanityPath(slug) : `/games/${slug}`;
+            const href = gameTodayVanityPath(slug);
             return (
               <Link
                 key={slug}
                 href={href}
                 className="group flex flex-col rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-[var(--shadow)] transition hover:-translate-y-0.5 hover:border-[var(--accent)]/35"
               >
-                <span className="text-3xl" aria-hidden>
-                  {emoji[slug]}
+                <span className="block" aria-hidden>
+                  <GameLogo slug={slug} />
                 </span>
                 <h3 className="mt-3 font-serif text-xl font-semibold group-hover:text-[var(--accent)]">
                   {GAME_LABEL[slug]}

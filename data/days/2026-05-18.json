@@ -1,0 +1,153 @@
+{
+  "date": "2026-05-18",
+  "fetchedAt": "2026-05-17T15:21:01.350Z",
+  "connections": {
+    "puzzleId": 1152,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "HOMOPHONES",
+        "words": [
+          "PAIR",
+          "PARE",
+          "PEAR",
+          "PÈRE"
+        ]
+      },
+      {
+        "title": "RUPTURE",
+        "words": [
+          "BLOW",
+          "CRACK",
+          "POP",
+          "SPLIT"
+        ]
+      },
+      {
+        "title": "MLB PLAYER",
+        "words": [
+          "PADRE",
+          "RED",
+          "ROYAL",
+          "TWIN"
+        ]
+      },
+      {
+        "title": "FRUIT ANAGRAMS",
+        "words": [
+          "CHEAP",
+          "EARP",
+          "LUMP",
+          "WIKI"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These words sound alike but live in different worlds; listen closely to their whispers.",
+      "When things go wrong, these words might just pop up; watch out for sudden breaks!",
+      "In the game of baseball, these players wear their colors proudly; can you guess their teams?",
+      "Rearranging these tasty morsels might just lead you to a delicious surprise!"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 670,
+    "editor": "Tracy Bennett",
+    "solution": "loath",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Consider a feeling of strong dislike."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word often describes a reluctance or aversion."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that embodies a deep-seated resistance."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 981,
+    "editor": "Tracy Bennett",
+    "clue": "The daily rind",
+    "spangram": "CITRUS",
+    "themeWords": [
+      "CLEMENTINE",
+      "KUMQUAT",
+      "LIME",
+      "ORANGE",
+      "POMELO",
+      "TANGERINE"
+    ],
+    "startingBoard": [
+      "LENTEL",
+      "CMEINI",
+      "CAUQKM",
+      "RITMUE",
+      "AOTPOL",
+      "NGEROE",
+      "NATEUM",
+      "GERINS"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2722,
+    "sides": [
+      "UHI",
+      "EYA",
+      "RML",
+      "QZT"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "EQUALIZER",
+      "RHYTHM"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 23258,
+    "centerLetter": "p",
+    "outerLetters": "achtuz",
+    "pangrams": [
+      "chutzpah"
+    ],
+    "answers": [
+      "captcha",
+      "catchup",
+      "chap",
+      "chuppah",
+      "cuppa",
+      "cutup",
+      "pact",
+      "papa",
+      "patch",
+      "path",
+      "phat",
+      "pupa",
+      "putt",
+      "putz",
+      "tapa"
+    ],
+    "pangramHints": [
+      {
+        "word": "chutzpah",
+        "hint": "A boldness that can be both admirable and shocking; think of audacity."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

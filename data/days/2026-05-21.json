@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-21",
+  "fetchedAt": "2026-05-17T15:21:08.339Z",
+  "connections": {
+    "puzzleId": 1158,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "KINDS OF PIES",
+        "words": [
+          "CHESS",
+          "PECAN",
+          "PUMPKIN",
+          "SHOOFLY"
+        ]
+      },
+      {
+        "title": "THINGS ASSOCIATED WITH BUTTS",
+        "words": [
+          "CABOOSE",
+          "CAN",
+          "MOON",
+          "PEACH"
+        ]
+      },
+      {
+        "title": "TENNIS SCORING TERMS",
+        "words": [
+          "ADVANTAGE",
+          "DEUCE",
+          "FORTY",
+          "LOVE"
+        ]
+      },
+      {
+        "title": "___ MUSTARD",
+        "words": [
+          "COLONEL",
+          "HONEY",
+          "HOT",
+          "YELLOW"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A battle of strategy and flavor awaits in this delicious category. Think of your favorite dessert that can be sweet or savory.",
+      "This category might leave you feeling cheeky. Think of what you might call a train's rear or a juicy fruit.",
+      "In this realm, scoring can be quite advantageous. Consider the terms that keep the game in motion.",
+      "A condiment that comes in various forms, this category might just add some zest to your meals."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 2441,
+    "editor": "Tracy Bennett",
+    "solution": "agree",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "It's about finding common ground."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word is often used in discussions and agreements."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a word that signifies harmony and consensus, but don't get too specific!"
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 984,
+    "editor": "Tracy Bennett",
+    "clue": "In a material world",
+    "spangram": "FABRICS",
+    "themeWords": [
+      "COTTON",
+      "DENIM",
+      "FLEECE",
+      "LINEN",
+      "SATIN",
+      "SILK",
+      "VELVET",
+      "WOOL"
+    ],
+    "startingBoard": [
+      "MIKNOT",
+      "ENLIST",
+      "DTEVLO",
+      "FABVEC",
+      "CERICS",
+      "EELFOO",
+      "ENSALW",
+      "NILTIN"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2725,
+    "sides": [
+      "TUE",
+      "BPX",
+      "LIR",
+      "SVC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "VESTIBULE",
+      "EXCERPT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19258,
+    "centerLetter": "g",
+    "outerLetters": "acdehn",
+    "pangrams": [
+      "changed"
+    ],
+    "answers": [
+      "adage",
+      "aged",
+      "agenda",
+      "cadge",
+      "cadged",
+      "cage",
+      "caged",
+      "change",
+      "dang",
+      "edge",
+      "edged",
+      "egad",
+      "egged",
+      "egghead",
+      "eggheaded",
+      "encage",
+      "encaged",
+      "engage",
+      "engaged",
+      "gadded",
+      "gaga",
+      "gage",
+      "gagged",
+      "ganache",
+      "gang",
+      "ganged",
+      "gene",
+      "ghee",
+      "hang",
+      "hanged",
+      "hedge",
+      "hedged",
+      "henge",
+      "nagged"
+    ],
+    "pangramHints": [
+      {
+        "word": "changed",
+        "hint": "A transformation has occurred; think of a shift or a new state."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

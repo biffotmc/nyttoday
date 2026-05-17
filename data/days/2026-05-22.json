@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-22",
+  "fetchedAt": "2026-05-17T15:21:09.019Z",
+  "connections": {
+    "puzzleId": 1153,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "REACH BACK OUT",
+        "words": [
+          "CHECK IN",
+          "FOLLOW UP",
+          "RECONNECT",
+          "TOUCH BASE"
+        ]
+      },
+      {
+        "title": "THE WAY THINGS ARE DONE",
+        "words": [
+          "CONVENTION",
+          "CUSTOM",
+          "SOCIAL NORM",
+          "UNWRITTEN RULE"
+        ]
+      },
+      {
+        "title": "PLACES WITH CONVEYOR BELTS",
+        "words": [
+          "ASSEMBLY LINE",
+          "BAGGAGE CLAIM",
+          "CHECKOUT LANE",
+          "REVOLVING SUSHI BAR"
+        ]
+      },
+      {
+        "title": "STARTING WITH NAME HOMOPHONES",
+        "words": [
+          "CARRY-ON",
+          "EL NIÑO",
+          "LOOSEY-GOOSEY",
+          "TAILOR-MADE"
+        ]
+      }
+    ],
+    "groupHints": [
+      "When you want to reconnect, it's all about the right timing and a gentle nudge.",
+      "Traditions may seem set in stone, but sometimes they need a little shake-up.",
+      "These spots keep things moving, ensuring nothing gets left behind.",
+      "Names can be tricky, especially when they sound the same but lead to different paths."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 871,
+    "editor": "Tracy Bennett",
+    "solution": "vocal",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of sounds and tones."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "It's related to expression and communication."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "This word is often associated with music and speech."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 985,
+    "editor": "Tracy Bennett",
+    "clue": "Put down your ruler",
+    "spangram": "ITSBIG",
+    "themeWords": [
+      "ASTRONOMIC",
+      "BOUNDLESS",
+      "EPIC",
+      "IMMENSE",
+      "VAST",
+      "WHOPPING"
+    ],
+    "startingBoard": [
+      "NDLESS",
+      "UICIMM",
+      "OPASEN",
+      "BEVTES",
+      "ITSBIG",
+      "OPCIMO",
+      "HPASTN",
+      "WINGRO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2726,
+    "sides": [
+      "ARE",
+      "NOF",
+      "ICU",
+      "KGL"
+    ],
+    "par": 4,
+    "ourSolution": [
+      "COLORFUL",
+      "LINKAGE"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 19893,
+    "centerLetter": "o",
+    "outerLetters": "ahilnt",
+    "pangrams": [
+      "annihilation",
+      "inhalation"
+    ],
+    "answers": [
+      "aioli",
+      "allot",
+      "aloha",
+      "alto",
+      "anion",
+      "annatto",
+      "annotation",
+      "anoint",
+      "anon",
+      "atoll",
+      "atonal",
+      "halo",
+      "holt",
+      "hoot",
+      "initiation",
+      "into",
+      "intonation",
+      "iota",
+      "lanolin",
+      "lion",
+      "litho",
+      "llano",
+      "loan",
+      "loath",
+      "loin",
+      "loll",
+      "loon",
+      "loot",
+      "lotion",
+      "lotto",
+      "nation",
+      "national",
+      "nonillion",
+      "noon",
+      "notation",
+      "notational",
+      "notion",
+      "notional",
+      "oath",
+      "olio",
+      "onion",
+      "onto",
+      "talon",
+      "tattoo",
+      "titillation",
+      "toil",
+      "toll",
+      "tonal",
+      "tool",
+      "toon",
+      "toot",
+      "tooth",
+      "total"
+    ],
+    "pangramHints": [
+      {
+        "word": "annihilation",
+        "hint": "A complete end, but don't let the word slip."
+      },
+      {
+        "word": "inhalation",
+        "hint": "Breath in deeply, but keep the answer to yourself."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

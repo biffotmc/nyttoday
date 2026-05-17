@@ -1,0 +1,195 @@
+{
+  "date": "2026-05-17",
+  "fetchedAt": "2026-05-17T15:21:02.205Z",
+  "connections": {
+    "puzzleId": 1148,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "CONDUIT",
+        "words": [
+          "DUCT",
+          "LINE",
+          "MAIN",
+          "PIPE"
+        ]
+      },
+      {
+        "title": "SWINDLE",
+        "words": [
+          "FLEECE",
+          "HOSE",
+          "SQUEEZE",
+          "STIFF"
+        ]
+      },
+      {
+        "title": "TEA-MAKING VERBS",
+        "words": [
+          "BOIL",
+          "POUR",
+          "STEEP",
+          "STRAIN"
+        ]
+      },
+      {
+        "title": "\"SCHOOL\" MODIFIERS",
+        "words": [
+          "GRADE",
+          "GRAMMAR",
+          "HIGH",
+          "PRIMARY"
+        ]
+      }
+    ],
+    "groupHints": [
+      "A pathway for flow; think of what keeps things moving in a home.",
+      "A clever trick to take more than you give; watch your wallet!",
+      "The art of transforming leaves into a warm embrace; steep your skills.",
+      "These terms elevate your learning experience; think about the levels of achievement."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1177,
+    "editor": "Tracy Bennett",
+    "solution": "bylaw",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "A rule or regulation, often overlooked."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This term governs behavior, often in a formal setting."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "Think of a legal term that can also guide actions."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 980,
+    "editor": "Tracy Bennett",
+    "clue": "Strike one!",
+    "spangram": "BOWLINGALLEY",
+    "themeWords": [
+      "ARCADE",
+      "BALLS",
+      "LANES",
+      "LOUNGE",
+      "PINS",
+      "SCOREBOARD"
+    ],
+    "startingBoard": [
+      "SBOWAR",
+      "COALAC",
+      "OBRIDE",
+      "REDNLA",
+      "NIAGLB",
+      "SPLSEG",
+      "ANLENU",
+      "LESYLO"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2721,
+    "sides": [
+      "OIR",
+      "EDS",
+      "MTW",
+      "NAX"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "DOWNSTREAM",
+      "MIX"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 12471,
+    "centerLetter": "l",
+    "outerLetters": "acdort",
+    "pangrams": [
+      "cartload",
+      "doctoral"
+    ],
+    "answers": [
+      "allocator",
+      "allot",
+      "altar",
+      "alto",
+      "aortal",
+      "atoll",
+      "call",
+      "calla",
+      "callaloo",
+      "carload",
+      "carol",
+      "catcall",
+      "clad",
+      "cloaca",
+      "clod",
+      "clot",
+      "coal",
+      "cola",
+      "cold",
+      "collar",
+      "collard",
+      "color",
+      "colt",
+      "cool",
+      "coral",
+      "corolla",
+      "corral",
+      "doll",
+      "dollar",
+      "dolor",
+      "dolt",
+      "droll",
+      "drool",
+      "lard",
+      "load",
+      "local",
+      "locator",
+      "loco",
+      "loll",
+      "loot",
+      "lord",
+      "lotto",
+      "octal",
+      "oral",
+      "roll",
+      "talc",
+      "tall",
+      "told",
+      "toll",
+      "tool",
+      "total",
+      "troll"
+    ],
+    "pangramHints": [
+      {
+        "word": "cartload",
+        "hint": "A hefty transport of goods; think of a full load."
+      },
+      {
+        "word": "doctoral",
+        "hint": "A term that signifies the highest academic achievement; think of a cap and gown."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "date": "2026-05-23",
+  "fetchedAt": "2026-05-17T15:21:09.836Z",
+  "connections": {
+    "puzzleId": 1160,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "HAIRDOS",
+        "words": [
+          "BEEHIVE",
+          "BOUFFANT",
+          "CHIGNON",
+          "POMPADOUR"
+        ]
+      },
+      {
+        "title": "MORE READILY",
+        "words": [
+          "FIRST",
+          "PREFERABLY",
+          "RATHER",
+          "SOONER"
+        ]
+      },
+      {
+        "title": "MARVEL CHARACTERS",
+        "words": [
+          "DAREDEVIL",
+          "HAWKEYE",
+          "NIGHTCRAWLER",
+          "WOLVERINE"
+        ]
+      },
+      {
+        "title": "WORDS AFTER \"THE\" IN \"STAR WARS\" MOVIE TITLES",
+        "words": [
+          "EMPIRE",
+          "FORCE",
+          "LAST",
+          "PHANTOM"
+        ]
+      }
+    ],
+    "groupHints": [
+      "These styles can elevate your look to new heights, but beware of the bees! A buzz-worthy transformation awaits.",
+      "When the time comes to choose, these options will help you lean towards the best fit. It's all about preference!",
+      "From the pages of comic books to the big screen, these heroes have powers that are anything but ordinary.",
+      "In a galaxy far, far away, these words have played pivotal roles. They are the essence of epic tales."
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 1157,
+    "editor": "Tracy Bennett",
+    "solution": "chuck",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a playful action."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can also mean to toss or throw."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "It's a common term in games and sports, often associated with a lighthearted gesture."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 986,
+    "editor": "Tracy Bennett",
+    "clue": "Staying alive",
+    "spangram": "SURVIVALIST",
+    "themeWords": [
+      "FLINT",
+      "HATCHET",
+      "MACHETE",
+      "PARACORD",
+      "SHOVEL",
+      "TARP"
+    ],
+    "startingBoard": [
+      "SUTEVO",
+      "ERVALH",
+      "HTIVRS",
+      "CAEALP",
+      "PTMHIS",
+      "ANILAT",
+      "RORDFT",
+      "ACTEHC"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2727,
+    "sides": [
+      "OUY",
+      "EHT",
+      "QVC",
+      "NIL"
+    ],
+    "par": 6,
+    "ourSolution": [
+      "CHIVE",
+      "ELOQUENTLY"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 20885,
+    "centerLetter": "a",
+    "outerLetters": "cdeiny",
+    "pangrams": [
+      "cyanide"
+    ],
+    "answers": [
+      "acacia",
+      "acai",
+      "accede",
+      "acceded",
+      "aced",
+      "acid",
+      "acidic",
+      "acidy",
+      "acne",
+      "added",
+      "addend",
+      "addenda",
+      "adenine",
+      "aide",
+      "aided",
+      "caddie",
+      "caddied",
+      "caddy",
+      "cadence",
+      "cancan",
+      "candid",
+      "candidacy",
+      "candied",
+      "candy",
+      "cane",
+      "caned",
+      "canid",
+      "canine",
+      "canna",
+      "canned",
+      "canny",
+      "cayenne",
+      "cicada",
+      "cyan",
+      "daddy",
+      "dance",
+      "danced",
+      "dandy",
+      "dead",
+      "deaden",
+      "deadened",
+      "deadeye",
+      "dean",
+      "decade",
+      "decadence",
+      "decay",
+      "decayed",
+      "dyad",
+      "ennead",
+      "idea",
+      "inane",
+      "indica",
+      "indicia",
+      "naan",
+      "nada",
+      "naiad",
+      "nana",
+      "nannied",
+      "nanny",
+      "niacin"
+    ],
+    "pangramHints": [
+      {
+        "word": "cyanide",
+        "hint": "A toxic compound that can be deadly; think chemistry and danger."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}

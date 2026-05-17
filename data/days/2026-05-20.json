@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-20",
+  "fetchedAt": "2026-05-17T15:21:02.109Z",
+  "connections": {
+    "puzzleId": 1157,
+    "editor": "Wyna Liu",
+    "groups": [
+      {
+        "title": "STOVE KNOB SETTINGS",
+        "words": [
+          "HIGH",
+          "MEDIUM",
+          "OFF",
+          "SIMMER"
+        ]
+      },
+      {
+        "title": "POTENCY",
+        "words": [
+          "CONCENTRATION",
+          "FORCE",
+          "INTENSITY",
+          "MIGHT"
+        ]
+      },
+      {
+        "title": "MUSIC THEORY CONCEPTS",
+        "words": [
+          "INTERVAL",
+          "KEY",
+          "MODE",
+          "SCALE"
+        ]
+      },
+      {
+        "title": "\"___ DAY\" MOVIES",
+        "words": [
+          "GROUNDHOG",
+          "INDEPENDENCE",
+          "THE LONGEST",
+          "TRAINING"
+        ]
+      }
+    ],
+    "groupHints": [
+      "Turn the dial and feel the heat rise; which setting will you choose for your culinary adventure?",
+      "The strength of something can be measured, but can you handle the weight of its true power?",
+      "In the realm of sound, every note has its place; can you find the harmony among these concepts?",
+      "Time is a tricky thing in cinema; which tales teach us about the passage of days?"
+    ],
+    "hints": []
+  },
+  "wordle": {
+    "puzzleId": 851,
+    "editor": "Tracy Bennett",
+    "solution": "wreck",
+    "hints": [
+      {
+        "level": 1,
+        "title": "",
+        "body": "Think of a disaster or a ruin."
+      },
+      {
+        "level": 2,
+        "title": "",
+        "body": "This word can describe both a ship's fate and a metaphorical downfall."
+      },
+      {
+        "level": 3,
+        "title": "",
+        "body": "The word starts with a 'w' and ends with a 'k'; it often relates to destruction."
+      }
+    ]
+  },
+  "strands": {
+    "puzzleId": 983,
+    "editor": "Tracy Bennett",
+    "clue": "No rush",
+    "spangram": "TAKEYOURTIME",
+    "themeWords": [
+      "CALM",
+      "GENTLE",
+      "LEISURELY",
+      "PLACID",
+      "RELAXED",
+      "SLOW"
+    ],
+    "startingBoard": [
+      "TNGTER",
+      "LECALU",
+      "ELAKYS",
+      "MEXEYI",
+      "EDAUOE",
+      "RLTRLD",
+      "WSIMIL",
+      "OLECAP"
+    ],
+    "hints": []
+  },
+  "letter-boxed": {
+    "puzzleId": 2724,
+    "sides": [
+      "OHW",
+      "GKI",
+      "UAR",
+      "TSC"
+    ],
+    "par": 5,
+    "ourSolution": [
+      "RICKSHAW",
+      "WROUGHT"
+    ],
+    "hints": []
+  },
+  "spelling-bee": {
+    "puzzleId": 27586,
+    "centerLetter": "a",
+    "outerLetters": "bcdkor",
+    "pangrams": [
+      "backboard",
+      "backdoor",
+      "corkboard"
+    ],
+    "answers": [
+      "aback",
+      "aboard",
+      "abracadabra",
+      "abroad",
+      "accord",
+      "adobo",
+      "arbor",
+      "arco",
+      "ardor",
+      "baba",
+      "babka",
+      "back",
+      "baobab",
+      "barb",
+      "barback",
+      "barbacoa",
+      "bard",
+      "bark",
+      "barrack",
+      "boar",
+      "board",
+      "boba",
+      "bookrack",
+      "brad",
+      "broad",
+      "cacao",
+      "carb",
+      "card",
+      "cardboard",
+      "carob",
+      "cobra",
+      "coca",
+      "cocoa",
+      "coda",
+      "crab",
+      "crack",
+      "croak",
+      "dark",
+      "doodad",
+      "dorado",
+      "drab",
+      "kabob",
+      "okra",
+      "orca",
+      "rack",
+      "radar",
+      "road",
+      "roar"
+    ],
+    "pangramHints": [
+      {
+        "word": "backboard",
+        "hint": "A supportive structure that can bounce ideas back."
+      },
+      {
+        "word": "backdoor",
+        "hint": "An entrance often used to sneak in unnoticed."
+      },
+      {
+        "word": "corkboard",
+        "hint": "A surface for pinning thoughts and reminders, often found in creative spaces."
+      }
+    ],
+    "hints": []
+  },
+  "mini": {
+    "rows": [],
+    "clues": [],
+    "hints": [],
+    "fetchNote": "Mini needs NYT_S env: copy NYT-S cookie from a logged-in nytimes.com session."
+  }
+}
